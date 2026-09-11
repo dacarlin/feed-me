@@ -1,10 +1,12 @@
 from datetime import date, timedelta
+import logging
 
 from ..http import SourceError
 from ..matching import name_candidate
 from ..models import Author, Paper, Relation, compatible_names, normalize_doi, plain_text
 
 BASE = "https://api.biorxiv.org"
+LOG = logging.getLogger(__name__)
 
 
 def parse_record(row: dict, *, publication: bool = False) -> Paper:
@@ -33,9 +35,13 @@ def pages(client, endpoint: str):
     previous = None
     while True:
         try:
-            payload = client.get(f"{BASE}/{endpoint}/{cursor}").json()
+            # The implicit-format details route can hang or return an empty 200.
+            # Select the documented JSON route explicitly on every page.
+            payload = client.get(f"{BASE}/{endpoint}/{cursor}/json").json()
+        except SourceError as exc:
+            raise SourceError(f"bioRxiv {endpoint} at cursor {cursor}: {exc}") from exc
         except ValueError as exc:
-            raise SourceError(f"bioRxiv {endpoint.split('/')[0]} returned empty or invalid JSON") from exc
+            raise SourceError(f"bioRxiv {endpoint} at cursor {cursor} returned empty or invalid JSON") from exc
         messages = payload.get("messages", [])
         if not messages:
             raise SourceError("bioRxiv response missing messages")
@@ -57,6 +63,7 @@ def pages(client, endpoint: str):
             raise SourceError("bioRxiv repeated a page")
         yield from rows
         cursor += len(rows)
+        LOG.info("bioRxiv %s: %s/%s records fetched", endpoint, cursor, total)
         if cursor >= total:
             return
         previous = rows

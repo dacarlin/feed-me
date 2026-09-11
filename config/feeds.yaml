@@ -4,7 +4,7 @@ site:
   max_entries: 200
 
 update:
-  initial_lookback_days: 7
+  initial_lookback_days: 30
   overlap_days: 2
   publication_lookback_days: 30
   # Revisit old tracked preprints, including late publication links.

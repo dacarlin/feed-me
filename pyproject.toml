@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pubtracker"
-version = "0.1.0"
+version = "0.1.1"
 description = "Conservative researcher publication tracking with static Atom feeds"
 requires-python = ">=3.11"
 dependencies = ["requests>=2.32.4,<3", "PyYAML>=6.0.2,<7", "defusedxml>=0.7.1,<1"]

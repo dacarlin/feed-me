@@ -52,7 +52,8 @@ def test_biorxiv_pagination_and_empty_page_failure():
     second["collection"][0]["doi"] = "10.1101/2026.09.02.123456"
     client = Client([first, second])
     assert len(list(biorxiv.pages(client, "details/biorxiv/2026-09-01/2026-09-10"))) == 2
-    assert client.calls[1][0].endswith("/1")
+    assert client.calls[0][0].endswith("/0/json")
+    assert client.calls[1][0].endswith("/1/json")
     second["collection"] = []
     with pytest.raises(SourceError, match="incomplete"):
         list(biorxiv.pages(Client([first, second]), "details/biorxiv/test"))
@@ -61,6 +62,12 @@ def test_biorxiv_pagination_and_empty_page_failure():
 def test_biorxiv_no_posts_is_success():
     client = Client([{"messages": [{"status": "no posts found", "total": 0}], "collection": []}])
     assert list(biorxiv.pages(client, "details/biorxiv/test")) == []
+
+
+def test_biorxiv_publications_use_explicit_json(config):
+    client = Client([json.loads((FIXTURES / "biorxiv_pubs.json").read_text())])
+    assert biorxiv.fetch_publications(client, config.researchers, date(2026, 9, 1), date(2026, 9, 10), config)
+    assert client.calls[0][0] == "https://api.biorxiv.org/pubs/biorxiv/2026-08-11/2026-09-10/0/json"
 
 
 def test_pubmed_parser_preserves_scoped_metadata():
@@ -81,11 +88,12 @@ def test_pubmed_preprint_updatein():
     assert paper.relations[0].target == "pubmed:88888888"
 
 
-def test_pubmed_search_uses_creation_and_revision_dates(config):
+def test_pubmed_search_uses_publication_creation_and_revision_dates(config):
     client = Client([{"esearchresult": {"count": "0", "idlist": []}}])
     assert pubmed.fetch(client, config.researchers, date(2026, 9, 1), date(2026, 9, 10), config) == []
     params = client.calls[0][1]
-    assert "[crdt]" in params["term"] and "[lr]" in params["term"]
+    for field in ("pdat", "crdt", "lr"):
+        assert f'("2026-09-01"[{field}] : "2026-09-10"[{field}])' in params["term"]
     assert params["tool"] == "pubtracker"
 
 

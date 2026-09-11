@@ -33,16 +33,18 @@ python -m pubtracker update
 ```
 
 Commit `data/state.json` and `site/` together after a local update. The included
-state and feeds contain five live works discovered during verification on
-2026-09-11 UTC; future updates extend this state. All normal tests use synthetic
+state and feeds contain live works backfilled from 2026-08-12 through 2026-09-11
+UTC; future updates extend this state. All normal tests use synthetic
 fixtures and explicitly prohibit network requests.
 
-The default initial discovery window is seven days, with two days of overlap on
+The default initial discovery window is 30 days, with two days of overlap on
 subsequent updates. bioRxiv publication links have a separate 30-day window.
 Tracked source records are refreshed every seven days to catch late metadata and
-publication links. All date windows use UTC. PubMed searches creation **or
-revision** dates, so an older paper newly indexed or corrected can appear on the
-first run. arXiv discovery uses descending update dates, including revisions to
+publication links. All date windows use UTC. PubMed searches publication,
+creation **or revision** dates, covering both newly released papers indexed in
+advance and older papers newly indexed or corrected. Feeds select and order
+works by bibliographic date so old indexing changes cannot displace recent
+papers at the entry limit. arXiv discovery uses descending update dates, including revisions to
 old submissions.
 
 To start further back, override the discovery window:
@@ -222,12 +224,15 @@ before feeds; a failed feed write can be retried using the saved IDs.
    sends this and the `pubtracker` tool name to NCBI. Locally, set the same
    environment variable or `update.ncbi_email` in YAML.
 6. Open **Actions → Update publication feeds → Run workflow**, select the
-   default branch, and click **Run workflow**. The update job tests the code,
+   default branch, and click **Run workflow**. Optionally supply `since` to
+   backfill an earlier date even when checkpoints already exist. The update job tests the code,
    fetches metadata, commits state/generated changes and uploads `site/`. The
    deploy job publishes the artifact. Inspect both jobs; a reported source
    failure can coexist with a successful deployment of the other sources.
 7. Visit `https://dacarlin.github.io/feed-me/` (or your configured URL) and verify
-   the XML links load. Subsequent updates are scheduled at minute 17 every three
+   the XML links load. Code, configuration and update-workflow pushes to `main`
+   also trigger an update and deployment; generated state commits do not.
+   Subsequent updates are scheduled at minute 17 every three
    hours in UTC. GitHub may delay scheduled jobs. Public repositories can have
    schedules disabled after 60 days of inactivity; re-enable the workflow in
    Actions if necessary. See GitHub's [schedule documentation](https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows#schedule).
@@ -271,10 +276,10 @@ describe the same URL subscription flow.
   inference, or reference-list DOI matching. A lab feed is a configured union of
   researchers. Missing explicit publication links and substantial title changes
   can leave separate works. Retractions are not comprehensively tracked.
-- During live verification on 2026-09-11 UTC, bioRxiv's **details** endpoint
-  returned HTTP 200 with an empty body, including for historical intervals.
-  Its **pubs** endpoint returned data. The tracker reports the details failure,
-  leaves its checkpoint unchanged and continues the publication-link stream.
+- bioRxiv requests explicitly select the `/json` format on every page. During
+  verification on 2026-09-11 UTC, the implicit-format weekly details URL timed
+  out while the same interval with `/json` returned metadata. Genuine outages
+  still retain the affected checkpoint and remain visible as workflow failures.
 - Feed metadata includes abstracts returned by the APIs, not full articles.
   GitHub Pages output is static and publicly readable. The repository needs no
   application server, database service or authentication system.

@@ -107,7 +107,10 @@ def fetch(client, researchers, since: date, until: date, config) -> list[Paper]:
         names.append(f'"{family} {given[0][0]}"[au]')
         if r.orcid:
             names.append(f'"{r.orcid}"[auid]')
-    dates = f'("{since}"[crdt] : "{until}"[crdt]) OR ("{since}"[lr] : "{until}"[lr])'
+    # Publication dates also find papers indexed ahead of their release date.
+    # Keep creation/revision dates to discover late indexing and corrections.
+    dates = " OR ".join(f'("{since}"[{field}] : "{until}"[{field}])'
+                        for field in ("pdat", "crdt", "lr"))
     term = f"({' OR '.join(names)}) AND ({dates})"
     ids = []
     while True:

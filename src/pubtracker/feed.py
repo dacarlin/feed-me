@@ -79,7 +79,9 @@ def render_feeds(state: dict, config) -> dict[str, str]:
         node(root, "link", href=base + "/", rel="alternate")
         node(node(root, "author"), "name", "pubtracker")
         works = [w for w in state["works"].values() if set(spec["researchers"]) & set(w["matched_researchers"])]
-        works.sort(key=lambda w: (w["first_seen"], w["id"]), reverse=True)
+        # Backfills and metadata corrections can discover old papers today.
+        # Keep recent publications ahead of those when applying the feed limit.
+        works.sort(key=lambda w: (preferred_record(w).date, w["first_seen"], w["id"]), reverse=True)
         works = works[:config.site["max_entries"]]
         node(root, "updated", max((w["updated"] for w in works), default="1970-01-01T00:00:00Z"))
         for work in works:

@@ -59,7 +59,7 @@ def load_config(path: Path) -> Config:
     if base.scheme not in {"http", "https"} or not base.netloc or base.query or base.fragment:
         raise ValueError("site.base_url must be an absolute HTTP(S) URL without query/fragment")
     site["base_url"] = site["base_url"].rstrip("/")
-    update = {"initial_lookback_days": 7, "overlap_days": 2,
+    update = {"initial_lookback_days": 30, "overlap_days": 2,
               "publication_lookback_days": 30, "refresh_days": 7, "ncbi_email": "",
               **raw.get("update", {})}
     for key in ("initial_lookback_days", "overlap_days", "publication_lookback_days", "refresh_days"):

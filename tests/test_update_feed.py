@@ -85,6 +85,23 @@ def test_feeds_select_researcher_union(config, preprint):
     assert not feedparser.parse(render_feeds(state, config)["other.xml"]).entries
 
 
+def test_old_paper_discovered_later_does_not_displace_recent_publication(config, publication):
+    state = empty_state()
+    ingest_batch(state, [publication], config.researchers, T1)
+    old = deepcopy(publication)
+    old.source_id = "12345678"
+    old.doi = "10.1234/older-paper"
+    old.identifiers = []
+    old.title = "An older paper indexed after the recent publication"
+    old.date = "2020-01-01"
+    ingest_batch(state, [old], config.researchers, T2)
+    assert len(state["works"]) == 2
+    config.site["max_entries"] = 1
+    entry = feedparser.parse(render_feeds(state, config)["all.xml"]).entries[0]
+    assert entry.title == publication.title
+    assert entry.published == T1
+
+
 def test_source_failure_retains_checkpoint_and_other_sources_progress(monkeypatch, config, preprint, publication):
     adapters(monkeypatch, preprint, publication)
     state = empty_state()
@@ -135,12 +152,28 @@ def test_checkpoint_lookback_and_new_researcher_rescan(monkeypatch, config):
         return []
     monkeypatch.setattr("pubtracker.cli.ADAPTERS", {"pubmed": SimpleNamespace(fetch=fetch)})
     state, _ = update(config, empty_state(), client=object(), now=NOW)
-    assert starts[-1] == date(2026, 9, 3)
+    assert starts[-1] == date(2026, 8, 11)
     update(config, state, client=object(), now=NOW)
     assert starts[-1] == date(2026, 9, 8)
     config.researchers[0].name = "Another Researcher"
     update(config, state, client=object(), now=NOW)
-    assert starts[-1] == date(2026, 9, 3)
+    assert starts[-1] == date(2026, 8, 11)
+
+
+def test_explicit_backfill_overrides_checkpoint_and_preserves_entry_ids(monkeypatch, config, publication):
+    starts = []
+
+    def fetch(client, researchers, since, until, cfg):
+        starts.append(since)
+        return [deepcopy(publication)]
+
+    monkeypatch.setattr("pubtracker.cli.ADAPTERS", {"pubmed": SimpleNamespace(fetch=fetch, refresh=lambda *a: [])})
+    state, _ = update(config, empty_state(), client=object(), now=NOW)
+    ids = set(state["works"])
+    state, summary = update(config, state, since=date(2026, 8, 1), client=object(), now=NOW)
+    assert starts[-1] == date(2026, 8, 1)
+    assert set(state["works"]) == ids
+    assert not summary["failures"]
 
 
 def test_weekly_refresh_finds_old_publication(monkeypatch, config, preprint, publication):

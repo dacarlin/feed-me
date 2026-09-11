@@ -15,7 +15,7 @@ class SourceError(RuntimeError):
 class HttpClient:
     def __init__(self, email: str = ""):
         self.session = requests.Session()
-        self.session.headers["User-Agent"] = "pubtracker/0.1" + (f" (mailto:{email})" if email else "")
+        self.session.headers["User-Agent"] = "pubtracker/0.1.1" + (f" (mailto:{email})" if email else "")
         self.last_request: dict[str, float] = {}
 
     def get(self, url: str, params: dict | None = None) -> requests.Response:
