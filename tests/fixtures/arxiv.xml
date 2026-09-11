@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+  <id>https://arxiv.org/api/test</id><title>Synthetic fixture</title><updated>2026-09-10T00:00:00Z</updated>
+  <opensearch:totalResults>2</opensearch:totalResults><opensearch:startIndex>0</opensearch:startIndex><opensearch:itemsPerPage>2</opensearch:itemsPerPage>
+  <entry><id>http://arxiv.org/abs/2609.12345v2</id><updated>2026-09-09T12:00:00Z</updated><published>2026-09-01T12:00:00Z</published>
+    <title>De novo design of highly stable protein assemblies</title><summary>Synthetic fixture abstract.</summary>
+    <author><name>Alice Chen</name></author><author><name>Priya Rao</name></author><author><name>David Baker</name></author>
+    <arxiv:doi>10.1234/proteins.2026.42</arxiv:doi><arxiv:journal_ref>Synthetic Fixture Journal (2026)</arxiv:journal_ref>
+  </entry>
+  <entry><id>http://arxiv.org/abs/2609.54321v1</id><updated>2026-09-08T12:00:00Z</updated><published>2026-09-08T12:00:00Z</published>
+    <title>Symmetric protein structures from computational design methods</title><summary>Another synthetic fixture.</summary>
+    <author><name>David Baker</name><arxiv:affiliation>Institute for Protein Design, University of Washington</arxiv:affiliation></author>
+  </entry>
+</feed>

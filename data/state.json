@@ -1,0 +1,1071 @@
+{
+  "schema_version": 1,
+  "checkpoints": {
+    "biorxiv-publications": {
+      "last_success": "2026-09-11T06:15:43Z",
+      "config": "ab78f0b9d276526b5355d298d5af26be5b224eeb3572e446a33b4a5e5582788f"
+    },
+    "pubmed": {
+      "last_success": "2026-09-11T06:15:43Z",
+      "config": "ab78f0b9d276526b5355d298d5af26be5b224eeb3572e446a33b4a5e5582788f"
+    },
+    "arxiv": {
+      "last_success": "2026-09-11T06:15:43Z",
+      "config": "ab78f0b9d276526b5355d298d5af26be5b224eeb3572e446a33b4a5e5582788f"
+    }
+  },
+  "refresh": {
+    "pubmed:42702625": "2026-09-11T05:51:48Z",
+    "pubmed:42696459": "2026-09-11T05:51:48Z",
+    "pubmed:42162421": "2026-09-11T05:51:48Z",
+    "pubmed:41284265": "2026-09-11T05:51:48Z",
+    "pubmed:39574666": "2026-09-11T05:51:48Z"
+  },
+  "works": {
+    "urn:uuid:7f477453-6c38-52e7-b591-accb9b0e6576": {
+      "id": "urn:uuid:7f477453-6c38-52e7-b591-accb9b0e6576",
+      "first_seen": "2026-09-11T05:51:48Z",
+      "updated": "2026-09-11T05:51:48Z",
+      "records": {
+        "pubmed:39574666": {
+          "source": "pubmed",
+          "source_id": "39574666",
+          "title": "Designed miniproteins potently inhibit and protect against MERS-CoV.",
+          "authors": [
+            {
+              "name": "Robert J Ragotte",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "M Alejandra Tortorici",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Nicholas J Catanzaro",
+              "affiliations": [
+                "Department of Epidemiology, University of North Carolina, Chapel Hill, NC 27599, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Amin Addetia",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Brian Coventry",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Heather M Froggatt",
+              "affiliations": [
+                "Department of Epidemiology, University of North Carolina, Chapel Hill, NC 27599, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Jimin Lee",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Cameron Stewart",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Jack T Brown",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Inna Goreshnik",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Jeremiah N Sims",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Lukas F Milles",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Basile I M Wicky",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Matthias Glögl",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Stacey Gerben",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Alex Kang",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Asim K Bera",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "William Sharkey",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Alexandra Schäfer",
+              "affiliations": [
+                "Department of Epidemiology, University of North Carolina, Chapel Hill, NC 27599, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Ralph S Baric",
+              "affiliations": [
+                "Department of Epidemiology, University of North Carolina, Chapel Hill, NC 27599, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David Veesler",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            }
+          ],
+          "abstract": "Middle-East respiratory syndrome coronavirus (MERS-CoV) is a zoonotic pathogen with 36% case-fatality rate in humans. No vaccines or specific therapeutics are currently approved to use in humans or the camel host reservoir. Here, we computationally designed monomeric and homo-oligomeric miniproteins binding with high affinity to the MERS-CoV spike (S) glycoprotein, the main target of neutralizing antibodies and vaccine development. We show that these miniproteins broadly neutralize a panel of MERS-CoV S variants, spanning the known antigenic diversity of this pathogen, by targeting a conserved site in the receptor-binding domain (RBD). The miniproteins directly compete with binding of the DPP4 receptor to MERS-CoV S, thereby blocking viral attachment to the host entry receptor and subsequent membrane fusion. Intranasal administration of a lead miniprotein provides prophylactic protection against stringent MERS-CoV challenge in mice motivating future clinical development as a next-generation countermeasure against this virus with pandemic potential.",
+          "date": "2024-11-04",
+          "url": "https://doi.org/10.1101/2024.11.03.621760",
+          "doi": "10.1101/2024.11.03.621760",
+          "status": "preprint",
+          "journal": "bioRxiv : the preprint server for biology",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC11580849"
+          ],
+          "relations": [
+            {
+              "kind": "is_preprint_of",
+              "target": "pubmed:40450691",
+              "evidence": "PubMed preprint UpdateIn"
+            }
+          ]
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:39574666",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "name_and_affiliations",
+                "affiliations": [
+                  "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                  "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA.",
+                  "Howard Hughes Medical Institute, University of Washington, Seattle, WA 98195, USA."
+                ],
+                "matched_affiliations": [
+                  "Institute for Protein Design",
+                  "University of Washington",
+                  "Department of Biochemistry"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:39574666",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ]
+    },
+    "urn:uuid:995d9a96-649c-5958-a883-cba390b5e061": {
+      "id": "urn:uuid:995d9a96-649c-5958-a883-cba390b5e061",
+      "first_seen": "2026-09-11T05:51:48Z",
+      "updated": "2026-09-11T05:51:48Z",
+      "records": {
+        "pubmed:41284265": {
+          "source": "pubmed",
+          "source_id": "41284265",
+          "title": "De Novo Design of Peptide Masks Enables Rapid Generation of Conditionally-Active Miniprotein Binders.",
+          "authors": [
+            {
+              "name": "Montserrat Escobar-Rosales",
+              "affiliations": [
+                "Institut Químic de Sarrià (IQS), Universitat Ramon Llull, Via Augusta 390, Barcelona 08017, Spain."
+              ],
+              "orcid": "0000-0001-9982-7750"
+            },
+            {
+              "name": "Cristina Montaner",
+              "affiliations": [
+                "Institut Químic de Sarrià (IQS), Universitat Ramon Llull, Via Augusta 390, Barcelona 08017, Spain."
+              ],
+              "orcid": "0009-0005-1624-6034"
+            },
+            {
+              "name": "Marc Expòsit",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, Washington 98195, United States.",
+                "Institute for Protein Design, University of Washington, Seattle, Washington 98195, United States."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Roberta Lucchi",
+              "affiliations": [
+                "Institut Químic de Sarrià (IQS), Universitat Ramon Llull, Via Augusta 390, Barcelona 08017, Spain."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Cristina Díaz-Perlas",
+              "affiliations": [
+                "Institut Químic de Sarrià (IQS), Universitat Ramon Llull, Via Augusta 390, Barcelona 08017, Spain."
+              ],
+              "orcid": "0000-0002-9552-3896"
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, Washington 98195, United States.",
+                "Institute for Protein Design, University of Washington, Seattle, Washington 98195, United States.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, Washington 98109, United States."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Benjamí Oller-Salvia",
+              "affiliations": [
+                "Institut Químic de Sarrià (IQS), Universitat Ramon Llull, Via Augusta 390, Barcelona 08017, Spain."
+              ],
+              "orcid": "0000-0002-8140-6111"
+            }
+          ],
+          "abstract": "The widespread expression of therapeutic targets in both diseased and healthy tissues poses a major challenge for protein-based therapeutics, often leading to dose-limiting side effects. One promising strategy to enhance selectivity is reversible inactivation via affinity masks tethered through cleavable linkers responsive to disease-specific cues. Here, we introduce a workflow for the de novo design of peptide masks that reversibly inactivate miniprotein binders. By extending the C-terminus of the binder with a protease-cleavable linker and a masking helix, we generated minimal constructs that sterically block the receptor-binding interface. We applied this strategy to four therapeutically relevant targets, EGFR domains I and III, FGFR2, and IL7Rα, demonstrating broad applicability. Nearly half of the 20 designs achieved >100-fold affinity reduction, with the most effective mask decreasing EGFR binding by over 3 orders of magnitude. Upon cleavage by tumor-associated proteases, binding was restored in 19 out of 20 cases, confirming reversibility. We further show that micromolar or weaker affinity between the binder and the isolated mask is sufficient for robust inactivation and rapid activation. Additionally, by chemically conjugating a photocleavable linker, we created a light-responsive version of the masked binder, enabling external control with comparable efficiency to protease-sensitive designs. This work establishes a generalizable, rapid, and efficient platform for designing cleavable peptide masks from scratch, paving the way for conditionally active protein therapeutics responsive to endogenous or exogenous stimuli.",
+          "date": "2025-11-24",
+          "url": "https://doi.org/10.1021/jacs.5c16108",
+          "doi": "10.1021/jacs.5c16108",
+          "status": "published",
+          "journal": "Journal of the American Chemical Society",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC12703739"
+          ],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:41284265",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "name_and_affiliations",
+                "affiliations": [
+                  "Department of Biochemistry, University of Washington, Seattle, Washington 98195, United States.",
+                  "Institute for Protein Design, University of Washington, Seattle, Washington 98195, United States.",
+                  "Howard Hughes Medical Institute, University of Washington, Seattle, Washington 98109, United States."
+                ],
+                "matched_affiliations": [
+                  "Institute for Protein Design",
+                  "University of Washington",
+                  "Department of Biochemistry"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:41284265",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ]
+    },
+    "urn:uuid:e4936f5c-acab-55fa-addb-a71d44527dee": {
+      "id": "urn:uuid:e4936f5c-acab-55fa-addb-a71d44527dee",
+      "first_seen": "2026-09-11T05:51:48Z",
+      "updated": "2026-09-11T05:51:48Z",
+      "records": {
+        "pubmed:42162421": {
+          "source": "pubmed",
+          "source_id": "42162421",
+          "title": "De novo design of quasisymmetric two-component protein cages.",
+          "authors": [
+            {
+              "name": "Shunzhi Wang",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA. shunzhi.wang@nyulangone.org.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA. shunzhi.wang@nyulangone.org.",
+                "Institute for Systems Genetics, New York University Langone Medical Center, New York, NY, USA. shunzhi.wang@nyulangone.org."
+              ],
+              "orcid": "0000-0001-5033-7478"
+            },
+            {
+              "name": "Ying Xie",
+              "affiliations": [
+                "Institute for Systems Genetics, New York University Langone Medical Center, New York, NY, USA."
+              ],
+              "orcid": "0000-0002-9992-3504"
+            },
+            {
+              "name": "David Chmielewski",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Connor Weidle",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-9354-2276"
+            },
+            {
+              "name": "Tong Shu",
+              "affiliations": [
+                "Institute for Systems Genetics, New York University Langone Medical Center, New York, NY, USA."
+              ],
+              "orcid": "0000-0001-6036-0057"
+            },
+            {
+              "name": "Green Ahn",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Ryan D Kibler",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-6984-9887"
+            },
+            {
+              "name": "Cindy Hernandez",
+              "affiliations": [
+                "Institute for Systems Genetics, New York University Langone Medical Center, New York, NY, USA."
+              ],
+              "orcid": "0009-0000-4925-6208"
+            },
+            {
+              "name": "Wei Chen",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-5255-4166"
+            },
+            {
+              "name": "David Camilo Duran",
+              "affiliations": [
+                "Institute for Systems Genetics, New York University Langone Medical Center, New York, NY, USA."
+              ],
+              "orcid": "0000-0003-2565-6404"
+            },
+            {
+              "name": "Ann Carr",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Asim K Bera",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-9473-2912"
+            },
+            {
+              "name": "Sangmin Lee",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Department of Chemical Engineering, Pohang University of Science and Technology (POSTECH), Pohang, Republic of Korea."
+              ],
+              "orcid": "0000-0002-1145-4708"
+            },
+            {
+              "name": "Justin Decarreau",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Alex Kang",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-5487-0499"
+            },
+            {
+              "name": "Evans Brackenbrough",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Emily Joyce",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0009-0007-3230-1341"
+            },
+            {
+              "name": "Kejia Wu",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-4532-4290"
+            },
+            {
+              "name": "Andrew J Borst",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0003-4297-7824"
+            },
+            {
+              "name": "Andrew Favor",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Molecular Engineering and Sciences Institute, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-9977-2785"
+            },
+            {
+              "name": "Buwei Huang",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Molecular Engineering and Sciences Institute, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Frank DiMaio",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-7524-8938"
+            },
+            {
+              "name": "Liam J Holt",
+              "affiliations": [
+                "Institute for Systems Genetics, New York University Langone Medical Center, New York, NY, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA. dabaker@uw.edu.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA. dabaker@uw.edu.",
+                "Molecular Engineering and Sciences Institute, University of Washington, Seattle, WA, USA. dabaker@uw.edu.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA. dabaker@uw.edu."
+              ],
+              "orcid": "0000-0001-7896-6217"
+            }
+          ],
+          "abstract": "Quasisymmetric icosahedral viral capsids achieve larger sizes than possible with strictly symmetric icosahedra by tessellating pentagons and hexagons using a single subunit that adopts different conformations in symmetrically non-equivalent locations1,2. Recapitulating such quasisymmetric architectures through computational design is a considerable challenge in nanomaterials engineering. Here we introduce a computational design strategy based on geometric frustration to generate two-component, quasisymmetric protein cages with customizable properties. We designed complementary trimeric and dimeric protein components that co-assemble into positively curved local hexagonal assemblies. Hexagonal lattices cannot tile spherical surfaces; instead, the components form closed sphere-like cage assemblies through incorporation of curvature-inducing pentagonal defects, as evidenced by electron microscopy. By designing dimers that encode different local curvatures, we programmed cage dimensions ranging from 40 to over 200 nm in diameter and with molecular weights from 2 MDa to over 50 MDa, comparable with natural virus capsids. We further functionalized these large cages with additional protein domains to enable ribonucleoprotein cargo loading and cellular uptake. Fluorescently labelled cage assemblies expressed in mammalian cells function as rheological probes and cargo recruiters, enabling a systematic study of size-dependent cytoplasmic diffusion and protein localization. Thus, the quasi-symmetry that has long fascinated structural biologists can now be achieved by computational protein design, with immediate applications to biologics delivery and molecular cell biology.",
+          "date": "2026-05-20",
+          "url": "https://doi.org/10.1038/s41586-026-10464-0",
+          "doi": "10.1038/s41586-026-10464-0",
+          "status": "published",
+          "journal": "Nature",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC13412984"
+          ],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:42162421",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:42162421",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ]
+    },
+    "urn:uuid:bc49fa2c-cb63-587b-ab52-893b6efa7a79": {
+      "id": "urn:uuid:bc49fa2c-cb63-587b-ab52-893b6efa7a79",
+      "first_seen": "2026-09-11T05:51:48Z",
+      "updated": "2026-09-11T05:51:48Z",
+      "records": {
+        "pubmed:42696459": {
+          "source": "pubmed",
+          "source_id": "42696459",
+          "title": "Bifunctional Phagocytic Synapse Enhancers Remodel the Tumor Microenvironment to Overcome Immunosuppression.",
+          "authors": [
+            {
+              "name": "Valerio Sabatino",
+              "affiliations": [
+                "University of Cambridge Cambridge United Kingdom."
+              ],
+              "orcid": "0000-0002-0424-813X"
+            },
+            {
+              "name": "Cong Tang",
+              "affiliations": [
+                "Gulbenkian Institute for Molecular Medicine Portugal."
+              ],
+              "orcid": "0000-0003-1661-6793"
+            },
+            {
+              "name": "Rita C Acúrcio",
+              "affiliations": [
+                "University of Lisbon Lisbon Portugal."
+              ],
+              "orcid": "0000-0003-3412-1903"
+            },
+            {
+              "name": "Ana R Coelho",
+              "affiliations": [
+                "Gulbenkian Institute for Molecular Medicine Lisbon Portugal."
+              ],
+              "orcid": "0000-0002-0965-7573"
+            },
+            {
+              "name": "Felix M Müller",
+              "affiliations": [
+                "University of Cambridge Cambridge United Kingdom."
+              ],
+              "orcid": "0000-0003-2712-8832"
+            },
+            {
+              "name": "Márcia Fontes",
+              "affiliations": [
+                "Champalimaud Foundation Lisbon Portugal."
+              ],
+              "orcid": "0009-0006-5397-2550"
+            },
+            {
+              "name": "Wei Ting Khaw",
+              "affiliations": [
+                "University of Cambridge Cambridge United Kingdom."
+              ],
+              "orcid": "0009-0006-5101-341X"
+            },
+            {
+              "name": "Carlos Labão-Almeida",
+              "affiliations": [
+                "Gulbenkian Institute for Molecular Medicine Portugal."
+              ],
+              "orcid": "0000-0002-7797-3797"
+            },
+            {
+              "name": "Derrick R Hicks",
+              "affiliations": [
+                "University of Washington United States."
+              ],
+              "orcid": "0000-0003-2950-1848"
+            },
+            {
+              "name": "Wei Yang",
+              "affiliations": [
+                "University of Washington United States."
+              ],
+              "orcid": "0000-0003-0637-6327"
+            },
+            {
+              "name": "Aldrin Vasco Vidal",
+              "affiliations": [
+                "University of Cambridge Cambridge United Kingdom."
+              ],
+              "orcid": "0000-0003-1539-1721"
+            },
+            {
+              "name": "Irene Sarkar",
+              "affiliations": [
+                "Lumicks Amsterdam Netherlands."
+              ],
+              "orcid": "0009-0006-7349-9502"
+            },
+            {
+              "name": "Debarati Shome",
+              "affiliations": [
+                "Lumicks Netherlands."
+              ],
+              "orcid": "0009-0007-3724-8746"
+            },
+            {
+              "name": "Mar Cabeza-Cabrerizo",
+              "affiliations": [
+                "University of Cambridge Cambridge United Kingdom."
+              ],
+              "orcid": "0000-0001-9061-058X"
+            },
+            {
+              "name": "Theresa V Rohm",
+              "affiliations": [
+                "University of California San Diego United States."
+              ],
+              "orcid": "0000-0001-8498-1018"
+            },
+            {
+              "name": "Silvan Fleisch",
+              "affiliations": [
+                "University Hospital of Basel Basel Switzerland."
+              ],
+              "orcid": "0009-0005-7946-2340"
+            },
+            {
+              "name": "Alexandra Gerber",
+              "affiliations": [
+                "University Hospital of Basel Basel Switzerland."
+              ],
+              "orcid": "0009-0007-1761-0170"
+            },
+            {
+              "name": "Sabrina A Hogan",
+              "affiliations": [
+                "University Hospital of Basel Basel Switzerland."
+              ],
+              "orcid": "0000-0003-3994-8109"
+            },
+            {
+              "name": "Fiona Gerster",
+              "affiliations": [
+                "University Hospital of Basel Basel Switzerland."
+              ],
+              "orcid": "0009-0000-6975-6517"
+            },
+            {
+              "name": "Deniz Kaymak",
+              "affiliations": [
+                "University Hospital of Basel Basel Switzerland."
+              ],
+              "orcid": "0000-0002-0233-3453"
+            },
+            {
+              "name": "Stanislav Pantelyushin",
+              "affiliations": [
+                "University of Zurich Schlieren Switzerland."
+              ],
+              "orcid": "0000-0002-3490-3860"
+            },
+            {
+              "name": "Johannes Vom Berg",
+              "affiliations": [
+                "University of Zurich Schlieren Switzerland."
+              ],
+              "orcid": "0000-0002-4086-1564"
+            },
+            {
+              "name": "Lu Li",
+              "affiliations": [
+                "Gator Bio Shanghai China."
+              ],
+              "orcid": "0009-0007-7571-4998"
+            },
+            {
+              "name": "Rogier M Reijmers",
+              "affiliations": [
+                "Lumicks Amsterdam Netherlands."
+              ],
+              "orcid": "0000-0001-7471-7715"
+            },
+            {
+              "name": "Rita Fior",
+              "affiliations": [
+                "Champalimaud Foundation Lisbon Portugal."
+              ],
+              "orcid": "0000-0001-5550-2428"
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "University of Washington Seattle, Washington United States."
+              ],
+              "orcid": "0000-0001-7896-6217"
+            },
+            {
+              "name": "Helena F Florindo",
+              "affiliations": [
+                "University of Lisbon Lisbon, Portugal Portugal."
+              ],
+              "orcid": "0000-0002-4006-5840"
+            },
+            {
+              "name": "Gregor Hutter",
+              "affiliations": [
+                "University Hospital of Basel Basel Switzerland."
+              ],
+              "orcid": "0000-0002-7570-3902"
+            },
+            {
+              "name": "Gonçalo J L Bernardes",
+              "affiliations": [
+                "University of Cambridge Cambridge United Kingdom."
+              ],
+              "orcid": "0000-0001-6594-8917"
+            }
+          ],
+          "abstract": "Current immunotherapies often fail in immunologically \"cold\", macrophage-rich tumor microenvironments (TMEs). Multi-targeting approaches that modulate innate-adaptive immune activation represent a promising frontier in cancer immunotherapy. Here, we developed phagocytic synapse enhancers (PSEs), a class of modular immune engagers comprising a high-affinity PD-L1 binder coupled to a macrophage-stimulating peptide, tuftsin. PSEs strengthened effector-target cell interactions and enhanced tumor phagocytosis by bridging tumor PD-L1 to macrophage neuropilin-1 (NRP1), bypassing the classical FcγR-dependent pathways. The PSEs also acted in cis on PD-L1+ macrophages, accelerating the endocytosis and lysosomal compartmentalization of surface PD-L1, therefore stripping the immunosuppressive checkpoint from the local microenvironment. Beyond physical clearance, PSEs reprogrammed macrophage phenotype and triggered a robust pro-inflammatory cytokine and chemokine response. The lead molecule, longPSE, and its half-life-extended variant fused to the albumin binding domain, ABD- longPSE, showcased superior efficacy than the macrophage enhancer magrolimab in a syngeneic tumor model of colorectal cancer and an orthotopic model of pancreatic cancer. PSE treatment remodeled the TME by inducing phenotypic changes in the lymphoid and myeloid compartments, together with a reduction of tumor-associated macrophages and regulatory T cells. These findings establish PSEs as bifunctional molecules that complement innate and adaptive immune modulation. The bifunctional design offers a versatile approach for next-generation immunotherapies and provides a blueprint for a plug-and-play platform of immune engagers targeting diverse cancer-associated pathways.",
+          "date": "2026-09-04",
+          "url": "https://doi.org/10.1158/0008-5472.can-25-5578",
+          "doi": "10.1158/0008-5472.can-25-5578",
+          "status": "published",
+          "journal": "Cancer research",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:42696459",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:42696459",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ]
+    },
+    "urn:uuid:c17e306f-6b32-5274-aa7e-126f40f230a6": {
+      "id": "urn:uuid:c17e306f-6b32-5274-aa7e-126f40f230a6",
+      "first_seen": "2026-09-11T05:51:48Z",
+      "updated": "2026-09-11T05:51:48Z",
+      "records": {
+        "pubmed:42702625": {
+          "source": "pubmed",
+          "source_id": "42702625",
+          "title": "Pan-Ebolavirus nanoparticle vaccine provides protection in rodents from lethal infection by Zaire and Sudan viruses.",
+          "authors": [
+            {
+              "name": "Connor Weidle",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, USA."
+              ],
+              "orcid": "0000-0002-9354-2276"
+            },
+            {
+              "name": "Natalie Brunette",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, USA.",
+                "Archon Biosciences, Seattle, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Samuel P Wrenn",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, USA.",
+                "Bonum Therapeutics, Seattle, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Brooke Fiala",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, USA."
+              ],
+              "orcid": "0000-0003-0148-5268"
+            },
+            {
+              "name": "Rashmi Ravichandran",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Kenneth D Carr",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, USA."
+              ],
+              "orcid": "0009-0005-1929-3952"
+            },
+            {
+              "name": "Samantha E Zak",
+              "affiliations": [
+                "United States Army Medical Research Institute of Infectious Diseases (USAMRIID), Fort Detrick, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Elizabeth E Zumbrun",
+              "affiliations": [
+                "United States Army Medical Research Institute of Infectious Diseases (USAMRIID), Fort Detrick, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Russell R Bakken",
+              "affiliations": [
+                "United States Army Medical Research Institute of Infectious Diseases (USAMRIID), Fort Detrick, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Michael Murphy",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, USA."
+              ],
+              "orcid": "0000-0002-8438-2653"
+            },
+            {
+              "name": "Zhitong Peng",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Sidney Chan",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, USA.",
+                "Archon Biosciences, Seattle, USA."
+              ],
+              "orcid": "0000-0002-1617-0464"
+            },
+            {
+              "name": "Rebecca Skotheim",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Lauren Carter",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, USA.",
+                "Gates Medical Research Institute, Cambridge, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Colin E Correnti",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, USA.",
+                "Clinical Research Division, Fred Hutch Cancer Center, Seattle, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "John M Dye",
+              "affiliations": [
+                "United States Army Medical Research Institute of Infectious Diseases (USAMRIID), Fort Detrick, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, USA."
+              ],
+              "orcid": "0000-0001-7896-6217"
+            },
+            {
+              "name": "Neil P King",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, USA."
+              ],
+              "orcid": "0000-0002-2978-4692"
+            },
+            {
+              "name": "Andrew J Borst",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, USA. borsta2@uw.edu.",
+                "Institute for Protein Design, University of Washington, Seattle, USA. borsta2@uw.edu."
+              ],
+              "orcid": "0000-0003-4297-7824"
+            },
+            {
+              "name": "Lance J Stewart",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, USA. lstewart3@gmail.com.",
+                "Institute for Protein Design, University of Washington, Seattle, USA. lstewart3@gmail.com."
+              ],
+              "orcid": "0000-0003-4264-5125"
+            }
+          ],
+          "abstract": "Both Zaire ebolavirus (EBOV) and Sudan ebolavirus (SUDV) are members of the genus Ebolavirus and cause outbreaks marked by high fatality rates and repeated spillover from animal reservoirs. Filoviral glycoproteins (GPs) are the primary targets of neutralizing antibodies and form the basis of current vaccines. Here we describe the design, structural characterization, and evaluation of two-component self-assembling icosahedral I53-50 nanoparticles displaying prefusion EBOV or SUDV GP antigens, either individually or in cocktail and mosaic multivalent formats. EBOV-GP-I53-50 and SUDV-GP-I53-50 nanoparticles elicited strong homologous protection in mice and guinea pigs. In the mouse-adapted EBOV model (maEBOV), mosaic and cocktail formulations produced weak survival below that of the matched EBOV-GP-I53-50 GP immunogen. In contrast, in the gpaSUDV guinea pig model (gpSUDV), cocktail and mosaic nanoparticles elicited robust protection against gpSUDV, and detectable antibody responses to both SUDV and EBOV GPs. These findings demonstrate that multivalent GP-I53-50 nanoparticle immunogens can protect rodents from death, severe clinical signs of disease, and weight loss in relevant models. Together with the established clinical safety of the I53-50 platform, these results support continued efforts toward the development of a pan-ebolavirus vaccine.",
+          "date": "2026-08-08",
+          "url": "https://doi.org/10.1038/s41467-026-76114-1",
+          "doi": "10.1038/s41467-026-76114-1",
+          "status": "published",
+          "journal": "Nature communications",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC13547272"
+          ],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:42702625",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:42702625",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ]
+    }
+  },
+  "aliases": {},
+  "rejected": {},
+  "identity_config": "ab78f0b9d276526b5355d298d5af26be5b224eeb3572e446a33b4a5e5582788f"
+}

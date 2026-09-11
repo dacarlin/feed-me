@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE PubmedArticleSet SYSTEM "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_250101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation><PMID>99000001</PMID><Article>
+      <Journal><JournalIssue><PubDate><Year>2026</Year><Month>Sep</Month><Day>9</Day></PubDate></JournalIssue><Title>Synthetic Fixture Journal</Title></Journal>
+      <ArticleTitle>De novo design of highly stable <i>protein</i> assemblies</ArticleTitle>
+      <Abstract><AbstractText Label="BACKGROUND">Synthetic fixture &amp; abstract.</AbstractText><AbstractText Label="RESULTS">Assemblies remain stable.</AbstractText></Abstract>
+      <AuthorList>
+        <Author><LastName>Chen</LastName><ForeName>Alice</ForeName><Initials>A</Initials><AffiliationInfo><Affiliation>University of Cambridge</Affiliation></AffiliationInfo></Author>
+        <Author><LastName>Rao</LastName><ForeName>Priya</ForeName><Initials>P</Initials></Author>
+        <Author><LastName>Baker</LastName><ForeName>David</ForeName><Initials>D</Initials><AffiliationInfo><Affiliation>Department of Biochemistry, University of Washington, Seattle.</Affiliation></AffiliationInfo><AffiliationInfo><Affiliation>Institute for Protein Design, University of Washington.</Affiliation></AffiliationInfo></Author>
+      </AuthorList>
+      <PublicationTypeList><PublicationType>Journal Article</PublicationType></PublicationTypeList>
+    </Article>
+    <CommentsCorrectionsList><CommentsCorrections RefType="ErratumFor"><RefSource>Some other paper</RefSource><PMID>88888888</PMID></CommentsCorrections></CommentsCorrectionsList>
+    </MedlineCitation>
+    <PubmedData><ArticleIdList><ArticleId IdType="pubmed">99000001</ArticleId><ArticleId IdType="doi">https://doi.org/10.1234/PROTEINS.2026.42</ArticleId><ArticleId IdType="pmc">PMC99000001</ArticleId></ArticleIdList>
+      <ReferenceList><Reference><ArticleIdList><ArticleId IdType="doi">10.9999/unrelated-citation</ArticleId></ArticleIdList></Reference></ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation><PMID>99000002</PMID><Article>
+      <Journal><JournalIssue><PubDate><MedlineDate>2026 Sep-Oct</MedlineDate></PubDate></JournalIssue><Title>Unrelated Fixture Journal</Title></Journal>
+      <ArticleTitle>Neuroimmunology and unrelated multiple sclerosis research</ArticleTitle>
+      <AuthorList>
+        <Author><LastName>Chen</LastName><ForeName>Alice</ForeName><AffiliationInfo><Affiliation>Institute for Protein Design, Department of Biochemistry, University of Washington</Affiliation></AffiliationInfo></Author>
+        <Author><LastName>Baker</LastName><ForeName>David</ForeName><AffiliationInfo><Affiliation>Blizard Institute, Queen Mary University of London, London, UK.</Affiliation></AffiliationInfo></Author>
+      </AuthorList>
+      <PublicationTypeList><PublicationType>Journal Article</PublicationType></PublicationTypeList>
+    </Article></MedlineCitation><PubmedData><ArticleIdList><ArticleId IdType="doi">10.1234/unrelated</ArticleId></ArticleIdList></PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

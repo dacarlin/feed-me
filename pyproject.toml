@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pubtracker"
+version = "0.1.0"
+description = "Conservative researcher publication tracking with static Atom feeds"
+requires-python = ">=3.11"
+dependencies = ["requests>=2.32.4,<3", "PyYAML>=6.0.2,<7", "defusedxml>=0.7.1,<1"]
+
+[project.optional-dependencies]
+test = ["pytest>=8.3,<10", "feedparser>=6.0.11,<7"]
+
+[project.scripts]
+pubtracker = "pubtracker.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

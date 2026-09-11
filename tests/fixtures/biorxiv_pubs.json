@@ -1,0 +1,15 @@
+{
+  "messages": [{"status": "ok", "cursor": 0, "count": 1, "total": 1}],
+  "collection": [{
+    "preprint_doi": "10.1101/2026.09.01.123456",
+    "published_doi": "10.1234/proteins.2026.42",
+    "published_journal": "Synthetic Fixture Journal",
+    "preprint_title": "De novo design of highly stable protein assemblies",
+    "preprint_authors": "Alice Chen; Priya Rao; David Baker",
+    "preprint_author_corresponding": "David Baker",
+    "preprint_author_corresponding_institution": "Institute for Protein Design, University of Washington",
+    "preprint_abstract": "Synthetic fixture abstract.",
+    "preprint_date": "2026-09-01",
+    "published_date": "2026-09-09"
+  }]
+}

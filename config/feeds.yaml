@@ -1,0 +1,41 @@
+site:
+  title: Research publications
+  base_url: https://dacarlin.github.io/feed-me
+  max_entries: 200
+
+update:
+  initial_lookback_days: 7
+  overlap_days: 2
+  publication_lookback_days: 30
+  # Revisit old tracked preprints, including late publication links.
+  refresh_days: 7
+  # Optional contact for NCBI; can also be supplied via NCBI_EMAIL.
+  ncbi_email: ""
+
+researchers:
+  - id: david-baker
+    name: David Baker
+    affiliations:
+      - Institute for Protein Design
+      - University of Washington
+      - Department of Biochemistry
+    required_affiliations:
+      - University of Washington
+    min_affiliation_matches: 2
+    # Verified in the Baker Lab-hosted eLife paper (p. 20) and PNNL profile;
+    # see README for primary sources.
+    orcid: 0000-0001-7896-6217
+    sources:
+      - biorxiv
+      - pubmed
+      - arxiv
+
+feeds:
+  - id: all
+    title: All researchers
+    researchers:
+      - david-baker
+  - id: david-baker
+    title: David Baker — publications and preprints
+    researchers:
+      - david-baker

@@ -1,0 +1,14 @@
+{
+  "messages": [{"status": "ok", "cursor": 0, "count": 1, "total": 1}],
+  "collection": [{
+    "doi": "10.1101/2026.09.01.123456",
+    "title": "De novo design of highly stable protein assemblies",
+    "authors": "Alice Chen; Priya Rao; David Baker",
+    "author_corresponding": "David Baker",
+    "author_corresponding_institution": "Institute for Protein Design, Department of Biochemistry, University of Washington, Seattle",
+    "abstract": "We design protein assemblies. These are synthetic test metadata, not a real paper.",
+    "date": "2026-09-01",
+    "version": "1",
+    "published": "NA"
+  }]
+}

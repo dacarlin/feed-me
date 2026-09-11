@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+build/
+dist/
+.DS_Store
+
+# Generated feeds are committed, even when a global ignore excludes /site.
+!/site/
+!/site/**

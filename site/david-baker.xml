@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://dacarlin.github.io/feed-me/david-baker.xml</id>
+  <title>David Baker — publications and preprints</title>
+  <link href="https://dacarlin.github.io/feed-me/david-baker.xml" rel="self" type="application/atom+xml" />
+  <link href="https://dacarlin.github.io/feed-me/" rel="alternate" />
+  <author>
+    <name>pubtracker</name>
+  </author>
+  <updated>2026-09-11T05:51:48Z</updated>
+  <entry>
+    <id>urn:uuid:e4936f5c-acab-55fa-addb-a71d44527dee</id>
+    <title>De novo design of quasisymmetric two-component protein cages.</title>
+    <published>2026-09-11T05:51:48Z</published>
+    <updated>2026-09-11T05:51:48Z</updated>
+    <link href="https://doi.org/10.1038/s41586-026-10464-0" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Shunzhi Wang</name>
+    </author>
+    <author>
+      <name>Ying Xie</name>
+    </author>
+    <author>
+      <name>David Chmielewski</name>
+    </author>
+    <author>
+      <name>Connor Weidle</name>
+    </author>
+    <author>
+      <name>Tong Shu</name>
+    </author>
+    <author>
+      <name>Green Ahn</name>
+    </author>
+    <author>
+      <name>Ryan D Kibler</name>
+    </author>
+    <author>
+      <name>Cindy Hernandez</name>
+    </author>
+    <author>
+      <name>Wei Chen</name>
+    </author>
+    <author>
+      <name>David Camilo Duran</name>
+    </author>
+    <author>
+      <name>Ann Carr</name>
+    </author>
+    <author>
+      <name>Asim K Bera</name>
+    </author>
+    <author>
+      <name>Sangmin Lee</name>
+    </author>
+    <author>
+      <name>Justin Decarreau</name>
+    </author>
+    <author>
+      <name>Alex Kang</name>
+    </author>
+    <author>
+      <name>Evans Brackenbrough</name>
+    </author>
+    <author>
+      <name>Emily Joyce</name>
+    </author>
+    <author>
+      <name>Kejia Wu</name>
+    </author>
+    <author>
+      <name>Andrew J Borst</name>
+    </author>
+    <author>
+      <name>Andrew Favor</name>
+    </author>
+    <author>
+      <name>Buwei Huang</name>
+    </author>
+    <author>
+      <name>Frank DiMaio</name>
+    </author>
+    <author>
+      <name>Liam J Holt</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Shunzhi Wang; Ying Xie; David Chmielewski; Connor Weidle; Tong Shu; Green Ahn; Ryan D Kibler; Cindy Hernandez; Wei Chen; David Camilo Duran; Ann Carr; Asim K Bera; Sangmin Lee; Justin Decarreau; Alex Kang; Evans Brackenbrough; Emily Joyce; Kejia Wu; Andrew J Borst; Andrew Favor; Buwei Huang; Frank DiMaio; Liam J Holt; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2026-05-20&lt;/p&gt;
+&lt;p&gt;Journal: Nature&lt;/p&gt;
+&lt;p&gt;Quasisymmetric icosahedral viral capsids achieve larger sizes than possible with strictly symmetric icosahedra by tessellating pentagons and hexagons using a single subunit that adopts different conformations in symmetrically non-equivalent locations1,2. Recapitulating such quasisymmetric architectures through computational design is a considerable challenge in nanomaterials engineering. Here we introduce a computational design strategy based on geometric frustration to generate two-component, quasisymmetric protein cages with customizable properties. We designed complementary trimeric and dimeric protein components that co-assemble into positively curved local hexagonal assemblies. Hexagonal lattices cannot tile spherical surfaces; instead, the components form closed sphere-like cage assemblies through incorporation of curvature-inducing pentagonal defects, as evidenced by electron microscopy. By designing dimers that encode different local curvatures, we programmed cage dimensions ranging from 40 to over 200 nm in diameter and with molecular weights from 2 MDa to over 50 MDa, comparable with natural virus capsids. We further functionalized these large cages with additional protein domains to enable ribonucleoprotein cargo loading and cellular uptake. Fluorescently labelled cage assemblies expressed in mammalian cells function as rheological probes and cargo recruiters, enabling a systematic study of size-dependent cytoplasmic diffusion and protein localization. Thus, the quasi-symmetry that has long fascinated structural biologists can now be achieved by computational protein design, with immediate applications to biologics delivery and molecular cell biology.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-026-10464-0"&gt;pubmed (published) — DOI: 10.1038/s41586-026-10464-0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-026-10464-0"&gt;Published version — DOI: 10.1038/s41586-026-10464-0&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:c17e306f-6b32-5274-aa7e-126f40f230a6</id>
+    <title>Pan-Ebolavirus nanoparticle vaccine provides protection in rodents from lethal infection by Zaire and Sudan viruses.</title>
+    <published>2026-09-11T05:51:48Z</published>
+    <updated>2026-09-11T05:51:48Z</updated>
+    <link href="https://doi.org/10.1038/s41467-026-76114-1" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Connor Weidle</name>
+    </author>
+    <author>
+      <name>Natalie Brunette</name>
+    </author>
+    <author>
+      <name>Samuel P Wrenn</name>
+    </author>
+    <author>
+      <name>Brooke Fiala</name>
+    </author>
+    <author>
+      <name>Rashmi Ravichandran</name>
+    </author>
+    <author>
+      <name>Kenneth D Carr</name>
+    </author>
+    <author>
+      <name>Samantha E Zak</name>
+    </author>
+    <author>
+      <name>Elizabeth E Zumbrun</name>
+    </author>
+    <author>
+      <name>Russell R Bakken</name>
+    </author>
+    <author>
+      <name>Michael Murphy</name>
+    </author>
+    <author>
+      <name>Zhitong Peng</name>
+    </author>
+    <author>
+      <name>Sidney Chan</name>
+    </author>
+    <author>
+      <name>Rebecca Skotheim</name>
+    </author>
+    <author>
+      <name>Lauren Carter</name>
+    </author>
+    <author>
+      <name>Colin E Correnti</name>
+    </author>
+    <author>
+      <name>John M Dye</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Neil P King</name>
+    </author>
+    <author>
+      <name>Andrew J Borst</name>
+    </author>
+    <author>
+      <name>Lance J Stewart</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Connor Weidle; Natalie Brunette; Samuel P Wrenn; Brooke Fiala; Rashmi Ravichandran; Kenneth D Carr; Samantha E Zak; Elizabeth E Zumbrun; Russell R Bakken; Michael Murphy; Zhitong Peng; Sidney Chan; Rebecca Skotheim; Lauren Carter; Colin E Correnti; John M Dye; David Baker; Neil P King; Andrew J Borst; Lance J Stewart&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2026-08-08&lt;/p&gt;
+&lt;p&gt;Journal: Nature communications&lt;/p&gt;
+&lt;p&gt;Both Zaire ebolavirus (EBOV) and Sudan ebolavirus (SUDV) are members of the genus Ebolavirus and cause outbreaks marked by high fatality rates and repeated spillover from animal reservoirs. Filoviral glycoproteins (GPs) are the primary targets of neutralizing antibodies and form the basis of current vaccines. Here we describe the design, structural characterization, and evaluation of two-component self-assembling icosahedral I53-50 nanoparticles displaying prefusion EBOV or SUDV GP antigens, either individually or in cocktail and mosaic multivalent formats. EBOV-GP-I53-50 and SUDV-GP-I53-50 nanoparticles elicited strong homologous protection in mice and guinea pigs. In the mouse-adapted EBOV model (maEBOV), mosaic and cocktail formulations produced weak survival below that of the matched EBOV-GP-I53-50 GP immunogen. In contrast, in the gpaSUDV guinea pig model (gpSUDV), cocktail and mosaic nanoparticles elicited robust protection against gpSUDV, and detectable antibody responses to both SUDV and EBOV GPs. These findings demonstrate that multivalent GP-I53-50 nanoparticle immunogens can protect rodents from death, severe clinical signs of disease, and weight loss in relevant models. Together with the established clinical safety of the I53-50 platform, these results support continued efforts toward the development of a pan-ebolavirus vaccine.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41467-026-76114-1"&gt;pubmed (published) — DOI: 10.1038/s41467-026-76114-1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41467-026-76114-1"&gt;Published version — DOI: 10.1038/s41467-026-76114-1&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:bc49fa2c-cb63-587b-ab52-893b6efa7a79</id>
+    <title>Bifunctional Phagocytic Synapse Enhancers Remodel the Tumor Microenvironment to Overcome Immunosuppression.</title>
+    <published>2026-09-11T05:51:48Z</published>
+    <updated>2026-09-11T05:51:48Z</updated>
+    <link href="https://doi.org/10.1158/0008-5472.can-25-5578" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Valerio Sabatino</name>
+    </author>
+    <author>
+      <name>Cong Tang</name>
+    </author>
+    <author>
+      <name>Rita C Acúrcio</name>
+    </author>
+    <author>
+      <name>Ana R Coelho</name>
+    </author>
+    <author>
+      <name>Felix M Müller</name>
+    </author>
+    <author>
+      <name>Márcia Fontes</name>
+    </author>
+    <author>
+      <name>Wei Ting Khaw</name>
+    </author>
+    <author>
+      <name>Carlos Labão-Almeida</name>
+    </author>
+    <author>
+      <name>Derrick R Hicks</name>
+    </author>
+    <author>
+      <name>Wei Yang</name>
+    </author>
+    <author>
+      <name>Aldrin Vasco Vidal</name>
+    </author>
+    <author>
+      <name>Irene Sarkar</name>
+    </author>
+    <author>
+      <name>Debarati Shome</name>
+    </author>
+    <author>
+      <name>Mar Cabeza-Cabrerizo</name>
+    </author>
+    <author>
+      <name>Theresa V Rohm</name>
+    </author>
+    <author>
+      <name>Silvan Fleisch</name>
+    </author>
+    <author>
+      <name>Alexandra Gerber</name>
+    </author>
+    <author>
+      <name>Sabrina A Hogan</name>
+    </author>
+    <author>
+      <name>Fiona Gerster</name>
+    </author>
+    <author>
+      <name>Deniz Kaymak</name>
+    </author>
+    <author>
+      <name>Stanislav Pantelyushin</name>
+    </author>
+    <author>
+      <name>Johannes Vom Berg</name>
+    </author>
+    <author>
+      <name>Lu Li</name>
+    </author>
+    <author>
+      <name>Rogier M Reijmers</name>
+    </author>
+    <author>
+      <name>Rita Fior</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Helena F Florindo</name>
+    </author>
+    <author>
+      <name>Gregor Hutter</name>
+    </author>
+    <author>
+      <name>Gonçalo J L Bernardes</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Valerio Sabatino; Cong Tang; Rita C Acúrcio; Ana R Coelho; Felix M Müller; Márcia Fontes; Wei Ting Khaw; Carlos Labão-Almeida; Derrick R Hicks; Wei Yang; Aldrin Vasco Vidal; Irene Sarkar; Debarati Shome; Mar Cabeza-Cabrerizo; Theresa V Rohm; Silvan Fleisch; Alexandra Gerber; Sabrina A Hogan; Fiona Gerster; Deniz Kaymak; Stanislav Pantelyushin; Johannes Vom Berg; Lu Li; Rogier M Reijmers; Rita Fior; David Baker; Helena F Florindo; Gregor Hutter; Gonçalo J L Bernardes&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2026-09-04&lt;/p&gt;
+&lt;p&gt;Journal: Cancer research&lt;/p&gt;
+&lt;p&gt;Current immunotherapies often fail in immunologically &amp;quot;cold&amp;quot;, macrophage-rich tumor microenvironments (TMEs). Multi-targeting approaches that modulate innate-adaptive immune activation represent a promising frontier in cancer immunotherapy. Here, we developed phagocytic synapse enhancers (PSEs), a class of modular immune engagers comprising a high-affinity PD-L1 binder coupled to a macrophage-stimulating peptide, tuftsin. PSEs strengthened effector-target cell interactions and enhanced tumor phagocytosis by bridging tumor PD-L1 to macrophage neuropilin-1 (NRP1), bypassing the classical FcγR-dependent pathways. The PSEs also acted in cis on PD-L1+ macrophages, accelerating the endocytosis and lysosomal compartmentalization of surface PD-L1, therefore stripping the immunosuppressive checkpoint from the local microenvironment. Beyond physical clearance, PSEs reprogrammed macrophage phenotype and triggered a robust pro-inflammatory cytokine and chemokine response. The lead molecule, longPSE, and its half-life-extended variant fused to the albumin binding domain, ABD- longPSE, showcased superior efficacy than the macrophage enhancer magrolimab in a syngeneic tumor model of colorectal cancer and an orthotopic model of pancreatic cancer. PSE treatment remodeled the TME by inducing phenotypic changes in the lymphoid and myeloid compartments, together with a reduction of tumor-associated macrophages and regulatory T cells. These findings establish PSEs as bifunctional molecules that complement innate and adaptive immune modulation. The bifunctional design offers a versatile approach for next-generation immunotherapies and provides a blueprint for a plug-and-play platform of immune engagers targeting diverse cancer-associated pathways.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1158/0008-5472.can-25-5578"&gt;pubmed (published) — DOI: 10.1158/0008-5472.can-25-5578&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1158/0008-5472.can-25-5578"&gt;Published version — DOI: 10.1158/0008-5472.can-25-5578&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:995d9a96-649c-5958-a883-cba390b5e061</id>
+    <title>De Novo Design of Peptide Masks Enables Rapid Generation of Conditionally-Active Miniprotein Binders.</title>
+    <published>2026-09-11T05:51:48Z</published>
+    <updated>2026-09-11T05:51:48Z</updated>
+    <link href="https://doi.org/10.1021/jacs.5c16108" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Montserrat Escobar-Rosales</name>
+    </author>
+    <author>
+      <name>Cristina Montaner</name>
+    </author>
+    <author>
+      <name>Marc Expòsit</name>
+    </author>
+    <author>
+      <name>Roberta Lucchi</name>
+    </author>
+    <author>
+      <name>Cristina Díaz-Perlas</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Benjamí Oller-Salvia</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Montserrat Escobar-Rosales; Cristina Montaner; Marc Expòsit; Roberta Lucchi; Cristina Díaz-Perlas; David Baker; Benjamí Oller-Salvia&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2025-11-24&lt;/p&gt;
+&lt;p&gt;Journal: Journal of the American Chemical Society&lt;/p&gt;
+&lt;p&gt;The widespread expression of therapeutic targets in both diseased and healthy tissues poses a major challenge for protein-based therapeutics, often leading to dose-limiting side effects. One promising strategy to enhance selectivity is reversible inactivation via affinity masks tethered through cleavable linkers responsive to disease-specific cues. Here, we introduce a workflow for the de novo design of peptide masks that reversibly inactivate miniprotein binders. By extending the C-terminus of the binder with a protease-cleavable linker and a masking helix, we generated minimal constructs that sterically block the receptor-binding interface. We applied this strategy to four therapeutically relevant targets, EGFR domains I and III, FGFR2, and IL7Rα, demonstrating broad applicability. Nearly half of the 20 designs achieved &amp;gt;100-fold affinity reduction, with the most effective mask decreasing EGFR binding by over 3 orders of magnitude. Upon cleavage by tumor-associated proteases, binding was restored in 19 out of 20 cases, confirming reversibility. We further show that micromolar or weaker affinity between the binder and the isolated mask is sufficient for robust inactivation and rapid activation. Additionally, by chemically conjugating a photocleavable linker, we created a light-responsive version of the masked binder, enabling external control with comparable efficiency to protease-sensitive designs. This work establishes a generalizable, rapid, and efficient platform for designing cleavable peptide masks from scratch, paving the way for conditionally active protein therapeutics responsive to endogenous or exogenous stimuli.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1021/jacs.5c16108"&gt;pubmed (published) — DOI: 10.1021/jacs.5c16108&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1021/jacs.5c16108"&gt;Published version — DOI: 10.1021/jacs.5c16108&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:7f477453-6c38-52e7-b591-accb9b0e6576</id>
+    <title>Designed miniproteins potently inhibit and protect against MERS-CoV.</title>
+    <published>2026-09-11T05:51:48Z</published>
+    <updated>2026-09-11T05:51:48Z</updated>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/40450691/" rel="alternate" />
+    <link href="https://doi.org/10.1101/2024.11.03.621760" rel="related" title="pubmed" />
+    <category term="published" />
+    <author>
+      <name>Robert J Ragotte</name>
+    </author>
+    <author>
+      <name>M Alejandra Tortorici</name>
+    </author>
+    <author>
+      <name>Nicholas J Catanzaro</name>
+    </author>
+    <author>
+      <name>Amin Addetia</name>
+    </author>
+    <author>
+      <name>Brian Coventry</name>
+    </author>
+    <author>
+      <name>Heather M Froggatt</name>
+    </author>
+    <author>
+      <name>Jimin Lee</name>
+    </author>
+    <author>
+      <name>Cameron Stewart</name>
+    </author>
+    <author>
+      <name>Jack T Brown</name>
+    </author>
+    <author>
+      <name>Inna Goreshnik</name>
+    </author>
+    <author>
+      <name>Jeremiah N Sims</name>
+    </author>
+    <author>
+      <name>Lukas F Milles</name>
+    </author>
+    <author>
+      <name>Basile I M Wicky</name>
+    </author>
+    <author>
+      <name>Matthias Glögl</name>
+    </author>
+    <author>
+      <name>Stacey Gerben</name>
+    </author>
+    <author>
+      <name>Alex Kang</name>
+    </author>
+    <author>
+      <name>Asim K Bera</name>
+    </author>
+    <author>
+      <name>William Sharkey</name>
+    </author>
+    <author>
+      <name>Alexandra Schäfer</name>
+    </author>
+    <author>
+      <name>Ralph S Baric</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>David Veesler</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Robert J Ragotte; M Alejandra Tortorici; Nicholas J Catanzaro; Amin Addetia; Brian Coventry; Heather M Froggatt; Jimin Lee; Cameron Stewart; Jack T Brown; Inna Goreshnik; Jeremiah N Sims; Lukas F Milles; Basile I M Wicky; Matthias Glögl; Stacey Gerben; Alex Kang; Asim K Bera; William Sharkey; Alexandra Schäfer; Ralph S Baric; David Baker; David Veesler&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Preprint date: 2024-11-04&lt;/p&gt;
+&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
+&lt;p&gt;A published version is linked below. Title, authors and abstract are from the preprint.&lt;/p&gt;
+&lt;p&gt;Middle-East respiratory syndrome coronavirus (MERS-CoV) is a zoonotic pathogen with 36% case-fatality rate in humans. No vaccines or specific therapeutics are currently approved to use in humans or the camel host reservoir. Here, we computationally designed monomeric and homo-oligomeric miniproteins binding with high affinity to the MERS-CoV spike (S) glycoprotein, the main target of neutralizing antibodies and vaccine development. We show that these miniproteins broadly neutralize a panel of MERS-CoV S variants, spanning the known antigenic diversity of this pathogen, by targeting a conserved site in the receptor-binding domain (RBD). The miniproteins directly compete with binding of the DPP4 receptor to MERS-CoV S, thereby blocking viral attachment to the host entry receptor and subsequent membrane fusion. Intranasal administration of a lead miniprotein provides prophylactic protection against stringent MERS-CoV challenge in mice motivating future clinical development as a next-generation countermeasure against this virus with pandemic potential.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1101/2024.11.03.621760"&gt;pubmed (preprint) — DOI: 10.1101/2024.11.03.621760&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pubmed.ncbi.nlm.nih.gov/40450691/"&gt;Published version&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+</feed>
