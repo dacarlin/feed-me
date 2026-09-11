@@ -7,179 +7,66 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-09-11T05:51:48Z</updated>
+  <updated>2026-09-11T17:54:26Z</updated>
   <entry>
-    <id>urn:uuid:e4936f5c-acab-55fa-addb-a71d44527dee</id>
-    <title>De novo design of quasisymmetric two-component protein cages.</title>
-    <published>2026-09-11T05:51:48Z</published>
-    <updated>2026-09-11T05:51:48Z</updated>
-    <link href="https://doi.org/10.1038/s41586-026-10464-0" rel="alternate" />
-    <category term="published" />
+    <id>urn:uuid:64244f38-0942-5fed-bdcd-947fec3c7d95</id>
+    <title>De novo design of allosterically controlled enzymes</title>
+    <published>2026-09-10T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.64898/2026.09.08.750245" rel="alternate" />
+    <category term="preprint" />
     <author>
-      <name>Shunzhi Wang</name>
+      <name>Shida, A.</name>
     </author>
     <author>
-      <name>Ying Xie</name>
+      <name>Wang, K.</name>
     </author>
     <author>
-      <name>David Chmielewski</name>
+      <name>Choi, H.</name>
     </author>
     <author>
-      <name>Connor Weidle</name>
+      <name>Pellock, S.</name>
     </author>
     <author>
-      <name>Tong Shu</name>
+      <name>Broerman, A.</name>
     </author>
     <author>
-      <name>Green Ahn</name>
+      <name>Salike, S.</name>
     </author>
     <author>
-      <name>Ryan D Kibler</name>
+      <name>Grubbe, W.</name>
     </author>
     <author>
-      <name>Cindy Hernandez</name>
+      <name>Joyce, E.</name>
     </author>
     <author>
-      <name>Wei Chen</name>
+      <name>Kang, A.</name>
     </author>
     <author>
-      <name>David Camilo Duran</name>
+      <name>Bera, A. K.</name>
     </author>
     <author>
-      <name>Ann Carr</name>
+      <name>Li, X.</name>
     </author>
     <author>
-      <name>Asim K Bera</name>
+      <name>Pillai, A.</name>
     </author>
     <author>
-      <name>Sangmin Lee</name>
+      <name>Baker, D.</name>
     </author>
-    <author>
-      <name>Justin Decarreau</name>
-    </author>
-    <author>
-      <name>Alex Kang</name>
-    </author>
-    <author>
-      <name>Evans Brackenbrough</name>
-    </author>
-    <author>
-      <name>Emily Joyce</name>
-    </author>
-    <author>
-      <name>Kejia Wu</name>
-    </author>
-    <author>
-      <name>Andrew J Borst</name>
-    </author>
-    <author>
-      <name>Andrew Favor</name>
-    </author>
-    <author>
-      <name>Buwei Huang</name>
-    </author>
-    <author>
-      <name>Frank DiMaio</name>
-    </author>
-    <author>
-      <name>Liam J Holt</name>
-    </author>
-    <author>
-      <name>David Baker</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Authors: Shunzhi Wang; Ying Xie; David Chmielewski; Connor Weidle; Tong Shu; Green Ahn; Ryan D Kibler; Cindy Hernandez; Wei Chen; David Camilo Duran; Ann Carr; Asim K Bera; Sangmin Lee; Justin Decarreau; Alex Kang; Evans Brackenbrough; Emily Joyce; Kejia Wu; Andrew J Borst; Andrew Favor; Buwei Huang; Frank DiMaio; Liam J Holt; David Baker&lt;/p&gt;
-&lt;p&gt;Sources: pubmed&lt;/p&gt;
-&lt;p&gt;Publication date: 2026-05-20&lt;/p&gt;
-&lt;p&gt;Journal: Nature&lt;/p&gt;
-&lt;p&gt;Quasisymmetric icosahedral viral capsids achieve larger sizes than possible with strictly symmetric icosahedra by tessellating pentagons and hexagons using a single subunit that adopts different conformations in symmetrically non-equivalent locations1,2. Recapitulating such quasisymmetric architectures through computational design is a considerable challenge in nanomaterials engineering. Here we introduce a computational design strategy based on geometric frustration to generate two-component, quasisymmetric protein cages with customizable properties. We designed complementary trimeric and dimeric protein components that co-assemble into positively curved local hexagonal assemblies. Hexagonal lattices cannot tile spherical surfaces; instead, the components form closed sphere-like cage assemblies through incorporation of curvature-inducing pentagonal defects, as evidenced by electron microscopy. By designing dimers that encode different local curvatures, we programmed cage dimensions ranging from 40 to over 200 nm in diameter and with molecular weights from 2 MDa to over 50 MDa, comparable with natural virus capsids. We further functionalized these large cages with additional protein domains to enable ribonucleoprotein cargo loading and cellular uptake. Fluorescently labelled cage assemblies expressed in mammalian cells function as rheological probes and cargo recruiters, enabling a systematic study of size-dependent cytoplasmic diffusion and protein localization. Thus, the quasi-symmetry that has long fascinated structural biologists can now be achieved by computational protein design, with immediate applications to biologics delivery and molecular cell biology.&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Shida, A.; Wang, K.; Choi, H.; Pellock, S.; Broerman, A.; Salike, S.; Grubbe, W.; Joyce, E.; Kang, A.; Bera, A. K.; Li, X.; Pillai, A.; Baker, D.&lt;/p&gt;
+&lt;p&gt;Sources: biorxiv&lt;/p&gt;
+&lt;p&gt;Preprint date: 2026-09-10&lt;/p&gt;
+&lt;p&gt;The ability of enzymes to sense signals and respond by changing their structure and activity underlies cellular processes from signaling to metabolic control. While there have been recent advances in the de novo design of enzymes and conformationally switching proteins, combining these to achieve allosteric regulation of enzymatic activity in a fully designed system remains an outstanding challenge. Here, we show that denoising diffusion models enable the design of compact de novo enzymes whose activity can be allosterically activated or repressed by designed protein effectors. Our results establish a general route to allosteric control over a wide range of catalytic and other protein functions.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-026-10464-0"&gt;pubmed (published) — DOI: 10.1038/s41586-026-10464-0&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-026-10464-0"&gt;Published version — DOI: 10.1038/s41586-026-10464-0&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <id>urn:uuid:c17e306f-6b32-5274-aa7e-126f40f230a6</id>
-    <title>Pan-Ebolavirus nanoparticle vaccine provides protection in rodents from lethal infection by Zaire and Sudan viruses.</title>
-    <published>2026-09-11T05:51:48Z</published>
-    <updated>2026-09-11T05:51:48Z</updated>
-    <link href="https://doi.org/10.1038/s41467-026-76114-1" rel="alternate" />
-    <category term="published" />
-    <author>
-      <name>Connor Weidle</name>
-    </author>
-    <author>
-      <name>Natalie Brunette</name>
-    </author>
-    <author>
-      <name>Samuel P Wrenn</name>
-    </author>
-    <author>
-      <name>Brooke Fiala</name>
-    </author>
-    <author>
-      <name>Rashmi Ravichandran</name>
-    </author>
-    <author>
-      <name>Kenneth D Carr</name>
-    </author>
-    <author>
-      <name>Samantha E Zak</name>
-    </author>
-    <author>
-      <name>Elizabeth E Zumbrun</name>
-    </author>
-    <author>
-      <name>Russell R Bakken</name>
-    </author>
-    <author>
-      <name>Michael Murphy</name>
-    </author>
-    <author>
-      <name>Zhitong Peng</name>
-    </author>
-    <author>
-      <name>Sidney Chan</name>
-    </author>
-    <author>
-      <name>Rebecca Skotheim</name>
-    </author>
-    <author>
-      <name>Lauren Carter</name>
-    </author>
-    <author>
-      <name>Colin E Correnti</name>
-    </author>
-    <author>
-      <name>John M Dye</name>
-    </author>
-    <author>
-      <name>David Baker</name>
-    </author>
-    <author>
-      <name>Neil P King</name>
-    </author>
-    <author>
-      <name>Andrew J Borst</name>
-    </author>
-    <author>
-      <name>Lance J Stewart</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Authors: Connor Weidle; Natalie Brunette; Samuel P Wrenn; Brooke Fiala; Rashmi Ravichandran; Kenneth D Carr; Samantha E Zak; Elizabeth E Zumbrun; Russell R Bakken; Michael Murphy; Zhitong Peng; Sidney Chan; Rebecca Skotheim; Lauren Carter; Colin E Correnti; John M Dye; David Baker; Neil P King; Andrew J Borst; Lance J Stewart&lt;/p&gt;
-&lt;p&gt;Sources: pubmed&lt;/p&gt;
-&lt;p&gt;Publication date: 2026-08-08&lt;/p&gt;
-&lt;p&gt;Journal: Nature communications&lt;/p&gt;
-&lt;p&gt;Both Zaire ebolavirus (EBOV) and Sudan ebolavirus (SUDV) are members of the genus Ebolavirus and cause outbreaks marked by high fatality rates and repeated spillover from animal reservoirs. Filoviral glycoproteins (GPs) are the primary targets of neutralizing antibodies and form the basis of current vaccines. Here we describe the design, structural characterization, and evaluation of two-component self-assembling icosahedral I53-50 nanoparticles displaying prefusion EBOV or SUDV GP antigens, either individually or in cocktail and mosaic multivalent formats. EBOV-GP-I53-50 and SUDV-GP-I53-50 nanoparticles elicited strong homologous protection in mice and guinea pigs. In the mouse-adapted EBOV model (maEBOV), mosaic and cocktail formulations produced weak survival below that of the matched EBOV-GP-I53-50 GP immunogen. In contrast, in the gpaSUDV guinea pig model (gpSUDV), cocktail and mosaic nanoparticles elicited robust protection against gpSUDV, and detectable antibody responses to both SUDV and EBOV GPs. These findings demonstrate that multivalent GP-I53-50 nanoparticle immunogens can protect rodents from death, severe clinical signs of disease, and weight loss in relevant models. Together with the established clinical safety of the I53-50 platform, these results support continued efforts toward the development of a pan-ebolavirus vaccine.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41467-026-76114-1"&gt;pubmed (published) — DOI: 10.1038/s41467-026-76114-1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41467-026-76114-1"&gt;Published version — DOI: 10.1038/s41467-026-76114-1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.09.08.750245"&gt;biorxiv (preprint) — DOI: 10.64898/2026.09.08.750245&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
     <id>urn:uuid:bc49fa2c-cb63-587b-ab52-893b6efa7a79</id>
     <title>Bifunctional Phagocytic Synapse Enhancers Remodel the Tumor Microenvironment to Overcome Immunosuppression.</title>
-    <published>2026-09-11T05:51:48Z</published>
+    <published>2026-09-04T00:00:00Z</published>
     <updated>2026-09-11T05:51:48Z</updated>
     <link href="https://doi.org/10.1158/0008-5472.can-25-5578" rel="alternate" />
     <category term="published" />
@@ -282,9 +169,2316 @@
 &lt;/ul&gt;</content>
   </entry>
   <entry>
+    <id>urn:uuid:14285739-b61d-5ccf-af33-fdf1e92e1202</id>
+    <title>De novo design of RNA pseudoknots with deep learning.</title>
+    <published>2026-07-03T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.1126/science.aeg6829" rel="alternate" />
+    <link href="https://doi.org/10.64898/2026.05.21.726960" rel="related" title="pubmed" />
+    <category term="published" />
+    <author>
+      <name>Jill Townley</name>
+    </author>
+    <author>
+      <name>Wipapat Kladwang</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Hamish M Blair</name>
+    </author>
+    <author>
+      <name>Christian A Choe</name>
+    </author>
+    <author>
+      <name>Gina El Nesr</name>
+    </author>
+    <author>
+      <name>Andrew Favor</name>
+    </author>
+    <author>
+      <name>Eli Fisker</name>
+    </author>
+    <author>
+      <name>Daniel B Haack</name>
+    </author>
+    <author>
+      <name>Shujun He</name>
+    </author>
+    <author>
+      <name>Jason Hingey</name>
+    </author>
+    <author>
+      <name>Po-Ssu Huang</name>
+    </author>
+    <author>
+      <name>Rui Huang</name>
+    </author>
+    <author>
+      <name>Chaitanya K Joshi</name>
+    </author>
+    <author>
+      <name>Thomas Karagianes</name>
+    </author>
+    <author>
+      <name>Andrew Kubaney</name>
+    </author>
+    <author>
+      <name>Pietro Liò</name>
+    </author>
+    <author>
+      <name>Adamo Mancino</name>
+    </author>
+    <author>
+      <name>Jonathan Romano</name>
+    </author>
+    <author>
+      <name>Boris Rudolfs</name>
+    </author>
+    <author>
+      <name>Nicholas Spellmon</name>
+    </author>
+    <author>
+      <name>Navtej Toor</name>
+    </author>
+    <author>
+      <name>Jigyasa Verma</name>
+    </author>
+    <author>
+      <name>Vivian Wu</name>
+    </author>
+    <author>
+      <name>Zhiheng Yu</name>
+    </author>
+    <author>
+      <name>Eterna Participants</name>
+    </author>
+    <author>
+      <name>Rhiju Das</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Jill Townley; Wipapat Kladwang; David Baker; Hamish M Blair; Christian A Choe; Gina El Nesr; Andrew Favor; Eli Fisker; Daniel B Haack; Shujun He; Jason Hingey; Po-Ssu Huang; Rui Huang; Chaitanya K Joshi; Thomas Karagianes; Andrew Kubaney; Pietro Liò; Adamo Mancino; Jonathan Romano; Boris Rudolfs; Nicholas Spellmon; Navtej Toor; Jigyasa Verma; Vivian Wu; Zhiheng Yu; Eterna Participants; Rhiju Das&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2026-08-27&lt;/p&gt;
+&lt;p&gt;Journal: Science (New York, N.Y.)&lt;/p&gt;
+&lt;p&gt;RNA design has been hindered by the limited accuracy of three-dimensional (3D) structure prediction. In this study, we show that intricate RNA structures can be generated with current deep learning tools through accurate de novo design of pseudoknot secondary structures. In an Eterna competition involving 57 pseudoknots, generative artificial intelligence (AI) methods matched experienced human designers in solving most blind challenges, evaluated by single nucleotide-resolution chemical mapping, compensatory mutagenesis, and cryo-electron microscopy. AI-generated molecules with accurate secondary structures formed well-ordered 3D folds stabilized by noncanonical tertiary interactions not modeled during design. Success was guided by an RNet foundation model trained on prior chemical mapping data, suggesting that some difficult RNA design tasks may be tractable without first solving RNA 3D structure prediction.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.05.21.726960"&gt;pubmed (preprint) — DOI: 10.64898/2026.05.21.726960&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1126/science.aeg6829"&gt;pubmed (published) — DOI: 10.1126/science.aeg6829&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1126/science.aeg6829"&gt;Published version — DOI: 10.1126/science.aeg6829&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pubmed.ncbi.nlm.nih.gov/42658941/"&gt;Published version&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:e4de15d1-86f3-568a-8658-65ab79de508d</id>
+    <title>Enhancing De Novo Designed Peptides and Proteins via Irreversible Covalent Isoquinolinium Capture.</title>
+    <published>2026-08-26T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.1021/acschembio.6c00584" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Paul M Levine</name>
+    </author>
+    <author>
+      <name>Patrick W Erickson</name>
+    </author>
+    <author>
+      <name>Timothy W Craven</name>
+    </author>
+    <author>
+      <name>Aaron T Balana</name>
+    </author>
+    <author>
+      <name>Derrick R Hicks</name>
+    </author>
+    <author>
+      <name>Green Ahn</name>
+    </author>
+    <author>
+      <name>Chan J Kim</name>
+    </author>
+    <author>
+      <name>Lisa S Brandenburg</name>
+    </author>
+    <author>
+      <name>Wei Yang</name>
+    </author>
+    <author>
+      <name>Danielle P Johnson Erickson</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Paul M Levine; Patrick W Erickson; Timothy W Craven; Aaron T Balana; Derrick R Hicks; Green Ahn; Chan J Kim; Lisa S Brandenburg; Wei Yang; Danielle P Johnson Erickson; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2026-08-26&lt;/p&gt;
+&lt;p&gt;Journal: ACS chemical biology&lt;/p&gt;
+&lt;p&gt;Irreversible covalent inhibitors have garnered significant attention in recent years. Despite encouraging progress, the vast majority contain electrophiles that target the least abundant amino acid, cysteine, substantially limiting target inhibitor design for therapeutic intervention. Here, we generalize 2-ethynylbenzaldehyde as a proximity-induced electrophile for generating irreversible covalent peptide and protein inhibitors that specifically target native lysine residues. Leveraging this warhead, we designed a covalent de novo peptide that potently engages MCL1 to block its interaction with Bak. We show it is faster, more site-selective, and increases potency by 61-fold for MCL1 relative to a sulfonyl fluoride warhead. Additionally, with the guide of a computational script to predict &amp;quot;reactive hotspots&amp;quot; at the protein level, we developed a minibinder that labels PD-L1 in vitro and in live cells, displays a slower off-rate, and potently blocks the native PD-1 and PD-L1. These results establish isoquinolinium capture as a promising strategy to inhibit protein-protein interactions and for the development of novel covalent peptide and protein therapeutics.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1021/acschembio.6c00584"&gt;pubmed (published) — DOI: 10.1021/acschembio.6c00584&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1021/acschembio.6c00584"&gt;Published version — DOI: 10.1021/acschembio.6c00584&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:e7dddea6-04e4-572b-b759-5712d606170a</id>
+    <title>Improved Stability and Brightness Following Iterative Redesign of a De Novo Biliprotein.</title>
+    <published>2026-08-18T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.1021/acs.biochem.6c00166" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Felix S Morey-Burrows</name>
+    </author>
+    <author>
+      <name>Tingxiang Yang</name>
+    </author>
+    <author>
+      <name>Woody Ahern</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Andrew Hitchcock</name>
+    </author>
+    <author>
+      <name>Graham J Leggett</name>
+    </author>
+    <author>
+      <name>Jenny Clark</name>
+    </author>
+    <author>
+      <name>Aneika C Leney</name>
+    </author>
+    <author>
+      <name>C Neil Hunter</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Felix S Morey-Burrows; Tingxiang Yang; Woody Ahern; David Baker; Andrew Hitchcock; Graham J Leggett; Jenny Clark; Aneika C Leney; C Neil Hunter&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2026-08-18&lt;/p&gt;
+&lt;p&gt;Journal: Biochemistry&lt;/p&gt;
+&lt;p&gt;Bilins, linear tetrapyrroles derived from heme catabolism, are ubiquitous across biological systems. The constraints imposed by binding to a protein confer valuable optical properties on bilins, which are used for sensing and harvesting light, and offer potential for fluorescence imaging, optogenetics, and biosensing. Recently, bilins have been used to evaluate methods for designing ligand binding sites, and novel biliproteins (BPs) that bind phycoerythrobilin (PEB) emerged from computational design using RoseTTAFold Diffusion All-Atom (RFDiffusionAA) and LigandMPNN. Here, we find much lower stability, extinction coefficients and fluorescence quantum yields for de novo designs compared to the native CpcA-PEB biliprotein, so we used a LigandMPNN-AlphaFold 3 (AF3)-Rosetta Relax pipeline to redesign one BP, C11, which can be implemented quickly and without in-house GPUs. The top three ligand confidence scores emerging from this procedure yielded C11-578, C11-620, and C11-756 redesigns that retain 50%, 52%, and 57% identities, respectively, with C11. AF3-Rosetta modeling of the BP redesigns predicted similar conformations of the PEB, decreased solvent-accessible surface area of the bilin binding site, an additional predicted hydrogen bond in C11-620, and a more rigid protein backbone. The new constraints on bilin binding improved the stability, absorption properties and fluorescence yields for C11-578, C11-620, and C11-756, and the brightness of the redesigns improved up to 13-fold, approaching the values for the native CpcA-PEB BP. Further design iterations can be used to create a range of absorbing and emitting BPs, including oligomeric assemblies housing internal energy cascades.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1021/acs.biochem.6c00166"&gt;pubmed (published) — DOI: 10.1021/acs.biochem.6c00166&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1021/acs.biochem.6c00166"&gt;Published version — DOI: 10.1021/acs.biochem.6c00166&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:99e297c2-3b43-524f-8b34-b2b5eda5995f</id>
+    <title>De novo design of autocatalytically forming intra- and intermolecular isopeptide bonds to construct rigid covalent protein assemblies</title>
+    <published>2026-08-18T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.64898/2026.08.13.744004" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Milles, L. F.</name>
+    </author>
+    <author>
+      <name>Huddy, E. B.</name>
+    </author>
+    <author>
+      <name>Carr, A.</name>
+    </author>
+    <author>
+      <name>Hsia, Y.</name>
+    </author>
+    <author>
+      <name>Li, X.</name>
+    </author>
+    <author>
+      <name>Kang, A.</name>
+    </author>
+    <author>
+      <name>Sankaran, B.</name>
+    </author>
+    <author>
+      <name>Bera, A. K.</name>
+    </author>
+    <author>
+      <name>Baker, D.</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Milles, L. F.; Huddy, E. B.; Carr, A.; Hsia, Y.; Li, X.; Kang, A.; Sankaran, B.; Bera, A. K.; Baker, D.&lt;/p&gt;
+&lt;p&gt;Sources: biorxiv&lt;/p&gt;
+&lt;p&gt;Preprint date: 2026-08-18&lt;/p&gt;
+&lt;p&gt;Isopeptide bonds are amide bonds between amino acid side chains that can form autocatalytically, notably in the pili of Gram-positive bacteria. Here, we design de novo proteins that form both intramolecular and intermolecular isopeptide bonds entirely autocatalytically. We report over 50 designs that form isopeptide bonds, validated by mass spectrometry and 5 crystal structures. We redesign these constructs as split proteins that form a covalent intermolecular isopeptide crosslink when combined. These split designs are orthogonal to the existing isopeptide-based SpyTag/Catcher system, and their formation can be regulated by temperature, providing control over the timing of crosslinking in protein assemblies. We extend these designs to create rigid domain crosslinks that enable the construction of large well ordered symmetric rings of up to 215 kDa that are irreversibly covalently crosslinked by multiple isopeptide bonds into a single molecule. Our results provide insight into the determinants of isopeptide bond formation, considerably expand the set of isopeptide bond crosslinking systems, and establish a framework to construct fully covalent rigid protein assemblies.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.08.13.744004"&gt;biorxiv (preprint) — DOI: 10.64898/2026.08.13.744004&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:c17e306f-6b32-5274-aa7e-126f40f230a6</id>
+    <title>Pan-Ebolavirus nanoparticle vaccine provides protection in rodents from lethal infection by Zaire and Sudan viruses.</title>
+    <published>2026-08-08T00:00:00Z</published>
+    <updated>2026-09-11T05:51:48Z</updated>
+    <link href="https://doi.org/10.1038/s41467-026-76114-1" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Connor Weidle</name>
+    </author>
+    <author>
+      <name>Natalie Brunette</name>
+    </author>
+    <author>
+      <name>Samuel P Wrenn</name>
+    </author>
+    <author>
+      <name>Brooke Fiala</name>
+    </author>
+    <author>
+      <name>Rashmi Ravichandran</name>
+    </author>
+    <author>
+      <name>Kenneth D Carr</name>
+    </author>
+    <author>
+      <name>Samantha E Zak</name>
+    </author>
+    <author>
+      <name>Elizabeth E Zumbrun</name>
+    </author>
+    <author>
+      <name>Russell R Bakken</name>
+    </author>
+    <author>
+      <name>Michael Murphy</name>
+    </author>
+    <author>
+      <name>Zhitong Peng</name>
+    </author>
+    <author>
+      <name>Sidney Chan</name>
+    </author>
+    <author>
+      <name>Rebecca Skotheim</name>
+    </author>
+    <author>
+      <name>Lauren Carter</name>
+    </author>
+    <author>
+      <name>Colin E Correnti</name>
+    </author>
+    <author>
+      <name>John M Dye</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Neil P King</name>
+    </author>
+    <author>
+      <name>Andrew J Borst</name>
+    </author>
+    <author>
+      <name>Lance J Stewart</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Connor Weidle; Natalie Brunette; Samuel P Wrenn; Brooke Fiala; Rashmi Ravichandran; Kenneth D Carr; Samantha E Zak; Elizabeth E Zumbrun; Russell R Bakken; Michael Murphy; Zhitong Peng; Sidney Chan; Rebecca Skotheim; Lauren Carter; Colin E Correnti; John M Dye; David Baker; Neil P King; Andrew J Borst; Lance J Stewart&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2026-08-08&lt;/p&gt;
+&lt;p&gt;Journal: Nature communications&lt;/p&gt;
+&lt;p&gt;Both Zaire ebolavirus (EBOV) and Sudan ebolavirus (SUDV) are members of the genus Ebolavirus and cause outbreaks marked by high fatality rates and repeated spillover from animal reservoirs. Filoviral glycoproteins (GPs) are the primary targets of neutralizing antibodies and form the basis of current vaccines. Here we describe the design, structural characterization, and evaluation of two-component self-assembling icosahedral I53-50 nanoparticles displaying prefusion EBOV or SUDV GP antigens, either individually or in cocktail and mosaic multivalent formats. EBOV-GP-I53-50 and SUDV-GP-I53-50 nanoparticles elicited strong homologous protection in mice and guinea pigs. In the mouse-adapted EBOV model (maEBOV), mosaic and cocktail formulations produced weak survival below that of the matched EBOV-GP-I53-50 GP immunogen. In contrast, in the gpaSUDV guinea pig model (gpSUDV), cocktail and mosaic nanoparticles elicited robust protection against gpSUDV, and detectable antibody responses to both SUDV and EBOV GPs. These findings demonstrate that multivalent GP-I53-50 nanoparticle immunogens can protect rodents from death, severe clinical signs of disease, and weight loss in relevant models. Together with the established clinical safety of the I53-50 platform, these results support continued efforts toward the development of a pan-ebolavirus vaccine.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41467-026-76114-1"&gt;pubmed (published) — DOI: 10.1038/s41467-026-76114-1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41467-026-76114-1"&gt;Published version — DOI: 10.1038/s41467-026-76114-1&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:9e11f059-34f7-52d4-9d37-3f2dcc3185cc</id>
+    <title>De novo design of orthogonal far-red, orange, and green fluorophore-binding proteins for multiplexed imaging.</title>
+    <published>2025-09-30T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.1126/science.aeb0822" rel="alternate" />
+    <link href="https://doi.org/10.1101/2025.08.03.668343" rel="related" title="pubmed" />
+    <category term="published" />
+    <author>
+      <name>Long Tran</name>
+    </author>
+    <author>
+      <name>Steffen Klein</name>
+    </author>
+    <author>
+      <name>David Juergens</name>
+    </author>
+    <author>
+      <name>Shajesh Sharma</name>
+    </author>
+    <author>
+      <name>Justin Decarreau</name>
+    </author>
+    <author>
+      <name>Gyu Rie Lee</name>
+    </author>
+    <author>
+      <name>Yujia Wang</name>
+    </author>
+    <author>
+      <name>Wei Chen</name>
+    </author>
+    <author>
+      <name>Asim K Bera</name>
+    </author>
+    <author>
+      <name>Alex Kang</name>
+    </author>
+    <author>
+      <name>Jon Woods</name>
+    </author>
+    <author>
+      <name>Emily Joyce</name>
+    </author>
+    <author>
+      <name>Dionne K Vafeados</name>
+    </author>
+    <author>
+      <name>Nicole Roullier</name>
+    </author>
+    <author>
+      <name>Xinting Li</name>
+    </author>
+    <author>
+      <name>Bingxu Liu</name>
+    </author>
+    <author>
+      <name>Yang Bo</name>
+    </author>
+    <author>
+      <name>Edin Muratspahić</name>
+    </author>
+    <author>
+      <name>Tim A Brown</name>
+    </author>
+    <author>
+      <name>Jonathan B Grimm</name>
+    </author>
+    <author>
+      <name>Ronak Patel</name>
+    </author>
+    <author>
+      <name>Luke D Lavis</name>
+    </author>
+    <author>
+      <name>Julia Mahamid</name>
+    </author>
+    <author>
+      <name>Linna An</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Long Tran; Steffen Klein; David Juergens; Shajesh Sharma; Justin Decarreau; Gyu Rie Lee; Yujia Wang; Wei Chen; Asim K Bera; Alex Kang; Jon Woods; Emily Joyce; Dionne K Vafeados; Nicole Roullier; Xinting Li; Bingxu Liu; Yang Bo; Edin Muratspahić; Tim A Brown; Jonathan B Grimm; Ronak Patel; Luke D Lavis; Julia Mahamid; Linna An; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2026-07-16&lt;/p&gt;
+&lt;p&gt;Journal: Science (New York, N.Y.)&lt;/p&gt;
+&lt;p&gt;Fluorescent proteins and small-molecule dyes offer complementary advantages for biological imaging: Proteins are amenable to genetic tagging, whereas dyes provide superior brightness and photostability. To combine these strengths, we used de novo protein design to generate small, nanomolar-affinity, high-selectivity binders (NovoTags) for three cell-permeable dyes spanning the visible spectrum. We show that the NovoTag fluorescent lifetimes can be tuned and demonstrate their application in lifetime- and wavelength-based multiplexed fluorescence imaging. We also designed a two-chain version (NovoSplit) that functions as a chemically induced dimerization system with fluorescent readout in living cells or as a minimally perturbing proximity probe in fixed cells. Our approach combines the advantages of fluorescent proteins and small-molecule dyes, thus expanding the toolkit for cellular imaging.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1101/2025.08.03.668343"&gt;pubmed (preprint) — DOI: 10.1101/2025.08.03.668343&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1126/science.aeb0822"&gt;pubmed (published) — DOI: 10.1126/science.aeb0822&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1126/science.aeb0822"&gt;Published version — DOI: 10.1126/science.aeb0822&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pubmed.ncbi.nlm.nih.gov/42461986/"&gt;Published version&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:25fca73a-1cf9-501a-a9db-7c5984ec1b86</id>
+    <title>Generative design of programmable asymmetric β-barrel nanopores.</title>
+    <published>2026-07-15T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.64898/2026.06.04.729630" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Annika Philomin</name>
+    </author>
+    <author>
+      <name>Ria Sonigra</name>
+    </author>
+    <author>
+      <name>Sagardip Majumder</name>
+    </author>
+    <author>
+      <name>Hsien-Jui Michelin Lin</name>
+    </author>
+    <author>
+      <name>Yanjing Li</name>
+    </author>
+    <author>
+      <name>Fanglei Xue</name>
+    </author>
+    <author>
+      <name>Ryan D Kibler</name>
+    </author>
+    <author>
+      <name>Claire K Baldus</name>
+    </author>
+    <author>
+      <name>Eva Trapido</name>
+    </author>
+    <author>
+      <name>Amelie Medeiros</name>
+    </author>
+    <author>
+      <name>Brian Coventry</name>
+    </author>
+    <author>
+      <name>Asim K Bera</name>
+    </author>
+    <author>
+      <name>Alex Kang</name>
+    </author>
+    <author>
+      <name>Johnny Mendoza</name>
+    </author>
+    <author>
+      <name>Manish Kumar</name>
+    </author>
+    <author>
+      <name>Yi Yang</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Annika Philomin; Ria Sonigra; Sagardip Majumder; Hsien-Jui Michelin Lin; Yanjing Li; Fanglei Xue; Ryan D Kibler; Claire K Baldus; Eva Trapido; Amelie Medeiros; Brian Coventry; Asim K Bera; Alex Kang; Johnny Mendoza; Manish Kumar; Yi Yang; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Preprint date: 2026-07-15&lt;/p&gt;
+&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
+&lt;p&gt;Protein nanopores are powerful tools for molecular sensing, sequencing, and separation, but designing pores with programmable function remains challenging. Native homo-oligomeric transmembrane β barrels (TMBs) are used for these applications, but their uniform lumens limit spatial resolution and analyte discrimination. Although monomeric TMBs can be designed using energy-based methods, these approaches remain highly manual and limited to structural design rather than function. Here, we present a generative AI framework for TMB design, with backbone and sequence design models trained on a curated distillation set. We characterized 48 designs spanning 0.7-1.5 nm in diameter, diverse lumen chemistries, and hydrophobic thicknesses. Crystal structures closely match the design models. We demonstrate that our method produces customizable nanopores for ion sensing, DNA translocation, and transport across polymer membranes.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.06.04.729630"&gt;pubmed (preprint) — DOI: 10.64898/2026.06.04.729630&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:a2b8f801-0742-50d1-98bd-6e055cbfbafa</id>
+    <title>A De Novo CO2 Reductase Featuring a Cysteine-Ligated Cobalt Porphyrin Cofactor.</title>
+    <published>2026-07-09T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.1021/jacs.6c07615" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Emily J Radley</name>
+    </author>
+    <author>
+      <name>Alessia C Andrews</name>
+    </author>
+    <author>
+      <name>Indrek Kalvet</name>
+    </author>
+    <author>
+      <name>Yunling Deng</name>
+    </author>
+    <author>
+      <name>Elizabeth L Bell</name>
+    </author>
+    <author>
+      <name>Colin W Levy</name>
+    </author>
+    <author>
+      <name>Mary Ortmayer</name>
+    </author>
+    <author>
+      <name>Derren J Heyes</name>
+    </author>
+    <author>
+      <name>Clare F Megarity</name>
+    </author>
+    <author>
+      <name>Reyes Núñez-Franco</name>
+    </author>
+    <author>
+      <name>Amy E Hutton</name>
+    </author>
+    <author>
+      <name>Yi Lu</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Anthony P Green</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Emily J Radley; Alessia C Andrews; Indrek Kalvet; Yunling Deng; Elizabeth L Bell; Colin W Levy; Mary Ortmayer; Derren J Heyes; Clare F Megarity; Reyes Núñez-Franco; Amy E Hutton; Yi Lu; David Baker; Anthony P Green&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2026-07-09&lt;/p&gt;
+&lt;p&gt;Journal: Journal of the American Chemical Society&lt;/p&gt;
+&lt;p&gt;Modern protein design methods based on deep learning allow generation of customized protein scaffolds with diverse geometries and functionalities. Here we capitalize on these recent advances to develop hyper-thermostable de novo CO2 reductases featuring a cobalt porphyrin IX (CoPPIX) cofactor. CoPPIX-containing enzymes were assembled in vivo through media supplementation with cobalt salts and assessed for photocatalytic CO2 reductase activity. We identified two cysteine-ligated designs that exhibit high activity (&amp;gt;1000 turnovers at rates of up to 25 min-1) while suppressing competing hydrogen evolution pathways. A 2.1 Å crystal structure shows close agreement to the design model with the Co-Cys bond programmed as intended. This study showcases the power of computational protein design in developing artificial enzymes to activate challenging molecules such as CO2.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1021/jacs.6c07615"&gt;pubmed (published) — DOI: 10.1021/jacs.6c07615&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1021/jacs.6c07615"&gt;Published version — DOI: 10.1021/jacs.6c07615&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:8b2144af-f69a-586b-a8c9-cd12e9d5f73e</id>
+    <title>Membrane protein solubilization and structure determination using de novo-designed proteins.</title>
+    <published>2026-07-02T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.1126/science.adr3817" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Ljubica Mihaljević</name>
+    </author>
+    <author>
+      <name>David E Kim</name>
+    </author>
+    <author>
+      <name>Pooja D Bandawane</name>
+    </author>
+    <author>
+      <name>Helen E Eisenach</name>
+    </author>
+    <author>
+      <name>Andrew J Borst</name>
+    </author>
+    <author>
+      <name>Alexis Courbet</name>
+    </author>
+    <author>
+      <name>Connor Weidle</name>
+    </author>
+    <author>
+      <name>Kenneth D Carr</name>
+    </author>
+    <author>
+      <name>Everton Bettin</name>
+    </author>
+    <author>
+      <name>Qiushi Liu</name>
+    </author>
+    <author>
+      <name>Aldo T Trejos</name>
+    </author>
+    <author>
+      <name>Sagardip Majumder</name>
+    </author>
+    <author>
+      <name>Surabhi Kokane</name>
+    </author>
+    <author>
+      <name>Alexander Stevens</name>
+    </author>
+    <author>
+      <name>Edin Muratspahić</name>
+    </author>
+    <author>
+      <name>Thomas Schlichthaerle</name>
+    </author>
+    <author>
+      <name>Marc Expòsit</name>
+    </author>
+    <author>
+      <name>Xinting Li</name>
+    </author>
+    <author>
+      <name>Mila Lamb</name>
+    </author>
+    <author>
+      <name>Analisa Nicole Azcárraga Murray</name>
+    </author>
+    <author>
+      <name>Rashmi Ravichandran</name>
+    </author>
+    <author>
+      <name>Elizabeth C Williams</name>
+    </author>
+    <author>
+      <name>Shuyuan Hu</name>
+    </author>
+    <author>
+      <name>Lynda Stuart</name>
+    </author>
+    <author>
+      <name>Linda Grillová</name>
+    </author>
+    <author>
+      <name>Nicholas R Thomson</name>
+    </author>
+    <author>
+      <name>Michael Landreh</name>
+    </author>
+    <author>
+      <name>Pengxiang Chang</name>
+    </author>
+    <author>
+      <name>Lorenzo Giacani</name>
+    </author>
+    <author>
+      <name>Melissa J Caimano</name>
+    </author>
+    <author>
+      <name>Kelly L Hawley</name>
+    </author>
+    <author>
+      <name>Neil P King</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Ljubica Mihaljević; David E Kim; Pooja D Bandawane; Helen E Eisenach; Andrew J Borst; Alexis Courbet; Connor Weidle; Kenneth D Carr; Everton Bettin; Qiushi Liu; Aldo T Trejos; Sagardip Majumder; Surabhi Kokane; Alexander Stevens; Edin Muratspahić; Thomas Schlichthaerle; Marc Expòsit; Xinting Li; Mila Lamb; Analisa Nicole Azcárraga Murray; Rashmi Ravichandran; Elizabeth C Williams; Shuyuan Hu; Lynda Stuart; Linda Grillová; Nicholas R Thomson; Michael Landreh; Pengxiang Chang; Lorenzo Giacani; Melissa J Caimano; Kelly L Hawley; Neil P King; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2026-07-02&lt;/p&gt;
+&lt;p&gt;Journal: Science (New York, N.Y.)&lt;/p&gt;
+&lt;p&gt;Developing therapies and vaccines against integral membrane proteins is hindered by their extensive hydrophobic surfaces, which complicate production and structural analysis. Here, we describe a general deep learning-based design approach for solubilizing native membrane proteins while preserving their sequence, fold, active-site, and ligand-binding properties. Genetically encoded de novo protein WRAPs [water-soluble RFdiffused amphipathic proteins] surround the lipid-interacting hydrophobic surfaces, rendering them thermostable and water-soluble without the need for detergents. We design WRAPs for both monomeric and oligomeric beta-barrel outer membrane proteins and helical multipass transmembrane proteins. A 2.95-angstrom-resolution cryo-electron microscopy structure of WRAPed mycobacterial porin demonstrates that WRAPs can be used for the structural determination of membrane proteins in solution. As a step toward syphilis vaccine development, we generated soluble versions of Treponema pallidum antigens.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1126/science.adr3817"&gt;pubmed (published) — DOI: 10.1126/science.adr3817&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1126/science.adr3817"&gt;Published version — DOI: 10.1126/science.adr3817&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:1aaf3a79-c768-5d6d-81db-72efb05de2b4</id>
+    <title>Programmed synthesis of mesoporous protein crystals in cellular reactors.</title>
+    <published>2026-06-15T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.1038/s41565-026-02198-x" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Hongru Yang</name>
+    </author>
+    <author>
+      <name>Dian-Zhao Lin</name>
+    </author>
+    <author>
+      <name>Zhe Li</name>
+    </author>
+    <author>
+      <name>Yuqing Yan</name>
+    </author>
+    <author>
+      <name>Zuo-Han Zhao</name>
+    </author>
+    <author>
+      <name>Byeongdu Lee</name>
+    </author>
+    <author>
+      <name>Chang Woo Song</name>
+    </author>
+    <author>
+      <name>Shunzhi Wang</name>
+    </author>
+    <author>
+      <name>Jiaxi Lu</name>
+    </author>
+    <author>
+      <name>Yimei Wang</name>
+    </author>
+    <author>
+      <name>Yongzhi Sun</name>
+    </author>
+    <author>
+      <name>Ken Livi</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Yayuan Liu</name>
+    </author>
+    <author>
+      <name>Dingchang Lin</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Hongru Yang; Dian-Zhao Lin; Zhe Li; Yuqing Yan; Zuo-Han Zhao; Byeongdu Lee; Chang Woo Song; Shunzhi Wang; Jiaxi Lu; Yimei Wang; Yongzhi Sun; Ken Livi; David Baker; Yayuan Liu; Dingchang Lin&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2026-06-15&lt;/p&gt;
+&lt;p&gt;Journal: Nature nanotechnology&lt;/p&gt;
+&lt;p&gt;Protein crystals are naturally derived mesoporous materials with versatile structures and physicochemical properties. Here we introduce an intracellular synthesis platform that enables controllable and programmable protein crystallization. In live cells, we show that, after initial nucleation, steady protein expression governs crystal growth, yielding predictable, tunable dynamics in live cells. Exploiting this feature, we combined HaloTag and click chemistries to achieve modular, programmable immobilization of diverse guest materials with spatial patterning down to ~100 nm resolution. We further demonstrated the sequential release of immobilized materials in physiologically relevant fluids. As a proof of concept, we programmed particles to carry human fibroblast growth factors in distinct layers, which elicited designed oscillatory Akt signalling patterns in cell culture. This work outlines a programmable method for producing mesoporous materials, with possible applications in catalysis and biomedicine.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41565-026-02198-x"&gt;pubmed (published) — DOI: 10.1038/s41565-026-02198-x&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41565-026-02198-x"&gt;Published version — DOI: 10.1038/s41565-026-02198-x&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:dd57553d-6826-58d0-83b5-2d4392ad8bb2</id>
+    <title>Systems-Scale Structural Modeling Reveals the Germline Architecture of Immunodominance.</title>
+    <published>2026-06-04T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.64898/2026.06.02.729678" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Ellen L Shrock</name>
+    </author>
+    <author>
+      <name>Eric Sun</name>
+    </author>
+    <author>
+      <name>Amrita Dhindsa</name>
+    </author>
+    <author>
+      <name>Max H Witwer</name>
+    </author>
+    <author>
+      <name>Zhou Yu</name>
+    </author>
+    <author>
+      <name>Danton Ivanochko</name>
+    </author>
+    <author>
+      <name>I-Hsiu Lee</name>
+    </author>
+    <author>
+      <name>Brian Coventry</name>
+    </author>
+    <author>
+      <name>Maria Borras Gonzalez</name>
+    </author>
+    <author>
+      <name>Jean-Philippe Julien</name>
+    </author>
+    <author>
+      <name>Stephen J Elledge</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Ellen L Shrock; Eric Sun; Amrita Dhindsa; Max H Witwer; Zhou Yu; Danton Ivanochko; I-Hsiu Lee; Brian Coventry; Maria Borras Gonzalez; Jean-Philippe Julien; Stephen J Elledge; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Preprint date: 2026-06-04&lt;/p&gt;
+&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
+&lt;p&gt;The adaptive immune system generates diverse antibodies to protect against infection, yet responses often focus on a limited number of antigenic sites, a phenomenon called immunodominance. Using the SARS-CoV-2 receptor-binding domain as a model, this study combines large-scale antibody sequencing, deep mutational scanning, and AlphaFold 3 structural modeling to investigate the basis of immunodominant epitope selection. The results show that germline-encoded antibody features are a primary driver of immunodominance. Specifically, 76% of RBD-targeting antibodies display conserved gene segment usage and/or germline-encoded HCDR3 motifs. Structural analyses identified recurrent germline-encoded residues within these regions that interact with immunodominant epitopes, and mutating these residues eliminated binding. Mutations in SARS-CoV-2 variants frequently disrupt these interactions and are associated with immune escape; other mutations enable germline-mediated recognition and generate new immunodominant epitopes. These findings indicate that innate features, rather than diverse somatic mutations, determine binding specificity for the large majority of the antibody response and underlie antibody immunodominance.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.06.02.729678"&gt;pubmed (preprint) — DOI: 10.64898/2026.06.02.729678&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:f5e0a43f-30b6-585e-815c-5653d24bb6a2</id>
+    <title>De Novo Design of Near-Infrared Fluorescence-Activating Proteins.</title>
+    <published>2026-06-02T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.1021/jacs.5c19594" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Yulai Liu</name>
+    </author>
+    <author>
+      <name>Bernardo A Arús</name>
+    </author>
+    <author>
+      <name>Kanuj Mishra</name>
+    </author>
+    <author>
+      <name>Taolin Wang</name>
+    </author>
+    <author>
+      <name>Kun Zhang</name>
+    </author>
+    <author>
+      <name>Michael P Luciano</name>
+    </author>
+    <author>
+      <name>Venu G Bandi</name>
+    </author>
+    <author>
+      <name>Akaash Kumar</name>
+    </author>
+    <author>
+      <name>Ziyu Guo</name>
+    </author>
+    <author>
+      <name>Yun Guan</name>
+    </author>
+    <author>
+      <name>Matthew J Bick</name>
+    </author>
+    <author>
+      <name>Miaomiao Xu</name>
+    </author>
+    <author>
+      <name>Jakob Lingg</name>
+    </author>
+    <author>
+      <name>Jessica Bae</name>
+    </author>
+    <author>
+      <name>Alex Kang</name>
+    </author>
+    <author>
+      <name>Stacey R Gerben</name>
+    </author>
+    <author>
+      <name>Asim K Bera</name>
+    </author>
+    <author>
+      <name>Joshua C Vaughan</name>
+    </author>
+    <author>
+      <name>James D Manton</name>
+    </author>
+    <author>
+      <name>Emmanuel Derivery</name>
+    </author>
+    <author>
+      <name>Martin J Schnermann</name>
+    </author>
+    <author>
+      <name>Andre C Stiel</name>
+    </author>
+    <author>
+      <name>Oliver T Bruns</name>
+    </author>
+    <author>
+      <name>Chunfu Xu</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Yulai Liu; Bernardo A Arús; Kanuj Mishra; Taolin Wang; Kun Zhang; Michael P Luciano; Venu G Bandi; Akaash Kumar; Ziyu Guo; Yun Guan; Matthew J Bick; Miaomiao Xu; Jakob Lingg; Jessica Bae; Alex Kang; Stacey R Gerben; Asim K Bera; Joshua C Vaughan; James D Manton; Emmanuel Derivery; Martin J Schnermann; Andre C Stiel; Oliver T Bruns; Chunfu Xu; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2026-06-02&lt;/p&gt;
+&lt;p&gt;Journal: Journal of the American Chemical Society&lt;/p&gt;
+&lt;p&gt;Protein-based fluorescence imaging is a powerful modality for visualizing diverse biological processes. Biological imaging in the near-infrared (NIR, 800-1000 nm) and shortwave infrared (SWIR, 1000-2000 nm) ranges confers a number of photophysical advantages, but remains a challenge in practice due to the dearth of suitable protein probes in these optical windows. To address this limitation, we sought to develop a general approach integrating computational protein design with organic synthesis for creating long-wavelength fluorescence-activating proteins from scratch. We used this approach to de novo design proteins that specifically bind to synthetic merocyanine dyes, forming Schiff base covalent linkages, which when protonated activate fluorescence with large redshifts in both excitation and emission wavelengths. We describe a designed far-red fluorescence-activating protein, MC7BP34, with a brightness greater than that of existing fluorescent proteins in a similar wavelength range, and an NIR design MC9BP81 with excitation at 892 nm and emission extending into the SWIR range with higher contrast and imaging sensitivity in vivo than the previously developed iRFP720 (excitation 672 nm) owing to the reduced tissue autofluorescence at longer wavelengths. Our results are a substantial step toward genetically encodable probes in the SWIR region, and our approach lays the groundwork for the development of NIR biosensors for specific biological applications.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1021/jacs.5c19594"&gt;pubmed (published) — DOI: 10.1021/jacs.5c19594&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1021/jacs.5c19594"&gt;Published version — DOI: 10.1021/jacs.5c19594&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:b4d914f5-7be9-589c-bd7b-7de03178249f</id>
+    <title>De novo design of miniproteins targeting GPCRs.</title>
+    <published>2026-05-21T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.1038/s41586-026-10656-8" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Edin Muratspahić</name>
+    </author>
+    <author>
+      <name>David Feldman</name>
+    </author>
+    <author>
+      <name>David E Kim</name>
+    </author>
+    <author>
+      <name>Xiangli Qu</name>
+    </author>
+    <author>
+      <name>Ana-Maria Bratovianu</name>
+    </author>
+    <author>
+      <name>Paula Rivera-Sánchez</name>
+    </author>
+    <author>
+      <name>Jan Hendrik Voss</name>
+    </author>
+    <author>
+      <name>Emil P T Hertz</name>
+    </author>
+    <author>
+      <name>Mads Jeppesen</name>
+    </author>
+    <author>
+      <name>Federica Dimitri</name>
+    </author>
+    <author>
+      <name>Kensuke Sakamoto</name>
+    </author>
+    <author>
+      <name>Amrita Nallathambi</name>
+    </author>
+    <author>
+      <name>Pia Peceli</name>
+    </author>
+    <author>
+      <name>Jianjun Cao</name>
+    </author>
+    <author>
+      <name>Brian P Cary</name>
+    </author>
+    <author>
+      <name>Matthew J Belousoff</name>
+    </author>
+    <author>
+      <name>Peter Keov</name>
+    </author>
+    <author>
+      <name>Phuc N H Trinh</name>
+    </author>
+    <author>
+      <name>Qingchao Chen</name>
+    </author>
+    <author>
+      <name>Yue Ren</name>
+    </author>
+    <author>
+      <name>Justyn Fine</name>
+    </author>
+    <author>
+      <name>Sudha Mishra</name>
+    </author>
+    <author>
+      <name>Annu Dalal</name>
+    </author>
+    <author>
+      <name>Shachie Sinha</name>
+    </author>
+    <author>
+      <name>Ramanuj Banerjee</name>
+    </author>
+    <author>
+      <name>Manisankar Ganguly</name>
+    </author>
+    <author>
+      <name>Karthik Varappalayam Karuppusamy</name>
+    </author>
+    <author>
+      <name>Isaac Sappington</name>
+    </author>
+    <author>
+      <name>Thomas Schlichthaerle</name>
+    </author>
+    <author>
+      <name>Jason Z Zhang</name>
+    </author>
+    <author>
+      <name>Arvind Pillai</name>
+    </author>
+    <author>
+      <name>Brian Coventry</name>
+    </author>
+    <author>
+      <name>Ljubica Mihaljević</name>
+    </author>
+    <author>
+      <name>Magnus S Bauer</name>
+    </author>
+    <author>
+      <name>Susana Vázquez Torres</name>
+    </author>
+    <author>
+      <name>Amir Motmaen</name>
+    </author>
+    <author>
+      <name>Gyu Rie Lee</name>
+    </author>
+    <author>
+      <name>Long Tran</name>
+    </author>
+    <author>
+      <name>Xinru Wang</name>
+    </author>
+    <author>
+      <name>Inna Goreshnik</name>
+    </author>
+    <author>
+      <name>Dionne K Vafeados</name>
+    </author>
+    <author>
+      <name>Justin E Svendsen</name>
+    </author>
+    <author>
+      <name>Parisa Hosseinzadeh</name>
+    </author>
+    <author>
+      <name>Nicolai Lindegaard</name>
+    </author>
+    <author>
+      <name>Matthäus Brandt</name>
+    </author>
+    <author>
+      <name>Yann Waltenspühl</name>
+    </author>
+    <author>
+      <name>Kristine Deibler</name>
+    </author>
+    <author>
+      <name>Lukas Deweid</name>
+    </author>
+    <author>
+      <name>Anja Bennett</name>
+    </author>
+    <author>
+      <name>Jendrik Schöppe</name>
+    </author>
+    <author>
+      <name>Tiantang Dong</name>
+    </author>
+    <author>
+      <name>Xiaoli Yan</name>
+    </author>
+    <author>
+      <name>Luke Oostdyk</name>
+    </author>
+    <author>
+      <name>William Cao</name>
+    </author>
+    <author>
+      <name>Lakshmi Anantharaman</name>
+    </author>
+    <author>
+      <name>Johan J Weisser</name>
+    </author>
+    <author>
+      <name>Jesper Frank Bastlund</name>
+    </author>
+    <author>
+      <name>Christoffer Bundgaard</name>
+    </author>
+    <author>
+      <name>Ayodeji A Asuni</name>
+    </author>
+    <author>
+      <name>Justin G English</name>
+    </author>
+    <author>
+      <name>Lance J Stewart</name>
+    </author>
+    <author>
+      <name>Lauren Halloran</name>
+    </author>
+    <author>
+      <name>Jamie B Spangler</name>
+    </author>
+    <author>
+      <name>André Lieber</name>
+    </author>
+    <author>
+      <name>Arun K Shukla</name>
+    </author>
+    <author>
+      <name>Patrick M Sexton</name>
+    </author>
+    <author>
+      <name>Bryan L Roth</name>
+    </author>
+    <author>
+      <name>Brian E Krumm</name>
+    </author>
+    <author>
+      <name>Denise Wootten</name>
+    </author>
+    <author>
+      <name>Christopher G Tate</name>
+    </author>
+    <author>
+      <name>Christoffer Norn</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Edin Muratspahić; David Feldman; David E Kim; Xiangli Qu; Ana-Maria Bratovianu; Paula Rivera-Sánchez; Jan Hendrik Voss; Emil P T Hertz; Mads Jeppesen; Federica Dimitri; Kensuke Sakamoto; Amrita Nallathambi; Pia Peceli; Jianjun Cao; Brian P Cary; Matthew J Belousoff; Peter Keov; Phuc N H Trinh; Qingchao Chen; Yue Ren; Justyn Fine; Sudha Mishra; Annu Dalal; Shachie Sinha; Ramanuj Banerjee; Manisankar Ganguly; Karthik Varappalayam Karuppusamy; Isaac Sappington; Thomas Schlichthaerle; Jason Z Zhang; Arvind Pillai; Brian Coventry; Ljubica Mihaljević; Magnus S Bauer; Susana Vázquez Torres; Amir Motmaen; Gyu Rie Lee; Long Tran; Xinru Wang; Inna Goreshnik; Dionne K Vafeados; Justin E Svendsen; Parisa Hosseinzadeh; Nicolai Lindegaard; Matthäus Brandt; Yann Waltenspühl; Kristine Deibler; Lukas Deweid; Anja Bennett; Jendrik Schöppe; Tiantang Dong; Xiaoli Yan; Luke Oostdyk; William Cao; Lakshmi Anantharaman; Johan J Weisser; Jesper Frank Bastlund; Christoffer Bundgaard; Ayodeji A Asuni; Justin G English; Lance J Stewart; Lauren Halloran; Jamie B Spangler; André Lieber; Arun K Shukla; Patrick M Sexton; Bryan L Roth; Brian E Krumm; Denise Wootten; Christopher G Tate; Christoffer Norn; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2026-05-21&lt;/p&gt;
+&lt;p&gt;Journal: Nature&lt;/p&gt;
+&lt;p&gt;G-protein-coupled receptors (GPCRs) have key roles in physiology and are central targets for drug discovery and development1,2, but the design of protein agonists and antagonists has been challenging as GPCRs are integral membrane proteins and conformationally dynamic3-6. Here we describe de novo design methods and a high-throughput receptor-diversion microscopy-based screen for generating GPCR-binding miniproteins with high affinity, potency and selectivity. We design miniprotein agonists that activate receptors involved in itch and pain, as well as antagonists that inhibit receptors implicated in cancer, metabolic disorders such as diabetes and obesity, and migraines. The cryo-electron microscopy (cryo-EM) structures of five receptor-bound designs are close to the computational design models. A designed chemokine receptor antagonist mobilizes haematopoietic stem and progenitor cells in vivo at a level comparable to a clinically used drug, with fewer adverse effects.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-026-10656-8"&gt;pubmed (published) — DOI: 10.1038/s41586-026-10656-8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-026-10656-8"&gt;Published version — DOI: 10.1038/s41586-026-10656-8&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:b65aaefe-7249-50fc-9a63-9e2901cab100</id>
+    <title>Design of one-component quasisymmetric protein nanocages.</title>
+    <published>2026-05-20T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.1038/s41586-026-10554-z" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Sangmin Lee</name>
+    </author>
+    <author>
+      <name>David Chmielewski</name>
+    </author>
+    <author>
+      <name>Shunzhi Wang</name>
+    </author>
+    <author>
+      <name>Ryan D Kibler</name>
+    </author>
+    <author>
+      <name>Jisu Shin</name>
+    </author>
+    <author>
+      <name>Ann Carr</name>
+    </author>
+    <author>
+      <name>Young-Jun Park</name>
+    </author>
+    <author>
+      <name>David Veesler</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Sangmin Lee; David Chmielewski; Shunzhi Wang; Ryan D Kibler; Jisu Shin; Ann Carr; Young-Jun Park; David Veesler; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2026-05-20&lt;/p&gt;
+&lt;p&gt;Journal: Nature&lt;/p&gt;
+&lt;p&gt;Although the largest completely symmetric closed assembly that can be built from a single building block is the 60-subunit icosahedron1, viruses can form capsid assemblies with hundreds to thousands of identical subunits through quasisymmetry-using the same subunit in symmetrically non-equivalent locations in the assembly2-5. Quasisymmetric one-component assemblies could have considerable advantages for delivery of biologics because of the large internal volume achieved using only a single building block, but the design of these structures is challenging because of the inherent complexity of designing chemically identical subunits to both adopt different conformations and make different interactions in the distinct symmetrically non-equivalent locations. Here we conjectured that quasisymmetry could arise from spontaneous symmetry breaking in a system of strongly interacting building blocks with programmed curvatures and show that this principle, coupled with a design approach combining a parametric representation of cage architecture with RoseTTAFold diffusion generative modelling, can generate a rich array of quasisymmetric assemblies. Electron microscopy confirmed the structures of designed 3 ≤ T ≤ 36 cages with 180-2,160 subunits and diameters from 68 nm to 220 nm, and designed 1 &amp;lt; T &amp;lt; 3 non-icosahedral clathrin-like assemblies. Cryogenic electron microscopy structure determination showed how the global symmetry breaking associated with the formation of both hexons and pentons in the T = 3 architecture arises from symmetry breaking in the designed subunit interface. Our results indicate how the detailed architecture of complex systems can be controlled by designing overall system properties, and our approach provides a roadmap for designing large quasisymmetric assemblies for biologics delivery and other applications.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-026-10554-z"&gt;pubmed (published) — DOI: 10.1038/s41586-026-10554-z&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-026-10554-z"&gt;Published version — DOI: 10.1038/s41586-026-10554-z&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:e4936f5c-acab-55fa-addb-a71d44527dee</id>
+    <title>De novo design of quasisymmetric two-component protein cages.</title>
+    <published>2026-05-20T00:00:00Z</published>
+    <updated>2026-09-11T05:51:48Z</updated>
+    <link href="https://doi.org/10.1038/s41586-026-10464-0" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Shunzhi Wang</name>
+    </author>
+    <author>
+      <name>Ying Xie</name>
+    </author>
+    <author>
+      <name>David Chmielewski</name>
+    </author>
+    <author>
+      <name>Connor Weidle</name>
+    </author>
+    <author>
+      <name>Tong Shu</name>
+    </author>
+    <author>
+      <name>Green Ahn</name>
+    </author>
+    <author>
+      <name>Ryan D Kibler</name>
+    </author>
+    <author>
+      <name>Cindy Hernandez</name>
+    </author>
+    <author>
+      <name>Wei Chen</name>
+    </author>
+    <author>
+      <name>David Camilo Duran</name>
+    </author>
+    <author>
+      <name>Ann Carr</name>
+    </author>
+    <author>
+      <name>Asim K Bera</name>
+    </author>
+    <author>
+      <name>Sangmin Lee</name>
+    </author>
+    <author>
+      <name>Justin Decarreau</name>
+    </author>
+    <author>
+      <name>Alex Kang</name>
+    </author>
+    <author>
+      <name>Evans Brackenbrough</name>
+    </author>
+    <author>
+      <name>Emily Joyce</name>
+    </author>
+    <author>
+      <name>Kejia Wu</name>
+    </author>
+    <author>
+      <name>Andrew J Borst</name>
+    </author>
+    <author>
+      <name>Andrew Favor</name>
+    </author>
+    <author>
+      <name>Buwei Huang</name>
+    </author>
+    <author>
+      <name>Frank DiMaio</name>
+    </author>
+    <author>
+      <name>Liam J Holt</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Shunzhi Wang; Ying Xie; David Chmielewski; Connor Weidle; Tong Shu; Green Ahn; Ryan D Kibler; Cindy Hernandez; Wei Chen; David Camilo Duran; Ann Carr; Asim K Bera; Sangmin Lee; Justin Decarreau; Alex Kang; Evans Brackenbrough; Emily Joyce; Kejia Wu; Andrew J Borst; Andrew Favor; Buwei Huang; Frank DiMaio; Liam J Holt; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2026-05-20&lt;/p&gt;
+&lt;p&gt;Journal: Nature&lt;/p&gt;
+&lt;p&gt;Quasisymmetric icosahedral viral capsids achieve larger sizes than possible with strictly symmetric icosahedra by tessellating pentagons and hexagons using a single subunit that adopts different conformations in symmetrically non-equivalent locations1,2. Recapitulating such quasisymmetric architectures through computational design is a considerable challenge in nanomaterials engineering. Here we introduce a computational design strategy based on geometric frustration to generate two-component, quasisymmetric protein cages with customizable properties. We designed complementary trimeric and dimeric protein components that co-assemble into positively curved local hexagonal assemblies. Hexagonal lattices cannot tile spherical surfaces; instead, the components form closed sphere-like cage assemblies through incorporation of curvature-inducing pentagonal defects, as evidenced by electron microscopy. By designing dimers that encode different local curvatures, we programmed cage dimensions ranging from 40 to over 200 nm in diameter and with molecular weights from 2 MDa to over 50 MDa, comparable with natural virus capsids. We further functionalized these large cages with additional protein domains to enable ribonucleoprotein cargo loading and cellular uptake. Fluorescently labelled cage assemblies expressed in mammalian cells function as rheological probes and cargo recruiters, enabling a systematic study of size-dependent cytoplasmic diffusion and protein localization. Thus, the quasi-symmetry that has long fascinated structural biologists can now be achieved by computational protein design, with immediate applications to biologics delivery and molecular cell biology.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-026-10464-0"&gt;pubmed (published) — DOI: 10.1038/s41586-026-10464-0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-026-10464-0"&gt;Published version — DOI: 10.1038/s41586-026-10464-0&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:836344cb-e68a-56c4-8b8a-67ef581b60f2</id>
+    <title>De novo design of a macrocycle-induced dimerization system for cellular control.</title>
+    <published>2026-04-26T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.1038/s41467-026-71345-8" rel="alternate" />
+    <link href="https://doi.org/10.64898/2026.04.24.720480" rel="related" title="pubmed" />
+    <category term="published" />
+    <author>
+      <name>Stephanie Hanna</name>
+    </author>
+    <author>
+      <name>Patrick J Salveson</name>
+    </author>
+    <author>
+      <name>Basile Wicky</name>
+    </author>
+    <author>
+      <name>Madison A Kennedy</name>
+    </author>
+    <author>
+      <name>Derrick R Hicks</name>
+    </author>
+    <author>
+      <name>Carolina Moller</name>
+    </author>
+    <author>
+      <name>Suna Cheng</name>
+    </author>
+    <author>
+      <name>Xinting Li</name>
+    </author>
+    <author>
+      <name>Mohamad Abedi</name>
+    </author>
+    <author>
+      <name>Brian Coventry</name>
+    </author>
+    <author>
+      <name>Meerit Y Said</name>
+    </author>
+    <author>
+      <name>Asim K Bera</name>
+    </author>
+    <author>
+      <name>Alex Kang</name>
+    </author>
+    <author>
+      <name>Barry L Stoddard</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Stephanie Hanna; Patrick J Salveson; Basile Wicky; Madison A Kennedy; Derrick R Hicks; Carolina Moller; Suna Cheng; Xinting Li; Mohamad Abedi; Brian Coventry; Meerit Y Said; Asim K Bera; Alex Kang; Barry L Stoddard; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2026-05-18&lt;/p&gt;
+&lt;p&gt;Journal: Nature communications&lt;/p&gt;
+&lt;p&gt;Investigating and manipulating cellular events requires precise control of protein function. To enable control over cellular processes, we set out to design a chemically induced dimerization (CID) system consisting of a de novo-designed ligand and protein pair. Here, we describe the design of a C2 symmetric membrane-permeable macrocyclic peptide and a cognate protein homodimer which binds the macrocycle through a large interface with both chains. The designed homodimer binds the macrocycle with a KD of 36 nM, and the x-ray crystal structure of the protein homodimer-macrocycle complex is very close to the computational design model, with the C2 axis of the macrocycle aligned with the homodimer C2 axis. Transcriptional and split luciferase assays in mammalian cells demonstrate conditional control over both a reporter gene expression and luciferase reconstitution.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.04.24.720480"&gt;pubmed (preprint) — DOI: 10.64898/2026.04.24.720480&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41467-026-71345-8"&gt;pubmed (published) — DOI: 10.1038/s41467-026-71345-8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41467-026-71345-8"&gt;Published version — DOI: 10.1038/s41467-026-71345-8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pubmed.ncbi.nlm.nih.gov/42151133/"&gt;Published version&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:b2250367-ed96-58b8-9a5d-46cdfc1bc714</id>
+    <title>Reprogramming insulin receptor activation with a de novo agonist to overcome severe insulin resistance.</title>
+    <published>2026-05-07T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.64898/2026.05.04.722722" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Albert Hung</name>
+    </author>
+    <author>
+      <name>Xinru Wang</name>
+    </author>
+    <author>
+      <name>Michael Gao</name>
+    </author>
+    <author>
+      <name>Michelle Ng</name>
+    </author>
+    <author>
+      <name>Denys Oliinyk</name>
+    </author>
+    <author>
+      <name>Riley Weaver</name>
+    </author>
+    <author>
+      <name>Elisabeth Zollbrecht</name>
+    </author>
+    <author>
+      <name>Sarah Cardoso</name>
+    </author>
+    <author>
+      <name>Gregory Sebastien Ronel</name>
+    </author>
+    <author>
+      <name>Chloe Paolucci</name>
+    </author>
+    <author>
+      <name>Jianxiang Ye</name>
+    </author>
+    <author>
+      <name>Qing R Fan</name>
+    </author>
+    <author>
+      <name>Elizabeth Rhea</name>
+    </author>
+    <author>
+      <name>Matthias Mann</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Domenico Accili</name>
+    </author>
+    <author>
+      <name>Eunhee Choi</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Albert Hung; Xinru Wang; Michael Gao; Michelle Ng; Denys Oliinyk; Riley Weaver; Elisabeth Zollbrecht; Sarah Cardoso; Gregory Sebastien Ronel; Chloe Paolucci; Jianxiang Ye; Qing R Fan; Elizabeth Rhea; Matthias Mann; David Baker; Domenico Accili; Eunhee Choi&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Preprint date: 2026-05-07&lt;/p&gt;
+&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
+&lt;p&gt;Computational protein engineering provides a powerful approach to address longstanding clinical challenges. Severe insulin resistance syndromes caused by mutations in the insulin receptor (IR) are life-threatening disorders for which effective long-term therapies remain lacking. Here, we define the in vivo activity and therapeutic potential of RF-409, a de novo-designed IR agonist that activates the receptor through a mechanism distinct from insulin. RF-409 exhibits markedly prolonged circulation compared to insulin and produces sustained improvements in glucose homeostasis without detectable adverse effects on body composition or liver function. In a patient-derived IR D707A mouse model of severe insulin resistance, RF-409-but not insulin-activates the mutant receptor, restoring glucose regulation and ameliorating hyperglycemia, hyperinsulinemia, lipoatrophy, and pancreatic atrophy. Mechanistically, RF-409 engages the IR through a noncanonical binding geometry while stabilizing an active conformation resembling that induced by insulin. Phosphoproteomic profiling shows that RF-409 elicits broadly insulin-like signaling with distinct temporal features in receptor-proximal regulation. Together, these findings establish a framework for reactivating dysfunctional receptors and suggest broader applications beyond rare receptoropathies, including diabetes and liver disease.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.05.04.722722"&gt;pubmed (preprint) — DOI: 10.64898/2026.05.04.722722&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:66e03293-0487-5d55-bcbd-5b2a86ff1da9</id>
+    <title>Designed Minibinders Rewire Receptor Signaling to Enable Functional Human Myogenic Reprogramming.</title>
+    <published>2026-04-27T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.64898/2026.04.26.720818" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Riya Keshri</name>
+    </author>
+    <author>
+      <name>Zachary Foreman</name>
+    </author>
+    <author>
+      <name>Phillip Barrett</name>
+    </author>
+    <author>
+      <name>Alexander Robinson</name>
+    </author>
+    <author>
+      <name>Gabriela Reyes</name>
+    </author>
+    <author>
+      <name>Ashish Phal</name>
+    </author>
+    <author>
+      <name>Aditya KrishnaKumar</name>
+    </author>
+    <author>
+      <name>Ethan Narog</name>
+    </author>
+    <author>
+      <name>Melodie Chiu</name>
+    </author>
+    <author>
+      <name>Shruti Jain</name>
+    </author>
+    <author>
+      <name>Xinru Wang</name>
+    </author>
+    <author>
+      <name>David Lee</name>
+    </author>
+    <author>
+      <name>Marc Exposit</name>
+    </author>
+    <author>
+      <name>Mohamad Adedi</name>
+    </author>
+    <author>
+      <name>Alec St Smith</name>
+    </author>
+    <author>
+      <name>Sanjay Srivatsan</name>
+    </author>
+    <author>
+      <name>Jay Shendure</name>
+    </author>
+    <author>
+      <name>Julie Mathieu</name>
+    </author>
+    <author>
+      <name>David L Mack</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Hannele Ruohola-Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Riya Keshri; Zachary Foreman; Phillip Barrett; Alexander Robinson; Gabriela Reyes; Ashish Phal; Aditya KrishnaKumar; Ethan Narog; Melodie Chiu; Shruti Jain; Xinru Wang; David Lee; Marc Exposit; Mohamad Adedi; Alec St Smith; Sanjay Srivatsan; Jay Shendure; Julie Mathieu; David L Mack; David Baker; Hannele Ruohola-Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Preprint date: 2026-04-27&lt;/p&gt;
+&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
+&lt;p&gt;Sarcopenia, loss of muscle mass is a considerable health burden that demands immediate societal attention. Direct myogenic somatic cell reprogramming, a potential muscle regeneration method is constrained by an inability to control the signaling logic that governs cell fate. Here, we show that this barrier can be overcome using AI-designed receptor modulators. Screening de novo minibinders, we identify a synthetic protein cocktail, C6-DPC, that drives efficient human fibroblast-to-muscle transdifferentiation with robust structural and metabolic maturation. C6-DPC reprograms extracellular signaling by activating pro-myogenic FGFR1/2c pathways while suppressing anti-myogenic inputs through ALK1 and TGFBR2; targeted depletion of ALK1 is sufficient to lower the reprogramming barrier. Inflammatory signaling via gp130 emerges as a dominant checkpoint, and its inhibition further enhances conversion. Engineered tissues generate high twitch and tetanic forces in both wild-type and dystrophin-deficient human cells. These findings demonstrate that programmable synthetic ligands can rewrite receptor-level signaling to direct cell fate and enable functional tissue regeneration.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.04.26.720818"&gt;pubmed (preprint) — DOI: 10.64898/2026.04.26.720818&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:23352213-1274-5fd8-9370-3d147b52c7f9</id>
+    <title>Using experimental results of protein design to guide biomolecular energy-function development.</title>
+    <published>2026-04-22T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.1371/journal.pcbi.1014215" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Hugh K Haddox</name>
+    </author>
+    <author>
+      <name>Gabriel J Rocklin</name>
+    </author>
+    <author>
+      <name>Francis C Motta</name>
+    </author>
+    <author>
+      <name>Devin Strickland</name>
+    </author>
+    <author>
+      <name>Samer F Halabiya</name>
+    </author>
+    <author>
+      <name>Cameron Cordray</name>
+    </author>
+    <author>
+      <name>Hahnbeom Park</name>
+    </author>
+    <author>
+      <name>Eric Klavins</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Frank DiMaio</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Hugh K Haddox; Gabriel J Rocklin; Francis C Motta; Devin Strickland; Samer F Halabiya; Cameron Cordray; Hahnbeom Park; Eric Klavins; David Baker; Frank DiMaio&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2026-04-22&lt;/p&gt;
+&lt;p&gt;Journal: PLoS computational biology&lt;/p&gt;
+&lt;p&gt;Computational models of macromolecules have many applications in biochemistry, but physical inaccuracies limit their utility. One class of models uses energy functions rooted in classical mechanics. The standard datasets used to train these models are limited in diversity, pointing to a need for new training data. Here, we sought to explore a new paradigm for training an energy function, where the Rosetta energy function was used to design de novo proteins. Experimental results on these designs were then used to identify failure modes of design, which were subsequently used as a &amp;quot;guiding principle&amp;quot; to retrain the energy function. Specifically, we examined a diverse set of de novo protein designs experimentally tested for their ability to stably fold, identifying unstable designs that were predicted to be stable by the Rosetta energy function. Using deep mutational scanning, we identified single amino-acid mutations that rescued the stability of these designs, providing insight into common failure modes of the energy function. We identified one key failure mode, involving steric clashing in protein cores. We identified similar overpacking when using Rosetta to refine high-resolution protein crystal structures, quantified the degree of overpacking, and refit a small set of energy-function parameters to better recapitulate native-like packing. Following fitting, we largely eliminated the failure mode in the refinement task, while retaining performance on other benchmarks, resulting in an updated version of the Rosetta energy function. This work shows how learning from protein designs can guide energy-function development.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1371/journal.pcbi.1014215"&gt;pubmed (published) — DOI: 10.1371/journal.pcbi.1014215&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1371/journal.pcbi.1014215"&gt;Published version — DOI: 10.1371/journal.pcbi.1014215&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:80609d87-57c9-52c8-b54f-ae399f4823ec</id>
+    <title>Label-free Imaging of Single-Biomolecule Structure and Interaction by Stimulated Raman Photothermal Encoded Scattering.</title>
+    <published>2026-04-09T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/41994174/" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Pin-Tian Lyu</name>
+    </author>
+    <author>
+      <name>Yifan Zhu</name>
+    </author>
+    <author>
+      <name>Qing Xia</name>
+    </author>
+    <author>
+      <name>Guangrui Ding</name>
+    </author>
+    <author>
+      <name>Arvind Pillai</name>
+    </author>
+    <author>
+      <name>Xinru Wang</name>
+    </author>
+    <author>
+      <name>Jianpeng Ao</name>
+    </author>
+    <author>
+      <name>Haonan Lin</name>
+    </author>
+    <author>
+      <name>Lulu Jiang</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Ji-Xin Cheng</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Pin-Tian Lyu; Yifan Zhu; Qing Xia; Guangrui Ding; Arvind Pillai; Xinru Wang; Jianpeng Ao; Haonan Lin; Lulu Jiang; David Baker; Ji-Xin Cheng&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Preprint date: 2026-04-09&lt;/p&gt;
+&lt;p&gt;Journal: ArXiv&lt;/p&gt;
+&lt;p&gt;Current single molecule methods either rely on fluorescence or lack chemical information. Here we report stimulated Raman photothermal encoded scattering (SRPSCAT) microscopy for quantitative bond-selective imaging of single-biomolecule structures and interactions in native environments. In this approach, scattering of the target molecule is modulated by the deposited energy from stimulated Raman gain and loss processes, thereby encoding vibrational spectroscopic information. Leveraging single-molecule sensitivity of interferometric scattering, SRPSCAT can map single proteins with chemical specificity, determine their mass, and distinguish protein secondary structures based on their Raman fingerprints. Furthermore, single protein binding kinetics are quantified and the conformational dynamics of single de novo designed allosteric proteins are observed. Together, these results highlight the potential of SRPSCAT for label-free structural, functional and dynamic analysis at the single-molecule level.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://pubmed.ncbi.nlm.nih.gov/41994174/"&gt;pubmed (preprint)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:603dc6ff-672c-599d-a11c-6493b64514fc</id>
+    <title>Small-molecule binding and sensing with a designed protein family.</title>
+    <published>2026-03-28T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.1038/s41467-026-70953-8" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Gyu Rie Lee</name>
+    </author>
+    <author>
+      <name>Samuel J Pellock</name>
+    </author>
+    <author>
+      <name>Christoffer Norn</name>
+    </author>
+    <author>
+      <name>Doug Tischer</name>
+    </author>
+    <author>
+      <name>Justas Dauparas</name>
+    </author>
+    <author>
+      <name>Ivan Anishchenko</name>
+    </author>
+    <author>
+      <name>Jaron A M Mercer</name>
+    </author>
+    <author>
+      <name>Alex Kang</name>
+    </author>
+    <author>
+      <name>Asim K Bera</name>
+    </author>
+    <author>
+      <name>Hannah Nguyen</name>
+    </author>
+    <author>
+      <name>Evans Brackenbrough</name>
+    </author>
+    <author>
+      <name>Banumathi Sankaran</name>
+    </author>
+    <author>
+      <name>Inna Goreshnik</name>
+    </author>
+    <author>
+      <name>Dionne Vafeados</name>
+    </author>
+    <author>
+      <name>Nicole Roullier</name>
+    </author>
+    <author>
+      <name>Hannah L Han</name>
+    </author>
+    <author>
+      <name>Brian Coventry</name>
+    </author>
+    <author>
+      <name>Hugh K Haddox</name>
+    </author>
+    <author>
+      <name>David R Liu</name>
+    </author>
+    <author>
+      <name>Andy Hsien-Wei Yeh</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Gyu Rie Lee; Samuel J Pellock; Christoffer Norn; Doug Tischer; Justas Dauparas; Ivan Anishchenko; Jaron A M Mercer; Alex Kang; Asim K Bera; Hannah Nguyen; Evans Brackenbrough; Banumathi Sankaran; Inna Goreshnik; Dionne Vafeados; Nicole Roullier; Hannah L Han; Brian Coventry; Hugh K Haddox; David R Liu; Andy Hsien-Wei Yeh; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2026-03-28&lt;/p&gt;
+&lt;p&gt;Journal: Nature communications&lt;/p&gt;
+&lt;p&gt;The de novo design of small-molecule-binding proteins holds great promise as a potential tool to develop sensors on-demand for arbitrary small molecules. Here we combine deep learning and physics-based methods to generate a family of proteins with diverse and designable pocket geometries, which we employ to computationally design binders for six small-molecule targets. Biophysical characterization of the designed binders reveals nanomolar to low micromolar binding affinities and atomic-level design accuracy. Additionally, we use a cortisol binder to design a chemically induced dimerization (CID) system that enables the construction of a biosensor for cortisol detection. The approach described here demonstrates the potential of the NTF2 fold and deep learning-based protein design in sensor development, paving the way for future platforms to design binders and sensors for small molecules across analytical, environmental, and biomedical applications.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41467-026-70953-8"&gt;pubmed (published) — DOI: 10.1038/s41467-026-70953-8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41467-026-70953-8"&gt;Published version — DOI: 10.1038/s41467-026-70953-8&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:510bbd60-06d7-534c-9e94-3ee5bd439cb0</id>
+    <title>Impact of solvent forces and broken symmetry on the assembly of designed proteins at a liquid-solid interface.</title>
+    <published>2026-03-13T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.1038/s41467-026-69170-0" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Sakshi Yadav Schmid</name>
+    </author>
+    <author>
+      <name>Benjamin Helfrecht</name>
+    </author>
+    <author>
+      <name>Amy Stegmann</name>
+    </author>
+    <author>
+      <name>Benjamin A Legg</name>
+    </author>
+    <author>
+      <name>Harley Pyles</name>
+    </author>
+    <author>
+      <name>Jiajun Chen</name>
+    </author>
+    <author>
+      <name>John R Edison</name>
+    </author>
+    <author>
+      <name>Maxim Ziatdinov</name>
+    </author>
+    <author>
+      <name>Zdenek Preisler</name>
+    </author>
+    <author>
+      <name>Orion Dollar</name>
+    </author>
+    <author>
+      <name>Stephen Whitelam</name>
+    </author>
+    <author>
+      <name>Sergei Kalinin</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Christopher J Mundy</name>
+    </author>
+    <author>
+      <name>Shuai Zhang</name>
+    </author>
+    <author>
+      <name>James J De Yoreo</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Sakshi Yadav Schmid; Benjamin Helfrecht; Amy Stegmann; Benjamin A Legg; Harley Pyles; Jiajun Chen; John R Edison; Maxim Ziatdinov; Zdenek Preisler; Orion Dollar; Stephen Whitelam; Sergei Kalinin; David Baker; Christopher J Mundy; Shuai Zhang; James J De Yoreo&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2026-03-13&lt;/p&gt;
+&lt;p&gt;Journal: Nature communications&lt;/p&gt;
+&lt;p&gt;The era of protein design has enabled the creation of hybrid protein-inorganic interfaces, leading to both surface-directed self-assembly of de novo protein architectures and protein-directed formation of inorganic materials. However, the resulting patterns of protein assembly are often unexpected, implying that essential interactions are not accounted for in current design platforms. Here, we use high-speed atomic force microscopy (AFM) analyzed through machine learning to follow the assembly of protein nanorods in aqueous electrolytes on two types of mica exhibiting disparate symmetry elements, which are imprinted on the overlying hydration structure. Using Monte Carlo simulations, we reproduce the observed phases and show that an observed smectic phase, previously thought to be unstable for non-interacting rods in two dimensions, emerges when crystal symmetry introduces a directional bias. The findings demonstrate the importance of incorporating solvent forces as modulated by the hydration structure inherent to interfacial systems when designing protein assemblies at liquid-crystal interfaces. Coupling physics-based simulations that can account for these factors to de novo protein design algorithms can lead to improved design platforms for bio-inspired, hybrid materials.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41467-026-69170-0"&gt;pubmed (published) — DOI: 10.1038/s41467-026-69170-0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41467-026-69170-0"&gt;Published version — DOI: 10.1038/s41467-026-69170-0&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:0a58217f-350d-5b63-aa84-f7e3dcd0275b</id>
+    <title>De novo design of Ras isoform selective binders.</title>
+    <published>2026-03-11T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.1016/j.chembiol.2026.02.008" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Jason Z Zhang</name>
+    </author>
+    <author>
+      <name>Xinting Li</name>
+    </author>
+    <author>
+      <name>Alexa Rane Batingana</name>
+    </author>
+    <author>
+      <name>Caixuan Liu</name>
+    </author>
+    <author>
+      <name>Hanlun Jiang</name>
+    </author>
+    <author>
+      <name>Kevin Shannon</name>
+    </author>
+    <author>
+      <name>Benjamin J Huang</name>
+    </author>
+    <author>
+      <name>Kejia Wu</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Jason Z Zhang; Xinting Li; Alexa Rane Batingana; Caixuan Liu; Hanlun Jiang; Kevin Shannon; Benjamin J Huang; Kejia Wu; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2026-03-11&lt;/p&gt;
+&lt;p&gt;Journal: Cell chemical biology&lt;/p&gt;
+&lt;p&gt;The four major isoforms encoded by RAS proto-oncogenes are differentially associated with cancer, but there are few isoform-specific binding reagents becasue the sequence differences are confined to their disordered C termini. To overcome this limitation, we use deep learning-based methods to design Ras isoform-specific binders (RIBs) for all major Ras isoforms de novo by targeting the Ras C terminus. The RIBs bind to their target Ras isoforms both in vitro and in cells with remarkable specificity, disrupting their membrane localization and inhibiting Ras activity. The RIBs enable dissection of the distinct roles of Ras isoforms during RasG12C inhibitor resistance, demonstrating their utility in understanding Ras biology and disease and suggesting potential therapeutic applications.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1016/j.chembiol.2026.02.008"&gt;pubmed (published) — DOI: 10.1016/j.chembiol.2026.02.008&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1016/j.chembiol.2026.02.008"&gt;Published version — DOI: 10.1016/j.chembiol.2026.02.008&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:921c43a3-773d-5475-a3ae-fa9914268659</id>
+    <title>Miniprotein inhibitors of the Staphylococcus aureus efflux transporter NorA.</title>
+    <published>2026-03-05T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.64898/2026.03.05.709893" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Priyanka Mishra</name>
+    </author>
+    <author>
+      <name>Adam Chazin-Gray</name>
+    </author>
+    <author>
+      <name>Gaëlle Lamon</name>
+    </author>
+    <author>
+      <name>David Kim</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Nathaniel J Traaseth</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Priyanka Mishra; Adam Chazin-Gray; Gaëlle Lamon; David Kim; David Baker; Nathaniel J Traaseth&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Preprint date: 2026-03-05&lt;/p&gt;
+&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
+&lt;p&gt;Multidrug efflux pumps transport antibiotics across the cellular membrane resulting in resistance conferred to the host organism. Efflux pump inhibitors (EPIs) potentiate the efficacy of antibiotics by blocking drug efflux and hold promise as adjuvant therapeutics in the fight against multidrug resistant pathogenic bacteria. A hurdle in the field has been the lack of selectivity of small molecule EPIs which often display off-target toxicity due to non-specific binding. To tackle this specificity challenge, we aimed to maximize an inhibitor&amp;#x27;s binding surface area to efflux pumps by designing miniprotein EPIs using computational protein design and an E. coli co-expression assay to screen inhibition in cells. We used S. aureus NorA as a model efflux transporter since it confers drug resistance to fluoroquinolones, puromycin, and other cytotoxic compounds. Starting from a focused miniprotein library of only 86 members, we identified inhibitors in the screen that blocked NorA transport under active efflux conditions in vitro. Our most promising inhibitor I-23 was validated by solving a cryo-EM structure of the miniprotein in complex with NorA, which stabilized the transporter in the outward-open conformation. I-23 has a ferredoxin-like fold with one of its β-hairpins inserted into the substrate binding pocket of NorA and other parts of the globular fold occupying the shallow pocket and making extensive intermolecular contacts with NorA. An arginine residue on the tip of the hairpin loop was positioned near an anionic patch required for NorA antibiotic efflux. The identified structural motifs in this work could be employed to explore the molecular properties of peptidoglycan penetration; full realization of the therapeutic potential of the designed miniprotein inhibitors will require determining the principles for facilitating passage of ~7 to 8 kDa miniproteins across the peptidoglycan bacterial cell wall.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.03.05.709893"&gt;pubmed (preprint) — DOI: 10.64898/2026.03.05.709893&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:7fef2401-8955-5ef2-9398-6a82b300c4bb</id>
+    <title>Genetically encoded assembly recorder temporally resolves cellular history.</title>
+    <published>2026-03-03T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.1038/s41586-026-10323-y" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Yuqing Yan</name>
+    </author>
+    <author>
+      <name>Jiaxi Lu</name>
+    </author>
+    <author>
+      <name>Zhe Li</name>
+    </author>
+    <author>
+      <name>Zuohan Zhao</name>
+    </author>
+    <author>
+      <name>Timothy F Shay</name>
+    </author>
+    <author>
+      <name>Shunzhi Wang</name>
+    </author>
+    <author>
+      <name>Yaping Lei</name>
+    </author>
+    <author>
+      <name>Yimei Wang</name>
+    </author>
+    <author>
+      <name>Wei Chen</name>
+    </author>
+    <author>
+      <name>Patrick Parker</name>
+    </author>
+    <author>
+      <name>Hongru Yang</name>
+    </author>
+    <author>
+      <name>Aileen Qi</name>
+    </author>
+    <author>
+      <name>Yongzhi Sun</name>
+    </author>
+    <author>
+      <name>Dwight E Bergles</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Dingchang Lin</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Yuqing Yan; Jiaxi Lu; Zhe Li; Zuohan Zhao; Timothy F Shay; Shunzhi Wang; Yaping Lei; Yimei Wang; Wei Chen; Patrick Parker; Hongru Yang; Aileen Qi; Yongzhi Sun; Dwight E Bergles; David Baker; Dingchang Lin&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2026-03-03&lt;/p&gt;
+&lt;p&gt;Journal: Nature&lt;/p&gt;
+&lt;p&gt;Cells constantly change their molecular state in response to internal and external cues1. Mapping cellular activity in tissues with spatiotemporal precision is essential for understanding organ physiology, pathology and regenerative processes. Current cell-sensing modalities primarily rely on either end point analysis that takes static snapshots2 or real-time sensing that monitors a small subset of cells3,4. Here we introduce granularly expanding memory for intracellular narrative integration (GEMINI), an in cellulo recording platform that leverages a computationally designed protein assembly as an intracellular memory device to record the history of individual cells. GEMINI grows predictably within live cells, capturing cellular events as tree-ring-like fluorescent patterns for imaging-based retrospective readout. Absolute chronological information of activity histories is attainable with hour-level accuracy. GEMINI effectively maps differential NF-κB-mediated transcriptional changes, resolving fast dynamics of 15 min and providing quantifiable signal amplitudes. In a xenograft model, GEMINI records inflammation-induced signalling dynamics across tissue, revealing spatial heterogeneity linked to vascular density. When expressed in the mouse brain, GEMINI minimally impacts neuronal functions and can resolve both transcriptional changes and activity patterns of neurons. Together, GEMINI provides a robust and generalizable means for spatiotemporal mapping of cell dynamics underlying physiological and pathological processes in both culture and intact tissues.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-026-10323-y"&gt;pubmed (published) — DOI: 10.1038/s41586-026-10323-y&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-026-10323-y"&gt;Published version — DOI: 10.1038/s41586-026-10323-y&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:55992b19-767c-59cc-bb00-fc9e4dbe9a41</id>
+    <title>Soluble Notch agonist enables human ameloblast maturation and enamel-like tissue formation for tooth regeneration.</title>
+    <published>2026-03-02T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.1038/s41368-026-00429-4" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Anjali P Patni</name>
+    </author>
+    <author>
+      <name>Rubul Mout</name>
+    </author>
+    <author>
+      <name>Ammar Alghadeer</name>
+    </author>
+    <author>
+      <name>Rachel H Moore</name>
+    </author>
+    <author>
+      <name>Samera Nademi</name>
+    </author>
+    <author>
+      <name>Brandon J Ausk</name>
+    </author>
+    <author>
+      <name>Philippe Huber</name>
+    </author>
+    <author>
+      <name>Riya Keshri</name>
+    </author>
+    <author>
+      <name>Mary Regier</name>
+    </author>
+    <author>
+      <name>Robert A Cornell</name>
+    </author>
+    <author>
+      <name>Ted Gross</name>
+    </author>
+    <author>
+      <name>Benjamin S Freedman</name>
+    </author>
+    <author>
+      <name>George Q Daley</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Julie Mathieu</name>
+    </author>
+    <author>
+      <name>Hannele Ruohola-Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Anjali P Patni; Rubul Mout; Ammar Alghadeer; Rachel H Moore; Samera Nademi; Brandon J Ausk; Philippe Huber; Riya Keshri; Mary Regier; Robert A Cornell; Ted Gross; Benjamin S Freedman; George Q Daley; David Baker; Julie Mathieu; Hannele Ruohola-Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2026-03-02&lt;/p&gt;
+&lt;p&gt;Journal: International journal of oral science&lt;/p&gt;
+&lt;p&gt;Enamel, the hardest mineralized material in the human body, protects the underlying living tissues, the dentin and pulp of the tooth. However, over 90% of adults have lost or damaged enamel and cannot regenerate the protective structure due to lack of enamel-producing cells, ameloblasts. iPSC-derived secretory Ameloblasts (isAM) have promise in future regenerative dentistry. Today, it is not known why iAM maturation requires intimate contact with the dentin-producing cell type, odontoblast. Here, we reveal that one of the critical signaling ligands emanating from odontoblasts for ameloblast maturation is Delta, the ligand for Notch receptor. We showed that our designed, soluble Notch agonist can induce iAM organoid maturation in an unprecedented manner, without interactions with odontoblast layer. Notably, soluble Notch agonist induces the iAM maturation to a novel, WDR72-positive mature secretory AM stage (ismAM) in our ameloblast organoid model. When transplanted under the kidney capsule of NOD-SCID mice, these ismAM organoids generated enamel-like calcified material, as confirmed by microCT analysis, marking the first demonstration that Notch-activated iAM organoids can form such tissue in vivo. This novel maturation procedure enabled us to analyze the specific requirements of DLX3 function in ameloblasts, independent of its known function in odontoblasts. We now show that DLX3, a gene associated with Amelogenesis Imperfecta, is required on a cell-autonomous manner in human ameloblasts for the expression of Enamelin, MMP20, and WDR72, a role not previously demonstrated in mouse models.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41368-026-00429-4"&gt;pubmed (published) — DOI: 10.1038/s41368-026-00429-4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41368-026-00429-4"&gt;Published version — DOI: 10.1038/s41368-026-00429-4&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:3693c7d1-61ab-5a6b-8a29-2e76b1874711</id>
+    <title>Reprogramming CAR T-Cells with designed bioPROTACs.</title>
+    <published>2026-02-22T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.64898/2026.02.21.706835" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Vivek S Peche</name>
+    </author>
+    <author>
+      <name>Sebastian Kenny</name>
+    </author>
+    <author>
+      <name>Tae Gun Kang</name>
+    </author>
+    <author>
+      <name>Brian Coventry</name>
+    </author>
+    <author>
+      <name>Tian Mi</name>
+    </author>
+    <author>
+      <name>Inna Goreshnik</name>
+    </author>
+    <author>
+      <name>Mariana Garcia Sanchez</name>
+    </author>
+    <author>
+      <name>Reid Martin</name>
+    </author>
+    <author>
+      <name>Macey Smith</name>
+    </author>
+    <author>
+      <name>Dionne Vafeados</name>
+    </author>
+    <author>
+      <name>Rahul S Kathayat</name>
+    </author>
+    <author>
+      <name>Yu Kaiwen</name>
+    </author>
+    <author>
+      <name>Zuo-Fei Yuan</name>
+    </author>
+    <author>
+      <name>Long Wu</name>
+    </author>
+    <author>
+      <name>Anthony High</name>
+    </author>
+    <author>
+      <name>Andrew Nemecek</name>
+    </author>
+    <author>
+      <name>Elizabeth Wickmann</name>
+    </author>
+    <author>
+      <name>Adeleye Adeshakin</name>
+    </author>
+    <author>
+      <name>Francesca Ferrara</name>
+    </author>
+    <author>
+      <name>Robert E Throm</name>
+    </author>
+    <author>
+      <name>Taosheng Chen</name>
+    </author>
+    <author>
+      <name>Benjamin Youngblood</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Stephen Gottschalk</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Vivek S Peche; Sebastian Kenny; Tae Gun Kang; Brian Coventry; Tian Mi; Inna Goreshnik; Mariana Garcia Sanchez; Reid Martin; Macey Smith; Dionne Vafeados; Rahul S Kathayat; Yu Kaiwen; Zuo-Fei Yuan; Long Wu; Anthony High; Andrew Nemecek; Elizabeth Wickmann; Adeleye Adeshakin; Francesca Ferrara; Robert E Throm; Taosheng Chen; Benjamin Youngblood; David Baker; Stephen Gottschalk&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Preprint date: 2026-02-22&lt;/p&gt;
+&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
+&lt;p&gt;Gene editing has been used to enhance CAR T-cell function by disrupting negative regulators but has limitations. Here we show that de novo-designed generated targeted degraders (bioPROTACs) provide an alternative approach. Expression of bioPROTACs in CAR T-cells targeting DNMT3A, a key regulator of T-cell exhaustion, phenocopied gene knockout. Our reversible, non-gene editing approach provides a tunable strategy to reprogram T-cell fate which should be broadly applicable for next-generation cell therapies.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.02.21.706835"&gt;pubmed (preprint) — DOI: 10.64898/2026.02.21.706835&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:3a4c7460-690b-582e-bc9a-08af84512fb9</id>
+    <title>LetA defines a structurally distinct transporter family.</title>
+    <published>2026-01-21T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.1038/s41586-025-09990-0" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Cristina C Santarossa</name>
+    </author>
+    <author>
+      <name>Yupeng Li</name>
+    </author>
+    <author>
+      <name>Sara Yousef</name>
+    </author>
+    <author>
+      <name>Hale S Hasdemir</name>
+    </author>
+    <author>
+      <name>Carlos C Rodriguez</name>
+    </author>
+    <author>
+      <name>Max A B Haase</name>
+    </author>
+    <author>
+      <name>Minkyung Baek</name>
+    </author>
+    <author>
+      <name>Nicolas Coudray</name>
+    </author>
+    <author>
+      <name>John G Pavek</name>
+    </author>
+    <author>
+      <name>Kimber N Focke</name>
+    </author>
+    <author>
+      <name>Annika L Silverberg</name>
+    </author>
+    <author>
+      <name>Carmelita Bautista</name>
+    </author>
+    <author>
+      <name>Johannes T-H Yeh</name>
+    </author>
+    <author>
+      <name>Michael T Marty</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Emad Tajkhorshid</name>
+    </author>
+    <author>
+      <name>Damian C Ekiert</name>
+    </author>
+    <author>
+      <name>Gira Bhabha</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Cristina C Santarossa; Yupeng Li; Sara Yousef; Hale S Hasdemir; Carlos C Rodriguez; Max A B Haase; Minkyung Baek; Nicolas Coudray; John G Pavek; Kimber N Focke; Annika L Silverberg; Carmelita Bautista; Johannes T-H Yeh; Michael T Marty; David Baker; Emad Tajkhorshid; Damian C Ekiert; Gira Bhabha&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2026-01-21&lt;/p&gt;
+&lt;p&gt;Journal: Nature&lt;/p&gt;
+&lt;p&gt;Membrane transport proteins translocate diverse cargos, ranging from small sugars to entire proteins, across cellular membranes1-3. A few structurally distinct protein families have been described that account for most of the known membrane transport processes4-6. However, many membrane proteins with predicted transporter functions remain uncharacterized. Here we determined the structure of Escherichia coli LetAB, a phospholipid transporter involved in outer membrane integrity, and found that LetA adopts a distinct architecture that is structurally and evolutionarily unrelated to known transporter families. LetA localizes to the inner membrane, where it is poised to load lipids into its binding partner, LetB, a mammalian cell entry (MCE) protein that forms an approximately 225 Å long tunnel for lipid transport across the cell envelope. Unexpectedly, the LetA transmembrane domains adopt a fold that is evolutionarily related to the eukaryotic tetraspanin family of membrane proteins, including transmembrane AMPA receptor regulatory proteins (TARPs) and claudins. Through a combination of deep mutational scanning, molecular dynamics simulations, AlphaFold-predicted alternative states and functional studies, we present a model for how the LetA-like family of membrane transporters facilitates the transport of lipids across the bacterial cell envelope.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-025-09990-0"&gt;pubmed (published) — DOI: 10.1038/s41586-025-09990-0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-025-09990-0"&gt;Published version — DOI: 10.1038/s41586-025-09990-0&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:d1f06d24-b062-5314-be4c-3d9b33c5e664</id>
+    <title>Stimuli-triggered formation of de novo-designed protein biomaterials.</title>
+    <published>2026-01-20T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.1016/j.celbio.2025.100239" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Nicole E Gregorio</name>
+    </author>
+    <author>
+      <name>Zhe Li</name>
+    </author>
+    <author>
+      <name>Jack W Hoye</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Cole A DeForest</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Nicole E Gregorio; Zhe Li; Jack W Hoye; David Baker; Cole A DeForest&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2026-01-20&lt;/p&gt;
+&lt;p&gt;Journal: Cell biomaterials&lt;/p&gt;
+&lt;p&gt;Protein-based biomaterials have risen in popularity in recent years owing to their genetic encodability, sequence specificity, monodispersity, and ability to interface with biological systems in comparison with synthetic polymer-based materials. Though naturally derived and minimally engineered proteins have been at the forefront of these efforts, recent advances in computational protein design offer exciting opportunities for next-generation biomaterial development. In this work, we employ de novo protein design methodologies to generate a suite of self-assembling multimeric proteins, whose step-growth heteropolymerization into bulk hydrogels and condensates can be exogenously triggered through small-molecule addition. Our results highlight how changes in programmed multimer valency and their triggered assembly yield materials with varying structures and viscoelasticity. We anticipate that these approaches will prove useful in rapidly generating large libraries of stimuli-responsive biomaterials that are precisely tailored to specific applications in the biosciences and beyond.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1016/j.celbio.2025.100239"&gt;pubmed (published) — DOI: 10.1016/j.celbio.2025.100239&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1016/j.celbio.2025.100239"&gt;Published version — DOI: 10.1016/j.celbio.2025.100239&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:02205dc4-e9e3-582d-954a-860c6c4d6841</id>
+    <title>Design of solubly expressed miniaturized SMART MHCs.</title>
+    <published>2026-01-02T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.1073/pnas.2505932123" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>William L White</name>
+    </author>
+    <author>
+      <name>Hua Bai</name>
+    </author>
+    <author>
+      <name>Chan Jhong Kim</name>
+    </author>
+    <author>
+      <name>Kevin M Jude</name>
+    </author>
+    <author>
+      <name>Renhua Sun</name>
+    </author>
+    <author>
+      <name>Laura Guerrero</name>
+    </author>
+    <author>
+      <name>Xiao Han</name>
+    </author>
+    <author>
+      <name>Xiaojing Chen</name>
+    </author>
+    <author>
+      <name>Apala Chaudhuri</name>
+    </author>
+    <author>
+      <name>Julia E Bonzanini</name>
+    </author>
+    <author>
+      <name>Yi Sun</name>
+    </author>
+    <author>
+      <name>Amarachi E Onwuka</name>
+    </author>
+    <author>
+      <name>Nan Wang</name>
+    </author>
+    <author>
+      <name>Chunyu Wang</name>
+    </author>
+    <author>
+      <name>Per-Åke Nygren</name>
+    </author>
+    <author>
+      <name>Xinting Li</name>
+    </author>
+    <author>
+      <name>Inna Goreshnik</name>
+    </author>
+    <author>
+      <name>Aza Allen</name>
+    </author>
+    <author>
+      <name>Paul M Levine</name>
+    </author>
+    <author>
+      <name>Hao Yuan Kueh</name>
+    </author>
+    <author>
+      <name>Michael C Jewett</name>
+    </author>
+    <author>
+      <name>Nikolaos G Sgourakis</name>
+    </author>
+    <author>
+      <name>Adnane Achour</name>
+    </author>
+    <author>
+      <name>K Christopher Garcia</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: William L White; Hua Bai; Chan Jhong Kim; Kevin M Jude; Renhua Sun; Laura Guerrero; Xiao Han; Xiaojing Chen; Apala Chaudhuri; Julia E Bonzanini; Yi Sun; Amarachi E Onwuka; Nan Wang; Chunyu Wang; Per-Åke Nygren; Xinting Li; Inna Goreshnik; Aza Allen; Paul M Levine; Hao Yuan Kueh; Michael C Jewett; Nikolaos G Sgourakis; Adnane Achour; K Christopher Garcia; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2026-01-02&lt;/p&gt;
+&lt;p&gt;Journal: Proceedings of the National Academy of Sciences of the United States of America&lt;/p&gt;
+&lt;p&gt;The precise recognition of specific peptide-major histocompatibility complex (pMHC) complexes by T cell receptors (TCRs) plays a key role in infectious disease, cancer, and autoimmunity. A critical step in many immunobiological studies is the identification of T cells expressing TCRs specific to a given pMHC antigen. However, the intrinsic instability of empty class-I MHCs limits their soluble expression in Escherichia coli and makes it very difficult to characterize even a small fraction of possible pMHC/TCR interactions. To overcome this limitation, we designed small proteins which buttress the peptide binding groove of class I MHCs, replacing β2-microglobulin (β2m) and the heavy chain α3 domain, and enable soluble and partially soluble expression in E. coli of H-2Db and A*02:01, respectively. We demonstrate that these soluble, monomeric, antigen-receptive, truncated (SMART) MHCs retain both peptide- and TCR-binding specificity and that peptide-bound structures of both allomorphs are similar to their full-length, native counterparts. With extension to the majority of HLA alleles, SMART MHCs should be broadly useful for probing the T cell repertoire in approaches ranging from yeast display to T cell staining.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1073/pnas.2505932123"&gt;pubmed (published) — DOI: 10.1073/pnas.2505932123&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1073/pnas.2505932123"&gt;Published version — DOI: 10.1073/pnas.2505932123&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:eca559ce-5036-5328-bab2-06b800c043b5</id>
+    <title>Accurate single-domain scaffolding of three nonoverlapping protein epitopes using deep learning.</title>
+    <published>2025-12-05T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.1038/s41589-025-02083-z" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Karla M Castro</name>
+    </author>
+    <author>
+      <name>Joseph L Watson</name>
+    </author>
+    <author>
+      <name>Jue Wang</name>
+    </author>
+    <author>
+      <name>Joshua Southern</name>
+    </author>
+    <author>
+      <name>Reyhaneh Ayardulabi</name>
+    </author>
+    <author>
+      <name>Sandrine Georgeon</name>
+    </author>
+    <author>
+      <name>Stéphane Rosset</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Bruno E Correia</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Karla M Castro; Joseph L Watson; Jue Wang; Joshua Southern; Reyhaneh Ayardulabi; Sandrine Georgeon; Stéphane Rosset; David Baker; Bruno E Correia&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2025-12-05&lt;/p&gt;
+&lt;p&gt;Journal: Nature chemical biology&lt;/p&gt;
+&lt;p&gt;De novo protein design has seen major success in scaffolding single functional motifs; however, in nature, most proteins present multiple functional sites. Here, we describe an approach to simultaneously scaffold multiple functional sites in a single-domain protein using deep learning. We designed small single-domain immunogens, under 130 residues, that present three distinct and irregular motifs from respiratory syncytial virus. These motifs together comprise nearly half of the designed proteins; hence, the overall folds are quite unusual with little global similarity to proteins in the Protein Data Bank. Despite this, X-ray crystal structures confirmed the accuracy of presentation of each of the motifs and the multiepitope design yields improved cross-reactive titers and neutralizing response compared to a single-epitope immunogen. The successful presentation of three distinct binding surfaces in a small single-domain protein highlights the power of generative deep learning methods to solve complex protein design problems.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41589-025-02083-z"&gt;pubmed (published) — DOI: 10.1038/s41589-025-02083-z&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41589-025-02083-z"&gt;Published version — DOI: 10.1038/s41589-025-02083-z&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:dce39ffa-5134-52fb-8226-d99c8cb3c0a3</id>
+    <title>Inhibition of ice recrystallization with designed twistless helical repeat proteins.</title>
+    <published>2025-11-25T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.1073/pnas.2514871122" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Robbert J de Haas</name>
+    </author>
+    <author>
+      <name>Harley Pyles</name>
+    </author>
+    <author>
+      <name>Evelyn B Huddy</name>
+    </author>
+    <author>
+      <name>Jannick van Ossenbruggen</name>
+    </author>
+    <author>
+      <name>Chuanbao Zheng</name>
+    </author>
+    <author>
+      <name>Daniëlle van den Broek</name>
+    </author>
+    <author>
+      <name>Sanne N Giezen</name>
+    </author>
+    <author>
+      <name>Ann Carr</name>
+    </author>
+    <author>
+      <name>Asim K Bera</name>
+    </author>
+    <author>
+      <name>Alex Kang</name>
+    </author>
+    <author>
+      <name>Evans Brackenbrough</name>
+    </author>
+    <author>
+      <name>Emily Joyce</name>
+    </author>
+    <author>
+      <name>Banumathi Sankaran</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Ilja K Voets</name>
+    </author>
+    <author>
+      <name>Renko de Vries</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Robbert J de Haas; Harley Pyles; Evelyn B Huddy; Jannick van Ossenbruggen; Chuanbao Zheng; Daniëlle van den Broek; Sanne N Giezen; Ann Carr; Asim K Bera; Alex Kang; Evans Brackenbrough; Emily Joyce; Banumathi Sankaran; David Baker; Ilja K Voets; Renko de Vries&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2025-11-25&lt;/p&gt;
+&lt;p&gt;Journal: Proceedings of the National Academy of Sciences of the United States of America&lt;/p&gt;
+&lt;p&gt;Given the repetitive structure of crystalline ice, it is unsurprising that highly active ice-binding proteins (IBPs), often with beta-roll structures, also have repeating motifs. Here, we introduce a de novo designed family of ice-binding twistless alpha-helical repeat (iTHR) proteins. Each iTHR protein comprises two planar layers of parallel alpha-helices connected by loops-a structural topology not seen in native IBPs. The ice-binding helices contain an ordered array of TXXXAXXXAXX motifs, precisely spaced to complement the pyramidal {201} and secondary prism {110} planes of the ice lattice, with a designed 98.2° residue turn angle that orients all threonines uniformly toward the ice surface. iTHR proteins show high solubility, thermostability, and produce varied ice crystal morphologies depending on their intended target facet. Crucially, iTHRs exhibit ice recrystallization inhibition (IRI) at critical concentrations comparable to those of many native globular IBPs. Extensive site-specific mutagenesis shows that ice-binding activity in iTHR proteins is robust, remaining largely unaffected by changes in chemical composition. Variation in the repeat number reveals a nonmonotonic relationship to IRI activity. X-ray crystal structures of two designs confirm the intended orientation of threonines, uniformly pointing toward the ice surface. The iTHR family provides a versatile platform to systematically investigate the complex structure-activity relationships underlying protein-ice interactions.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1073/pnas.2514871122"&gt;pubmed (published) — DOI: 10.1073/pnas.2514871122&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1073/pnas.2514871122"&gt;Published version — DOI: 10.1073/pnas.2514871122&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
     <id>urn:uuid:995d9a96-649c-5958-a883-cba390b5e061</id>
     <title>De Novo Design of Peptide Masks Enables Rapid Generation of Conditionally-Active Miniprotein Binders.</title>
-    <published>2026-09-11T05:51:48Z</published>
+    <published>2025-11-24T00:00:00Z</published>
     <updated>2026-09-11T05:51:48Z</updated>
     <link href="https://doi.org/10.1021/jacs.5c16108" rel="alternate" />
     <category term="published" />
@@ -321,9 +2515,993 @@
 &lt;/ul&gt;</content>
   </entry>
   <entry>
+    <id>urn:uuid:d2ac3cd4-81ea-5ad2-8b0a-a92a451ab52a</id>
+    <title>Modeling protein-small molecule conformational ensembles with PLACER.</title>
+    <published>2025-11-04T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.1073/pnas.2427161122" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Ivan Anishchenko</name>
+    </author>
+    <author>
+      <name>Yakov Kipnis</name>
+    </author>
+    <author>
+      <name>Indrek Kalvet</name>
+    </author>
+    <author>
+      <name>Guangfeng Zhou</name>
+    </author>
+    <author>
+      <name>Rohith Krishna</name>
+    </author>
+    <author>
+      <name>Samuel J Pellock</name>
+    </author>
+    <author>
+      <name>Anna Lauko</name>
+    </author>
+    <author>
+      <name>Gyu Rie Lee</name>
+    </author>
+    <author>
+      <name>Linna An</name>
+    </author>
+    <author>
+      <name>Justas Dauparas</name>
+    </author>
+    <author>
+      <name>Frank DiMaio</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Ivan Anishchenko; Yakov Kipnis; Indrek Kalvet; Guangfeng Zhou; Rohith Krishna; Samuel J Pellock; Anna Lauko; Gyu Rie Lee; Linna An; Justas Dauparas; Frank DiMaio; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2025-11-04&lt;/p&gt;
+&lt;p&gt;Journal: Proceedings of the National Academy of Sciences of the United States of America&lt;/p&gt;
+&lt;p&gt;Modeling the conformational heterogeneity of protein-small molecule interactions is important for understanding natural systems and evaluating designed systems but remains an outstanding challenge. We reasoned that while residue-level descriptions of biomolecules are efficient for de novo structure prediction, for probing heterogeneity of interactions with small molecules in the folded state, an entirely atomic-level description could have advantages in speed and generality. We developed a graph neural network called PLACER (protein-ligand atomistic conformational ensemble resolver) trained to recapitulate correct atomic positions from partially corrupted input structures from the Cambridge Structural Database and the Protein Data Bank; the nodes of the graph are the atoms in the system. PLACER accurately generates structures of diverse organic small molecules given knowledge of their atom composition and bonding. When given a description of the larger protein context, it builds up structures of small molecules and protein side chains for protein-small molecule docking. Because PLACER is rapid and stochastic, ensembles of predictions can be readily generated to map conformational heterogeneity. In enzyme design efforts described here and elsewhere, we find that using PLACER to assess the accuracy and preorganization of the designed active sites results in higher success rates and higher activities; we obtain a preorganized retroaldolase with a kcat/KM of 11,000 M-1min-1, considerably higher than any pre-deep learning design for this reaction. We anticipate that PLACER will be widely useful for rapidly generating conformational ensembles of small molecule and small molecule-protein systems and for designing higher activity preorganized enzymes.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1073/pnas.2427161122"&gt;pubmed (published) — DOI: 10.1073/pnas.2427161122&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1073/pnas.2427161122"&gt;Published version — DOI: 10.1073/pnas.2427161122&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:398ac46a-dff5-549b-b69a-7ba4f37db3c6</id>
+    <title>Predicting protein-protein interactions in the human proteome.</title>
+    <published>2025-10-23T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.1126/science.adt1630" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Jing Zhang</name>
+    </author>
+    <author>
+      <name>Ian R Humphreys</name>
+    </author>
+    <author>
+      <name>Jimin Pei</name>
+    </author>
+    <author>
+      <name>Jinuk Kim</name>
+    </author>
+    <author>
+      <name>Chulwon Choi</name>
+    </author>
+    <author>
+      <name>Rongqing Yuan</name>
+    </author>
+    <author>
+      <name>Jesse Durham</name>
+    </author>
+    <author>
+      <name>Siqi Liu</name>
+    </author>
+    <author>
+      <name>Hee-Jung Choi</name>
+    </author>
+    <author>
+      <name>Minkyung Baek</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Qian Cong</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Jing Zhang; Ian R Humphreys; Jimin Pei; Jinuk Kim; Chulwon Choi; Rongqing Yuan; Jesse Durham; Siqi Liu; Hee-Jung Choi; Minkyung Baek; David Baker; Qian Cong&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2025-10-23&lt;/p&gt;
+&lt;p&gt;Journal: Science (New York, N.Y.)&lt;/p&gt;
+&lt;p&gt;Protein-protein interactions (PPIs) are essential for biological function. Coevolutionary analysis and deep-learning (DL)-based protein structure prediction have enabled comprehensive PPI identification in bacteria and yeast, but these approaches have had limited success for the more complex human proteome. We overcame this challenge by enhancing the coevolutionary signals with sevenfold-deeper multiple sequence alignments harvested from 30 petabytes of unassembled genomic data and developing a new DL network trained on augmented datasets of domain-domain interactions from 200 million predicted protein structures. We systematically screened 200 million human protein pairs and predicted 17,849 interactions with an expected precision of 90%, of which 3631 interactions were not identified in previous experimental screens. Three-dimensional models of these predicted interactions provide numerous hypotheses about protein function and mechanisms of human diseases.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1126/science.adt1630"&gt;pubmed (published) — DOI: 10.1126/science.adt1630&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1126/science.adt1630"&gt;Published version — DOI: 10.1126/science.adt1630&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:d8ecdb04-36cf-535b-b702-d2b544f4c5a3</id>
+    <title>Bottom-up design of Ca2+ channels from defined selectivity filter geometry.</title>
+    <published>2025-10-22T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.1038/s41586-025-09646-z" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Yulai Liu</name>
+    </author>
+    <author>
+      <name>Connor Weidle</name>
+    </author>
+    <author>
+      <name>Ljubica Mihaljević</name>
+    </author>
+    <author>
+      <name>Joseph L Watson</name>
+    </author>
+    <author>
+      <name>Zhe Li</name>
+    </author>
+    <author>
+      <name>Le Tracy Yu</name>
+    </author>
+    <author>
+      <name>Sagardip Majumder</name>
+    </author>
+    <author>
+      <name>Andrew J Borst</name>
+    </author>
+    <author>
+      <name>Kenneth D Carr</name>
+    </author>
+    <author>
+      <name>Ryan D Kibler</name>
+    </author>
+    <author>
+      <name>Tamer M Gamal El-Din</name>
+    </author>
+    <author>
+      <name>William A Catterall</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Yulai Liu; Connor Weidle; Ljubica Mihaljević; Joseph L Watson; Zhe Li; Le Tracy Yu; Sagardip Majumder; Andrew J Borst; Kenneth D Carr; Ryan D Kibler; Tamer M Gamal El-Din; William A Catterall; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2025-10-22&lt;/p&gt;
+&lt;p&gt;Journal: Nature&lt;/p&gt;
+&lt;p&gt;Native ion channels play key roles in biological systems, and engineered versions are widely used as chemogenetic tools and in sensing devices1,2. Protein design has been harnessed to generate pore-containing transmembrane proteins, but the design of selectivity filters with precise arrangements of amino acid side chains specific for a target ion, a crucial feature of native ion channels3, has been constrained by the lack of methods for placing the metal-coordinating residues with atomic-level precision. Here we describe a bottom-up RFdiffusion-based approach to construct Ca2+ channels from defined selectivity filter residue geometries, and use this approach to design symmetric oligomeric channels with Ca2+ selectivity filters having different coordination numbers and different geometries at the entrance of a wider pore buttressed by multiple transmembrane helices. The designed channel proteins assemble into homogeneous pore-containing particles and, for both tetrameric and hexameric ion-coordinating configurations, patch-clamp experiments show that the designed channels have higher conductances for Ca2+ than for Na+ and other divalent ions (Sr2+ and Mg2+) that are eliminated after mutation of selectivity filter residues. Cryogenic electron microscopy indicates that the design method has high accuracy: the structure of the hexameric Ca2+ channel is nearly identical to that of the design model. Our bottom-up design approach now enables the testing of hypotheses relating filter geometry to ion selectivity by direct construction, and provides a roadmap for creating selective ion channels for a wide range of applications.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-025-09646-z"&gt;pubmed (published) — DOI: 10.1038/s41586-025-09646-z&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-025-09646-z"&gt;Published version — DOI: 10.1038/s41586-025-09646-z&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:e9f6721d-a871-5182-b523-c2b67112b06e</id>
+    <title>Design of a potent interleukin-21 mimic for cancer immunotherapy.</title>
+    <published>2025-09-26T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.1126/sciimmunol.adx1582" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Jung-Ho Chun</name>
+    </author>
+    <author>
+      <name>Birkley S Lim</name>
+    </author>
+    <author>
+      <name>Suyasha Roy</name>
+    </author>
+    <author>
+      <name>Michael J Walsh</name>
+    </author>
+    <author>
+      <name>Gita C Abhiraman</name>
+    </author>
+    <author>
+      <name>Kevin Zhangxu</name>
+    </author>
+    <author>
+      <name>Tavus Atajanova</name>
+    </author>
+    <author>
+      <name>Or-Yam Revach</name>
+    </author>
+    <author>
+      <name>Elisa C Clark</name>
+    </author>
+    <author>
+      <name>Peng Li</name>
+    </author>
+    <author>
+      <name>Claire A Palin</name>
+    </author>
+    <author>
+      <name>Asheema Khanna</name>
+    </author>
+    <author>
+      <name>Samantha Tower</name>
+    </author>
+    <author>
+      <name>Rakeeb Kureshi</name>
+    </author>
+    <author>
+      <name>Megan T Hoffman</name>
+    </author>
+    <author>
+      <name>Tatyana Sharova</name>
+    </author>
+    <author>
+      <name>Aleigha Lawless</name>
+    </author>
+    <author>
+      <name>Sonia Cohen</name>
+    </author>
+    <author>
+      <name>Genevieve M Boland</name>
+    </author>
+    <author>
+      <name>Tina Nguyen</name>
+    </author>
+    <author>
+      <name>Frank Peprah</name>
+    </author>
+    <author>
+      <name>Julissa G Tello</name>
+    </author>
+    <author>
+      <name>Samantha Y Liu</name>
+    </author>
+    <author>
+      <name>Chan Johng Kim</name>
+    </author>
+    <author>
+      <name>Hojeong Shin</name>
+    </author>
+    <author>
+      <name>Alfredo Quijano-Rubio</name>
+    </author>
+    <author>
+      <name>Kevin M Jude</name>
+    </author>
+    <author>
+      <name>Stacey Gerben</name>
+    </author>
+    <author>
+      <name>Analisa Murray</name>
+    </author>
+    <author>
+      <name>Piper Heine</name>
+    </author>
+    <author>
+      <name>Michelle DeWitt</name>
+    </author>
+    <author>
+      <name>Umut Y Ulge</name>
+    </author>
+    <author>
+      <name>Lauren Carter</name>
+    </author>
+    <author>
+      <name>Neil P King</name>
+    </author>
+    <author>
+      <name>Daniel-Adriano Silva</name>
+    </author>
+    <author>
+      <name>Hao Yuan Kueh</name>
+    </author>
+    <author>
+      <name>Vandana Kalia</name>
+    </author>
+    <author>
+      <name>Surojit Sarkar</name>
+    </author>
+    <author>
+      <name>Russell W Jenkins</name>
+    </author>
+    <author>
+      <name>K Christopher Garcia</name>
+    </author>
+    <author>
+      <name>Warren J Leonard</name>
+    </author>
+    <author>
+      <name>Michael Dougan</name>
+    </author>
+    <author>
+      <name>Stephanie K Dougan</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Jung-Ho Chun; Birkley S Lim; Suyasha Roy; Michael J Walsh; Gita C Abhiraman; Kevin Zhangxu; Tavus Atajanova; Or-Yam Revach; Elisa C Clark; Peng Li; Claire A Palin; Asheema Khanna; Samantha Tower; Rakeeb Kureshi; Megan T Hoffman; Tatyana Sharova; Aleigha Lawless; Sonia Cohen; Genevieve M Boland; Tina Nguyen; Frank Peprah; Julissa G Tello; Samantha Y Liu; Chan Johng Kim; Hojeong Shin; Alfredo Quijano-Rubio; Kevin M Jude; Stacey Gerben; Analisa Murray; Piper Heine; Michelle DeWitt; Umut Y Ulge; Lauren Carter; Neil P King; Daniel-Adriano Silva; Hao Yuan Kueh; Vandana Kalia; Surojit Sarkar; Russell W Jenkins; K Christopher Garcia; Warren J Leonard; Michael Dougan; Stephanie K Dougan; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2025-09-26&lt;/p&gt;
+&lt;p&gt;Journal: Science immunology&lt;/p&gt;
+&lt;p&gt;Long-standing goals of cancer immunotherapy are to activate cytotoxic antitumor T cells across a range of affinities for tumor antigens while suppressing regulatory T cells. Computational protein design has enabled the precise tailoring of proteins to meet specific needs. Here, we report a de novo designed IL-21 mimic, 21h10, with high stability and signaling potency in humans and mice. In murine and ex vivo human organotypic tumor models, 21h10 showed robust antitumor activity, with more prolonged signaling and stronger antitumor activity than native IL-21. 21h10 induced pancreatitis that could be mitigated by TNF blockade without compromising antitumor efficacy. Although antidrug antibodies to 21h10 formed, they were not neutralizing. 21h10 induced highly cytotoxic T cells with a range of affinities, robustly expanding intratumoral low-affinity cytotoxic T cells and driving high expression of IFN-γ and granzyme B compared with native IL-21, while increasing the frequency of IFN-γ+ T helper 1 cells and reducing regulatory T cells. The full human-mouse cross-reactivity, high stability and potency, and low-affinity antitumor responses support the translational potential of 21h10.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1126/sciimmunol.adx1582"&gt;pubmed (published) — DOI: 10.1126/sciimmunol.adx1582&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1126/sciimmunol.adx1582"&gt;Published version — DOI: 10.1126/sciimmunol.adx1582&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:2486bc79-2abe-5eb1-9c41-8464eaca7ad5</id>
+    <title>Computational design of potent and selective binders of BAK and BAX.</title>
+    <published>2025-09-05T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.1126/sciadv.adt4170" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Stephanie Berger</name>
+    </author>
+    <author>
+      <name>Erinna F Lee</name>
+    </author>
+    <author>
+      <name>Tiffany J Harris</name>
+    </author>
+    <author>
+      <name>Sharon Tran</name>
+    </author>
+    <author>
+      <name>Asim K Bera</name>
+    </author>
+    <author>
+      <name>Lauren Arguinchona</name>
+    </author>
+    <author>
+      <name>Alex Kang</name>
+    </author>
+    <author>
+      <name>Banumathi Sankaran</name>
+    </author>
+    <author>
+      <name>Sila Kasapgil</name>
+    </author>
+    <author>
+      <name>Michelle S Miller</name>
+    </author>
+    <author>
+      <name>Sean Smyth</name>
+    </author>
+    <author>
+      <name>Mariam Lutfi</name>
+    </author>
+    <author>
+      <name>Rachel T Uren</name>
+    </author>
+    <author>
+      <name>Ruth M Kluck</name>
+    </author>
+    <author>
+      <name>Peter M Colman</name>
+    </author>
+    <author>
+      <name>Walter D Fairlie</name>
+    </author>
+    <author>
+      <name>Peter E Czabotar</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Richard W Birkinshaw</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Stephanie Berger; Erinna F Lee; Tiffany J Harris; Sharon Tran; Asim K Bera; Lauren Arguinchona; Alex Kang; Banumathi Sankaran; Sila Kasapgil; Michelle S Miller; Sean Smyth; Mariam Lutfi; Rachel T Uren; Ruth M Kluck; Peter M Colman; Walter D Fairlie; Peter E Czabotar; David Baker; Richard W Birkinshaw&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2025-09-05&lt;/p&gt;
+&lt;p&gt;Journal: Science advances&lt;/p&gt;
+&lt;p&gt;Potent and selective binders of the key proapoptotic proteins BAK and BAX have not been described. We use computational protein design to generate high affinity binders of BAK and BAX with greater than 100-fold specificity for their target. Both binders activate their targets when at low concentration, driving pore formation, but inhibit membrane permeabilization when in excess. Crystallography shows that the BAK binder induces BAK unfolding, exposing the α6 helix and BH3 domain. Together, these data suggest that upon binding, BAK or BAX unfold; at high binder concentrations, self-association of the partially folded BAK or BAX proteins is blocked and the membrane remains intact, whereas at low concentrations, dimers form, and the membrane ruptures. Our designed binders modulate apoptosis via direct, specific interactions with BAK and BAX and reveal that for therapeutic strategies targeting BAK and BAX, inhibition requires saturating binder concentrations at the site of action.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1126/sciadv.adt4170"&gt;pubmed (published) — DOI: 10.1126/sciadv.adt4170&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1126/sciadv.adt4170"&gt;Published version — DOI: 10.1126/sciadv.adt4170&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:160490f5-31af-5793-bd47-ac4c8f52baf4</id>
+    <title>Bond-centric modular design of protein assemblies.</title>
+    <published>2025-07-31T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.1038/s41563-025-02297-5" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Shunzhi Wang</name>
+    </author>
+    <author>
+      <name>Andrew Favor</name>
+    </author>
+    <author>
+      <name>Ryan D Kibler</name>
+    </author>
+    <author>
+      <name>Joshua M Lubner</name>
+    </author>
+    <author>
+      <name>Andrew J Borst</name>
+    </author>
+    <author>
+      <name>Nicolas Coudray</name>
+    </author>
+    <author>
+      <name>Rachel L Redler</name>
+    </author>
+    <author>
+      <name>Huat Thart Chiang</name>
+    </author>
+    <author>
+      <name>William Sheffler</name>
+    </author>
+    <author>
+      <name>Yang Hsia</name>
+    </author>
+    <author>
+      <name>Neville P Bethel</name>
+    </author>
+    <author>
+      <name>Zhe Li</name>
+    </author>
+    <author>
+      <name>Damian C Ekiert</name>
+    </author>
+    <author>
+      <name>Gira Bhabha</name>
+    </author>
+    <author>
+      <name>Lilo D Pozzo</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Shunzhi Wang; Andrew Favor; Ryan D Kibler; Joshua M Lubner; Andrew J Borst; Nicolas Coudray; Rachel L Redler; Huat Thart Chiang; William Sheffler; Yang Hsia; Neville P Bethel; Zhe Li; Damian C Ekiert; Gira Bhabha; Lilo D Pozzo; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2025-07-31&lt;/p&gt;
+&lt;p&gt;Journal: Nature materials&lt;/p&gt;
+&lt;p&gt;Directional interactions that generate regular coordination geometries are a powerful means of guiding molecular and colloidal self-assembly, but implementing such high-level interactions with proteins remains challenging due to their complex shapes and intricate interface properties. Here we describe a modular approach to protein nanomaterial design inspired by the rich chemical diversity that can be generated from the small number of atomic valencies. We design protein building blocks using deep learning-based generative tools, incorporating regular coordination geometries and tailorable bonding interactions that enable the assembly of diverse closed and open architectures guided by simple geometric principles. Experimental characterization confirms the successful formation of more than 20 multicomponent polyhedral protein cages, two-dimensional arrays and three-dimensional protein lattices, with a high (10%-50%) success rate and electron microscopy data closely matching the corresponding design models. Due to modularity, individual building blocks can assemble with different partners to generate distinct regular assemblies, resulting in an economy of parts and enabling the construction of reconfigurable networks for designer nanomaterials.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41563-025-02297-5"&gt;pubmed (published) — DOI: 10.1038/s41563-025-02297-5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41563-025-02297-5"&gt;Published version — DOI: 10.1038/s41563-025-02297-5&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:fb3b9879-f4ac-517e-a128-1959dbfc4c21</id>
+    <title>De Novo Design of High-Performance Cortisol Luminescent Biosensors.</title>
+    <published>2025-07-28T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.1021/jacs.5c05004" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Julie Yi-Hsuan Chen</name>
+    </author>
+    <author>
+      <name>Xue Peng</name>
+    </author>
+    <author>
+      <name>Chenggang Xi</name>
+    </author>
+    <author>
+      <name>Gyu Rie Lee</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Andy Hsien-Wei Yeh</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Julie Yi-Hsuan Chen; Xue Peng; Chenggang Xi; Gyu Rie Lee; David Baker; Andy Hsien-Wei Yeh&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2025-07-28&lt;/p&gt;
+&lt;p&gt;Journal: Journal of the American Chemical Society&lt;/p&gt;
+&lt;p&gt;Frequent, reliable cortisol measurement is critical for diagnosing and managing adrenal disorders, stress responses, and circadian rhythm disruptions. However, current cortisol assays or detection methods remain confined to laboratory settings, limiting on-site testing. Protein-based biosensors provide a promising point-of-care (POC) solution, yet no robust, field-ready protein-based cortisol biosensor is available. Here, we de novo design cortisol-inducible dimerization modules and systematically sample their fusions with split luciferase reporters by using a protein structure prediction pipeline. The resulting biosensor, designed straight from the computer, yields over 300-fold luminescent response with picomolar sensitivity and can be rapidly imaged by a standard camera or smartphone. This work highlights the power of computational protein design for developing next-generation protein-based biosensors.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1021/jacs.5c05004"&gt;pubmed (published) — DOI: 10.1021/jacs.5c05004&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1021/jacs.5c05004"&gt;Published version — DOI: 10.1021/jacs.5c05004&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:0f39abf3-ffcd-581a-ab7d-9655f1fcccc3</id>
+    <title>Design of high-specificity binders for peptide-MHC-I complexes.</title>
+    <published>2024-11-28T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.1126/science.adv0185" rel="alternate" />
+    <link href="https://doi.org/10.1101/2024.11.28.625793" rel="related" title="pubmed" />
+    <category term="published" />
+    <author>
+      <name>Bingxu Liu</name>
+    </author>
+    <author>
+      <name>Nathan F Greenwood</name>
+    </author>
+    <author>
+      <name>Julia E Bonzanini</name>
+    </author>
+    <author>
+      <name>Amir Motmaen</name>
+    </author>
+    <author>
+      <name>Jeremy Meyerberg</name>
+    </author>
+    <author>
+      <name>Tao Dao</name>
+    </author>
+    <author>
+      <name>Xinyu Xiang</name>
+    </author>
+    <author>
+      <name>Russell Ault</name>
+    </author>
+    <author>
+      <name>Jazmin Sharp</name>
+    </author>
+    <author>
+      <name>Chunyu Wang</name>
+    </author>
+    <author>
+      <name>Gian Marco Visani</name>
+    </author>
+    <author>
+      <name>Dionne K Vafeados</name>
+    </author>
+    <author>
+      <name>Nicole Roullier</name>
+    </author>
+    <author>
+      <name>Armita Nourmohammad</name>
+    </author>
+    <author>
+      <name>David A Scheinberg</name>
+    </author>
+    <author>
+      <name>K Christopher Garcia</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Bingxu Liu; Nathan F Greenwood; Julia E Bonzanini; Amir Motmaen; Jeremy Meyerberg; Tao Dao; Xinyu Xiang; Russell Ault; Jazmin Sharp; Chunyu Wang; Gian Marco Visani; Dionne K Vafeados; Nicole Roullier; Armita Nourmohammad; David A Scheinberg; K Christopher Garcia; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2025-07-24&lt;/p&gt;
+&lt;p&gt;Journal: Science (New York, N.Y.)&lt;/p&gt;
+&lt;p&gt;Class I major histocompatibility complex (MHC-I) molecules present peptides derived from intracellular antigens on the cell surface for immune surveillance. Proteins that recognize peptide-MHC-I (pMHCI) complexes with specificity for diseased cells could have considerable therapeutic utility. Specificity requires recognition of outward-facing amino acid residues within the disease-associated peptide as well as avoidance of extensive contacts with ubiquitously expressed MHC. We used RFdiffusion to design pMHCI-binding proteins that make extensive contacts with the peptide and identified specific binders for 11 target pMHCs starting from either experimental or predicted pMHCI structures. Upon incorporation into chimeric antigen receptors, designs for eight targets conferred peptide-specific T cell activation. Our approach should have broad utility for both protein- and cell-based pMHCI targeting.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1101/2024.11.28.625793"&gt;pubmed (preprint) — DOI: 10.1101/2024.11.28.625793&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1126/science.adv0185"&gt;pubmed (published) — DOI: 10.1126/science.adv0185&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1126/science.adv0185"&gt;Published version — DOI: 10.1126/science.adv0185&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pubmed.ncbi.nlm.nih.gov/40705892/"&gt;Published version&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:bf42e3f6-5f34-50ea-8cdc-42cbc1736f03</id>
+    <title>Design of intrinsically disordered region binding proteins.</title>
+    <published>2025-02-08T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.1126/science.adr8063" rel="alternate" />
+    <link href="https://doi.org/10.1101/2024.07.15.603480" rel="related" title="pubmed" />
+    <category term="published" />
+    <author>
+      <name>Kejia Wu</name>
+    </author>
+    <author>
+      <name>Hanlun Jiang</name>
+    </author>
+    <author>
+      <name>Derrick R Hicks</name>
+    </author>
+    <author>
+      <name>Caixuan Liu</name>
+    </author>
+    <author>
+      <name>Edin Muratspahić</name>
+    </author>
+    <author>
+      <name>Theresa A Ramelot</name>
+    </author>
+    <author>
+      <name>Yuexuan Liu</name>
+    </author>
+    <author>
+      <name>Kerrie McNally</name>
+    </author>
+    <author>
+      <name>Sebastian Kenny</name>
+    </author>
+    <author>
+      <name>Andrei Mihut</name>
+    </author>
+    <author>
+      <name>Amit Gaur</name>
+    </author>
+    <author>
+      <name>Brian Coventry</name>
+    </author>
+    <author>
+      <name>Wei Chen</name>
+    </author>
+    <author>
+      <name>Asim K Bera</name>
+    </author>
+    <author>
+      <name>Alex Kang</name>
+    </author>
+    <author>
+      <name>Stacey Gerben</name>
+    </author>
+    <author>
+      <name>Mila Ya-Lan Lamb</name>
+    </author>
+    <author>
+      <name>Analisa Murray</name>
+    </author>
+    <author>
+      <name>Xinting Li</name>
+    </author>
+    <author>
+      <name>Madison A Kennedy</name>
+    </author>
+    <author>
+      <name>Wei Yang</name>
+    </author>
+    <author>
+      <name>Zihao Song</name>
+    </author>
+    <author>
+      <name>Gudrun Schober</name>
+    </author>
+    <author>
+      <name>Stuart M Brierley</name>
+    </author>
+    <author>
+      <name>John O'Neill</name>
+    </author>
+    <author>
+      <name>Michael H Gelb</name>
+    </author>
+    <author>
+      <name>Gaetano T Montelione</name>
+    </author>
+    <author>
+      <name>Emmanuel Derivery</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Kejia Wu; Hanlun Jiang; Derrick R Hicks; Caixuan Liu; Edin Muratspahić; Theresa A Ramelot; Yuexuan Liu; Kerrie McNally; Sebastian Kenny; Andrei Mihut; Amit Gaur; Brian Coventry; Wei Chen; Asim K Bera; Alex Kang; Stacey Gerben; Mila Ya-Lan Lamb; Analisa Murray; Xinting Li; Madison A Kennedy; Wei Yang; Zihao Song; Gudrun Schober; Stuart M Brierley; John O&amp;#x27;Neill; Michael H Gelb; Gaetano T Montelione; Emmanuel Derivery; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2025-07-17&lt;/p&gt;
+&lt;p&gt;Journal: Science (New York, N.Y.)&lt;/p&gt;
+&lt;p&gt;Intrinsically disordered proteins and peptides play key roles in biology, but a lack of defined structures and high variability in sequence and conformational preferences have made targeting such systems challenging. We describe a general approach for designing proteins that bind intrinsically disordered protein regions in diverse extended conformations with side chains fitting into complementary binding pockets. We used the approach to design binders for 39 highly diverse unstructured targets, including polar targets, and obtained designs with 100-picomolar to 100-nanomolar affinities in 34 cases, testing ~22 designs per target. The designs function in cells and as detection reagents and are specific for their intended targets in all-by-all binding experiments. Our approach is a major step toward a general solution to the intrinsically disordered protein and peptide recognition problem.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1101/2024.07.15.603480"&gt;pubmed (preprint) — DOI: 10.1101/2024.07.15.603480&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1126/science.adr8063"&gt;pubmed (published) — DOI: 10.1126/science.adr8063&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1126/science.adr8063"&gt;Published version — DOI: 10.1126/science.adr8063&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pubmed.ncbi.nlm.nih.gov/40674483/"&gt;Published version&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:07844dda-29c5-5b23-a392-4da1b6636814</id>
+    <title>Monitoring in real time and far-red imaging of H2O2 dynamics with subcellular resolution.</title>
+    <published>2025-04-28T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.1038/s41589-025-01891-7" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Justin Daho Lee</name>
+    </author>
+    <author>
+      <name>Amanda Nguyen</name>
+    </author>
+    <author>
+      <name>Chelsea E Gibbs</name>
+    </author>
+    <author>
+      <name>Zheyu Ruby Jin</name>
+    </author>
+    <author>
+      <name>Yuxuan Wang</name>
+    </author>
+    <author>
+      <name>Aida Moghadasi</name>
+    </author>
+    <author>
+      <name>Sarah J Wait</name>
+    </author>
+    <author>
+      <name>Hojun Choi</name>
+    </author>
+    <author>
+      <name>Kira M Evitts</name>
+    </author>
+    <author>
+      <name>Anthony Asencio</name>
+    </author>
+    <author>
+      <name>Samantha B Bremner</name>
+    </author>
+    <author>
+      <name>Shani Zuniga</name>
+    </author>
+    <author>
+      <name>Vedant Chavan</name>
+    </author>
+    <author>
+      <name>Inez K A Pranoto</name>
+    </author>
+    <author>
+      <name>C Andrew Williams</name>
+    </author>
+    <author>
+      <name>Annette Smith</name>
+    </author>
+    <author>
+      <name>Farid Moussavi-Harami</name>
+    </author>
+    <author>
+      <name>Michael Regnier</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Jessica E Young</name>
+    </author>
+    <author>
+      <name>David L Mack</name>
+    </author>
+    <author>
+      <name>Elizabeth Nance</name>
+    </author>
+    <author>
+      <name>Patrick M Boyle</name>
+    </author>
+    <author>
+      <name>Andre Berndt</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Justin Daho Lee; Amanda Nguyen; Chelsea E Gibbs; Zheyu Ruby Jin; Yuxuan Wang; Aida Moghadasi; Sarah J Wait; Hojun Choi; Kira M Evitts; Anthony Asencio; Samantha B Bremner; Shani Zuniga; Vedant Chavan; Inez K A Pranoto; C Andrew Williams; Annette Smith; Farid Moussavi-Harami; Michael Regnier; David Baker; Jessica E Young; David L Mack; Elizabeth Nance; Patrick M Boyle; Andre Berndt&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2025-04-28&lt;/p&gt;
+&lt;p&gt;Journal: Nature chemical biology&lt;/p&gt;
+&lt;p&gt;Monitoring H2O2 dynamics in conjunction with key biological interactants is critical for elucidating the physiological outcome of cellular redox regulation. Optogenetic hydrogen peroxide sensor with HaloTag with JF635 (oROS-HT635) allows fast and sensitive chemigenetic far-red H2O2 imaging while overcoming drawbacks of existing red fluorescent H2O2 indicators, including oxygen dependency, high pH sensitivity, photoartifacts and intracellular aggregation. The compatibility of oROS-HT635 with blue-green-shifted optical tools allows versatile optogenetic dissection of redox biology. In addition, targeted expression of oROS-HT635 and multiplexed H2O2 imaging enables spatially resolved imaging of H2O2 targeting the plasma membrane and neighboring cells. Here we present multiplexed use cases of oROS-HT635 with other green fluorescence reporters by capturing acute and real-time changes in H2O2 with intracellular redox potential and Ca2+ levels in response to auranofin, an inhibitor of antioxidative enzymes, via dual-color imaging. oROS-HT635 enables detailed insights into intricate intracellular and intercellular H2O2 dynamics, along with their interactants, through spatially resolved, far-red H2O2 imaging in real time.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41589-025-01891-7"&gt;pubmed (published) — DOI: 10.1038/s41589-025-01891-7&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41589-025-01891-7"&gt;Published version — DOI: 10.1038/s41589-025-01891-7&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:cf67bb7c-0d74-5f08-b184-3ccefa4cfd3e</id>
+    <title>Computational design of serine hydrolases.</title>
+    <published>2025-04-18T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.1126/science.adu2454" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Anna Lauko</name>
+    </author>
+    <author>
+      <name>Samuel J Pellock</name>
+    </author>
+    <author>
+      <name>Kiera H Sumida</name>
+    </author>
+    <author>
+      <name>Ivan Anishchenko</name>
+    </author>
+    <author>
+      <name>David Juergens</name>
+    </author>
+    <author>
+      <name>Woody Ahern</name>
+    </author>
+    <author>
+      <name>Jihun Jeung</name>
+    </author>
+    <author>
+      <name>Alexander F Shida</name>
+    </author>
+    <author>
+      <name>Andrew Hunt</name>
+    </author>
+    <author>
+      <name>Indrek Kalvet</name>
+    </author>
+    <author>
+      <name>Christoffer Norn</name>
+    </author>
+    <author>
+      <name>Ian R Humphreys</name>
+    </author>
+    <author>
+      <name>Cooper Jamieson</name>
+    </author>
+    <author>
+      <name>Rohith Krishna</name>
+    </author>
+    <author>
+      <name>Yakov Kipnis</name>
+    </author>
+    <author>
+      <name>Alex Kang</name>
+    </author>
+    <author>
+      <name>Evans Brackenbrough</name>
+    </author>
+    <author>
+      <name>Asim K Bera</name>
+    </author>
+    <author>
+      <name>Banumathi Sankaran</name>
+    </author>
+    <author>
+      <name>K N Houk</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Anna Lauko; Samuel J Pellock; Kiera H Sumida; Ivan Anishchenko; David Juergens; Woody Ahern; Jihun Jeung; Alexander F Shida; Andrew Hunt; Indrek Kalvet; Christoffer Norn; Ian R Humphreys; Cooper Jamieson; Rohith Krishna; Yakov Kipnis; Alex Kang; Evans Brackenbrough; Asim K Bera; Banumathi Sankaran; K N Houk; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2025-04-18&lt;/p&gt;
+&lt;p&gt;Journal: Science (New York, N.Y.)&lt;/p&gt;
+&lt;p&gt;The design of enzymes with complex active sites that mediate multistep reactions remains an outstanding challenge. With serine hydrolases as a model system, we combined the generative capabilities of RFdiffusion with an ensemble generation method for assessing active site preorganization at each step in the reaction to design enzymes starting from minimal active site descriptions. Experimental characterization revealed catalytic efficiencies (kcat/Km) up to 2.2 × 105 M-1 s-1 and crystal structures that closely match the design models (Cα root mean square deviations &amp;lt;1 angstrom). Selection for structural compatibility across the reaction coordinate enabled identification of new catalysts remove with five different folds distinct from those of natural serine hydrolases. Our de novo approach provides insight into the geometric basis of catalysis and a roadmap for designing enzymes that catalyze multistep transformations.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1126/science.adu2454"&gt;pubmed (published) — DOI: 10.1126/science.adu2454&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1126/science.adu2454"&gt;Published version — DOI: 10.1126/science.adu2454&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:75c18014-68dc-5a8b-b77b-ed3ad17f0d19</id>
+    <title>Local structural flexibility drives oligomorphism in computationally designed protein assemblies.</title>
+    <published>2025-02-26T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.1038/s41594-025-01490-z" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Alena Khmelinskaia</name>
+    </author>
+    <author>
+      <name>Neville P Bethel</name>
+    </author>
+    <author>
+      <name>Farzad Fatehi</name>
+    </author>
+    <author>
+      <name>Bhoomika Basu Mallik</name>
+    </author>
+    <author>
+      <name>Aleksandar Antanasijevic</name>
+    </author>
+    <author>
+      <name>Andrew J Borst</name>
+    </author>
+    <author>
+      <name>Szu-Hsueh Lai</name>
+    </author>
+    <author>
+      <name>Ho Yeung Chim</name>
+    </author>
+    <author>
+      <name>Jing Yang 'John' Wang</name>
+    </author>
+    <author>
+      <name>Marcos C Miranda</name>
+    </author>
+    <author>
+      <name>Andrew M Watkins</name>
+    </author>
+    <author>
+      <name>Cassandra Ogohara</name>
+    </author>
+    <author>
+      <name>Shane Caldwell</name>
+    </author>
+    <author>
+      <name>Mengyu Wu</name>
+    </author>
+    <author>
+      <name>Albert J R Heck</name>
+    </author>
+    <author>
+      <name>David Veesler</name>
+    </author>
+    <author>
+      <name>Andrew B Ward</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Reidun Twarock</name>
+    </author>
+    <author>
+      <name>Neil P King</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Alena Khmelinskaia; Neville P Bethel; Farzad Fatehi; Bhoomika Basu Mallik; Aleksandar Antanasijevic; Andrew J Borst; Szu-Hsueh Lai; Ho Yeung Chim; Jing Yang &amp;#x27;John&amp;#x27; Wang; Marcos C Miranda; Andrew M Watkins; Cassandra Ogohara; Shane Caldwell; Mengyu Wu; Albert J R Heck; David Veesler; Andrew B Ward; David Baker; Reidun Twarock; Neil P King&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2025-02-26&lt;/p&gt;
+&lt;p&gt;Journal: Nature structural &amp;amp; molecular biology&lt;/p&gt;
+&lt;p&gt;Many naturally occurring protein assemblies have dynamic structures that allow them to perform specialized functions. Although computational methods for designing novel self-assembling proteins have advanced substantially over the past decade, they primarily focus on designing static structures. Here we characterize three distinct computationally designed protein assemblies that exhibit unanticipated structural diversity arising from flexibility in their subunits. Cryo-EM single-particle reconstructions and native mass spectrometry reveal two distinct architectures for two assemblies, while six cryo-EM reconstructions for the third likely represent a subset of its solution-phase structures. Structural modeling and molecular dynamics simulations indicate that constrained flexibility within the subunits of each assembly promotes a defined range of architectures rather than nonspecific aggregation. Redesigning the flexible region in one building block rescues the intended monomorphic assembly. These findings highlight structural flexibility as a powerful design principle, enabling exploration of new structural and functional spaces in protein assembly design.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41594-025-01490-z"&gt;pubmed (published) — DOI: 10.1038/s41594-025-01490-z&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41594-025-01490-z"&gt;Published version — DOI: 10.1038/s41594-025-01490-z&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:cda366f6-eeb2-5637-9acc-a2c32b6485e0</id>
+    <title>Target-conditioned diffusion generates potent TNFR superfamily antagonists and agonists.</title>
+    <published>2024-12-05T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.1126/science.adp1779" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Matthias Glögl</name>
+    </author>
+    <author>
+      <name>Aditya Krishnakumar</name>
+    </author>
+    <author>
+      <name>Robert J Ragotte</name>
+    </author>
+    <author>
+      <name>Inna Goreshnik</name>
+    </author>
+    <author>
+      <name>Brian Coventry</name>
+    </author>
+    <author>
+      <name>Asim K Bera</name>
+    </author>
+    <author>
+      <name>Alex Kang</name>
+    </author>
+    <author>
+      <name>Emily Joyce</name>
+    </author>
+    <author>
+      <name>Green Ahn</name>
+    </author>
+    <author>
+      <name>Buwei Huang</name>
+    </author>
+    <author>
+      <name>Wei Yang</name>
+    </author>
+    <author>
+      <name>Wei Chen</name>
+    </author>
+    <author>
+      <name>Mariana Garcia Sanchez</name>
+    </author>
+    <author>
+      <name>Brian Koepnick</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Matthias Glögl; Aditya Krishnakumar; Robert J Ragotte; Inna Goreshnik; Brian Coventry; Asim K Bera; Alex Kang; Emily Joyce; Green Ahn; Buwei Huang; Wei Yang; Wei Chen; Mariana Garcia Sanchez; Brian Koepnick; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2024-12-05&lt;/p&gt;
+&lt;p&gt;Journal: Science (New York, N.Y.)&lt;/p&gt;
+&lt;p&gt;Despite progress in designing protein-binding proteins, the shape matching of designs to targets is lower than in many native protein complexes, and design efforts have failed for the tumor necrosis factor receptor 1 (TNFR1) and other protein targets with relatively flat and polar surfaces. We hypothesized that free diffusion from random noise could generate shape-matched binders for challenging targets and tested this approach on TNFR1. We obtain designs with low picomolar affinity whose specificity can be completely switched to other family members using partial diffusion. Designs function as antagonists or as superagonists when presented at higher valency for OX40 and 4-1BB. The ability to design high-affinity and high-specificity antagonists and agonists for pharmacologically important targets in silico presages a coming era in protein design in which binders are made by computation rather than immunization or random screening approaches.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1126/science.adp1779"&gt;pubmed (published) — DOI: 10.1126/science.adp1779&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1126/science.adp1779"&gt;Published version — DOI: 10.1126/science.adp1779&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
     <id>urn:uuid:7f477453-6c38-52e7-b591-accb9b0e6576</id>
     <title>Designed miniproteins potently inhibit and protect against MERS-CoV.</title>
-    <published>2026-09-11T05:51:48Z</published>
+    <published>2024-11-04T00:00:00Z</published>
     <updated>2026-09-11T05:51:48Z</updated>
     <link href="https://pubmed.ncbi.nlm.nih.gov/40450691/" rel="alternate" />
     <link href="https://doi.org/10.1101/2024.11.03.621760" rel="related" title="pubmed" />
@@ -404,6 +3582,312 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1101/2024.11.03.621760"&gt;pubmed (preprint) — DOI: 10.1101/2024.11.03.621760&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://pubmed.ncbi.nlm.nih.gov/40450691/"&gt;Published version&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:ba311f34-103b-57eb-a504-88225da04c43</id>
+    <title>Enhancing extracellular vesicle cargo loading and functional delivery by engineering protein-lipid interactions.</title>
+    <published>2024-07-04T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.1038/s41467-024-49678-z" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Justin A Peruzzi</name>
+    </author>
+    <author>
+      <name>Taylor F Gunnels</name>
+    </author>
+    <author>
+      <name>Hailey I Edelstein</name>
+    </author>
+    <author>
+      <name>Peilong Lu</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Joshua N Leonard</name>
+    </author>
+    <author>
+      <name>Neha P Kamat</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Justin A Peruzzi; Taylor F Gunnels; Hailey I Edelstein; Peilong Lu; David Baker; Joshua N Leonard; Neha P Kamat&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2024-07-04&lt;/p&gt;
+&lt;p&gt;Journal: Nature communications&lt;/p&gt;
+&lt;p&gt;Naturally generated lipid nanoparticles termed extracellular vesicles (EVs) hold significant promise as engineerable therapeutic delivery vehicles. However, active loading of protein cargo into EVs in a manner that is useful for delivery remains a challenge. Here, we demonstrate that by rationally designing proteins to traffic to the plasma membrane and associate with lipid rafts, we can enhance loading of protein cargo into EVs for a set of structurally diverse transmembrane and peripheral membrane proteins. We then demonstrate the capacity of select lipid tags to mediate increased EV loading and functional delivery of an engineered transcription factor to modulate gene expression in target cells. We envision that this technology could be leveraged to develop new EV-based therapeutics that deliver a wide array of macromolecular cargo.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41467-024-49678-z"&gt;pubmed (published) — DOI: 10.1038/s41467-024-49678-z&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41467-024-49678-z"&gt;Published version — DOI: 10.1038/s41467-024-49678-z&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:af06e47e-1604-5510-98a4-f741615db7d4</id>
+    <title>Design and structural validation of peptide-drug conjugate ligands of the kappa-opioid receptor.</title>
+    <published>2023-12-06T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.1038/s41467-023-43718-w" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Edin Muratspahić</name>
+    </author>
+    <author>
+      <name>Kristine Deibler</name>
+    </author>
+    <author>
+      <name>Jianming Han</name>
+    </author>
+    <author>
+      <name>Nataša Tomašević</name>
+    </author>
+    <author>
+      <name>Kirtikumar B Jadhav</name>
+    </author>
+    <author>
+      <name>Aina-Leonor Olivé-Marti</name>
+    </author>
+    <author>
+      <name>Nadine Hochrainer</name>
+    </author>
+    <author>
+      <name>Roland Hellinger</name>
+    </author>
+    <author>
+      <name>Johannes Koehbach</name>
+    </author>
+    <author>
+      <name>Jonathan F Fay</name>
+    </author>
+    <author>
+      <name>Mohammad Homaidur Rahman</name>
+    </author>
+    <author>
+      <name>Lamees Hegazy</name>
+    </author>
+    <author>
+      <name>Timothy W Craven</name>
+    </author>
+    <author>
+      <name>Balazs R Varga</name>
+    </author>
+    <author>
+      <name>Gaurav Bhardwaj</name>
+    </author>
+    <author>
+      <name>Kevin Appourchaux</name>
+    </author>
+    <author>
+      <name>Susruta Majumdar</name>
+    </author>
+    <author>
+      <name>Markus Muttenthaler</name>
+    </author>
+    <author>
+      <name>Parisa Hosseinzadeh</name>
+    </author>
+    <author>
+      <name>David J Craik</name>
+    </author>
+    <author>
+      <name>Mariana Spetea</name>
+    </author>
+    <author>
+      <name>Tao Che</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Christian W Gruber</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Edin Muratspahić; Kristine Deibler; Jianming Han; Nataša Tomašević; Kirtikumar B Jadhav; Aina-Leonor Olivé-Marti; Nadine Hochrainer; Roland Hellinger; Johannes Koehbach; Jonathan F Fay; Mohammad Homaidur Rahman; Lamees Hegazy; Timothy W Craven; Balazs R Varga; Gaurav Bhardwaj; Kevin Appourchaux; Susruta Majumdar; Markus Muttenthaler; Parisa Hosseinzadeh; David J Craik; Mariana Spetea; Tao Che; David Baker; Christian W Gruber&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2023-12-06&lt;/p&gt;
+&lt;p&gt;Journal: Nature communications&lt;/p&gt;
+&lt;p&gt;Despite the increasing number of GPCR structures and recent advances in peptide design, the development of efficient technologies allowing rational design of high-affinity peptide ligands for single GPCRs remains an unmet challenge. Here, we develop a computational approach for designing conjugates of lariat-shaped macrocyclized peptides and a small molecule opioid ligand. We demonstrate its feasibility by discovering chemical scaffolds for the kappa-opioid receptor (KOR) with desired pharmacological activities. The designed De Novo Cyclic Peptide (DNCP)-β-naloxamine (NalA) exhibit in vitro potent mixed KOR agonism/mu-opioid receptor (MOR) antagonism, nanomolar binding affinity, selectivity, and efficacy bias at KOR. Proof-of-concept in vivo efficacy studies demonstrate that DNCP-β-NalA(1) induces a potent KOR-mediated antinociception in male mice. The high-resolution cryo-EM structure (2.6 Å) of the DNCP-β-NalA-KOR-Gi1 complex and molecular dynamics simulations are harnessed to validate the computational design model. This reveals a network of residues in ECL2/3 and TM6/7 controlling the intrinsic efficacy of KOR. In general, our computational de novo platform overcomes extensive lead optimization encountered in ultra-large library docking and virtual small molecule screening campaigns and offers innovation for GPCR ligand discovery. This may drive the development of next-generation therapeutics for medical applications such as pain conditions.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41467-023-43718-w"&gt;pubmed (published) — DOI: 10.1038/s41467-023-43718-w&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41467-023-43718-w"&gt;Published version — DOI: 10.1038/s41467-023-43718-w&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:30accd30-44b9-5e12-8a03-995963d1e1c4</id>
+    <title>Accurate computational design of three-dimensional protein crystals.</title>
+    <published>2023-10-16T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.1038/s41563-023-01683-1" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Zhe Li</name>
+    </author>
+    <author>
+      <name>Shunzhi Wang</name>
+    </author>
+    <author>
+      <name>Una Nattermann</name>
+    </author>
+    <author>
+      <name>Asim K Bera</name>
+    </author>
+    <author>
+      <name>Andrew J Borst</name>
+    </author>
+    <author>
+      <name>Muammer Y Yaman</name>
+    </author>
+    <author>
+      <name>Matthew J Bick</name>
+    </author>
+    <author>
+      <name>Erin C Yang</name>
+    </author>
+    <author>
+      <name>William Sheffler</name>
+    </author>
+    <author>
+      <name>Byeongdu Lee</name>
+    </author>
+    <author>
+      <name>Soenke Seifert</name>
+    </author>
+    <author>
+      <name>Greg L Hura</name>
+    </author>
+    <author>
+      <name>Hannah Nguyen</name>
+    </author>
+    <author>
+      <name>Alex Kang</name>
+    </author>
+    <author>
+      <name>Radhika Dalal</name>
+    </author>
+    <author>
+      <name>Joshua M Lubner</name>
+    </author>
+    <author>
+      <name>Yang Hsia</name>
+    </author>
+    <author>
+      <name>Hugh Haddox</name>
+    </author>
+    <author>
+      <name>Alexis Courbet</name>
+    </author>
+    <author>
+      <name>Quinton Dowling</name>
+    </author>
+    <author>
+      <name>Marcos Miranda</name>
+    </author>
+    <author>
+      <name>Andrew Favor</name>
+    </author>
+    <author>
+      <name>Ali Etemadi</name>
+    </author>
+    <author>
+      <name>Natasha I Edman</name>
+    </author>
+    <author>
+      <name>Wei Yang</name>
+    </author>
+    <author>
+      <name>Connor Weidle</name>
+    </author>
+    <author>
+      <name>Banumathi Sankaran</name>
+    </author>
+    <author>
+      <name>Babak Negahdari</name>
+    </author>
+    <author>
+      <name>Michael B Ross</name>
+    </author>
+    <author>
+      <name>David S Ginger</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Zhe Li; Shunzhi Wang; Una Nattermann; Asim K Bera; Andrew J Borst; Muammer Y Yaman; Matthew J Bick; Erin C Yang; William Sheffler; Byeongdu Lee; Soenke Seifert; Greg L Hura; Hannah Nguyen; Alex Kang; Radhika Dalal; Joshua M Lubner; Yang Hsia; Hugh Haddox; Alexis Courbet; Quinton Dowling; Marcos Miranda; Andrew Favor; Ali Etemadi; Natasha I Edman; Wei Yang; Connor Weidle; Banumathi Sankaran; Babak Negahdari; Michael B Ross; David S Ginger; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2023-10-16&lt;/p&gt;
+&lt;p&gt;Journal: Nature materials&lt;/p&gt;
+&lt;p&gt;Protein crystallization plays a central role in structural biology. Despite this, the process of crystallization remains poorly understood and highly empirical, with crystal contacts, lattice packing arrangements and space group preferences being largely unpredictable. Programming protein crystallization through precisely engineered side-chain-side-chain interactions across protein-protein interfaces is an outstanding challenge. Here we develop a general computational approach for designing three-dimensional protein crystals with prespecified lattice architectures at atomic accuracy that hierarchically constrains the overall number of degrees of freedom of the system. We design three pairs of oligomers that can be individually purified, and upon mixing, spontaneously self-assemble into &amp;gt;100 µm three-dimensional crystals. The structures of these crystals are nearly identical to the computational design models, closely corresponding in both overall architecture and the specific protein-protein interactions. The dimensions of the crystal unit cell can be systematically redesigned while retaining the space group symmetry and overall architecture, and the crystals are extremely porous and highly stable. Our approach enables the computational design of protein crystals with high accuracy, and the designed protein crystals, which have both structural and assembly information encoded in their primary sequences, provide a powerful platform for biological materials engineering.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41563-023-01683-1"&gt;pubmed (published) — DOI: 10.1038/s41563-023-01683-1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41563-023-01683-1"&gt;Published version — DOI: 10.1038/s41563-023-01683-1&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:8d648655-8d36-58df-b098-075d93d5b6b8</id>
+    <title>Generation of Potent and Stable GLP-1 Analogues Via "Serine Ligation".</title>
+    <published>2022-03-23T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.1021/acschembio.2c00075" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Paul M Levine</name>
+    </author>
+    <author>
+      <name>Timothy W Craven</name>
+    </author>
+    <author>
+      <name>Xinting Li</name>
+    </author>
+    <author>
+      <name>Aaron T Balana</name>
+    </author>
+    <author>
+      <name>Gregory H Bird</name>
+    </author>
+    <author>
+      <name>Marina Godes</name>
+    </author>
+    <author>
+      <name>Patrick J Salveson</name>
+    </author>
+    <author>
+      <name>Patrick W Erickson</name>
+    </author>
+    <author>
+      <name>Mila Lamb</name>
+    </author>
+    <author>
+      <name>Maggie Ahlrichs</name>
+    </author>
+    <author>
+      <name>Michael Murphy</name>
+    </author>
+    <author>
+      <name>Cassandra Ogohara</name>
+    </author>
+    <author>
+      <name>Meerit Y Said</name>
+    </author>
+    <author>
+      <name>Loren D Walensky</name>
+    </author>
+    <author>
+      <name>Matthew R Pratt</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Paul M Levine; Timothy W Craven; Xinting Li; Aaron T Balana; Gregory H Bird; Marina Godes; Patrick J Salveson; Patrick W Erickson; Mila Lamb; Maggie Ahlrichs; Michael Murphy; Cassandra Ogohara; Meerit Y Said; Loren D Walensky; Matthew R Pratt; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2022-03-23&lt;/p&gt;
+&lt;p&gt;Journal: ACS chemical biology&lt;/p&gt;
+&lt;p&gt;Peptide and protein bioconjugation technologies have revolutionized our ability to site-specifically or chemoselectively install a variety of functional groups for applications in chemical biology and medicine, including the enhancement of bioavailability. Here, we introduce a site-specific bioconjugation strategy inspired by chemical ligation at serine that relies on a noncanonical amino acid containing a 1-amino-2-hydroxy functional group and a salicylaldehyde ester. More specifically, we harness this technology to generate analogues of glucagon-like peptide-1 that resemble Semaglutide, a long-lasting blockbuster drug currently used in the clinic to regulate glucose levels in the blood. We identify peptides that are more potent than unmodified peptide and equipotent to Semaglutide in a cell-based activation assay, improve the stability in human serum, and increase glucose disposal efficiency in vivo. This approach demonstrates the potential of &amp;quot;serine ligation&amp;quot; for various applications in chemical biology, with a particular focus on generating stabilized peptide therapeutics.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1021/acschembio.2c00075"&gt;pubmed (published) — DOI: 10.1021/acschembio.2c00075&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1021/acschembio.2c00075"&gt;Published version — DOI: 10.1021/acschembio.2c00075&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
 </feed>
