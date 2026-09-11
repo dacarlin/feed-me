@@ -1,6 +1,7 @@
 """Readable state, immutable logical IDs, and atomic individual file writes."""
 
 from copy import deepcopy
+from datetime import date
 import json
 from pathlib import Path
 import tempfile
@@ -13,6 +14,24 @@ from .models import Paper, compatible_names
 
 def empty_state() -> dict:
     return {"schema_version": 1, "checkpoints": {}, "refresh": {}, "works": {}, "aliases": {}, "rejected": {}}
+
+
+def published_timestamp(work: dict) -> str:
+    """Freeze the first known bibliographic date for reader sorting."""
+    if work.get("published"):
+        return work["published"]
+    dates = []
+    for record in work["records"].values():
+        value = record.get("date", "")
+        if len(value) == 4:
+            value += "-01-01"
+        elif len(value) == 7:
+            value += "-01"
+        try:
+            dates.append(date.fromisoformat(value).isoformat() + "T00:00:00Z")
+        except ValueError:
+            continue
+    return min(dates) if dates else work["first_seen"]
 
 
 def load_state(path: Path) -> dict:
@@ -29,6 +48,7 @@ def load_state(path: Path) -> dict:
             raise ValueError(f"Invalid work: {key}")
         for record in work["records"].values():
             Paper.from_dict(record)
+        work.setdefault("published", published_timestamp(work))
     return state
 
 
@@ -126,6 +146,7 @@ def ingest(state: dict, paper: Paper, researchers: list, now: str) -> tuple[bool
                    "reason": "ambiguous title candidates" if len(candidates) > 1 else "no existing work"}]
     old = work["records"].get(paper.key)
     work["records"][paper.key] = combine_record(old, paper) if old else paper.to_dict()
+    work.setdefault("published", published_timestamp(work))
     for rid in set(direct) | set(inherited):
         # Direct evidence is more useful and avoids accumulating self-inheritance.
         evidence = direct.get(rid) or inherited[rid]

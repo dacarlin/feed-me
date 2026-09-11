@@ -34,6 +34,7 @@ def test_stable_valid_feed_and_unchanged_rerender(config, preprint, publication)
     first = feedparser.parse(render_feeds(state, config)["all.xml"])
     assert not first.bozo
     assert len(first.entries) == 1
+    assert first.entries[0].published == preprint.date + "T00:00:00Z"
     ingest_batch(state, [publication], config.researchers, T2)
     files = render_feeds(state, config)
     second = feedparser.parse(files["all.xml"])
@@ -99,7 +100,38 @@ def test_old_paper_discovered_later_does_not_displace_recent_publication(config,
     config.site["max_entries"] = 1
     entry = feedparser.parse(render_feeds(state, config)["all.xml"]).entries[0]
     assert entry.title == publication.title
-    assert entry.published == T1
+    assert entry.published == publication.date + "T00:00:00Z"
+
+
+@pytest.mark.parametrize("paper_date,expected", [
+    ("2026-08-27", "2026-08-27T00:00:00Z"),
+    ("2026-08", "2026-08-01T00:00:00Z"),
+    ("2026", "2026-01-01T00:00:00Z"),
+    ("", T1),
+    ("2026-02-30", T1),
+])
+def test_reader_publication_dates(config, publication, paper_date, expected):
+    publication.date = paper_date
+    state = empty_state()
+    ingest_batch(state, [publication], config.researchers, T1)
+    entry = feedparser.parse(render_feeds(state, config)["all.xml"]).entries[0]
+    assert not feedparser.parse(render_feeds(state, config)["all.xml"]).bozo
+    assert entry.published == expected
+
+
+def test_legacy_state_migrates_reader_date_without_changing_identity(tmp_path, config, publication):
+    state = empty_state()
+    ingest_batch(state, [publication], config.researchers, T1)
+    work = next(iter(state["works"].values()))
+    del work["published"]
+    path = tmp_path / "state.json"
+    save_state(path, state)
+    migrated = load_state(path)
+    updated_work = migrated["works"][work["id"]]
+    assert updated_work["first_seen"] == work["first_seen"]
+    assert updated_work["published"] == publication.date + "T00:00:00Z"
+    save_state(path, migrated)
+    assert load_state(path) == migrated
 
 
 def test_source_failure_retains_checkpoint_and_other_sources_progress(monkeypatch, config, preprint, publication):

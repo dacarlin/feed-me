@@ -141,8 +141,14 @@ Source records and the rule used for each merge remain inspectable in state.
 
 Each work receives a persisted `urn:uuid:…` Atom entry ID. A later journal
 publication changes its metadata, canonical link, status and `updated` time,
-while retaining its ID and first-seen `published` time. Bibliographic dates appear
-in the content. If only a publication link is known, the entry labels its title
+while retaining its ID and persisted `published` time. The Atom `published`
+timestamp starts at the first known bibliographic date, rather than discovery
+time, so [NetNewsWire's date sorter](https://github.com/Ranchero-Software/NetNewsWire/blob/main/Shared/Timeline/ArticleSorter.swift)
+places old indexing corrections behind recent papers.
+Year/month-only dates use the first day of that period; missing or invalid dates
+fall back to discovery time. Existing state gains this timestamp on loading;
+IDs and `first_seen` are preserved. Bibliographic dates also appear in the
+content. If only a publication link is known, the entry labels its title
 and abstract as preprint metadata.
 
 If two previously emitted works are later linked, the earliest first-seen work's

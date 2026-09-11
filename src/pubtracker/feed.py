@@ -5,7 +5,7 @@ from pathlib import Path
 from xml.etree import ElementTree as ET
 
 from .models import Paper
-from .state import atomic_write
+from .state import atomic_write, published_timestamp
 
 ATOM = "http://www.w3.org/2005/Atom"
 ET.register_namespace("", ATOM)
@@ -91,8 +91,8 @@ def render_feeds(state: dict, config) -> dict[str, str]:
             entry = node(root, "entry")
             node(entry, "id", work["id"])
             node(entry, "title", paper.title)
-            # Discovery time is stable, even if the paper's bibliographic date changes.
-            node(entry, "published", work["first_seen"])
+            # Readers sort by this date, not XML order. Persist it across revisions.
+            node(entry, "published", published_timestamp(work))
             node(entry, "updated", work["updated"])
             node(entry, "link", href=canonical, rel="alternate")
             for raw in sorted(work["records"].values(), key=lambda p: (p["source"], p["source_id"])):
