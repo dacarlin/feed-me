@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-09-13T04:45:44Z",
+      "last_success": "2026-09-13T11:50:12Z",
       "config": "ab78f0b9d276526b5355d298d5af26be5b224eeb3572e446a33b4a5e5582788f"
     },
     "pubmed": {
-      "last_success": "2026-09-13T04:45:44Z",
+      "last_success": "2026-09-13T11:50:12Z",
       "config": "ab78f0b9d276526b5355d298d5af26be5b224eeb3572e446a33b4a5e5582788f"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "ab78f0b9d276526b5355d298d5af26be5b224eeb3572e446a33b4a5e5582788f"
     },
     "biorxiv": {
-      "last_success": "2026-09-13T04:45:44Z",
+      "last_success": "2026-09-13T11:50:12Z",
       "config": "ab78f0b9d276526b5355d298d5af26be5b224eeb3572e446a33b4a5e5582788f"
     }
   },
