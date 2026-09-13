@@ -2,20 +2,20 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-09-13T16:15:28Z",
-      "config": "ab78f0b9d276526b5355d298d5af26be5b224eeb3572e446a33b4a5e5582788f"
+      "last_success": "2026-09-13T18:42:33Z",
+      "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-09-13T16:15:28Z",
-      "config": "ab78f0b9d276526b5355d298d5af26be5b224eeb3572e446a33b4a5e5582788f"
+      "last_success": "2026-09-13T18:42:33Z",
+      "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
       "last_success": "2026-09-13T01:37:39Z",
       "config": "ab78f0b9d276526b5355d298d5af26be5b224eeb3572e446a33b4a5e5582788f"
     },
     "biorxiv": {
-      "last_success": "2026-09-13T16:15:28Z",
-      "config": "ab78f0b9d276526b5355d298d5af26be5b224eeb3572e446a33b4a5e5582788f"
+      "last_success": "2026-09-13T18:42:33Z",
+      "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
   "refresh": {
@@ -76,7 +76,10 @@
     "pubmed:38965227": "2026-09-11T17:54:26Z",
     "pubmed:38052802": "2026-09-11T17:54:26Z",
     "pubmed:37845322": "2026-09-11T17:54:26Z",
-    "pubmed:35319882": "2026-09-11T17:54:26Z"
+    "pubmed:35319882": "2026-09-11T17:54:26Z",
+    "pubmed:42526427": "2026-09-13T18:42:33Z",
+    "pubmed:42523424": "2026-09-13T18:42:33Z",
+    "pubmed:26727239": "2026-09-13T18:42:33Z"
   },
   "works": {
     "urn:uuid:7f477453-6c38-52e7-b591-accb9b0e6576": {
@@ -3035,7 +3038,7 @@
     "urn:uuid:bf42e3f6-5f34-50ea-8cdc-42cbc1736f03": {
       "id": "urn:uuid:bf42e3f6-5f34-50ea-8cdc-42cbc1736f03",
       "first_seen": "2026-09-11T17:54:26Z",
-      "updated": "2026-09-11T17:54:26Z",
+      "updated": "2026-09-13T18:42:33Z",
       "records": {
         "pubmed:40674483": {
           "source": "pubmed",
@@ -3480,7 +3483,7 @@
             "matched": true,
             "reason": "identity inherited through a strong work identifier",
             "via_work": "urn:uuid:bf42e3f6-5f34-50ea-8cdc-42cbc1736f03",
-            "via_record": "pubmed:40674483",
+            "via_record": "pubmed:39071356",
             "method": "explicit_relationship"
           }
         ]
@@ -3511,7 +3514,7 @@
     "urn:uuid:0f39abf3-ffcd-581a-ab7d-9655f1fcccc3": {
       "id": "urn:uuid:0f39abf3-ffcd-581a-ab7d-9655f1fcccc3",
       "first_seen": "2026-09-11T17:54:26Z",
-      "updated": "2026-09-11T17:54:26Z",
+      "updated": "2026-09-13T18:42:33Z",
       "records": {
         "pubmed:40705892": {
           "source": "pubmed",
@@ -3818,7 +3821,7 @@
             "matched": true,
             "reason": "identity inherited through a strong work identifier",
             "via_work": "urn:uuid:0f39abf3-ffcd-581a-ab7d-9655f1fcccc3",
-            "via_record": "pubmed:40705892",
+            "via_record": "pubmed:39651227",
             "method": "explicit_relationship"
           }
         ]
@@ -11411,6 +11414,274 @@
         }
       ],
       "published": "2026-08-26T00:00:00Z"
+    },
+    "urn:uuid:a947bc91-7c21-51ac-9bee-6489fa4e61f1": {
+      "id": "urn:uuid:a947bc91-7c21-51ac-9bee-6489fa4e61f1",
+      "first_seen": "2026-09-13T18:42:33Z",
+      "updated": "2026-09-13T18:42:33Z",
+      "records": {
+        "pubmed:26727239": {
+          "source": "pubmed",
+          "source_id": "26727239",
+          "title": "The solution structural ensembles of RNA kink-turn motifs and their protein complexes.",
+          "authors": [
+            {
+              "name": "Xuesong Shi",
+              "affiliations": [
+                "Department of Biochemistry, Stanford University, Stanford, California, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Lin Huang",
+              "affiliations": [
+                "Nucleic Acid Structure Research Group, School of Life Sciences, University of Dundee, Dundee, UK."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David M J Lilley",
+              "affiliations": [
+                "Nucleic Acid Structure Research Group, School of Life Sciences, University of Dundee, Dundee, UK."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Pehr B Harbury",
+              "affiliations": [
+                "Department of Biochemistry, Stanford University, Stanford, California, USA.",
+                "ChEM-H, Stanford University, Stanford, California, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Daniel Herschlag",
+              "affiliations": [
+                "Department of Biochemistry, Stanford University, Stanford, California, USA.",
+                "ChEM-H, Stanford University, Stanford, California, USA.",
+                "Department of Chemistry, Stanford University, Stanford, California, USA.",
+                "Department of Chemical Engineering, Stanford University, Stanford, California, USA."
+              ],
+              "orcid": null
+            }
+          ],
+          "abstract": "With the growing number of crystal structures of RNA and RNA-protein complexes, a critical next step is understanding the dynamic solution behavior of these entities in terms of conformational ensembles and energy landscapes. To this end, we have used X-ray scattering interferometry (XSI) to probe the ubiquitous RNA kink-turn motif and its complexes with the canonical kink-turn binding protein L7Ae. XSI revealed that the folded kink-turn is best described as a restricted conformational ensemble. The ions present in solution alter the nature of this ensemble, and protein binding can perturb the kink-turn ensemble without collapsing it to a unique state. This study demonstrates how XSI can reveal structural and ensemble properties of RNAs and RNA-protein complexes and uncovers the behavior of an important RNA-protein motif. This type of information will be necessary to understand, predict and engineer the behavior and function of RNAs and their protein complexes.",
+          "date": "2016-01-04",
+          "url": "https://doi.org/10.1038/nchembio.1997",
+          "doi": "10.1038/nchembio.1997",
+          "status": "published",
+          "journal": "Nature chemical biology",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC4755865"
+          ],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "daniel-herschlag": [
+          {
+            "record": "pubmed:26727239",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "Daniel Herschlag",
+                "method": "name_and_affiliations",
+                "affiliations": [
+                  "Department of Biochemistry, Stanford University, Stanford, California, USA.",
+                  "ChEM-H, Stanford University, Stanford, California, USA.",
+                  "Department of Chemistry, Stanford University, Stanford, California, USA.",
+                  "Department of Chemical Engineering, Stanford University, Stanford, California, USA."
+                ],
+                "matched_affiliations": [
+                  "Stanford University",
+                  "Department of Biochemistry",
+                  "Department of Chemical Engineering"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:26727239",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2016-01-04T00:00:00Z"
+    },
+    "urn:uuid:345631cf-b113-5072-a703-0d81b19ae3fe": {
+      "id": "urn:uuid:345631cf-b113-5072-a703-0d81b19ae3fe",
+      "first_seen": "2026-09-13T18:42:33Z",
+      "updated": "2026-09-13T18:42:33Z",
+      "records": {
+        "pubmed:42523424": {
+          "source": "pubmed",
+          "source_id": "42523424",
+          "title": "Rho ( 𝛒 ) Analysis to Dissect RNA Folding and Assembly Pathways.",
+          "authors": [
+            {
+              "name": "Brant Gracia",
+              "affiliations": [
+                "Department of Molecular Biosciences, University of Texas at Austin, Austin TX 78712.",
+                "Current address: Department of Chemical Engineering, University of Texas at Austin, Austin TX 78712."
+              ],
+              "orcid": "0000-0002-2325-2126"
+            },
+            {
+              "name": "Sarah E Nielson",
+              "affiliations": [
+                "Department of Molecular Biosciences, University of Texas at Austin, Austin TX 78712."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Daniel Herschlag",
+              "affiliations": [
+                "Department of Biochemistry, Stanford University, Stanford CA 94305."
+              ],
+              "orcid": "0000-0002-4685-1973"
+            },
+            {
+              "name": "Rick Russell",
+              "affiliations": [
+                "Department of Molecular Biosciences, University of Texas at Austin, Austin TX 78712."
+              ],
+              "orcid": "0000-0002-4879-8563"
+            }
+          ],
+          "abstract": "The modular structure and energetics of RNA simplifies its folding. Leveraging this modularity, we introduce Rho ( ρ ) analysis to systematically dissect RNA conformational pathways. ρ analysis uses isolated RNA secondary or tertiary contacts as external standards to provide insights not possible via the \"internal\" comparisons of traditional ϕ analysis. Equivalent effects of a mutation on the folding rate constant of the RNA of interest and the thermodynamic stability of the isolated contact indicate that the mutated interaction is fully formed prior to the rate-limiting transition state; the absence of a kinetic effect indicates that the interaction is formed after this transition state. Comparisons with properties of the isolated contact provide additional insights about conformational pathways. We demonstrate ρ analysis by dissecting Tetrahymena group I intron folding pathways, using a split intron in which the P5abc subdomain assembles with the intron core through three tertiary contacts. We uncover multiple folding pathways and modulation in pathway flux that are readily understood from the energetic properties of the constituent RNA motifs. Extending these concepts to RNA-guided DNA recognition by CRISPR-Cas12a, crRNA-DNA mismatches give substantial ϕ values across much of the target, indicating a late transition state in binding. Thermodynamic penalties from mismatches support modular base-pairing energetics and define an upper bound on DNA target specificity. Our results establish ρ analysis as a general framework to probe RNA conformational pathways and function. It is straightforward to implement and can be readily applied in vitro and in cells.",
+          "date": "2026-07-19",
+          "url": "https://doi.org/10.64898/2026.07.18.739347",
+          "doi": "10.64898/2026.07.18.739347",
+          "status": "preprint",
+          "journal": "bioRxiv : the preprint server for biology",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC13405278"
+          ],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "daniel-herschlag": [
+          {
+            "record": "pubmed:42523424",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "Daniel Herschlag",
+                "method": "orcid",
+                "orcid": "0000-0002-4685-1973"
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:42523424",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2026-07-19T00:00:00Z"
+    },
+    "urn:uuid:549c333f-7164-59ed-aeac-18f2d08baa08": {
+      "id": "urn:uuid:549c333f-7164-59ed-aeac-18f2d08baa08",
+      "first_seen": "2026-09-13T18:42:33Z",
+      "updated": "2026-09-13T18:42:33Z",
+      "records": {
+        "pubmed:42526427": {
+          "source": "pubmed",
+          "source_id": "42526427",
+          "title": "Quantifying protein unfolding kinetics with a high-throughput microfluidic platform.",
+          "authors": [
+            {
+              "name": "Beatriz Atsavapranee",
+              "affiliations": [
+                "Department of Bioengineering, Stanford University, Stanford, CA 94305, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Fanny Sunden",
+              "affiliations": [
+                "Department of Biochemistry, Stanford University, Stanford, CA 94305, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Daniel Herschlag",
+              "affiliations": [
+                "Department of Biochemistry, Stanford University, Stanford, CA 94305, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Polly M Fordyce",
+              "affiliations": [
+                "Department of Bioengineering, Stanford University, Stanford, CA 94305, USA; Department of Genetics, Stanford University, Stanford, CA 94305, USA; Sarafan ChEM-H Institute, Stanford University, Stanford, CA 94305, USA; Chan Zuckerberg Biohub, Stanford University, Stanford, CA 94305, USA. Electronic address: pfordyce@stanford.edu."
+              ],
+              "orcid": null
+            }
+          ],
+          "abstract": "Even after folding, proteins sample unfolded intermediates at risk of irreversible alteration (e.g., via proteolysis, aggregation, or posttranslational modification). Thus, kinetic stability impacts protein lifetime and abundance. However, we have very few measurements of unfolding rates, largely due to technical challenges. To address this, we developed SPARKfold (simultaneous proteolysis assay revealing kinetics of folding), a microfluidic platform to express, purify, and measure unfolding rate constants at high throughput via native proteolysis. We applied SPARKfold to determine unfolding rate constants for 1,104 protein samples comprising 31 dihydrofolate reductase orthologs with up to 78 chamber replicates each, providing statistical power to resolve subtle effects. SPARKfold rate constants for 5 constructs agreed with traditional measurements across a 150-fold range and provided information about the folding transition state via φ analysis. In future work, SPARKfold can reveal mutations that drive misfolding and aggregation and enable the rational design of kinetically hyperstable variants for industrial use. A record of this paper's transparent peer review process is included in the supplemental information.",
+          "date": "2026-07-29",
+          "url": "https://doi.org/10.1016/j.cels.2026.101681",
+          "doi": "10.1016/j.cels.2026.101681",
+          "status": "published",
+          "journal": "Cell systems",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC13484538"
+          ],
+          "relations": [
+            {
+              "kind": "update_of",
+              "target": "pubmed:39868203",
+              "evidence": "PubMed UpdateOf; target must be a preprint"
+            }
+          ]
+        }
+      },
+      "matched_researchers": {
+        "daniel-herschlag": [
+          {
+            "record": "pubmed:42526427",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "Daniel Herschlag",
+                "method": "name_and_affiliations",
+                "affiliations": [
+                  "Department of Biochemistry, Stanford University, Stanford, CA 94305, USA."
+                ],
+                "matched_affiliations": [
+                  "Stanford University",
+                  "Department of Biochemistry"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:42526427",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2026-07-29T00:00:00Z"
     }
   },
   "aliases": {},
@@ -11496,6 +11767,11 @@
               "orcid": "0000-0001-7349-7554"
             }
           ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
         }
       },
       "deduplication": [],
@@ -11633,6 +11909,11 @@
               "reason": "insufficient author-scoped affiliation evidence"
             }
           ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
         }
       },
       "deduplication": [],
@@ -11702,6 +11983,11 @@
               "reason": "insufficient author-scoped affiliation evidence"
             }
           ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
         }
       },
       "deduplication": [],
@@ -11834,6 +12120,11 @@
               "reason": "insufficient author-scoped affiliation evidence"
             }
           ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
         }
       },
       "deduplication": [],
@@ -12169,6 +12460,11 @@
               "reason": "insufficient author-scoped affiliation evidence"
             }
           ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
         }
       },
       "deduplication": [],
@@ -12748,6 +13044,11 @@
               "orcid": "0000-0001-7349-7554"
             }
           ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
         }
       },
       "deduplication": [],
@@ -12844,6 +13145,11 @@
               "reason": "insufficient author-scoped affiliation evidence"
             }
           ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
         }
       },
       "deduplication": [],
@@ -12918,6 +13224,11 @@
               "reason": "insufficient author-scoped affiliation evidence"
             }
           ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
         }
       },
       "deduplication": [],
@@ -13087,6 +13398,11 @@
               "reason": "insufficient author-scoped affiliation evidence"
             }
           ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
         }
       },
       "deduplication": [],
@@ -13226,6 +13542,11 @@
               "reason": "insufficient author-scoped affiliation evidence"
             }
           ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
         }
       },
       "deduplication": [],
@@ -13474,5 +13795,5 @@
       "reason": "no strong identity evidence or link to an identified work"
     }
   },
-  "identity_config": "ab78f0b9d276526b5355d298d5af26be5b224eeb3572e446a33b4a5e5582788f"
+  "identity_config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
 }

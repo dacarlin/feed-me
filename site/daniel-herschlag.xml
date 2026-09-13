@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://dacarlin.github.io/feed-me/daniel-herschlag.xml</id>
+  <title>Daniel Herschlag — publications and preprints</title>
+  <link href="https://dacarlin.github.io/feed-me/daniel-herschlag.xml" rel="self" type="application/atom+xml" />
+  <link href="https://dacarlin.github.io/feed-me/" rel="alternate" />
+  <author>
+    <name>pubtracker</name>
+  </author>
+  <updated>2026-09-13T18:42:33Z</updated>
+  <entry>
+    <id>urn:uuid:549c333f-7164-59ed-aeac-18f2d08baa08</id>
+    <title>Quantifying protein unfolding kinetics with a high-throughput microfluidic platform.</title>
+    <published>2026-07-29T00:00:00Z</published>
+    <updated>2026-09-13T18:42:33Z</updated>
+    <link href="https://doi.org/10.1016/j.cels.2026.101681" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Beatriz Atsavapranee</name>
+    </author>
+    <author>
+      <name>Fanny Sunden</name>
+    </author>
+    <author>
+      <name>Daniel Herschlag</name>
+    </author>
+    <author>
+      <name>Polly M Fordyce</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Beatriz Atsavapranee; Fanny Sunden; Daniel Herschlag; Polly M Fordyce&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2026-07-29&lt;/p&gt;
+&lt;p&gt;Journal: Cell systems&lt;/p&gt;
+&lt;p&gt;Even after folding, proteins sample unfolded intermediates at risk of irreversible alteration (e.g., via proteolysis, aggregation, or posttranslational modification). Thus, kinetic stability impacts protein lifetime and abundance. However, we have very few measurements of unfolding rates, largely due to technical challenges. To address this, we developed SPARKfold (simultaneous proteolysis assay revealing kinetics of folding), a microfluidic platform to express, purify, and measure unfolding rate constants at high throughput via native proteolysis. We applied SPARKfold to determine unfolding rate constants for 1,104 protein samples comprising 31 dihydrofolate reductase orthologs with up to 78 chamber replicates each, providing statistical power to resolve subtle effects. SPARKfold rate constants for 5 constructs agreed with traditional measurements across a 150-fold range and provided information about the folding transition state via φ analysis. In future work, SPARKfold can reveal mutations that drive misfolding and aggregation and enable the rational design of kinetically hyperstable variants for industrial use. A record of this paper&amp;#x27;s transparent peer review process is included in the supplemental information.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1016/j.cels.2026.101681"&gt;pubmed (published) — DOI: 10.1016/j.cels.2026.101681&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1016/j.cels.2026.101681"&gt;Published version — DOI: 10.1016/j.cels.2026.101681&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:345631cf-b113-5072-a703-0d81b19ae3fe</id>
+    <title>Rho ( 𝛒 ) Analysis to Dissect RNA Folding and Assembly Pathways.</title>
+    <published>2026-07-19T00:00:00Z</published>
+    <updated>2026-09-13T18:42:33Z</updated>
+    <link href="https://doi.org/10.64898/2026.07.18.739347" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Brant Gracia</name>
+    </author>
+    <author>
+      <name>Sarah E Nielson</name>
+    </author>
+    <author>
+      <name>Daniel Herschlag</name>
+    </author>
+    <author>
+      <name>Rick Russell</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Brant Gracia; Sarah E Nielson; Daniel Herschlag; Rick Russell&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Preprint date: 2026-07-19&lt;/p&gt;
+&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
+&lt;p&gt;The modular structure and energetics of RNA simplifies its folding. Leveraging this modularity, we introduce Rho ( ρ ) analysis to systematically dissect RNA conformational pathways. ρ analysis uses isolated RNA secondary or tertiary contacts as external standards to provide insights not possible via the &amp;quot;internal&amp;quot; comparisons of traditional ϕ analysis. Equivalent effects of a mutation on the folding rate constant of the RNA of interest and the thermodynamic stability of the isolated contact indicate that the mutated interaction is fully formed prior to the rate-limiting transition state; the absence of a kinetic effect indicates that the interaction is formed after this transition state. Comparisons with properties of the isolated contact provide additional insights about conformational pathways. We demonstrate ρ analysis by dissecting Tetrahymena group I intron folding pathways, using a split intron in which the P5abc subdomain assembles with the intron core through three tertiary contacts. We uncover multiple folding pathways and modulation in pathway flux that are readily understood from the energetic properties of the constituent RNA motifs. Extending these concepts to RNA-guided DNA recognition by CRISPR-Cas12a, crRNA-DNA mismatches give substantial ϕ values across much of the target, indicating a late transition state in binding. Thermodynamic penalties from mismatches support modular base-pairing energetics and define an upper bound on DNA target specificity. Our results establish ρ analysis as a general framework to probe RNA conformational pathways and function. It is straightforward to implement and can be readily applied in vitro and in cells.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.07.18.739347"&gt;pubmed (preprint) — DOI: 10.64898/2026.07.18.739347&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:a947bc91-7c21-51ac-9bee-6489fa4e61f1</id>
+    <title>The solution structural ensembles of RNA kink-turn motifs and their protein complexes.</title>
+    <published>2016-01-04T00:00:00Z</published>
+    <updated>2026-09-13T18:42:33Z</updated>
+    <link href="https://doi.org/10.1038/nchembio.1997" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Xuesong Shi</name>
+    </author>
+    <author>
+      <name>Lin Huang</name>
+    </author>
+    <author>
+      <name>David M J Lilley</name>
+    </author>
+    <author>
+      <name>Pehr B Harbury</name>
+    </author>
+    <author>
+      <name>Daniel Herschlag</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Xuesong Shi; Lin Huang; David M J Lilley; Pehr B Harbury; Daniel Herschlag&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2016-01-04&lt;/p&gt;
+&lt;p&gt;Journal: Nature chemical biology&lt;/p&gt;
+&lt;p&gt;With the growing number of crystal structures of RNA and RNA-protein complexes, a critical next step is understanding the dynamic solution behavior of these entities in terms of conformational ensembles and energy landscapes. To this end, we have used X-ray scattering interferometry (XSI) to probe the ubiquitous RNA kink-turn motif and its complexes with the canonical kink-turn binding protein L7Ae. XSI revealed that the folded kink-turn is best described as a restricted conformational ensemble. The ions present in solution alter the nature of this ensemble, and protein binding can perturb the kink-turn ensemble without collapsing it to a unique state. This study demonstrates how XSI can reveal structural and ensemble properties of RNAs and RNA-protein complexes and uncovers the behavior of an important RNA-protein motif. This type of information will be necessary to understand, predict and engineer the behavior and function of RNAs and their protein complexes.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/nchembio.1997"&gt;pubmed (published) — DOI: 10.1038/nchembio.1997&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/nchembio.1997"&gt;Published version — DOI: 10.1038/nchembio.1997&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+</feed>
