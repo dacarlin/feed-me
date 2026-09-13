@@ -1,5 +1,5 @@
 from copy import deepcopy
-from datetime import date, datetime, timezone
+from datetime import date, datetime, timedelta, timezone
 import json
 from types import SimpleNamespace
 
@@ -10,10 +10,11 @@ from pubtracker.cli import diagnose, main, update
 from pubtracker.feed import render_feeds
 from pubtracker.http import SourceError
 from pubtracker.models import Relation
-from pubtracker.sources import arxiv
+from pubtracker.sources import arxiv, biorxiv
 from pubtracker.state import empty_state, ingest_batch, load_state, save_state
 from conftest import FIXTURES, ROOT
 from test_dedupe import T1, T2
+from test_sources import Client
 
 NOW = datetime(2026, 9, 10, 10, tzinfo=timezone.utc)
 
@@ -155,6 +156,27 @@ def test_failure_after_partial_page_discards_source_batch(monkeypatch, config):
     assert summary["failures"]
 
 
+def test_unrelated_broken_biorxiv_record_does_not_block_checkpoint(monkeypatch, config):
+    payload = json.loads((FIXTURES / "biorxiv.json").read_text())
+    good = payload["collection"][0]
+    payload["collection"] = [{**good, "doi": "", "authors": "Example, E."}, good]
+    payload["messages"][0]["total"] = 2
+    monkeypatch.setattr("pubtracker.cli.ADAPTERS", {"biorxiv": biorxiv})
+    state, summary = update(config, empty_state(), client=Client([payload]), now=NOW)
+    assert not summary["failures"]
+    assert len(state["works"]) == 1
+    assert state["checkpoints"]["biorxiv"]["last_success"] == T2
+
+
+def test_matching_broken_biorxiv_record_retains_checkpoint(monkeypatch, config):
+    payload = json.loads((FIXTURES / "biorxiv.json").read_text())
+    payload["collection"][0]["doi"] = ""
+    monkeypatch.setattr("pubtracker.cli.ADAPTERS", {"biorxiv": biorxiv})
+    state, summary = update(config, empty_state(), client=Client([payload]), now=NOW)
+    assert "no valid DOI" in summary["failures"]["biorxiv"]
+    assert not state["checkpoints"]
+
+
 def test_biorxiv_publication_stream_survives_details_outage(monkeypatch, config, preprint, publication):
     def fail(*args):
         raise SourceError("empty details response")
@@ -206,6 +228,64 @@ def test_explicit_backfill_overrides_checkpoint_and_preserves_entry_ids(monkeypa
     assert starts[-1] == date(2026, 8, 1)
     assert set(state["works"]) == ids
     assert not summary["failures"]
+
+
+def test_arxiv_success_is_reused_only_for_same_utc_day(monkeypatch, config):
+    calls = {"arxiv": 0, "pubmed": 0}
+
+    def fetch(source):
+        calls[source] += 1
+        return []
+
+    monkeypatch.setattr("pubtracker.cli.ADAPTERS", {
+        source: SimpleNamespace(fetch=lambda *a, source=source: fetch(source)) for source in calls
+    })
+    state, _ = update(config, empty_state(), client=object(), now=NOW)
+    checkpoint = state["checkpoints"]["arxiv"].copy()
+    _, summary = update(config, state, client=object(), now=NOW + timedelta(hours=3))
+    assert calls == {"arxiv": 1, "pubmed": 2}
+    assert state["checkpoints"]["arxiv"] == checkpoint
+    assert "arxiv" in summary["skipped_sources"]
+    assert "arxiv" not in summary["fetched_candidates"]
+    update(config, state, client=object(), now=NOW + timedelta(days=1))
+    assert calls["arxiv"] == 2
+
+
+@pytest.mark.parametrize("override", ["since", "config"])
+def test_arxiv_daily_skip_does_not_block_explicit_rescans(monkeypatch, config, override):
+    calls = []
+
+    def fetch(*args):
+        calls.append(args)
+        return []
+
+    monkeypatch.setattr("pubtracker.cli.ADAPTERS", {"arxiv": SimpleNamespace(fetch=fetch)})
+    state, _ = update(config, empty_state(), client=object(), now=NOW)
+    kwargs = {}
+    if override == "since":
+        kwargs["since"] = date(2026, 8, 1)
+    else:
+        config.researchers[0].name = "Another Researcher"
+    _, summary = update(config, state, client=object(), now=NOW, **kwargs)
+    assert len(calls) == 2
+    assert not summary["skipped_sources"]
+
+
+def test_arxiv_failure_is_not_cached_as_a_success(monkeypatch, config):
+    calls = []
+
+    def fetch(*args):
+        calls.append(args)
+        raise SourceError("HTTP 429")
+
+    monkeypatch.setattr("pubtracker.cli.ADAPTERS", {"arxiv": SimpleNamespace(fetch=fetch)})
+    state = empty_state()
+    for _ in range(2):
+        state, summary = update(config, state, client=object(), now=NOW)
+        assert not summary["skipped_sources"]
+        assert "HTTP 429" in summary["failures"]["arxiv"]
+        assert "arxiv" not in state["checkpoints"]
+    assert len(calls) == 2
 
 
 def test_weekly_refresh_finds_old_publication(monkeypatch, config, preprint, publication):

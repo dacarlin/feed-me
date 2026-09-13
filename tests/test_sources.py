@@ -70,6 +70,41 @@ def test_biorxiv_publications_use_explicit_json(config):
     assert client.calls[0][0] == "https://api.biorxiv.org/pubs/biorxiv/2026-08-11/2026-09-10/0/json"
 
 
+@pytest.mark.parametrize("publication", [False, True])
+def test_biorxiv_filters_unrelated_broken_records_before_parsing(config, publication):
+    filename = "biorxiv_pubs.json" if publication else "biorxiv.json"
+    prefix = "preprint_" if publication else ""
+    doi_field = "preprint_doi" if publication else "doi"
+    first = json.loads((FIXTURES / filename).read_text())
+    good = deepcopy(first["collection"][0])
+    broken = {**good, doi_field: "", prefix + "title": "", prefix + "authors": "Example, E."}
+    first["collection"] = [good, broken]
+    first["messages"][0]["total"] = 3
+    second = deepcopy(first)
+    second["collection"] = [{**good, doi_field: "10.1101/2026.09.03.123456"}]
+    client = Client([first, second])
+    fetch = biorxiv.fetch_publications if publication else biorxiv.fetch
+    papers = fetch(client, config.researchers, date(2026, 9, 1), date(2026, 9, 10), config)
+    assert len(papers) == 2
+    assert papers[1].doi == "10.1101/2026.09.03.123456"
+    assert client.calls[1][0].endswith("/2/json")
+
+
+@pytest.mark.parametrize("publication", [False, True])
+def test_biorxiv_still_validates_matching_candidates(config, publication):
+    filename = "biorxiv_pubs.json" if publication else "biorxiv.json"
+    row = json.loads((FIXTURES / filename).read_text())["collection"][0]
+    row["preprint_doi" if publication else "doi"] = ""
+    with pytest.raises(SourceError, match="no valid DOI"):
+        biorxiv.matching_records([row], config.researchers, publication=publication)
+
+
+@pytest.mark.parametrize("authors", [None, "", [], 123])
+def test_biorxiv_does_not_discard_records_with_unknown_authors(config, authors):
+    with pytest.raises(SourceError, match="cannot determine relevance"):
+        biorxiv.matching_records([{"authors": authors}], config.researchers)
+
+
 def test_pubmed_parser_preserves_scoped_metadata():
     papers = pubmed.parse_xml((FIXTURES / "pubmed.xml").read_bytes())
     assert papers[0].doi == "10.1234/proteins.2026.42"

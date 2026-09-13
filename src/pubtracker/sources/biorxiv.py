@@ -2,7 +2,6 @@ from datetime import date, timedelta
 import logging
 
 from ..http import SourceError
-from ..matching import name_candidate
 from ..models import Author, Paper, Relation, compatible_names, normalize_doi, plain_text
 
 BASE = "https://api.biorxiv.org"
@@ -13,7 +12,8 @@ def parse_record(row: dict, *, publication: bool = False) -> Paper:
     prefix = "preprint_" if publication else ""
     doi = normalize_doi((row.get("preprint_doi") or row.get("biorxiv_doi")) if publication else row.get("doi"))
     if not doi:
-        raise SourceError("bioRxiv record has no valid DOI")
+        title = str(row.get(prefix + "title", ""))[:160]
+        raise SourceError(f"bioRxiv record has no valid DOI: title={title!r}")
     authors = [Author(plain_text(a)) for a in row.get(prefix + "authors", "").split(";") if a.strip()]
     corresponding = row.get(prefix + "author_corresponding", "")
     # The API only associates an institution with the corresponding author.
@@ -69,24 +69,29 @@ def pages(client, endpoint: str):
         previous = rows
 
 
-def fetch(client, researchers, since: date, until: date, config) -> list[Paper]:
+def matching_records(rows, researchers, *, publication: bool = False) -> list[Paper]:
     papers = []
-    for row in pages(client, f"details/biorxiv/{since}/{until}"):
-        paper = parse_record(row)
-        if any(name_candidate(paper, r) for r in researchers):
-            papers.append(paper)
+    author_field = "preprint_authors" if publication else "authors"
+    for row in rows:
+        # The global scan includes unrelated records with broken DOI/title data.
+        # Filter author names first; candidate records still require valid metadata.
+        authors = row.get(author_field) if isinstance(row, dict) else None
+        if not isinstance(authors, str) or not authors.strip():
+            raise SourceError(f"bioRxiv record missing {author_field}; cannot determine relevance")
+        if any(compatible_names(author, researcher.name)
+               for author in authors.split(";") for researcher in researchers):
+            papers.append(parse_record(row, publication=publication))
     return papers
+
+
+def fetch(client, researchers, since: date, until: date, config) -> list[Paper]:
+    return matching_records(pages(client, f"details/biorxiv/{since}/{until}"), researchers)
 
 
 def fetch_publications(client, researchers, since: date, until: date, config) -> list[Paper]:
-    papers = []
     # Scan publication dates separately: preprints can be years older than this window.
     start = min(since, until - timedelta(days=config.update["publication_lookback_days"]))
-    for row in pages(client, f"pubs/biorxiv/{start}/{until}"):
-        paper = parse_record(row, publication=True)
-        if any(name_candidate(paper, r) for r in researchers):
-            papers.append(paper)
-    return papers
+    return matching_records(pages(client, f"pubs/biorxiv/{start}/{until}"), researchers, publication=True)
 
 
 def refresh(client, papers: list[Paper]) -> list[Paper]:

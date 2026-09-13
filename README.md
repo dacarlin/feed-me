@@ -44,8 +44,12 @@ publication links. All date windows use UTC. PubMed searches publication,
 creation **or revision** dates, covering both newly released papers indexed in
 advance and older papers newly indexed or corrected. Feeds select and order
 works by bibliographic date so old indexing changes cannot displace recent
-papers at the entry limit. arXiv discovery uses descending update dates, including revisions to
-old submissions.
+papers at the entry limit. arXiv discovery uses descending update dates, including
+revisions to old submissions. Successful arXiv discovery is reused for the rest
+of the UTC day, following its [daily query guidance](https://info.arxiv.org/help/api/user-manual.html#_feed_metadata).
+The summary lists this under `skipped_sources`; its checkpoint is not advanced.
+A new UTC day, changed researcher configuration or explicit `--since` causes a
+fresh query. Failed attempts are never treated as successful cached results.
 
 To start further back, override the discovery window:
 
@@ -180,6 +184,11 @@ when it successfully writes partial updates. The workflow deploys those updates
 and then reports the source failure visibly. Empty/invalid responses and
 incomplete pagination are failures, not successful empty result sets.
 
+bioRxiv lists papers from all researchers. The adapters filter author names
+before validating DOI/title metadata, so malformed unrelated papers cannot
+abort discovery. A matching candidate with invalid metadata, a record without
+usable authors, or incomplete pagination still fails and retains the checkpoint.
+
 Examples (substitute an ID that actually appears in your state):
 
 ```bash
@@ -268,8 +277,12 @@ describe the same URL subscription flow.
 ## API behavior and limitations
 
 - Requests are sequential with timeouts and up to three attempts for transient
-  HTTP/network failures, exponential backoff, and `Retry-After` handling. A long
-  requested retry delay defers the stream to the next scheduled run.
+  HTTP/network failures, exponential backoff, and `Retry-After` handling. HTTP
+  429 responses use 30- and 60-second cooldowns, or a longer allowed `Retry-After`.
+  A requested delay over 60 seconds defers the stream to the next scheduled run.
+  Logs include the HTTP status and retry delay; persistent failures remain
+  workflow failures and retain their checkpoints. Query parameters are omitted
+  from diagnostics to avoid exposing credentials or contact information.
 - NCBI requests are spaced by at least 0.4 seconds (2.5/second), below its
   [three-per-second unauthenticated limit](https://www.ncbi.nlm.nih.gov/books/NBK25497/).
   arXiv requests are at least 3.1 seconds apart, following its

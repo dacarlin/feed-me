@@ -32,7 +32,7 @@ def update(config, state: dict, *, since: date | None = None, client=None, now=N
         raise ValueError("--since cannot be in the future")
     owned_client = client is None
     client = client or HttpClient(os.environ.get("NCBI_EMAIL") or config.update.get("ncbi_email", ""))
-    all_papers, failures, counts = [], {}, {}
+    all_papers, failures, counts, skipped = [], {}, {}, {}
     identity_config = fingerprint(config.researchers)
     if state.get("identity_config") != identity_config:
         # Configuration edits take effect for already stored works as well.
@@ -56,6 +56,13 @@ def update(config, state: dict, *, since: date | None = None, client=None, now=N
                 continue
             signature = fingerprint(researchers)
             checkpoint = state["checkpoints"].get(stream, {})
+            if (stream == "arxiv" and since is None and checkpoint.get("config") == signature
+                    and checkpoint.get("last_success", "")[:10] == str(until)):
+                # arXiv publishes query results on a daily cycle. The successful
+                # checkpoint is the cache; failed runs never satisfy this guard.
+                skipped[stream] = f"already fetched successfully on {until} (UTC)"
+                LOG.info("Skipping %s: %s", stream, skipped[stream])
+                continue
             start = until - timedelta(days=config.update["initial_lookback_days"])
             if checkpoint.get("config") == signature:
                 start = date.fromisoformat(checkpoint["last_success"][:10]) - timedelta(days=config.update["overlap_days"])
@@ -97,7 +104,8 @@ def update(config, state: dict, *, since: date | None = None, client=None, now=N
         # Rejected name matches are only a diagnostic sample; accepted works are never pruned.
         state["rejected"] = dict(sorted(state["rejected"].items(),
                                        key=lambda item: (item[1]["first_seen"], item[0]), reverse=True)[:500])
-        summary.update({"fetched_candidates": counts, "works": len(state["works"]), "failures": failures})
+        summary.update({"fetched_candidates": counts, "works": len(state["works"]),
+                        "failures": failures, "skipped_sources": skipped})
         return state, summary
     finally:
         if owned_client:
