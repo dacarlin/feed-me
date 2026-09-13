@@ -29,13 +29,33 @@ researchers:
       - biorxiv
       - pubmed
       - arxiv
+  - id: daniel-herschlag
+    name: Daniel Herschlag
+    affiliations:
+      - Stanford University
+      - Department of Biochemistry
+      - Department of Chemical Engineering
+    required_affiliations:
+      - Stanford University
+    min_affiliation_matches: 2
+    # ORCID and appointments verified at https://profiles.stanford.edu/daniel-herschlag.
+    orcid: 0000-0002-4685-1973
+    sources:
+      - biorxiv
+      - pubmed
+      - arxiv
 
 feeds:
   - id: all
     title: All researchers
     researchers:
       - david-baker
+      - daniel-herschlag
   - id: david-baker
     title: David Baker — publications and preprints
     researchers:
       - david-baker
+  - id: daniel-herschlag
+    title: Daniel Herschlag — publications and preprints
+    researchers:
+      - daniel-herschlag

@@ -21,13 +21,15 @@ Configuration lives in YAML, and the publication history lives in committed JSON
 | --- | --- |
 | All configured researchers | [https://dacarlin.github.io/feed-me/all.xml](https://dacarlin.github.io/feed-me/all.xml) |
 | David Baker — publications and preprints | [https://dacarlin.github.io/feed-me/david-baker.xml](https://dacarlin.github.io/feed-me/david-baker.xml) |
+| Daniel Herschlag — publications and preprints | [https://dacarlin.github.io/feed-me/daniel-herschlag.xml](https://dacarlin.github.io/feed-me/daniel-herschlag.xml) |
 
 In NetNewsWire, choose **File → New Feed** (`⌘N`), paste the full URL, and add it
 to your preferred account. The [feed directory](https://dacarlin.github.io/feed-me/)
 also lists the available subscriptions.
 
-The current configuration follows David Baker, so these two feeds contain the
-same works. Choose one to avoid seeing the same articles in two subscriptions.
+The combined feed follows David Baker and Daniel Herschlag. Subscribe to
+`all.xml` for both researchers, or choose their individual feeds. An existing
+subscription to `david-baker.xml` includes only Baker's papers.
 
 ## Quick start
 
@@ -120,10 +122,17 @@ The configured ORCID, `0000-0001-7896-6217`, is supported by the
 [PNNL EMSL profile](https://www.emsl.pnnl.gov/people/david-baker) and page 20 of a
 [Baker Lab-hosted eLife paper](https://www.bakerlab.org/wp-content/uploads/2018/06/elife-28909-v2-1.pdf).
 
+For Daniel Herschlag, the affiliation route requires Stanford University plus
+Department of Biochemistry or Department of Chemical Engineering. His
+[official Stanford profile](https://profiles.stanford.edu/daniel-herschlag)
+confirms these appointments and ORCID `0000-0002-4685-1973`; see also the
+[Herschlag Lab](https://herschlaglab.stanford.edu/). His configuration searches
+bioRxiv, PubMed, and arXiv, including compatible initials such as `Herschlag, D.`.
+
 bioRxiv supplies the corresponding author's institution, so it is attached only
 when that name identifies exactly one listed author. A coauthor's affiliation
-never establishes Baker's identity. arXiv often omits affiliations, which can
-leave name matches unconfirmed. Records may inherit identity through a strong
+never establishes another author's identity. arXiv often omits affiliations,
+which can leave name matches unconfirmed. Records may inherit identity through a strong
 link to an already identified work, such as a shared DOI or explicit publication
 relationship. Title similarity alone cannot establish identity.
 
