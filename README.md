@@ -308,6 +308,13 @@ cannot guarantee availability while arXiv's servers are overloaded. An exhausted
 retry budget remains a visible failure, and the next scheduled run retries the
 missing discovery window.
 
+Live verification on September 13, 2026: the revised client still exhausted all
+three attempts with HTTP 429. The subsequent
+[GitHub run](https://github.com/dacarlin/feed-me/actions/runs/34790136334)
+also failed to complete arXiv fetching, while bioRxiv and PubMed advanced their
+checkpoints and Pages deployed successfully. **arXiv recovery remains
+unverified; the upstream capacity errors are not resolved by this release.**
+
 ### Why a red workflow can still publish a working feed
 
 Source failures are isolated. Successful streams update state and feeds, and
