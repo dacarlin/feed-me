@@ -102,8 +102,10 @@ flowchart LR
 
 All date windows use **UTC**. PubMed searches publication, creation, and revision
 dates, covering papers indexed before publication as well as late indexing and
-corrections. arXiv scans by descending update date to include revised older
-submissions. Its daily reuse follows the [API's query guidance](https://info.arxiv.org/help/api/user-manual.html#_feed_metadata).
+corrections. arXiv uses a separate, stable query per surname, with 25 records per
+page, and scans by descending update date to include revised older submissions.
+Shared papers are deduplicated, preserving the highest version returned. Its
+daily reuse follows the [API's query guidance](https://info.arxiv.org/help/api/user-manual.html#_feed_metadata).
 A new UTC day, changed researcher configuration, or explicit `--since` triggers
 a fresh arXiv query. Failed attempts are never cached as successes.
 
@@ -285,6 +287,27 @@ the other sources.
 [Fix and regression tests](https://github.com/dacarlin/feed-me/commit/c71dfdf) ·
 [Successful workflow](https://github.com/dacarlin/feed-me/actions/runs/34731162537)
 
+### v0.1.3 — arXiv capacity errors and smaller queries
+
+After adding Herschlag, arXiv again returned HTTP 429 and timed out. A live check
+also reproduced the 429 with the original Baker-only query. arXiv's maintainers
+[explain that this specific `Rate exceeded` response can indicate exhausted server capacity](https://groups.google.com/a/arxiv.org/g/api/c/pNB3lnxf4mQ),
+even for light usage. The earlier diagnosis of client rate limiting was incomplete.
+
+| Problem | Change |
+| --- | --- |
+| A combined surname query changed whenever another researcher was added | Query each distinct surname separately, preserving stable GET queries that can reuse arXiv's server cache. Surname-only discovery still covers abbreviated names. |
+| Large responses and slow requests increased exposure to timeouts | Reduce discovery and refresh batches from 100 records to 25; allow 90 seconds for arXiv reads. |
+| Brief retries did not allow an overloaded service to recover | Use 60-/120-second cooldowns for arXiv transient errors, including timeouts and 5xx responses. Honor `Retry-After` up to 120 seconds; longer requested waits leave the stream for a later run. Wait at least 3.1 seconds after each response before another request. |
+| Multi-author scans needed clear progress and failure boundaries | Log each surname's page progress and identify the failing surname. Deduplicate shared papers using the highest returned version. If any author query or refresh fails, retain the source checkpoint and discard the incomplete batch. |
+
+Verification: **99 offline tests pass**, including multi-author pagination,
+overlapping papers and versions, revised older submissions, incomplete batches,
+slow-response pacing, and bounded retries. These changes improve recovery; they
+cannot guarantee availability while arXiv's servers are overloaded. An exhausted
+retry budget remains a visible failure, and the next scheduled run retries the
+missing discovery window.
+
 ### Why a red workflow can still publish a working feed
 
 Source failures are isolated. Successful streams update state and feeds, and
@@ -301,7 +324,7 @@ candidates, and incomplete pagination remain visible failures.
 | What you see | What it means / what to check |
 | --- | --- |
 | `checkpoint retained` | That stream did not complete. Inspect the preceding error; the next run retries from its last successful checkpoint. |
-| `HTTP 429; retrying in ...` | The provider is rate-limiting requests. Cooldowns are automatic. A requested `Retry-After` over 60 seconds leaves the stream for a later run. |
+| `HTTP 429; retrying in ...` | The provider is throttling requests or is overloaded; arXiv's `Rate exceeded` response can mean server capacity. Cooldowns are automatic. A requested `Retry-After` over 120 seconds for arXiv, or 60 seconds for other providers, leaves the stream for a later run. |
 | `Skipping arxiv: already fetched successfully ...` | A successful result exists for this UTC day and researcher configuration. The summary records it in `skipped_sources`; its checkpoint does not advance. |
 | Many records fetched, few accepted | bioRxiv scans all researchers before filtering. Name candidates must then satisfy the identity policy. |
 | `accepted_records` increases but `works` does not | Accepted records can update existing works or add another version. The count is not a count of newly discovered papers. |
@@ -373,8 +396,11 @@ backfill. PubMed queries above 9,999 results fail explicitly; narrow the window
 or researcher configuration.
 
 Requests are sequential and paced: at least 0.4 seconds apart for NCBI, 3.1 for
-arXiv, and 1 for bioRxiv. Transient failures get up to three attempts. Diagnostics
-omit query parameters to avoid exposing credentials or contact information.
+arXiv, and 1 for bioRxiv. arXiv's gap starts after the preceding request finishes.
+Transient failures get up to three attempts. arXiv reads allow 90 seconds and
+use 60-/120-second cooldowns; other sources retain 45-second reads and shorter
+retries. Diagnostics omit query parameters to avoid exposing credentials or
+contact information.
 
 Feeds include API-provided abstracts and source links. There is no full-text,
 PDF, HTML article, or JATS scraping, no Crossref/OpenAlex enrichment, and no

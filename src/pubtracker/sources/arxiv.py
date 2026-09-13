@@ -1,4 +1,5 @@
 from datetime import date
+import logging
 import re
 
 from defusedxml import ElementTree as ET
@@ -7,6 +8,8 @@ from ..http import SourceError
 from ..models import Author, Paper, Relation, name_parts, normalize_doi, plain_text
 
 BASE = "https://export.arxiv.org/api/query"
+PAGE_SIZE = 25
+LOG = logging.getLogger(__name__)
 NS = {"a": "http://www.w3.org/2005/Atom", "ar": "http://arxiv.org/schemas/atom",
       "os": "http://a9.com/-/spec/opensearch/1.1/"}
 
@@ -45,19 +48,34 @@ def parse_xml(content: bytes | str) -> tuple[list[Paper], int, list[str]]:
 
 
 def fetch(client, researchers, since: date, until: date, config) -> list[Paper]:
-    # Sort by update time so revisions of old submissions are also discovered.
+    # Stable, small queries reduce server work and can reuse arXiv's GET cache
+    # when another researcher is configured. Keep surname-only discovery so
+    # abbreviated given names and revisions of old submissions remain visible.
     names = sorted({name_parts(r.name)[0] for r in researchers})
-    query = " OR ".join(f'au:"{name}"' for name in names)
+    results = {}
+    for name in names:
+        try:
+            for paper in fetch_author(client, name, since, until):
+                previous = results.get(paper.key)
+                if previous is None or int(paper.version or 0) >= int(previous.version or 0):
+                    results[paper.key] = paper
+        except SourceError as exc:
+            raise SourceError(f"arXiv author {name!r}: {exc}") from exc
+    return list(results.values())
+
+
+def fetch_author(client, name: str, since: date, until: date) -> list[Paper]:
     start, results, seen = 0, [], set()
     while True:
-        response = client.get(BASE, {"search_query": query, "sortBy": "lastUpdatedDate",
-                                    "sortOrder": "descending", "start": start, "max_results": 100})
+        response = client.get(BASE, {"search_query": f'au:"{name}"', "sortBy": "lastUpdatedDate",
+                                    "sortOrder": "descending", "start": start, "max_results": PAGE_SIZE})
         papers, total, updates = parse_xml(response.content)
         if (start < total and not papers) or any(p.key in seen for p in papers):
             raise SourceError("arXiv returned an incomplete/repeated page")
         results.extend(p for p, stamp in zip(papers, updates) if str(since) <= stamp <= str(until))
         seen.update(p.key for p in papers)
         start += len(papers)
+        LOG.info("arXiv author %r: %s/%s records fetched", name, start, total)
         if start >= total or (updates and min(updates) < str(since)):
             return results
         if start >= 30000:
@@ -66,9 +84,9 @@ def fetch(client, researchers, since: date, until: date, config) -> list[Paper]:
 
 def refresh(client, papers: list[Paper]) -> list[Paper]:
     results = []
-    for offset in range(0, len(papers), 100):
-        batch = papers[offset:offset + 100]
-        response = client.get(BASE, {"id_list": ",".join(p.source_id for p in batch), "max_results": 100})
+    for offset in range(0, len(papers), PAGE_SIZE):
+        batch = papers[offset:offset + PAGE_SIZE]
+        response = client.get(BASE, {"id_list": ",".join(p.source_id for p in batch), "max_results": PAGE_SIZE})
         parsed, _, _ = parse_xml(response.content)
         if {p.key for p in parsed} != {p.key for p in batch}:
             raise SourceError("arXiv refresh omitted requested IDs")

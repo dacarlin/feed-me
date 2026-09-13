@@ -288,6 +288,20 @@ def test_arxiv_failure_is_not_cached_as_a_success(monkeypatch, config):
     assert len(calls) == 2
 
 
+def test_arxiv_later_author_failure_retains_checkpoint_and_discards_batch(monkeypatch, config):
+    raw = (FIXTURES / "arxiv.xml").read_text()
+    client = Client([raw, SourceError("HTTP 429")])
+    monkeypatch.setattr("pubtracker.cli.ADAPTERS", {"arxiv": arxiv})
+    state = empty_state()
+    checkpoint = {"last_success": T1, "config": "old researchers"}
+    state["checkpoints"]["arxiv"] = checkpoint.copy()
+    state, summary = update(config, state, client=client, now=NOW)
+    assert state["checkpoints"]["arxiv"] == checkpoint
+    assert not state["works"] and not state["refresh"]
+    assert "author 'herschlag'" in summary["failures"]["arxiv"]
+    assert "arxiv" not in summary["fetched_candidates"]
+
+
 def test_weekly_refresh_finds_old_publication(monkeypatch, config, preprint, publication):
     state = empty_state()
     ingest_batch(state, [preprint], config.researchers, T1)

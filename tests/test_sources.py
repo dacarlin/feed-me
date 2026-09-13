@@ -1,6 +1,8 @@
 from copy import deepcopy
+from dataclasses import replace
 from datetime import date
 import json
+from xml.etree import ElementTree as ET
 
 import pytest
 
@@ -26,7 +28,10 @@ class Client:
 
     def get(self, url, params=None):
         self.calls.append((url, params))
-        return Response(next(self.responses))
+        result = next(self.responses)
+        if isinstance(result, Exception):
+            raise result
+        return Response(result)
 
 
 def test_biorxiv_publication_metadata():
@@ -157,8 +162,62 @@ def test_arxiv_errors_are_failures():
 
 def test_arxiv_discovers_revised_old_submissions(config):
     raw = (FIXTURES / "arxiv.xml").read_text().replace("<published>2026-09-01", "<published>2020-01-01")
-    client = Client([raw])
+    client = Client([raw, raw])
     papers = arxiv.fetch(client, config.researchers, date(2026, 9, 9), date(2026, 9, 10), config)
     assert len(papers) == 1
     assert papers[0].date == "2020-01-01"
     assert client.calls[0][1]["sortBy"] == "lastUpdatedDate"
+
+
+def arxiv_page(ids, total, updated="2026-09-09"):
+    root = ET.fromstring((FIXTURES / "arxiv.xml").read_text())
+    template = root.find("a:entry", arxiv.NS)
+    for entry in root.findall("a:entry", arxiv.NS):
+        root.remove(entry)
+    root.find("os:totalResults", arxiv.NS).text = str(total)
+    for identifier in ids:
+        entry = deepcopy(template)
+        entry.find("a:id", arxiv.NS).text = f"http://arxiv.org/abs/{identifier}v1"
+        entry.find("a:updated", arxiv.NS).text = updated + "T12:00:00Z"
+        root.append(entry)
+    return ET.tostring(root)
+
+
+def test_arxiv_pages_each_author_and_deduplicates_shared_papers(config):
+    client = Client([
+        arxiv_page(["2609.00001", "2609.00002"], 50).replace(b"00002v1", b"00002v2"),
+        arxiv_page(["2609.00003"], 50, updated="2026-09-01"),
+        arxiv_page(["2609.00002", "2609.00004"], 2),
+    ])
+    papers = arxiv.fetch(client, config.researchers, date(2026, 9, 9), date(2026, 9, 10), config)
+    assert {p.source_id for p in papers} == {"2609.00001", "2609.00002", "2609.00004"}
+    assert len(papers) == 3
+    assert next(p for p in papers if p.source_id == "2609.00002").version == "2"
+    assert [(p["search_query"], p["start"]) for _, p in client.calls] == [
+        ('au:"baker"', 0), ('au:"baker"', 2), ('au:"herschlag"', 0),
+    ]
+    assert all(p["max_results"] == 25 for _, p in client.calls)
+
+
+def test_arxiv_queries_each_surname_once_and_continues_after_empty_author(config):
+    researchers = [*config.researchers, replace(config.researchers[0], name="Dana Baker")]
+    client = Client([arxiv_page([], 0), arxiv_page(["2609.00001"], 1)])
+    papers = arxiv.fetch(client, researchers, date(2026, 9, 1), date(2026, 9, 10), config)
+    assert len(client.calls) == 2 and len(papers) == 1
+
+
+@pytest.mark.parametrize("second", [arxiv_page([], 3), arxiv_page(["2609.00001"], 3)])
+def test_arxiv_rejects_incomplete_or_repeated_author_pages(config, second):
+    client = Client([arxiv_page(["2609.00001"], 3), second])
+    with pytest.raises(SourceError, match="author 'baker'.*incomplete/repeated"):
+        arxiv.fetch(client, config.researchers, date(2026, 9, 1), date(2026, 9, 10), config)
+
+
+def test_arxiv_refresh_uses_small_batches_and_requires_all_ids():
+    ids = [f"2609.{i:05}" for i in range(26)]
+    papers = arxiv.parse_xml(arxiv_page(ids, 26))[0]
+    client = Client([arxiv_page(ids[:25], 25), arxiv_page(ids[25:], 1)])
+    assert len(arxiv.refresh(client, papers)) == 26
+    assert [p["id_list"].split(",") for _, p in client.calls] == [ids[:25], ids[25:]]
+    with pytest.raises(SourceError, match="refresh omitted"):
+        arxiv.refresh(Client([arxiv_page(ids[:24], 24)]), papers)

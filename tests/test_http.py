@@ -21,7 +21,7 @@ def test_rate_limits(monkeypatch, host, minimum):
     client = HttpClient()
     def get(*args, **kwargs):
         calls.append(elapsed[0])
-        assert kwargs["timeout"] == (10, 45)
+        assert kwargs["timeout"] == (10, 90 if host == "export.arxiv.org" else 45)
         return response()
     monkeypatch.setattr(client.session, "get", get)
     client.get(f"https://{host}/test")
@@ -102,4 +102,58 @@ def test_timeout_remains_visible_after_retries(monkeypatch):
     monkeypatch.setattr(client.session, "get", get)
     with pytest.raises(SourceError, match="3 attempt.*ReadTimeout"):
         client.get("https://example.com/test")
+    client.close()
+
+
+@pytest.mark.parametrize("failure", [429, 503, "timeout"])
+def test_arxiv_capacity_errors_have_longer_bounded_retries(monkeypatch, failure):
+    sleeps, calls = [], []
+    monkeypatch.setattr("pubtracker.http.time.sleep", sleeps.append)
+    client = HttpClient()
+
+    def get(*args, **kwargs):
+        calls.append(kwargs)
+        if failure == "timeout":
+            raise requests.ReadTimeout()
+        return response(failure)
+
+    monkeypatch.setattr(client.session, "get", get)
+    with pytest.raises(SourceError, match="3 attempt"):
+        client.get("https://export.arxiv.org/api/query")
+    assert len(calls) == 3
+    assert all(call["timeout"] == (10, 90) for call in calls)
+    assert 60 in sleeps and 120 in sleeps
+    client.close()
+
+
+def test_arxiv_paces_from_end_of_slow_response(monkeypatch):
+    elapsed, calls = [100.0], []
+    monkeypatch.setattr("pubtracker.http.time.monotonic", lambda: elapsed[0])
+    monkeypatch.setattr("pubtracker.http.time.sleep", lambda duration: elapsed.__setitem__(0, elapsed[0] + duration))
+    client = HttpClient()
+
+    def get(*args, **kwargs):
+        calls.append(elapsed[0])
+        elapsed[0] += 10
+        return response()
+
+    monkeypatch.setattr(client.session, "get", get)
+    client.get("https://export.arxiv.org/api/query")
+    client.get("https://export.arxiv.org/api/query")
+    assert calls[1] - calls[0] >= 13.1 - 0.000001
+    client.close()
+
+
+def test_arxiv_honors_long_retry_after_without_unbounded_wait(monkeypatch):
+    sleeps = []
+    monkeypatch.setattr("pubtracker.http.time.sleep", sleeps.append)
+    client = HttpClient()
+    replies = iter([response(429, "100"), response()])
+    monkeypatch.setattr(client.session, "get", lambda *a, **k: next(replies))
+    assert client.get("https://export.arxiv.org/api/query").status_code == 200
+    assert 100 in sleeps
+    monkeypatch.setattr(client.session, "get", lambda *a, **k: response(429, "180"))
+    with pytest.raises(SourceError, match="1 attempt"):
+        client.get("https://export.arxiv.org/api/query")
+    assert 180 not in sleeps
     client.close()
