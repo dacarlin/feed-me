@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-09-14T04:54:15Z",
+      "last_success": "2026-09-14T12:43:54Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-09-14T04:54:15Z",
+      "last_success": "2026-09-14T12:43:54Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "ab78f0b9d276526b5355d298d5af26be5b224eeb3572e446a33b4a5e5582788f"
     },
     "biorxiv": {
-      "last_success": "2026-09-14T04:54:15Z",
+      "last_success": "2026-09-14T12:43:54Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -11686,6 +11686,157 @@
   },
   "aliases": {},
   "rejected": {
+    "pubmed:42467309": {
+      "first_seen": "2026-09-14T12:43:54Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "42467309",
+        "title": "A randomized controlled trial of remote monitoring for cardiac implantable loop recorders: stay-away trial.",
+        "authors": [
+          {
+            "name": "John L Fitzgerald",
+            "affiliations": [
+              "Cardiovascular Department, John Hunter Hospital, Lookout Road, New Lambton Heights, Newcastle, 2305, Australia.",
+              "University of Adelaide, Port Road, Adelaide, 5000, Australia."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Austin N May",
+            "affiliations": [
+              "Cardiovascular Department, John Hunter Hospital, Lookout Road, New Lambton Heights, Newcastle, 2305, Australia."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "David Baker",
+            "affiliations": [
+              "Cardiovascular Department, John Hunter Hospital, Lookout Road, New Lambton Heights, Newcastle, 2305, Australia."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Stuart Sugito",
+            "affiliations": [
+              "Cardiovascular Department, John Hunter Hospital, Lookout Road, New Lambton Heights, Newcastle, 2305, Australia."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Amardeep Amardeep",
+            "affiliations": [
+              "Cardiovascular Department, John Hunter Hospital, Lookout Road, New Lambton Heights, Newcastle, 2305, Australia."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Andrew J Boyle",
+            "affiliations": [
+              "Cardiovascular Department, John Hunter Hospital, Lookout Road, New Lambton Heights, Newcastle, 2305, Australia.",
+              "School of Medicine and Public Health, Newcastle University, University Drive, Callaghan, Newcastle, 2308, Australia.",
+              "Hunter Medical Research Institute, Newcastle, Australia."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Aaron L Sverdlov",
+            "affiliations": [
+              "Cardiovascular Department, John Hunter Hospital, Lookout Road, New Lambton Heights, Newcastle, 2305, Australia.",
+              "School of Medicine and Public Health, Newcastle University, University Drive, Callaghan, Newcastle, 2308, Australia.",
+              "Hunter Medical Research Institute, Newcastle, Australia."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Nicholas Collins",
+            "affiliations": [
+              "Cardiovascular Department, John Hunter Hospital, Lookout Road, New Lambton Heights, Newcastle, 2305, Australia.",
+              "School of Medicine and Public Health, Newcastle University, University Drive, Callaghan, Newcastle, 2308, Australia.",
+              "Hunter Medical Research Institute, Newcastle, Australia."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Gwilym M Morris",
+            "affiliations": [
+              "Cardiovascular Department, John Hunter Hospital, Lookout Road, New Lambton Heights, Newcastle, 2305, Australia.",
+              "Hunter Medical Research Institute, Newcastle, Australia."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Nicholas Jackson",
+            "affiliations": [
+              "Cardiovascular Department, John Hunter Hospital, Lookout Road, New Lambton Heights, Newcastle, 2305, Australia."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Malcolm Barlow",
+            "affiliations": [
+              "Cardiovascular Department, John Hunter Hospital, Lookout Road, New Lambton Heights, Newcastle, 2305, Australia."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Stuart Turner",
+            "affiliations": [
+              "Cardiovascular Department, John Hunter Hospital, Lookout Road, New Lambton Heights, Newcastle, 2305, Australia."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "James W Leitch",
+            "affiliations": [
+              "Cardiovascular Department, John Hunter Hospital, Lookout Road, New Lambton Heights, Newcastle, 2305, Australia."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Bradley Wilsmore",
+            "affiliations": [
+              "Cardiovascular Department, John Hunter Hospital, Lookout Road, New Lambton Heights, Newcastle, 2305, Australia. Bradley.Wilsmore@health.nsw.gov.au.",
+              "School of Medicine and Public Health, Newcastle University, University Drive, Callaghan, Newcastle, 2308, Australia. Bradley.Wilsmore@health.nsw.gov.au."
+            ],
+            "orcid": null
+          }
+        ],
+        "abstract": "BACKGROUND AND AIMS: The benefits of remote monitoring (RM) for pacemakers and defibrillators have been established. It has not been shown that these benefits apply to implantable loop recorders (ILRs). We aimed to investigate the effect of RM on patient outcomes, time spent, and cost during follow-up of ILRs.\n\nMETHODS: We conducted a multi-centre, randomized, controlled, open-label trial of RM versus office-based follow-up for ILRs. At implant, patients were randomized to RM only, or office visits at 6 weeks, 6 months, and 12 months (no-RM). Primary efficacy endpoints were: (1) time from event to diagnosis, (2) number of related hospital presentations. Secondary endpoints were time spent on follow-up, satisfaction, and cost.\n\nRESULTS: One hundred consecutively referred patients, aged 61 ± 18yrs, 53% male, were recruited between April 2018 and September 2019 (pre-COVID pandemic). Follow-up was 12 months. Patients with RM versus no-RM had less time from event to diagnosis (RM 0(0-0) days, no-RM 40(33-42) days, P < 0.001), fewer arrhythmia-related hospital presentations (RM 0.7 ± 1.1, no-RM 2.8 ± 2.6, P < 0.019), and lower (better) satisfaction survey scores (RM 13 ± 4, no-RM 16 ± 5; P = 0.041). Follow-up clinician time spent (RM 33 ± 29 min, no-RM 29 ± 26 min, P = 0.063) and cost of follow up (RM $803, no-RM $1,090; P = 0.347) were not different.\n\nCONCLUSIONS: In patients with ILRs randomized to receive RM, there was less time from event to diagnosis, there were fewer hospital and clinic presentations, and improved patient satisfaction. RM did not take more time and was cost effective in the Australian health care system. This study provides support for RM of ILRs.\n\nREGISTRATION: ACTRN12618001359224.",
+        "date": "2026-07-17",
+        "url": "https://doi.org/10.1007/s10840-026-02375-x",
+        "doi": "10.1007/s10840-026-02375-x",
+        "status": "published",
+        "journal": "Journal of interventional cardiac electrophysiology : an international journal of arrhythmias and pacing",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "David Baker",
+              "method": "rejected",
+              "affiliations": [
+                "Cardiovascular Department, John Hunter Hospital, Lookout Road, New Lambton Heights, Newcastle, 2305, Australia."
+              ],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
     "pubmed:42663561": {
       "first_seen": "2026-09-11T17:54:26Z",
       "record": {
