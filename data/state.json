@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-09-15T04:52:56Z",
+      "last_success": "2026-09-15T11:42:44Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-09-15T04:52:56Z",
+      "last_success": "2026-09-15T11:42:44Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -11933,7 +11933,7 @@
       "record": {
         "source": "pubmed",
         "source_id": "42660449",
-        "title": "Thermoneutrality accelerates a distinctive metabolic dysfunction-associated steatohepatitis phenotype in a diet-induced male mouse model with similarities to human disease.",
+        "title": "Thermoneutrality Accelerates a Distinctive Metabolic Dysfunction-Associated Steatohepatitis Phenotype in a Diet-Induced Male Mouse Model With Similarities to Human Disease.",
         "authors": [
           {
             "name": "Renata Leke",
@@ -11952,7 +11952,7 @@
           {
             "name": "Stephanie Ling",
             "affiliations": [
-              "Imaging and Data Analytics, Clinical Pharmacology and Safety Sciences, BioPharmaceuticals R&D, AstraZeneca, Cambridge, United Kingdom."
+              "Centre for Evolution and Cancer and Division of Molecular Pathology, The Institute of Cancer Research, London, United Kingdom."
             ],
             "orcid": null
           },
@@ -11987,14 +11987,14 @@
           {
             "name": "Giovanni Pellegrini",
             "affiliations": [
-              "Pathology, Clinical Pharmacology and Safety Sciences, R&D AstraZeneca, Gothenburg, Sweden; Current working address: Aptuit (Verona) Srl, an Evotec Company, Campus Levi Montalcini, Verona, Italy."
+              "Pathology, Clinical Pharmacology, and Safety Sciences, R&D AstraZeneca, Gothenburg, Sweden; Aptuit (Verona) Srl, an Evotec Company, Campus Levi Montalcini, Verona, Italy."
             ],
             "orcid": null
           },
           {
             "name": "Magnus Söderberg",
             "affiliations": [
-              "Pathology, Clinical Pharmacology and Safety Sciences, R&D AstraZeneca, Gothenburg, Sweden."
+              "Pathology, Clinical Pharmacology, and Safety Sciences, R&D AstraZeneca, Gothenburg, Sweden."
             ],
             "orcid": null
           },
@@ -12034,7 +12034,7 @@
             "orcid": null
           }
         ],
-        "abstract": "BACKGROUND & AIMS: Metabolic dysfunction-associated steatohepatitis (MASH) is a prevalent chronic liver disease characterized by steatosis, inflammation, and hepatocyte damage, with or without fibrosis. Robust preclinical models that represent the clinical features of MASH are critical for drug development. We aimed to examine the effects of two widely used Western-type diets and thermoneutral housing on the induction of MASH and liver fibrosis in mice.\n\nMETHODS: Male mice were fed either a Gubra-Amylin (GAN) MASH or Western non-trans-fat diet and were housed at standard room temperature (21°C) for a period of 25, 33, or 46 weeks or at thermoneutrality (30°C) for 25 weeks. Liver histology, transcriptome profiling, and in situ imaging cytometry were applied to analyze the differences between the models.\n\nRESULTS: Liver inflammation and hepatocyte damage were increased by housing mice at thermoneutrality. Remarkably, mice housed at thermoneutrality developed liver fibrosis after 25 weeks of diet feeding, reaching a degree of extracellular matrix deposition equivalent to the levels that required 46 weeks of diet feeding at standard temperature. Thermoneutral housing enhanced the expression of genes related to extracellular matrix organization and inflammatory pathways, demonstrating higher similarity to human MASH. This model was also characterized by distinctive hepatic immune cell infiltration and greater cell-cell interactions, compared to housing at standard temperatures.\n\nCONCLUSION: Housing diet-induced MASH mice at thermoneutrality accelerated fibrosis onset and induced increased disease severity. Phenotypically and transcriptionally, this mouse model showed greater similarity to human MASH. In addition, MASH mice at thermoneutrality developed a distinct and enhanced hepatic innate and adaptive immune response.",
+        "abstract": "BACKGROUND & AIMS: Metabolic dysfunction-associated steatohepatitis is a prevalent chronic liver disease characterized by steatosis, inflammation, and hepatocyte damage, with or without fibrosis. Robust preclinical models that represent the clinical features of metabolic dysfunction-associated steatohepatitis are critical for drug development. We aimed to examine the effects of 2 widely used Western-type diets and thermoneutral housing on the induction of metabolic dysfunction-associated steatohepatitis and liver fibrosis in mice.\n\nMETHODS: Male mice were fed either a Gubra-Amylin metabolic dysfunction-associated steatohepatitis or Western non-trans fat diet and were housed at standard room temperature (21 °C) for a period of 25, 33, or 46 weeks or at thermoneutrality (30 °C) for 25 weeks. Liver histology, transcriptome profiling, and in situ imaging cytometry were applied to analyze the differences between the models.\n\nRESULTS: Liver inflammation and hepatocyte damage were increased by housing mice at thermoneutrality. Remarkably, mice housed at thermoneutrality developed liver fibrosis after 25 weeks of diet feeding, reaching a degree of extracellular matrix deposition equivalent to the levels that required 46 weeks of diet feeding at standard temperature. Thermoneutral housing enhanced the expression of genes related to extracellular matrix organization and inflammatory pathways, demonstrating higher similarity to human metabolic dysfunction-associated steatohepatitis. This model was also characterized by distinctive hepatic immune cell infiltration and greater cell-cell interactions, compared with housing at standard temperatures.\n\nCONCLUSIONS: Housing diet-induced metabolic dysfunction-associated steatohepatitis mice at thermoneutrality accelerated fibrosis onset and induced increased disease severity. Phenotypically and transcriptionally, this mouse model showed greater similarity to human metabolic dysfunction-associated steatohepatitis. In addition, mice with metabolic dysfunction-associated steatohepatitis at thermoneutrality developed a distinct and enhanced hepatic innate and adaptive immune response.",
         "date": "2026-08-27",
         "url": "https://doi.org/10.1016/j.jcmgh.2026.101866",
         "doi": "10.1016/j.jcmgh.2026.101866",
