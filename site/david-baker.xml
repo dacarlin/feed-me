@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-09-16T11:30:33Z</updated>
+  <updated>2026-09-16T16:53:43Z</updated>
   <entry>
     <id>urn:uuid:64244f38-0942-5fed-bdcd-947fec3c7d95</id>
     <title>De novo design of allosterically controlled enzymes</title>
@@ -3433,6 +3433,54 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41594-025-01490-z"&gt;pubmed (published) — DOI: 10.1038/s41594-025-01490-z&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41594-025-01490-z"&gt;Published version — DOI: 10.1038/s41594-025-01490-z&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:5e79b79d-f33a-5a07-a3cf-256432155494</id>
+    <title>De novo designed Hsp70 activator dissolves intracellular condensates.</title>
+    <published>2023-09-19T00:00:00Z</published>
+    <updated>2026-09-16T16:53:43Z</updated>
+    <link href="https://doi.org/10.1016/j.chembiol.2025.01.006" rel="alternate" />
+    <link href="https://doi.org/10.1101/2023.09.18.558356" rel="related" title="pubmed" />
+    <category term="published" />
+    <author>
+      <name>Jason Z Zhang</name>
+    </author>
+    <author>
+      <name>Nathan Greenwood</name>
+    </author>
+    <author>
+      <name>Jason Hernandez</name>
+    </author>
+    <author>
+      <name>Josh T Cuperus</name>
+    </author>
+    <author>
+      <name>Buwei Huang</name>
+    </author>
+    <author>
+      <name>Bryan D Ryder</name>
+    </author>
+    <author>
+      <name>Christine Queitsch</name>
+    </author>
+    <author>
+      <name>Jason E Gestwicki</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Jason Z Zhang; Nathan Greenwood; Jason Hernandez; Josh T Cuperus; Buwei Huang; Bryan D Ryder; Christine Queitsch; Jason E Gestwicki; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2025-02-07&lt;/p&gt;
+&lt;p&gt;Journal: Cell chemical biology&lt;/p&gt;
+&lt;p&gt;Protein quality control (PQC) is carried out in part by the chaperone Hsp70 in concert with adapters of the J-domain protein (JDP) family. The JDPs, also called Hsp40s, are thought to recruit Hsp70 into complexes with specific client proteins. However, the molecular principles regulating this process are not well understood. We describe the de novo design of Hsp70 binding proteins that either inhibit or stimulate Hsp70 ATPase activity. An ATPase stimulating design promoted the refolding of denatured luciferase in vitro, similar to native JDPs. Targeting of this design to intracellular condensates resulted in their nearly complete dissolution and revealed roles as cell growth promoting signaling hubs. The designs inform our understanding of chaperone structure-function relationships and provide a general and modular way to target PQC systems to regulate condensates and other cellular targets.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1101/2023.09.18.558356"&gt;pubmed (preprint) — DOI: 10.1101/2023.09.18.558356&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1016/j.chembiol.2025.01.006"&gt;pubmed (published) — DOI: 10.1016/j.chembiol.2025.01.006&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1016/j.chembiol.2025.01.006"&gt;Published version — DOI: 10.1016/j.chembiol.2025.01.006&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pubmed.ncbi.nlm.nih.gov/39922190/"&gt;Published version&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
