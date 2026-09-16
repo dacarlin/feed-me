@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-09-13T18:42:33Z</updated>
+  <updated>2026-09-16T11:30:33Z</updated>
   <entry>
     <id>urn:uuid:64244f38-0942-5fed-bdcd-947fec3c7d95</id>
     <title>De novo design of allosterically controlled enzymes</title>
@@ -3436,6 +3436,123 @@
 &lt;/ul&gt;</content>
   </entry>
   <entry>
+    <id>urn:uuid:2860b141-22fc-5a0c-a7a7-f57b1dc58e5b</id>
+    <title>De novo designed proteins neutralize lethal snake venom toxins.</title>
+    <published>2025-01-15T00:00:00Z</published>
+    <updated>2026-09-16T11:30:33Z</updated>
+    <link href="https://doi.org/10.1038/s41586-024-08393-x" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Susana Vázquez Torres</name>
+    </author>
+    <author>
+      <name>Melisa Benard Valle</name>
+    </author>
+    <author>
+      <name>Stephen P Mackessy</name>
+    </author>
+    <author>
+      <name>Stefanie K Menzies</name>
+    </author>
+    <author>
+      <name>Nicholas R Casewell</name>
+    </author>
+    <author>
+      <name>Shirin Ahmadi</name>
+    </author>
+    <author>
+      <name>Nick J Burlet</name>
+    </author>
+    <author>
+      <name>Edin Muratspahić</name>
+    </author>
+    <author>
+      <name>Isaac Sappington</name>
+    </author>
+    <author>
+      <name>Max D Overath</name>
+    </author>
+    <author>
+      <name>Esperanza Rivera-de-Torre</name>
+    </author>
+    <author>
+      <name>Jann Ledergerber</name>
+    </author>
+    <author>
+      <name>Andreas H Laustsen</name>
+    </author>
+    <author>
+      <name>Kim Boddum</name>
+    </author>
+    <author>
+      <name>Asim K Bera</name>
+    </author>
+    <author>
+      <name>Alex Kang</name>
+    </author>
+    <author>
+      <name>Evans Brackenbrough</name>
+    </author>
+    <author>
+      <name>Iara A Cardoso</name>
+    </author>
+    <author>
+      <name>Edouard P Crittenden</name>
+    </author>
+    <author>
+      <name>Rebecca J Edge</name>
+    </author>
+    <author>
+      <name>Justin Decarreau</name>
+    </author>
+    <author>
+      <name>Robert J Ragotte</name>
+    </author>
+    <author>
+      <name>Arvind S Pillai</name>
+    </author>
+    <author>
+      <name>Mohamad Abedi</name>
+    </author>
+    <author>
+      <name>Hannah L Han</name>
+    </author>
+    <author>
+      <name>Stacey R Gerben</name>
+    </author>
+    <author>
+      <name>Analisa Murray</name>
+    </author>
+    <author>
+      <name>Rebecca Skotheim</name>
+    </author>
+    <author>
+      <name>Lynda Stuart</name>
+    </author>
+    <author>
+      <name>Lance Stewart</name>
+    </author>
+    <author>
+      <name>Thomas J A Fryer</name>
+    </author>
+    <author>
+      <name>Timothy P Jenkins</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Susana Vázquez Torres; Melisa Benard Valle; Stephen P Mackessy; Stefanie K Menzies; Nicholas R Casewell; Shirin Ahmadi; Nick J Burlet; Edin Muratspahić; Isaac Sappington; Max D Overath; Esperanza Rivera-de-Torre; Jann Ledergerber; Andreas H Laustsen; Kim Boddum; Asim K Bera; Alex Kang; Evans Brackenbrough; Iara A Cardoso; Edouard P Crittenden; Rebecca J Edge; Justin Decarreau; Robert J Ragotte; Arvind S Pillai; Mohamad Abedi; Hannah L Han; Stacey R Gerben; Analisa Murray; Rebecca Skotheim; Lynda Stuart; Lance Stewart; Thomas J A Fryer; Timothy P Jenkins; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2025-01-15&lt;/p&gt;
+&lt;p&gt;Journal: Nature&lt;/p&gt;
+&lt;p&gt;Snakebite envenoming remains a devastating and neglected tropical disease, claiming over 100,000 lives annually and causing severe complications and long-lasting disabilities for many more1,2. Three-finger toxins (3FTx) are highly toxic components of elapid snake venoms that can cause diverse pathologies, including severe tissue damage3 and inhibition of nicotinic acetylcholine receptors, resulting in life-threatening neurotoxicity4. At present, the only available treatments for snakebites consist of polyclonal antibodies derived from the plasma of immunized animals, which have high cost and limited efficacy against 3FTxs5-7. Here we used deep learning methods to de novo design proteins to bind short-chain and long-chain α-neurotoxins and cytotoxins from the 3FTx family. With limited experimental screening, we obtained protein designs with remarkable thermal stability, high binding affinity and near-atomic-level agreement with the computational models. The designed proteins effectively neutralized all three 3FTx subfamilies in vitro and protected mice from a lethal neurotoxin challenge. Such potent, stable and readily manufacturable toxin-neutralizing proteins could provide the basis for safer, cost-effective and widely accessible next-generation antivenom therapeutics. Beyond snakebite, our results highlight how computational design could help democratize therapeutic discovery, particularly in resource-limited settings, by substantially reducing costs and resource requirements for the development of therapies for neglected tropical diseases.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-024-08393-x"&gt;pubmed (published) — DOI: 10.1038/s41586-024-08393-x&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-024-08393-x"&gt;Published version — DOI: 10.1038/s41586-024-08393-x&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
     <id>urn:uuid:cda366f6-eeb2-5637-9acc-a2c32b6485e0</id>
     <title>Target-conditioned diffusion generates potent TNFR superfamily antagonists and agonists.</title>
     <published>2024-12-05T00:00:00Z</published>
@@ -3582,6 +3699,159 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1101/2024.11.03.621760"&gt;pubmed (preprint) — DOI: 10.1101/2024.11.03.621760&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://pubmed.ncbi.nlm.nih.gov/40450691/"&gt;Published version&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:32279abd-c4f2-53c4-8e92-b54cb9b00783</id>
+    <title>Designed endocytosis-inducing proteins degrade targets and amplify signals.</title>
+    <published>2024-09-25T00:00:00Z</published>
+    <updated>2026-09-16T11:30:33Z</updated>
+    <link href="https://doi.org/10.1038/s41586-024-07948-2" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Buwei Huang</name>
+    </author>
+    <author>
+      <name>Mohamad Abedi</name>
+    </author>
+    <author>
+      <name>Green Ahn</name>
+    </author>
+    <author>
+      <name>Brian Coventry</name>
+    </author>
+    <author>
+      <name>Isaac Sappington</name>
+    </author>
+    <author>
+      <name>Cong Tang</name>
+    </author>
+    <author>
+      <name>Rong Wang</name>
+    </author>
+    <author>
+      <name>Thomas Schlichthaerle</name>
+    </author>
+    <author>
+      <name>Jason Z Zhang</name>
+    </author>
+    <author>
+      <name>Yujia Wang</name>
+    </author>
+    <author>
+      <name>Inna Goreshnik</name>
+    </author>
+    <author>
+      <name>Ching Wen Chiu</name>
+    </author>
+    <author>
+      <name>Adam Chazin-Gray</name>
+    </author>
+    <author>
+      <name>Sidney Chan</name>
+    </author>
+    <author>
+      <name>Stacey Gerben</name>
+    </author>
+    <author>
+      <name>Analisa Murray</name>
+    </author>
+    <author>
+      <name>Shunzhi Wang</name>
+    </author>
+    <author>
+      <name>Jason O'Neill</name>
+    </author>
+    <author>
+      <name>Li Yi</name>
+    </author>
+    <author>
+      <name>Ronald Yeh</name>
+    </author>
+    <author>
+      <name>Ayesha Misquith</name>
+    </author>
+    <author>
+      <name>Anitra Wolf</name>
+    </author>
+    <author>
+      <name>Luke M Tomasovic</name>
+    </author>
+    <author>
+      <name>Dan I Piraner</name>
+    </author>
+    <author>
+      <name>Maria J Duran Gonzalez</name>
+    </author>
+    <author>
+      <name>Nathaniel R Bennett</name>
+    </author>
+    <author>
+      <name>Preetham Venkatesh</name>
+    </author>
+    <author>
+      <name>Maggie Ahlrichs</name>
+    </author>
+    <author>
+      <name>Craig Dobbins</name>
+    </author>
+    <author>
+      <name>Wei Yang</name>
+    </author>
+    <author>
+      <name>Xinru Wang</name>
+    </author>
+    <author>
+      <name>Danny D Sahtoe</name>
+    </author>
+    <author>
+      <name>Dionne Vafeados</name>
+    </author>
+    <author>
+      <name>Rubul Mout</name>
+    </author>
+    <author>
+      <name>Shirin Shivaei</name>
+    </author>
+    <author>
+      <name>Longxing Cao</name>
+    </author>
+    <author>
+      <name>Lauren Carter</name>
+    </author>
+    <author>
+      <name>Lance Stewart</name>
+    </author>
+    <author>
+      <name>Jamie B Spangler</name>
+    </author>
+    <author>
+      <name>Kole T Roybal</name>
+    </author>
+    <author>
+      <name>Per Jr Greisen</name>
+    </author>
+    <author>
+      <name>Xiaochun Li</name>
+    </author>
+    <author>
+      <name>Gonçalo J L Bernardes</name>
+    </author>
+    <author>
+      <name>Carolyn R Bertozzi</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Buwei Huang; Mohamad Abedi; Green Ahn; Brian Coventry; Isaac Sappington; Cong Tang; Rong Wang; Thomas Schlichthaerle; Jason Z Zhang; Yujia Wang; Inna Goreshnik; Ching Wen Chiu; Adam Chazin-Gray; Sidney Chan; Stacey Gerben; Analisa Murray; Shunzhi Wang; Jason O&amp;#x27;Neill; Li Yi; Ronald Yeh; Ayesha Misquith; Anitra Wolf; Luke M Tomasovic; Dan I Piraner; Maria J Duran Gonzalez; Nathaniel R Bennett; Preetham Venkatesh; Maggie Ahlrichs; Craig Dobbins; Wei Yang; Xinru Wang; Danny D Sahtoe; Dionne Vafeados; Rubul Mout; Shirin Shivaei; Longxing Cao; Lauren Carter; Lance Stewart; Jamie B Spangler; Kole T Roybal; Per Jr Greisen; Xiaochun Li; Gonçalo J L Bernardes; Carolyn R Bertozzi; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2024-09-25&lt;/p&gt;
+&lt;p&gt;Journal: Nature&lt;/p&gt;
+&lt;p&gt;Endocytosis and lysosomal trafficking of cell surface receptors can be triggered by endogenous ligands. Therapeutic approaches such as lysosome-targeting chimaeras1,2 (LYTACs) and cytokine receptor-targeting chimeras3 (KineTACs) have used this to target specific proteins for degradation by fusing modified native ligands to target binding proteins. Although powerful, these approaches can be limited by competition with native ligands and requirements for chemical modification that limit genetic encodability and can complicate manufacturing, and, more generally, there may be no native ligands that stimulate endocytosis through a given receptor. Here we describe computational design approaches for endocytosis-triggering binding proteins (EndoTags) that overcome these challenges. We present EndoTags for insulin-like growth factor 2 receptor (IGF2R) and asialoglycoprotein receptor (ASGPR), sortilin and transferrin receptors, and show that fusing these tags to soluble or transmembrane target protein binders leads to lysosomal trafficking and target degradation. As these receptors have different tissue distributions, the different EndoTags could enable targeting of degradation to different tissues. EndoTag fusion to a PD-L1 antibody considerably increases efficacy in a mouse tumour model compared to antibody alone. The modularity and genetic encodability of EndoTags enables AND gate control for higher-specificity targeted degradation, and the localized secretion of degraders from engineered cells. By promoting endocytosis, EndoTag fusion increases signalling through an engineered ligand-receptor system by nearly 100-fold. EndoTags have considerable therapeutic potential as targeted degradation inducers, signalling activators for endocytosis-dependent pathways, and cellular uptake inducers for targeted antibody-drug and antibody-RNA conjugates.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-024-07948-2"&gt;pubmed (published) — DOI: 10.1038/s41586-024-07948-2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-024-07948-2"&gt;Published version — DOI: 10.1038/s41586-024-07948-2&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>

@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-09-16T04:47:36Z",
+      "last_success": "2026-09-16T11:30:33Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-09-16T04:47:36Z",
+      "last_success": "2026-09-16T11:30:33Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-09-16T04:47:36Z",
+      "last_success": "2026-09-16T11:30:33Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -79,7 +79,9 @@
     "pubmed:35319882": "2026-09-11T17:54:26Z",
     "pubmed:42526427": "2026-09-13T18:42:33Z",
     "pubmed:42523424": "2026-09-13T18:42:33Z",
-    "pubmed:26727239": "2026-09-13T18:42:33Z"
+    "pubmed:26727239": "2026-09-13T18:42:33Z",
+    "pubmed:39814879": "2026-09-16T11:30:33Z",
+    "pubmed:39322662": "2026-09-16T11:30:33Z"
   },
   "works": {
     "urn:uuid:7f477453-6c38-52e7-b591-accb9b0e6576": {
@@ -11682,10 +11684,906 @@
         }
       ],
       "published": "2026-07-29T00:00:00Z"
+    },
+    "urn:uuid:32279abd-c4f2-53c4-8e92-b54cb9b00783": {
+      "id": "urn:uuid:32279abd-c4f2-53c4-8e92-b54cb9b00783",
+      "first_seen": "2026-09-16T11:30:33Z",
+      "updated": "2026-09-16T11:30:33Z",
+      "records": {
+        "pubmed:39322662": {
+          "source": "pubmed",
+          "source_id": "39322662",
+          "title": "Designed endocytosis-inducing proteins degrade targets and amplify signals.",
+          "authors": [
+            {
+              "name": "Buwei Huang",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Department of Bioengineering, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Mohamad Abedi",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Green Ahn",
+              "affiliations": [
+                "Department of Chemistry, Stanford University, Stanford, CA, USA."
+              ],
+              "orcid": "0000-0003-3086-4849"
+            },
+            {
+              "name": "Brian Coventry",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-6910-6255"
+            },
+            {
+              "name": "Isaac Sappington",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Cong Tang",
+              "affiliations": [
+                "Instituto de Medicina Molecular João Lobo Antunes, Faculdade de Medicina, Universidade de Lisboa, Lisbon, Portugal."
+              ],
+              "orcid": "0000-0003-1661-6793"
+            },
+            {
+              "name": "Rong Wang",
+              "affiliations": [
+                "Department of Molecular Genetics, University of Texas Southwestern Medical Center, Dallas, TX, USA."
+              ],
+              "orcid": "0000-0001-7342-5278"
+            },
+            {
+              "name": "Thomas Schlichthaerle",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Jason Z Zhang",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0003-0091-6273"
+            },
+            {
+              "name": "Yujia Wang",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Inna Goreshnik",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Ching Wen Chiu",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Adam Chazin-Gray",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Sidney Chan",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Stacey Gerben",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0003-0313-6248"
+            },
+            {
+              "name": "Analisa Murray",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0003-1560-6673"
+            },
+            {
+              "name": "Shunzhi Wang",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-5033-7478"
+            },
+            {
+              "name": "Jason O'Neill",
+              "affiliations": [
+                "Novo Nordisk, Måløv, Denmark."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Li Yi",
+              "affiliations": [
+                "Novo Nordisk, Måløv, Denmark."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Ronald Yeh",
+              "affiliations": [
+                "Novo Nordisk, Måløv, Denmark."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Ayesha Misquith",
+              "affiliations": [
+                "Novo Nordisk, Måløv, Denmark."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Anitra Wolf",
+              "affiliations": [
+                "Novo Nordisk, Måløv, Denmark."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Luke M Tomasovic",
+              "affiliations": [
+                "Departments of Biomedical Engineering and Chemical and Biomolecular Engineering, Johns Hopkins University, Baltimore, MD, USA.",
+                "Medical Scientist Training Program, Johns Hopkins University School of Medicine, Baltimore, MD, USA."
+              ],
+              "orcid": "0000-0002-1459-3252"
+            },
+            {
+              "name": "Dan I Piraner",
+              "affiliations": [
+                "Department of Microbiology and Immunology, University of California San Francisco, San Francisco, CA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Maria J Duran Gonzalez",
+              "affiliations": [
+                "Department of Microbiology and Immunology, University of California San Francisco, San Francisco, CA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Nathaniel R Bennett",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-8590-1454"
+            },
+            {
+              "name": "Preetham Venkatesh",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Maggie Ahlrichs",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-4793-3890"
+            },
+            {
+              "name": "Craig Dobbins",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Wei Yang",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Xinru Wang",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-5994-707X"
+            },
+            {
+              "name": "Danny D Sahtoe",
+              "affiliations": [
+                "Hubrecht Institute, Utrecht, The Netherlands."
+              ],
+              "orcid": "0000-0001-9095-0744"
+            },
+            {
+              "name": "Dionne Vafeados",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-2560-8907"
+            },
+            {
+              "name": "Rubul Mout",
+              "affiliations": [
+                "Harvard Medical School, Harvard University, Boston, MA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Shirin Shivaei",
+              "affiliations": [
+                "Division of Biology and Bioengineering, California Institute of Technology, Pasadena, CA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Longxing Cao",
+              "affiliations": [
+                "School of Life Sciences, Westlake University, Hangzhou, China."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Lauren Carter",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Lance Stewart",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0003-4264-5125"
+            },
+            {
+              "name": "Jamie B Spangler",
+              "affiliations": [
+                "Novo Nordisk, Måløv, Denmark."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Kole T Roybal",
+              "affiliations": [
+                "Department of Microbiology and Immunology, University of California San Francisco, San Francisco, CA, USA."
+              ],
+              "orcid": "0000-0003-3030-7954"
+            },
+            {
+              "name": "Per Jr Greisen",
+              "affiliations": [
+                "Novo Nordisk, Måløv, Denmark."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Xiaochun Li",
+              "affiliations": [
+                "Department of Molecular Genetics, University of Texas Southwestern Medical Center, Dallas, TX, USA."
+              ],
+              "orcid": "0000-0002-0177-0803"
+            },
+            {
+              "name": "Gonçalo J L Bernardes",
+              "affiliations": [
+                "Instituto de Medicina Molecular João Lobo Antunes, Faculdade de Medicina, Universidade de Lisboa, Lisbon, Portugal.",
+                "Yusuf Hamied Department of Chemistry, University of Cambridge, Cambridge, UK."
+              ],
+              "orcid": "0000-0001-6594-8917"
+            },
+            {
+              "name": "Carolyn R Bertozzi",
+              "affiliations": [
+                "Department of Chemistry, Stanford University, Stanford, CA, USA.",
+                "Howard Hughes Medical Institute, Stanford, CA, USA.",
+                "Sarafan ChEM-H, Stanford University, Stanford, CA, USA."
+              ],
+              "orcid": "0000-0003-4482-2754"
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA. dabaker@uw.edu.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA. dabaker@uw.edu.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA. dabaker@uw.edu."
+              ],
+              "orcid": "0000-0001-7896-6217"
+            }
+          ],
+          "abstract": "Endocytosis and lysosomal trafficking of cell surface receptors can be triggered by endogenous ligands. Therapeutic approaches such as lysosome-targeting chimaeras1,2 (LYTACs) and cytokine receptor-targeting chimeras3 (KineTACs) have used this to target specific proteins for degradation by fusing modified native ligands to target binding proteins. Although powerful, these approaches can be limited by competition with native ligands and requirements for chemical modification that limit genetic encodability and can complicate manufacturing, and, more generally, there may be no native ligands that stimulate endocytosis through a given receptor. Here we describe computational design approaches for endocytosis-triggering binding proteins (EndoTags) that overcome these challenges. We present EndoTags for insulin-like growth factor 2 receptor (IGF2R) and asialoglycoprotein receptor (ASGPR), sortilin and transferrin receptors, and show that fusing these tags to soluble or transmembrane target protein binders leads to lysosomal trafficking and target degradation. As these receptors have different tissue distributions, the different EndoTags could enable targeting of degradation to different tissues. EndoTag fusion to a PD-L1 antibody considerably increases efficacy in a mouse tumour model compared to antibody alone. The modularity and genetic encodability of EndoTags enables AND gate control for higher-specificity targeted degradation, and the localized secretion of degraders from engineered cells. By promoting endocytosis, EndoTag fusion increases signalling through an engineered ligand-receptor system by nearly 100-fold. EndoTags have considerable therapeutic potential as targeted degradation inducers, signalling activators for endocytosis-dependent pathways, and cellular uptake inducers for targeted antibody-drug and antibody-RNA conjugates.",
+          "date": "2024-09-25",
+          "url": "https://doi.org/10.1038/s41586-024-07948-2",
+          "doi": "10.1038/s41586-024-07948-2",
+          "status": "published",
+          "journal": "Nature",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC11839401"
+          ],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:39322662",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:39322662",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2024-09-25T00:00:00Z"
+    },
+    "urn:uuid:2860b141-22fc-5a0c-a7a7-f57b1dc58e5b": {
+      "id": "urn:uuid:2860b141-22fc-5a0c-a7a7-f57b1dc58e5b",
+      "first_seen": "2026-09-16T11:30:33Z",
+      "updated": "2026-09-16T11:30:33Z",
+      "records": {
+        "pubmed:39814879": {
+          "source": "pubmed",
+          "source_id": "39814879",
+          "title": "De novo designed proteins neutralize lethal snake venom toxins.",
+          "authors": [
+            {
+              "name": "Susana Vázquez Torres",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Graduate Program in Biological Physics, Structure and Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Melisa Benard Valle",
+              "affiliations": [
+                "Department of Biotechnology and Biomedicine, Technical University of Denmark, Kongens Lyngby, Denmark."
+              ],
+              "orcid": "0000-0002-0042-6592"
+            },
+            {
+              "name": "Stephen P Mackessy",
+              "affiliations": [
+                "Department of Biological Sciences, University of Northern Colorado, Greeley, CO, USA."
+              ],
+              "orcid": "0000-0003-4515-2545"
+            },
+            {
+              "name": "Stefanie K Menzies",
+              "affiliations": [
+                "Centre for Snakebite Research & Interventions, Liverpool School of Tropical Medicine, Pembroke Place, Liverpool, UK.",
+                "Centre for Drugs & Diagnostics, Liverpool School of Tropical Medicine, Pembroke Place, Liverpool, UK.",
+                "Biomedical & Life Sciences, Faculty of Health and Medicine, Lancaster University, Lancaster, UK."
+              ],
+              "orcid": "0000-0002-9273-9296"
+            },
+            {
+              "name": "Nicholas R Casewell",
+              "affiliations": [
+                "Centre for Snakebite Research & Interventions, Liverpool School of Tropical Medicine, Pembroke Place, Liverpool, UK.",
+                "Centre for Drugs & Diagnostics, Liverpool School of Tropical Medicine, Pembroke Place, Liverpool, UK."
+              ],
+              "orcid": "0000-0002-8035-4719"
+            },
+            {
+              "name": "Shirin Ahmadi",
+              "affiliations": [
+                "Department of Biotechnology and Biomedicine, Technical University of Denmark, Kongens Lyngby, Denmark."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Nick J Burlet",
+              "affiliations": [
+                "Department of Biotechnology and Biomedicine, Technical University of Denmark, Kongens Lyngby, Denmark."
+              ],
+              "orcid": "0009-0002-5099-3971"
+            },
+            {
+              "name": "Edin Muratspahić",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Isaac Sappington",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Graduate Program in Biological Physics, Structure and Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Max D Overath",
+              "affiliations": [
+                "Department of Biotechnology and Biomedicine, Technical University of Denmark, Kongens Lyngby, Denmark."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Esperanza Rivera-de-Torre",
+              "affiliations": [
+                "Department of Biotechnology and Biomedicine, Technical University of Denmark, Kongens Lyngby, Denmark."
+              ],
+              "orcid": "0000-0002-0272-6150"
+            },
+            {
+              "name": "Jann Ledergerber",
+              "affiliations": [
+                "Department of Biotechnology and Biomedicine, Technical University of Denmark, Kongens Lyngby, Denmark."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Andreas H Laustsen",
+              "affiliations": [
+                "Department of Biotechnology and Biomedicine, Technical University of Denmark, Kongens Lyngby, Denmark."
+              ],
+              "orcid": "0000-0001-6918-5574"
+            },
+            {
+              "name": "Kim Boddum",
+              "affiliations": [
+                "Sophion Bioscience, Ballerup, Denmark."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Asim K Bera",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-9473-2912"
+            },
+            {
+              "name": "Alex Kang",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-5487-0499"
+            },
+            {
+              "name": "Evans Brackenbrough",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Iara A Cardoso",
+              "affiliations": [
+                "Centre for Snakebite Research & Interventions, Liverpool School of Tropical Medicine, Pembroke Place, Liverpool, UK."
+              ],
+              "orcid": "0000-0002-0288-4706"
+            },
+            {
+              "name": "Edouard P Crittenden",
+              "affiliations": [
+                "Centre for Snakebite Research & Interventions, Liverpool School of Tropical Medicine, Pembroke Place, Liverpool, UK."
+              ],
+              "orcid": "0000-0003-1676-5457"
+            },
+            {
+              "name": "Rebecca J Edge",
+              "affiliations": [
+                "Department of Infection Biology and Microbiomes, Institute of Infection, Veterinary and Ecological Sciences, University of Liverpool, Liverpool, UK."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Justin Decarreau",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Robert J Ragotte",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Arvind S Pillai",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-5012-1199"
+            },
+            {
+              "name": "Mohamad Abedi",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Hannah L Han",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-4787-5168"
+            },
+            {
+              "name": "Stacey R Gerben",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0003-0313-6248"
+            },
+            {
+              "name": "Analisa Murray",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0003-1560-6673"
+            },
+            {
+              "name": "Rebecca Skotheim",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0009-0005-0757-8432"
+            },
+            {
+              "name": "Lynda Stuart",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Lance Stewart",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0003-4264-5125"
+            },
+            {
+              "name": "Thomas J A Fryer",
+              "affiliations": [
+                "Department of Biotechnology and Biomedicine, Technical University of Denmark, Kongens Lyngby, Denmark.",
+                "Media Lab, Massachusetts Institute of Technology, Cambridge, MA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Timothy P Jenkins",
+              "affiliations": [
+                "Department of Biotechnology and Biomedicine, Technical University of Denmark, Kongens Lyngby, Denmark. tpaje@dtu.dk."
+              ],
+              "orcid": "0000-0003-2979-5663"
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA. dabaker@uw.edu.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA. dabaker@uw.edu.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA. dabaker@uw.edu."
+              ],
+              "orcid": "0000-0001-7896-6217"
+            }
+          ],
+          "abstract": "Snakebite envenoming remains a devastating and neglected tropical disease, claiming over 100,000 lives annually and causing severe complications and long-lasting disabilities for many more1,2. Three-finger toxins (3FTx) are highly toxic components of elapid snake venoms that can cause diverse pathologies, including severe tissue damage3 and inhibition of nicotinic acetylcholine receptors, resulting in life-threatening neurotoxicity4. At present, the only available treatments for snakebites consist of polyclonal antibodies derived from the plasma of immunized animals, which have high cost and limited efficacy against 3FTxs5-7. Here we used deep learning methods to de novo design proteins to bind short-chain and long-chain α-neurotoxins and cytotoxins from the 3FTx family. With limited experimental screening, we obtained protein designs with remarkable thermal stability, high binding affinity and near-atomic-level agreement with the computational models. The designed proteins effectively neutralized all three 3FTx subfamilies in vitro and protected mice from a lethal neurotoxin challenge. Such potent, stable and readily manufacturable toxin-neutralizing proteins could provide the basis for safer, cost-effective and widely accessible next-generation antivenom therapeutics. Beyond snakebite, our results highlight how computational design could help democratize therapeutic discovery, particularly in resource-limited settings, by substantially reducing costs and resource requirements for the development of therapies for neglected tropical diseases.",
+          "date": "2025-01-15",
+          "url": "https://doi.org/10.1038/s41586-024-08393-x",
+          "doi": "10.1038/s41586-024-08393-x",
+          "status": "published",
+          "journal": "Nature",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC11882462"
+          ],
+          "relations": [
+            {
+              "kind": "update_of",
+              "target": "pubmed:38798548",
+              "evidence": "PubMed UpdateOf; target must be a preprint"
+            }
+          ]
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:39814879",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:39814879",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2025-01-15T00:00:00Z"
     }
   },
   "aliases": {},
   "rejected": {
+    "biorxiv:10.1101/2025.08.18.670751": {
+      "first_seen": "2026-09-16T11:30:33Z",
+      "record": {
+        "source": "biorxiv",
+        "source_id": "10.1101/2025.08.18.670751",
+        "title": "De Novo Design of Miniprotein Inhibitors of Bacterial Adhesins",
+        "authors": [
+          {
+            "name": "Chazin-Gray, A. M.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Thompson, T. R.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Lopatto, E. D. B.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Magala, P.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Erickson, P. W.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Hunt, A. C.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Manchenko, A.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Aprikian, P.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Tchesnokova, V.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Basova, I.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Sanick, D. A.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Tamadonfar, K. O.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Timm, M. R.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Pinkner, J. S.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Dodson, K. W.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Kang, A.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Joyce, E.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Bera, A. K.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Schmitz, A. J.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Ellebedy, A. H.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Hvorecny, K. L.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Interlandi, G.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Cartwright, M. J.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Vernet, A.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Bardales, S.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "White, D.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Klevit, R. E.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Sokurenko, E. V.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Hultgren, S. J.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Baker, D.",
+            "affiliations": [
+              "University of Washington"
+            ],
+            "orcid": null
+          }
+        ],
+        "abstract": "The rise of multidrug-resistant bacterial infections necessitates the discovery of novel antimicrobial strategies. Here, we show that protein design provides a generalizable means of generating new antimicrobials by neutralizing the function of bacterial adhesins, which are virulence factors critical in host-pathogen interactions. We de novo designed high-affinity miniprotein binders to FimH and Abp chaperone usher pili adhesins from uropathogenic Escherichia coli and Acinetobacter baumannii, respectively, which are implicated in mediating both uncomplicated and catheter-associated urinary tract infections (UTI) responsible for significant morbidity worldwide. The designed antagonists have high specificity and stability, disrupt bacterial recognition of host receptors, block biofilm formation, and are effective in treating and preventing murine models of uncomplicated and catheter- associated UTIs in vivo.",
+        "date": "2026-09-16",
+        "url": "https://doi.org/10.1101/2025.08.18.670751",
+        "doi": "10.1101/2025.08.18.670751",
+        "status": "preprint",
+        "journal": "",
+        "version": "2",
+        "publication_date": "",
+        "identifiers": [],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "Baker, D.",
+              "method": "rejected",
+              "affiliations": [
+                "University of Washington"
+              ],
+              "matched_affiliations": [
+                "University of Washington"
+              ],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
     "pubmed:42467309": {
       "first_seen": "2026-09-14T12:43:54Z",
       "record": {
