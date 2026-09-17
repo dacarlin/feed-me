@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-09-17T04:51:15Z</updated>
+  <updated>2026-09-17T11:39:49Z</updated>
   <entry>
     <id>urn:uuid:64244f38-0942-5fed-bdcd-947fec3c7d95</id>
     <title>De novo design of allosterically controlled enzymes</title>
@@ -2577,6 +2577,120 @@
 &lt;/ul&gt;</content>
   </entry>
   <entry>
+    <id>urn:uuid:4f44e5a0-b23a-524a-b6a7-03c82b363db1</id>
+    <title>Atomically accurate de novo design of antibodies with RFdiffusion.</title>
+    <published>2025-11-05T00:00:00Z</published>
+    <updated>2026-09-17T11:39:49Z</updated>
+    <link href="https://doi.org/10.1038/s41586-025-09721-5" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Nathaniel R Bennett</name>
+    </author>
+    <author>
+      <name>Joseph L Watson</name>
+    </author>
+    <author>
+      <name>Robert J Ragotte</name>
+    </author>
+    <author>
+      <name>Andrew J Borst</name>
+    </author>
+    <author>
+      <name>DéJenaé L See</name>
+    </author>
+    <author>
+      <name>Connor Weidle</name>
+    </author>
+    <author>
+      <name>Riti Biswas</name>
+    </author>
+    <author>
+      <name>Yutong Yu</name>
+    </author>
+    <author>
+      <name>Ellen L Shrock</name>
+    </author>
+    <author>
+      <name>Russell Ault</name>
+    </author>
+    <author>
+      <name>Philip J Y Leung</name>
+    </author>
+    <author>
+      <name>Buwei Huang</name>
+    </author>
+    <author>
+      <name>Inna Goreshnik</name>
+    </author>
+    <author>
+      <name>John Tam</name>
+    </author>
+    <author>
+      <name>Kenneth D Carr</name>
+    </author>
+    <author>
+      <name>Benedikt Singer</name>
+    </author>
+    <author>
+      <name>Cameron Criswell</name>
+    </author>
+    <author>
+      <name>Basile I M Wicky</name>
+    </author>
+    <author>
+      <name>Dionne Vafeados</name>
+    </author>
+    <author>
+      <name>Mariana Garcia Sanchez</name>
+    </author>
+    <author>
+      <name>Ho Min Kim</name>
+    </author>
+    <author>
+      <name>Susana Vázquez Torres</name>
+    </author>
+    <author>
+      <name>Sidney Chan</name>
+    </author>
+    <author>
+      <name>Shirley M Sun</name>
+    </author>
+    <author>
+      <name>Timothy T Spear</name>
+    </author>
+    <author>
+      <name>Yi Sun</name>
+    </author>
+    <author>
+      <name>Keelan O'Reilly</name>
+    </author>
+    <author>
+      <name>John M Maris</name>
+    </author>
+    <author>
+      <name>Nikolaos G Sgourakis</name>
+    </author>
+    <author>
+      <name>Roman A Melnyk</name>
+    </author>
+    <author>
+      <name>Chang C Liu</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Nathaniel R Bennett; Joseph L Watson; Robert J Ragotte; Andrew J Borst; DéJenaé L See; Connor Weidle; Riti Biswas; Yutong Yu; Ellen L Shrock; Russell Ault; Philip J Y Leung; Buwei Huang; Inna Goreshnik; John Tam; Kenneth D Carr; Benedikt Singer; Cameron Criswell; Basile I M Wicky; Dionne Vafeados; Mariana Garcia Sanchez; Ho Min Kim; Susana Vázquez Torres; Sidney Chan; Shirley M Sun; Timothy T Spear; Yi Sun; Keelan O&amp;#x27;Reilly; John M Maris; Nikolaos G Sgourakis; Roman A Melnyk; Chang C Liu; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2025-11-05&lt;/p&gt;
+&lt;p&gt;Journal: Nature&lt;/p&gt;
+&lt;p&gt;Despite the central role of antibodies in modern medicine, no method currently exists to design novel, epitope-specific antibodies entirely in silico. Instead, antibody discovery currently relies on immunization, random library screening or the isolation of antibodies directly from patients1. Here we demonstrate that combining computational protein design using a fine-tuned RFdiffusion2 network with yeast display screening enables the de novo generation of antibody variable heavy chains (VHHs), single-chain variable fragments (scFvs) and full antibodies that bind to user-specified epitopes with atomic-level precision. We experimentally characterize VHH binders to four disease-relevant epitopes. Cryo-electron microscopy confirms the binding pose of designed VHHs targeting influenza haemagglutinin and Clostridium difficile toxin B (TcdB). A high-resolution structure of the influenza-targeting VHH confirms atomic accuracy of the designed complementarity-determining regions (CDRs). Although initial computational designs exhibit modest affinity (tens to hundreds of nanomolar Kd), affinity maturation using OrthoRep3 enables production of single-digit nanomolar binders that maintain the intended epitope selectivity. We further demonstrate the de novo design of scFvs to TcdB and a PHOX2B peptide-MHC complex by combining designed heavy-chain and light-chain CDRs. Cryo-electron microscopy confirms the binding pose for two distinct TcdB scFvs, with high-resolution data for one design verifying the atomically accurate design of the conformations of all six CDR loops. Our approach establishes a framework for the computational design, screening and characterization of fully de novo antibodies with atomic-level precision in both structure and epitope targeting.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-025-09721-5"&gt;pubmed (published) — DOI: 10.1038/s41586-025-09721-5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-025-09721-5"&gt;Published version — DOI: 10.1038/s41586-025-09721-5&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
     <id>urn:uuid:d2ac3cd4-81ea-5ad2-8b0a-a92a451ab52a</id>
     <title>Modeling protein-small molecule conformational ensembles with PLACER.</title>
     <published>2025-11-04T00:00:00Z</published>
@@ -2964,6 +3078,80 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1126/sciadv.adt4170"&gt;pubmed (published) — DOI: 10.1126/sciadv.adt4170&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1126/sciadv.adt4170"&gt;Published version — DOI: 10.1126/sciadv.adt4170&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:cf317cfc-1a5c-5ad2-9337-47e37b83b958</id>
+    <title>Publisher Correction: Multistate and functional protein design using RoseTTAFold sequence space diffusion.</title>
+    <published>2025-08-01T00:00:00Z</published>
+    <updated>2026-09-17T11:39:49Z</updated>
+    <link href="https://doi.org/10.1038/s41587-024-02456-0" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Sidney Lyayuga Lisanza</name>
+    </author>
+    <author>
+      <name>Jacob Merle Gershon</name>
+    </author>
+    <author>
+      <name>Samuel W K Tipps</name>
+    </author>
+    <author>
+      <name>Jeremiah Nelson Sims</name>
+    </author>
+    <author>
+      <name>Lucas Arnoldt</name>
+    </author>
+    <author>
+      <name>Samuel J Hendel</name>
+    </author>
+    <author>
+      <name>Miriam K Simma</name>
+    </author>
+    <author>
+      <name>Ge Liu</name>
+    </author>
+    <author>
+      <name>Muna Yase</name>
+    </author>
+    <author>
+      <name>Hongwei Wu</name>
+    </author>
+    <author>
+      <name>Claire D Tharp</name>
+    </author>
+    <author>
+      <name>Xinting Li</name>
+    </author>
+    <author>
+      <name>Alex Kang</name>
+    </author>
+    <author>
+      <name>Evans Brackenbrough</name>
+    </author>
+    <author>
+      <name>Asim K Bera</name>
+    </author>
+    <author>
+      <name>Stacey Gerben</name>
+    </author>
+    <author>
+      <name>Bruce J Wittmann</name>
+    </author>
+    <author>
+      <name>Andrew C McShan</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Sidney Lyayuga Lisanza; Jacob Merle Gershon; Samuel W K Tipps; Jeremiah Nelson Sims; Lucas Arnoldt; Samuel J Hendel; Miriam K Simma; Ge Liu; Muna Yase; Hongwei Wu; Claire D Tharp; Xinting Li; Alex Kang; Evans Brackenbrough; Asim K Bera; Stacey Gerben; Bruce J Wittmann; Andrew C McShan; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2025-08&lt;/p&gt;
+&lt;p&gt;Journal: Nature biotechnology&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41587-024-02456-0"&gt;pubmed (published) — DOI: 10.1038/s41587-024-02456-0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41587-024-02456-0"&gt;Published version — DOI: 10.1038/s41587-024-02456-0&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
@@ -3809,6 +3997,81 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1101/2024.11.03.621760"&gt;pubmed (preprint) — DOI: 10.1101/2024.11.03.621760&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://pubmed.ncbi.nlm.nih.gov/40450691/"&gt;Published version&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:7fa47f9b-26b7-5730-bffb-04395ef8b9ea</id>
+    <title>Multistate and functional protein design using RoseTTAFold sequence space diffusion.</title>
+    <published>2024-09-25T00:00:00Z</published>
+    <updated>2026-09-17T11:39:49Z</updated>
+    <link href="https://doi.org/10.1038/s41587-024-02395-w" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Sidney Lyayuga Lisanza</name>
+    </author>
+    <author>
+      <name>Jacob Merle Gershon</name>
+    </author>
+    <author>
+      <name>Samuel W K Tipps</name>
+    </author>
+    <author>
+      <name>Jeremiah Nelson Sims</name>
+    </author>
+    <author>
+      <name>Lucas Arnoldt</name>
+    </author>
+    <author>
+      <name>Samuel J Hendel</name>
+    </author>
+    <author>
+      <name>Miriam K Simma</name>
+    </author>
+    <author>
+      <name>Ge Liu</name>
+    </author>
+    <author>
+      <name>Muna Yase</name>
+    </author>
+    <author>
+      <name>Hongwei Wu</name>
+    </author>
+    <author>
+      <name>Claire D Tharp</name>
+    </author>
+    <author>
+      <name>Xinting Li</name>
+    </author>
+    <author>
+      <name>Alex Kang</name>
+    </author>
+    <author>
+      <name>Evans Brackenbrough</name>
+    </author>
+    <author>
+      <name>Asim K Bera</name>
+    </author>
+    <author>
+      <name>Stacey Gerben</name>
+    </author>
+    <author>
+      <name>Bruce J Wittmann</name>
+    </author>
+    <author>
+      <name>Andrew C McShan</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Sidney Lyayuga Lisanza; Jacob Merle Gershon; Samuel W K Tipps; Jeremiah Nelson Sims; Lucas Arnoldt; Samuel J Hendel; Miriam K Simma; Ge Liu; Muna Yase; Hongwei Wu; Claire D Tharp; Xinting Li; Alex Kang; Evans Brackenbrough; Asim K Bera; Stacey Gerben; Bruce J Wittmann; Andrew C McShan; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2024-09-25&lt;/p&gt;
+&lt;p&gt;Journal: Nature biotechnology&lt;/p&gt;
+&lt;p&gt;Protein denoising diffusion probabilistic models are used for the de novo generation of protein backbones but are limited in their ability to guide generation of proteins with sequence-specific attributes and functional properties. To overcome this limitation, we developed ProteinGenerator (PG), a sequence space diffusion model based on RoseTTAFold that simultaneously generates protein sequences and structures. Beginning from a noised sequence representation, PG generates sequence and structure pairs by iterative denoising, guided by desired sequence and structural protein attributes. We designed thermostable proteins with varying amino acid compositions and internal sequence repeats and cage bioactive peptides, such as melittin. By averaging sequence logits between diffusion trajectories with distinct structural constraints, we designed multistate parent-child protein triples in which the same sequence folds to different supersecondary structures when intact in the parent versus split into two child domains. PG design trajectories can be guided by experimental sequence-activity data, providing a general approach for integrated computational and experimental optimization of protein function.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41587-024-02395-w"&gt;pubmed (published) — DOI: 10.1038/s41587-024-02395-w&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41587-024-02395-w"&gt;Published version — DOI: 10.1038/s41587-024-02395-w&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
