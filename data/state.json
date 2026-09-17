@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-09-17T16:59:03Z",
+      "last_success": "2026-09-17T21:20:59Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-09-17T16:59:03Z",
+      "last_success": "2026-09-17T21:20:59Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-09-17T11:39:49Z",
+      "last_success": "2026-09-17T21:20:59Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -87,7 +87,12 @@
     "pubmed:39868203": "2026-09-17T04:51:15Z",
     "pubmed:41193805": "2026-09-17T11:39:49Z",
     "pubmed:39375454": "2026-09-17T11:39:49Z",
-    "pubmed:39322764": "2026-09-17T11:39:49Z"
+    "pubmed:39322764": "2026-09-17T11:39:49Z",
+    "pubmed:40196579": "2026-09-17T21:20:59Z",
+    "pubmed:39386615": "2026-09-17T21:20:59Z",
+    "pubmed:39345553": "2026-09-17T21:20:59Z",
+    "pubmed:38502697": "2026-09-17T21:20:59Z",
+    "pubmed:37577478": "2026-09-17T21:20:59Z"
   },
   "works": {
     "urn:uuid:7f477453-6c38-52e7-b591-accb9b0e6576": {
@@ -5480,7 +5485,7 @@
     "urn:uuid:d2ac3cd4-81ea-5ad2-8b0a-a92a451ab52a": {
       "id": "urn:uuid:d2ac3cd4-81ea-5ad2-8b0a-a92a451ab52a",
       "first_seen": "2026-09-11T17:54:26Z",
-      "updated": "2026-09-11T17:54:26Z",
+      "updated": "2026-09-17T21:20:59Z",
       "records": {
         "pubmed:41187076": {
           "source": "pubmed",
@@ -5607,12 +5612,150 @@
               "evidence": "PubMed UpdateOf; target must be a preprint"
             }
           ]
+        },
+        "pubmed:39386615": {
+          "source": "pubmed",
+          "source_id": "39386615",
+          "title": "Modeling protein-small molecule conformational ensembles with PLACER.",
+          "authors": [
+            {
+              "name": "Ivan Anishchenko",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98105, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98105, USA."
+              ],
+              "orcid": "0000-0003-3645-2044"
+            },
+            {
+              "name": "Yakov Kipnis",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98105, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98105, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA 98105, USA."
+              ],
+              "orcid": "0000-0002-3057-4916"
+            },
+            {
+              "name": "Indrek Kalvet",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98105, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98105, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA 98105, USA."
+              ],
+              "orcid": "0000-0002-6610-2857"
+            },
+            {
+              "name": "Guangfeng Zhou",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98105, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98105, USA."
+              ],
+              "orcid": "0000-0003-2728-1917"
+            },
+            {
+              "name": "Rohith Krishna",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98105, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98105, USA."
+              ],
+              "orcid": "0009-0003-6387-9622"
+            },
+            {
+              "name": "Samuel J Pellock",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98105, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98105, USA."
+              ],
+              "orcid": "0000-0002-7557-7985"
+            },
+            {
+              "name": "Anna Lauko",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98105, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98105, USA.",
+                "Graduate Program in Biological Physics, Structure and Design, University of Washington, Seattle, WA 98105, USA."
+              ],
+              "orcid": "0000-0001-5903-3518"
+            },
+            {
+              "name": "Gyu Rie Lee",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98105, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98105, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA 98105, USA."
+              ],
+              "orcid": "0000-0002-9119-5303"
+            },
+            {
+              "name": "Linna An",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98105, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98105, USA."
+              ],
+              "orcid": "0000-0001-9858-9105"
+            },
+            {
+              "name": "Justas Dauparas",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98105, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98105, USA."
+              ],
+              "orcid": "0000-0002-0030-144X"
+            },
+            {
+              "name": "Frank DiMaio",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98105, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98105, USA."
+              ],
+              "orcid": "0000-0002-7524-8938"
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98105, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98105, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA 98105, USA."
+              ],
+              "orcid": "0000-0001-7896-6217"
+            }
+          ],
+          "abstract": "Modeling the conformational heterogeneity of protein-small molecule interactions is important for understanding natural systems and evaluating designed systems, but remains an outstanding challenge. We reasoned that while residue level descriptions of biomolecules are efficient for de novo structure prediction, for probing heterogeneity of interactions with small molecules in the folded state an entirely atomic level description could have advantages in speed and generality. We developed a graph neural network called PLACER (Protein-Ligand Atomistic Conformational Ensemble Resolver) trained to recapitulate correct atomic positions from partially corrupted input structures from the Cambridge Structural Database and the Protein Data Bank; the nodes of the graph are the atoms in the system. PLACER accurately generates structures of diverse organic small molecules given knowledge of their atom composition and bonding, and given a description of the larger protein context, builds up structures of small molecules and protein side chains for protein-small molecule docking. Because PLACER is rapid and stochastic, ensembles of predictions can be readily generated to map conformational heterogeneity. In enzyme design efforts described here and elsewhere, we find that using PLACER to assess the accuracy and pre-organization of the designed active sites results in higher success rates and higher activities; we obtain a preorganized retroaldolase with a k cat/K M of 11000 M-1min-1, considerably higher than any pre-deep learning design for this reaction. We anticipate that PLACER will be widely useful for rapidly generating conformational ensembles of small molecule and small molecule-protein systems, and for designing higher activity preorganized enzymes.",
+          "date": "2025-09-27",
+          "url": "https://doi.org/10.1101/2024.09.25.614868",
+          "doi": "10.1101/2024.09.25.614868",
+          "status": "preprint",
+          "journal": "bioRxiv : the preprint server for biology",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC11463446"
+          ],
+          "relations": [
+            {
+              "kind": "is_preprint_of",
+              "target": "pubmed:41187076",
+              "evidence": "PubMed preprint UpdateIn"
+            }
+          ]
         }
       },
       "matched_researchers": {
         "david-baker": [
           {
             "record": "pubmed:41187076",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
+          },
+          {
+            "record": "pubmed:39386615",
             "matched": true,
             "reason": "strong author identity",
             "evidence": [
@@ -5630,6 +5773,20 @@
           "record": "pubmed:41187076",
           "method": "new_work",
           "reason": "no existing work"
+        },
+        {
+          "record": "pubmed:39386615",
+          "rank": 1,
+          "method": "explicit_relationship",
+          "identifiers": [
+            "pubmed:39386615",
+            "pubmed:41187076"
+          ],
+          "evidence": [
+            "PubMed UpdateOf; target must be a preprint",
+            "PubMed preprint UpdateIn"
+          ],
+          "matched_record": "pubmed:41187076"
         }
       ],
       "published": "2025-11-04T00:00:00Z"
@@ -13448,6 +13605,594 @@
         }
       ],
       "published": "2025-11-05T00:00:00Z"
+    },
+    "urn:uuid:ade27771-2136-535b-aeb7-af45c8c7ef1c": {
+      "id": "urn:uuid:ade27771-2136-535b-aeb7-af45c8c7ef1c",
+      "first_seen": "2026-09-17T21:20:59Z",
+      "updated": "2026-09-17T21:20:59Z",
+      "records": {
+        "pubmed:37577478": {
+          "source": "pubmed",
+          "source_id": "37577478",
+          "title": "Rapid and automated design of two-component protein nanomaterials using ProteinMPNN.",
+          "authors": [
+            {
+              "name": "Robbert J de Haas",
+              "affiliations": [],
+              "orcid": "0000-0002-7587-9967"
+            },
+            {
+              "name": "Natalie Brunette",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Alex Goodson",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Justas Dauparas",
+              "affiliations": [],
+              "orcid": "0000-0002-0030-144X"
+            },
+            {
+              "name": "Sue Y Yi",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Erin C Yang",
+              "affiliations": [],
+              "orcid": "0000-0002-1305-9066"
+            },
+            {
+              "name": "Quinton Dowling",
+              "affiliations": [],
+              "orcid": "0000-0002-4634-0014"
+            },
+            {
+              "name": "Hannah Nguyen",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Alex Kang",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Asim K Bera",
+              "affiliations": [],
+              "orcid": "0000-0001-9473-2912"
+            },
+            {
+              "name": "Banumathi Sankaran",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Renko de Vries",
+              "affiliations": [],
+              "orcid": "0000-0001-8664-3135"
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [],
+              "orcid": "0000-0001-7896-6217"
+            },
+            {
+              "name": "Neil P King",
+              "affiliations": [],
+              "orcid": "0000-0002-2978-4692"
+            }
+          ],
+          "abstract": "The design of novel protein-protein interfaces using physics-based design methods such as Rosetta requires substantial computational resources and manual refinement by expert structural biologists. A new generation of deep learning methods promises to simplify protein-protein interface design and enable its application to a wide variety of problems by researchers from various scientific disciplines. Here we test the ability of a deep learning method for protein sequence design, ProteinMPNN, to design two-component tetrahedral protein nanomaterials and benchmark its performance against Rosetta. ProteinMPNN had a similar success rate to Rosetta, yielding 13 new experimentally confirmed assemblies, but required orders of magnitude less computation and no manual refinement. The interfaces designed by ProteinMPNN were substantially more polar than those designed by Rosetta, which facilitated in vitro assembly of the designed nanomaterials from independently purified components. Crystal structures of several of the assemblies confirmed the accuracy of the design method at high resolution. Our results showcase the potential of deep learning-based methods to unlock the widespread application of designed protein-protein interfaces and self-assembling protein nanomaterials in biotechnology.",
+          "date": "2023-08-04",
+          "url": "https://doi.org/10.1101/2023.08.04.551935",
+          "doi": "10.1101/2023.08.04.551935",
+          "status": "preprint",
+          "journal": "bioRxiv : the preprint server for biology",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC10418170"
+          ],
+          "relations": [
+            {
+              "kind": "is_preprint_of",
+              "target": "pubmed:38502697",
+              "evidence": "PubMed preprint UpdateIn"
+            }
+          ]
+        },
+        "pubmed:38502697": {
+          "source": "pubmed",
+          "source_id": "38502697",
+          "title": "Rapid and automated design of two-component protein nanomaterials using ProteinMPNN.",
+          "authors": [
+            {
+              "name": "Robbert J de Haas",
+              "affiliations": [
+                "Department of Physical Chemistry and Soft Matter, Wageningen University and Research, Wageningen 6078 WE, The Netherlands."
+              ],
+              "orcid": "0000-0002-7587-9967"
+            },
+            {
+              "name": "Natalie Brunette",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195."
+              ],
+              "orcid": "0000-0002-0558-5584"
+            },
+            {
+              "name": "Alex Goodson",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195."
+              ],
+              "orcid": "0000-0002-5301-3695"
+            },
+            {
+              "name": "Justas Dauparas",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195."
+              ],
+              "orcid": "0000-0002-0030-144X"
+            },
+            {
+              "name": "Sue Y Yi",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Erin C Yang",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Quinton Dowling",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195."
+              ],
+              "orcid": "0000-0002-4634-0014"
+            },
+            {
+              "name": "Hannah Nguyen",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195."
+              ],
+              "orcid": "0000-0001-9696-4004"
+            },
+            {
+              "name": "Alex Kang",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195."
+              ],
+              "orcid": "0000-0001-5487-0499"
+            },
+            {
+              "name": "Asim K Bera",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Banumathi Sankaran",
+              "affiliations": [
+                "Molecular Biophysics and Integrated Bioimaging, Lawrence Berkeley National Laboratory, Berkeley, CA 94720."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Renko de Vries",
+              "affiliations": [
+                "Department of Physical Chemistry and Soft Matter, Wageningen University and Research, Wageningen 6078 WE, The Netherlands."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195.",
+                "HHMI, Seattle, WA 98195."
+              ],
+              "orcid": "0000-0001-7896-6217"
+            },
+            {
+              "name": "Neil P King",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195."
+              ],
+              "orcid": "0000-0002-2978-4692"
+            }
+          ],
+          "abstract": "The design of protein-protein interfaces using physics-based design methods such as Rosetta requires substantial computational resources and manual refinement by expert structural biologists. Deep learning methods promise to simplify protein-protein interface design and enable its application to a wide variety of problems by researchers from various scientific disciplines. Here, we test the ability of a deep learning method for protein sequence design, ProteinMPNN, to design two-component tetrahedral protein nanomaterials and benchmark its performance against Rosetta. ProteinMPNN had a similar success rate to Rosetta, yielding 13 new experimentally confirmed assemblies, but required orders of magnitude less computation and no manual refinement. The interfaces designed by ProteinMPNN were substantially more polar than those designed by Rosetta, which facilitated in vitro assembly of the designed nanomaterials from independently purified components. Crystal structures of several of the assemblies confirmed the accuracy of the design method at high resolution. Our results showcase the potential of deep learning-based methods to unlock the widespread application of designed protein-protein interfaces and self-assembling protein nanomaterials in biotechnology.",
+          "date": "2024-03-19",
+          "url": "https://doi.org/10.1073/pnas.2314646121",
+          "doi": "10.1073/pnas.2314646121",
+          "status": "published",
+          "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC10990136"
+          ],
+          "relations": [
+            {
+              "kind": "update_of",
+              "target": "pubmed:37577478",
+              "evidence": "PubMed UpdateOf; target must be a preprint"
+            }
+          ]
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:37577478",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
+          },
+          {
+            "record": "pubmed:38502697",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:37577478",
+          "method": "new_work",
+          "reason": "no existing work"
+        },
+        {
+          "record": "pubmed:38502697",
+          "rank": 1,
+          "method": "explicit_relationship",
+          "identifiers": [
+            "pubmed:37577478",
+            "pubmed:38502697"
+          ],
+          "evidence": [
+            "PubMed UpdateOf; target must be a preprint",
+            "PubMed preprint UpdateIn"
+          ],
+          "matched_record": "pubmed:37577478"
+        }
+      ],
+      "published": "2023-08-04T00:00:00Z"
+    },
+    "urn:uuid:76dc3a9a-a85d-5409-8945-28b42e084daf": {
+      "id": "urn:uuid:76dc3a9a-a85d-5409-8945-28b42e084daf",
+      "first_seen": "2026-09-17T21:20:59Z",
+      "updated": "2026-09-17T21:20:59Z",
+      "records": {
+        "pubmed:39345553": {
+          "source": "pubmed",
+          "source_id": "39345553",
+          "title": "Nucleation limited assembly and polarized growth of a de novo-designed allosterically modulatable protein filament.",
+          "authors": [
+            {
+              "name": "Hao Shen",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-8875-6491"
+            },
+            {
+              "name": "Eric M Lynch",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Chenyang Shi",
+              "affiliations": [
+                "Physical Sciences Division, Pacific Northwest National Laboratory, Richland, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Joseph L Watson",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "MRC Laboratory of Molecular Biology, Cambridge, UK."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Yulai Liu",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Kejia Wu",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Hua Bai",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Chan Johng Kim",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "William Sheffler",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Emmanuel Derivery",
+              "affiliations": [
+                "MRC Laboratory of Molecular Biology, Cambridge, UK."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "James J De Yoreo",
+              "affiliations": [
+                "Physical Sciences Division, Pacific Northwest National Laboratory, Richland, WA, USA.",
+                "Department of Materials Science and Engineering, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Justin Kollman",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-7896-6217"
+            }
+          ],
+          "abstract": "The design of inducibly assembling protein nanomaterials is an outstanding challenge. Here, we describe the computational design of a protein filament formed from a monomeric subunit that binds a peptide ligand. The cryoEM structure of the micron-scale fibers is very close to the computational design model. The ligand acts as a tunable allosteric modulator: while not part of the fiber subunit-subunit interfaces, the assembly of the filament is dependent on ligand addition, with longer peptides having more extensive interaction surfaces with the monomer, promoting more rapid growth. Seeded growth and capping experiments reveal that the filaments grow primarily from one end. We show that designed nucleators that present 12 copies of the peptide ligand promote fiber assembly at concentrations where otherwise assembly occurs very slowly, likely by generating critical local concentrations of monomer in the assembly competent conformation. Following filament assembly, the peptide ligand can be exchanged with free peptide in solution fused to any functional protein of interest, opening the door to a wide variety of tunable engineered materials.",
+          "date": "2025-08-26",
+          "url": "https://doi.org/10.1101/2024.09.20.613980",
+          "doi": "10.1101/2024.09.20.613980",
+          "status": "preprint",
+          "journal": "bioRxiv : the preprint server for biology",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC11429946"
+          ],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:39345553",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:39345553",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2025-08-26T00:00:00Z"
+    },
+    "urn:uuid:9e4c2c5d-d8f3-53d7-b84d-527d941b905c": {
+      "id": "urn:uuid:9e4c2c5d-d8f3-53d7-b84d-527d941b905c",
+      "first_seen": "2026-09-17T21:20:59Z",
+      "updated": "2026-09-17T21:20:59Z",
+      "records": {
+        "pubmed:40196579": {
+          "source": "pubmed",
+          "source_id": "40196579",
+          "title": "De novo design of inducibly assembling multi-component filaments.",
+          "authors": [
+            {
+              "name": "Hao Shen",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-8875-6491"
+            },
+            {
+              "name": "Eric M Lynch",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Noel Jameson",
+              "affiliations": [
+                "Department of Chemistry, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Justin Decarreau",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Chenyang Shi",
+              "affiliations": [
+                "Physical Sciences Division, Pacific Northwest National Laboratory, Richland, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Zibo Chen",
+              "affiliations": [
+                "School of Life Sciences, Westlake University, Hangzhou, Zhejiang, China."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "William Sheffler",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Miaomiao Xu",
+              "affiliations": [
+                "State Key Laboratory of Flexible Electronics (LoFE) & Institute of Advanced Materials (IAM), Nanjing University of Posts & Telecommunications, Nanjing, Jiangsu, China."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "James J De Yoreo",
+              "affiliations": [
+                "Physical Sciences Division, Pacific Northwest National Laboratory, Richland, WA, USA.",
+                "Department of Materials Science and Engineering, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Jesse G Zalatan",
+              "affiliations": [
+                "Department of Chemistry, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-1458-0654"
+            },
+            {
+              "name": "Justin M Kollman",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            }
+          ],
+          "abstract": "The design of multi-component nanomaterials is an outstanding challenge. Here, we describe the computational design of protein filaments with two or three distinct structural components that assemble into micron-scale, well-ordered fibers when mixed. CryoEM structure determination of four fiber designs was close to the computational design models. Filament assembly can be initiated by mixing the components, and modulated by addition and/or phosphorylation of designed regulatory subunits. This work demonstrates that regulatable multi-component protein filament systems can now be designed, opening the door to a wide range of engineered materials.",
+          "date": "2025-08-26",
+          "url": "https://doi.org/10.1101/2025.03.26.645066",
+          "doi": "10.1101/2025.03.26.645066",
+          "status": "preprint",
+          "journal": "bioRxiv : the preprint server for biology",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC11974854"
+          ],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:40196579",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "name_and_affiliations",
+                "affiliations": [
+                  "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                  "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                  "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+                ],
+                "matched_affiliations": [
+                  "Institute for Protein Design",
+                  "University of Washington",
+                  "Department of Biochemistry"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:40196579",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2025-08-26T00:00:00Z"
     }
   },
   "aliases": {},

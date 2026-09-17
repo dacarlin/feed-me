@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-09-17T11:39:49Z</updated>
+  <updated>2026-09-17T21:20:59Z</updated>
   <entry>
     <id>urn:uuid:64244f38-0942-5fed-bdcd-947fec3c7d95</id>
     <title>De novo design of allosterically controlled enzymes</title>
@@ -2694,8 +2694,9 @@
     <id>urn:uuid:d2ac3cd4-81ea-5ad2-8b0a-a92a451ab52a</id>
     <title>Modeling protein-small molecule conformational ensembles with PLACER.</title>
     <published>2025-11-04T00:00:00Z</published>
-    <updated>2026-09-11T17:54:26Z</updated>
+    <updated>2026-09-17T21:20:59Z</updated>
     <link href="https://doi.org/10.1073/pnas.2427161122" rel="alternate" />
+    <link href="https://doi.org/10.1101/2024.09.25.614868" rel="related" title="pubmed" />
     <category term="published" />
     <author>
       <name>Ivan Anishchenko</name>
@@ -2740,8 +2741,10 @@
 &lt;p&gt;Journal: Proceedings of the National Academy of Sciences of the United States of America&lt;/p&gt;
 &lt;p&gt;Modeling the conformational heterogeneity of protein-small molecule interactions is important for understanding natural systems and evaluating designed systems but remains an outstanding challenge. We reasoned that while residue-level descriptions of biomolecules are efficient for de novo structure prediction, for probing heterogeneity of interactions with small molecules in the folded state, an entirely atomic-level description could have advantages in speed and generality. We developed a graph neural network called PLACER (protein-ligand atomistic conformational ensemble resolver) trained to recapitulate correct atomic positions from partially corrupted input structures from the Cambridge Structural Database and the Protein Data Bank; the nodes of the graph are the atoms in the system. PLACER accurately generates structures of diverse organic small molecules given knowledge of their atom composition and bonding. When given a description of the larger protein context, it builds up structures of small molecules and protein side chains for protein-small molecule docking. Because PLACER is rapid and stochastic, ensembles of predictions can be readily generated to map conformational heterogeneity. In enzyme design efforts described here and elsewhere, we find that using PLACER to assess the accuracy and preorganization of the designed active sites results in higher success rates and higher activities; we obtain a preorganized retroaldolase with a kcat/KM of 11,000 M-1min-1, considerably higher than any pre-deep learning design for this reaction. We anticipate that PLACER will be widely useful for rapidly generating conformational ensembles of small molecule and small molecule-protein systems and for designing higher activity preorganized enzymes.&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1101/2024.09.25.614868"&gt;pubmed (preprint) — DOI: 10.1101/2024.09.25.614868&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1073/pnas.2427161122"&gt;pubmed (published) — DOI: 10.1073/pnas.2427161122&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1073/pnas.2427161122"&gt;Published version — DOI: 10.1073/pnas.2427161122&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pubmed.ncbi.nlm.nih.gov/41187076/"&gt;Published version&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
@@ -3078,6 +3081,115 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1126/sciadv.adt4170"&gt;pubmed (published) — DOI: 10.1126/sciadv.adt4170&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1126/sciadv.adt4170"&gt;Published version — DOI: 10.1126/sciadv.adt4170&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:9e4c2c5d-d8f3-53d7-b84d-527d941b905c</id>
+    <title>De novo design of inducibly assembling multi-component filaments.</title>
+    <published>2025-08-26T00:00:00Z</published>
+    <updated>2026-09-17T21:20:59Z</updated>
+    <link href="https://doi.org/10.1101/2025.03.26.645066" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Hao Shen</name>
+    </author>
+    <author>
+      <name>Eric M Lynch</name>
+    </author>
+    <author>
+      <name>Noel Jameson</name>
+    </author>
+    <author>
+      <name>Justin Decarreau</name>
+    </author>
+    <author>
+      <name>Chenyang Shi</name>
+    </author>
+    <author>
+      <name>Zibo Chen</name>
+    </author>
+    <author>
+      <name>William Sheffler</name>
+    </author>
+    <author>
+      <name>Miaomiao Xu</name>
+    </author>
+    <author>
+      <name>James J De Yoreo</name>
+    </author>
+    <author>
+      <name>Jesse G Zalatan</name>
+    </author>
+    <author>
+      <name>Justin M Kollman</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Hao Shen; Eric M Lynch; Noel Jameson; Justin Decarreau; Chenyang Shi; Zibo Chen; William Sheffler; Miaomiao Xu; James J De Yoreo; Jesse G Zalatan; Justin M Kollman; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Preprint date: 2025-08-26&lt;/p&gt;
+&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
+&lt;p&gt;The design of multi-component nanomaterials is an outstanding challenge. Here, we describe the computational design of protein filaments with two or three distinct structural components that assemble into micron-scale, well-ordered fibers when mixed. CryoEM structure determination of four fiber designs was close to the computational design models. Filament assembly can be initiated by mixing the components, and modulated by addition and/or phosphorylation of designed regulatory subunits. This work demonstrates that regulatable multi-component protein filament systems can now be designed, opening the door to a wide range of engineered materials.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1101/2025.03.26.645066"&gt;pubmed (preprint) — DOI: 10.1101/2025.03.26.645066&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:76dc3a9a-a85d-5409-8945-28b42e084daf</id>
+    <title>Nucleation limited assembly and polarized growth of a de novo-designed allosterically modulatable protein filament.</title>
+    <published>2025-08-26T00:00:00Z</published>
+    <updated>2026-09-17T21:20:59Z</updated>
+    <link href="https://doi.org/10.1101/2024.09.20.613980" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Hao Shen</name>
+    </author>
+    <author>
+      <name>Eric M Lynch</name>
+    </author>
+    <author>
+      <name>Chenyang Shi</name>
+    </author>
+    <author>
+      <name>Joseph L Watson</name>
+    </author>
+    <author>
+      <name>Yulai Liu</name>
+    </author>
+    <author>
+      <name>Kejia Wu</name>
+    </author>
+    <author>
+      <name>Hua Bai</name>
+    </author>
+    <author>
+      <name>Chan Johng Kim</name>
+    </author>
+    <author>
+      <name>William Sheffler</name>
+    </author>
+    <author>
+      <name>Emmanuel Derivery</name>
+    </author>
+    <author>
+      <name>James J De Yoreo</name>
+    </author>
+    <author>
+      <name>Justin Kollman</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Hao Shen; Eric M Lynch; Chenyang Shi; Joseph L Watson; Yulai Liu; Kejia Wu; Hua Bai; Chan Johng Kim; William Sheffler; Emmanuel Derivery; James J De Yoreo; Justin Kollman; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Preprint date: 2025-08-26&lt;/p&gt;
+&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
+&lt;p&gt;The design of inducibly assembling protein nanomaterials is an outstanding challenge. Here, we describe the computational design of a protein filament formed from a monomeric subunit that binds a peptide ligand. The cryoEM structure of the micron-scale fibers is very close to the computational design model. The ligand acts as a tunable allosteric modulator: while not part of the fiber subunit-subunit interfaces, the assembly of the filament is dependent on ligand addition, with longer peptides having more extensive interaction surfaces with the monomer, promoting more rapid growth. Seeded growth and capping experiments reveal that the filaments grow primarily from one end. We show that designed nucleators that present 12 copies of the peptide ligand promote fiber assembly at concentrations where otherwise assembly occurs very slowly, likely by generating critical local concentrations of monomer in the assembly competent conformation. Following filament assembly, the peptide ligand can be exchanged with free peptide in solution fused to any functional protein of interest, opening the door to a wide variety of tunable engineered materials.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1101/2024.09.20.613980"&gt;pubmed (preprint) — DOI: 10.1101/2024.09.20.613980&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
@@ -4264,6 +4376,69 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41467-024-49678-z"&gt;pubmed (published) — DOI: 10.1038/s41467-024-49678-z&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41467-024-49678-z"&gt;Published version — DOI: 10.1038/s41467-024-49678-z&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:ade27771-2136-535b-aeb7-af45c8c7ef1c</id>
+    <title>Rapid and automated design of two-component protein nanomaterials using ProteinMPNN.</title>
+    <published>2023-08-04T00:00:00Z</published>
+    <updated>2026-09-17T21:20:59Z</updated>
+    <link href="https://doi.org/10.1073/pnas.2314646121" rel="alternate" />
+    <link href="https://doi.org/10.1101/2023.08.04.551935" rel="related" title="pubmed" />
+    <category term="published" />
+    <author>
+      <name>Robbert J de Haas</name>
+    </author>
+    <author>
+      <name>Natalie Brunette</name>
+    </author>
+    <author>
+      <name>Alex Goodson</name>
+    </author>
+    <author>
+      <name>Justas Dauparas</name>
+    </author>
+    <author>
+      <name>Sue Y Yi</name>
+    </author>
+    <author>
+      <name>Erin C Yang</name>
+    </author>
+    <author>
+      <name>Quinton Dowling</name>
+    </author>
+    <author>
+      <name>Hannah Nguyen</name>
+    </author>
+    <author>
+      <name>Alex Kang</name>
+    </author>
+    <author>
+      <name>Asim K Bera</name>
+    </author>
+    <author>
+      <name>Banumathi Sankaran</name>
+    </author>
+    <author>
+      <name>Renko de Vries</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Neil P King</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Robbert J de Haas; Natalie Brunette; Alex Goodson; Justas Dauparas; Sue Y Yi; Erin C Yang; Quinton Dowling; Hannah Nguyen; Alex Kang; Asim K Bera; Banumathi Sankaran; Renko de Vries; David Baker; Neil P King&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2024-03-19&lt;/p&gt;
+&lt;p&gt;Journal: Proceedings of the National Academy of Sciences of the United States of America&lt;/p&gt;
+&lt;p&gt;The design of protein-protein interfaces using physics-based design methods such as Rosetta requires substantial computational resources and manual refinement by expert structural biologists. Deep learning methods promise to simplify protein-protein interface design and enable its application to a wide variety of problems by researchers from various scientific disciplines. Here, we test the ability of a deep learning method for protein sequence design, ProteinMPNN, to design two-component tetrahedral protein nanomaterials and benchmark its performance against Rosetta. ProteinMPNN had a similar success rate to Rosetta, yielding 13 new experimentally confirmed assemblies, but required orders of magnitude less computation and no manual refinement. The interfaces designed by ProteinMPNN were substantially more polar than those designed by Rosetta, which facilitated in vitro assembly of the designed nanomaterials from independently purified components. Crystal structures of several of the assemblies confirmed the accuracy of the design method at high resolution. Our results showcase the potential of deep learning-based methods to unlock the widespread application of designed protein-protein interfaces and self-assembling protein nanomaterials in biotechnology.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1101/2023.08.04.551935"&gt;pubmed (preprint) — DOI: 10.1101/2023.08.04.551935&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1073/pnas.2314646121"&gt;pubmed (published) — DOI: 10.1073/pnas.2314646121&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1073/pnas.2314646121"&gt;Published version — DOI: 10.1073/pnas.2314646121&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pubmed.ncbi.nlm.nih.gov/38502697/"&gt;Published version&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
