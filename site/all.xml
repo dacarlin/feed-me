@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-09-16T16:53:43Z</updated>
+  <updated>2026-09-17T04:51:15Z</updated>
   <entry>
     <id>urn:uuid:64244f38-0942-5fed-bdcd-947fec3c7d95</id>
     <title>De novo design of allosterically controlled enzymes</title>
@@ -491,8 +491,9 @@
     <id>urn:uuid:549c333f-7164-59ed-aeac-18f2d08baa08</id>
     <title>Quantifying protein unfolding kinetics with a high-throughput microfluidic platform.</title>
     <published>2026-07-29T00:00:00Z</published>
-    <updated>2026-09-13T18:42:33Z</updated>
+    <updated>2026-09-17T04:51:15Z</updated>
     <link href="https://doi.org/10.1016/j.cels.2026.101681" rel="alternate" />
+    <link href="https://doi.org/10.1101/2025.01.15.633299" rel="related" title="pubmed" />
     <category term="published" />
     <author>
       <name>Beatriz Atsavapranee</name>
@@ -513,8 +514,10 @@
 &lt;p&gt;Journal: Cell systems&lt;/p&gt;
 &lt;p&gt;Even after folding, proteins sample unfolded intermediates at risk of irreversible alteration (e.g., via proteolysis, aggregation, or posttranslational modification). Thus, kinetic stability impacts protein lifetime and abundance. However, we have very few measurements of unfolding rates, largely due to technical challenges. To address this, we developed SPARKfold (simultaneous proteolysis assay revealing kinetics of folding), a microfluidic platform to express, purify, and measure unfolding rate constants at high throughput via native proteolysis. We applied SPARKfold to determine unfolding rate constants for 1,104 protein samples comprising 31 dihydrofolate reductase orthologs with up to 78 chamber replicates each, providing statistical power to resolve subtle effects. SPARKfold rate constants for 5 constructs agreed with traditional measurements across a 150-fold range and provided information about the folding transition state via φ analysis. In future work, SPARKfold can reveal mutations that drive misfolding and aggregation and enable the rational design of kinetically hyperstable variants for industrial use. A record of this paper&amp;#x27;s transparent peer review process is included in the supplemental information.&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1101/2025.01.15.633299"&gt;pubmed (preprint) — DOI: 10.1101/2025.01.15.633299&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1016/j.cels.2026.101681"&gt;pubmed (published) — DOI: 10.1016/j.cels.2026.101681&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1016/j.cels.2026.101681"&gt;Published version — DOI: 10.1016/j.cels.2026.101681&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pubmed.ncbi.nlm.nih.gov/42526427/"&gt;Published version&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>

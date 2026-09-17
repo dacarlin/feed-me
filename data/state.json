@@ -2,19 +2,19 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-09-16T23:40:07Z",
+      "last_success": "2026-09-17T04:51:15Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-09-16T23:40:07Z",
+      "last_success": "2026-09-17T04:51:15Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
-      "last_success": "2026-09-16T04:47:36Z",
+      "last_success": "2026-09-17T04:51:15Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-09-16T23:40:07Z",
+      "last_success": "2026-09-17T04:51:15Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -83,7 +83,8 @@
     "pubmed:39814879": "2026-09-16T11:30:33Z",
     "pubmed:39322662": "2026-09-16T11:30:33Z",
     "pubmed:39922190": "2026-09-16T16:53:43Z",
-    "pubmed:37781598": "2026-09-16T16:53:43Z"
+    "pubmed:37781598": "2026-09-16T16:53:43Z",
+    "pubmed:39868203": "2026-09-17T04:51:15Z"
   },
   "works": {
     "urn:uuid:7f477453-6c38-52e7-b591-accb9b0e6576": {
@@ -11600,7 +11601,7 @@
     "urn:uuid:549c333f-7164-59ed-aeac-18f2d08baa08": {
       "id": "urn:uuid:549c333f-7164-59ed-aeac-18f2d08baa08",
       "first_seen": "2026-09-13T18:42:33Z",
-      "updated": "2026-09-13T18:42:33Z",
+      "updated": "2026-09-17T04:51:15Z",
       "records": {
         "pubmed:42526427": {
           "source": "pubmed",
@@ -11654,6 +11655,62 @@
               "evidence": "PubMed UpdateOf; target must be a preprint"
             }
           ]
+        },
+        "pubmed:39868203": {
+          "source": "pubmed",
+          "source_id": "39868203",
+          "title": "Quantifying protein unfolding kinetics with a high-throughput microfluidic platform.",
+          "authors": [
+            {
+              "name": "B Atsavapranee",
+              "affiliations": [
+                "Department of Bioengineering, Stanford University, Stanford, CA 94305."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "F Sunden",
+              "affiliations": [
+                "Department of Biochemistry, Stanford University, Stanford, CA 94305."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "D Herschlag",
+              "affiliations": [
+                "Department of Biochemistry, Stanford University, Stanford, CA 94305."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "P M Fordyce",
+              "affiliations": [
+                "Department of Bioengineering, Stanford University, Stanford, CA 94305.",
+                "Department of Genetics, Stanford University, Stanford, CA 94305.",
+                "Sarafan ChEM-H Institute, Stanford University, Stanford, CA 94305.",
+                "Chan Zuckerberg Biohub, Stanford University, Stanford, CA 94305."
+              ],
+              "orcid": "0000-0002-9505-0638"
+            }
+          ],
+          "abstract": "Even after folding, proteins transiently sample unfolded or partially unfolded intermediates, and these species are often at risk of irreversible alteration (e.g. via proteolysis, aggregation, or post-translational modification). Kinetic stability, in addition to thermodynamic stability, can directly impact protein lifetime, abundance, and the formation of alternative, sometimes disruptive states. However, we have very few measurements of protein unfolding rates or how mutations alter these rates, largely due to technical challenges associated with their measurement. To address this need, we developed SPARKfold (Simultaneous Proteolysis Assay Revealing Kinetics of Folding), a microfluidic platform to express, purify, and measure unfolding rate constants for >1000 protein variants in parallel via on-chip native proteolysis. To demonstrate the power and potential of SPARKfold, we determined unfolding rate constants for 1,104 protein samples in parallel. We built a library of 31 dihydrofolate reductase (DHFR) orthologs with up to 78 chamber replicates per variant to provide the statistical power required to evaluate the system's ability to resolve subtle effects. SPARKfold rate constants for 5 constructs agreed with those obtained using traditional techniques across a 150-fold range, validating the accuracy of the technique. Comparisons of mutant kinetic effects via SPARKfold with previously published measurements impacts on folding thermodynamics provided information about the folding transition state and pathways via φ analysis. Overall, SPARKfold enables rapid characterization of protein variants to dissect the nature of the unfolding transition state. In future work, SPARKfold can reveal mutations that drive misfolding and aggregation and enable rational design of kinetically hyperstable variants for industrial use in harsh environments.",
+          "date": "2025-01-18",
+          "url": "https://doi.org/10.1101/2025.01.15.633299",
+          "doi": "10.1101/2025.01.15.633299",
+          "status": "preprint",
+          "journal": "bioRxiv : the preprint server for biology",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC11761748"
+          ],
+          "relations": [
+            {
+              "kind": "is_preprint_of",
+              "target": "pubmed:42526427",
+              "evidence": "PubMed preprint UpdateIn"
+            }
+          ]
         }
       },
       "matched_researchers": {
@@ -11675,6 +11732,24 @@
                 ]
               }
             ]
+          },
+          {
+            "record": "pubmed:39868203",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "D Herschlag",
+                "method": "name_and_affiliations",
+                "affiliations": [
+                  "Department of Biochemistry, Stanford University, Stanford, CA 94305."
+                ],
+                "matched_affiliations": [
+                  "Stanford University",
+                  "Department of Biochemistry"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -11683,6 +11758,20 @@
           "record": "pubmed:42526427",
           "method": "new_work",
           "reason": "no existing work"
+        },
+        {
+          "record": "pubmed:39868203",
+          "rank": 1,
+          "method": "explicit_relationship",
+          "identifiers": [
+            "pubmed:39868203",
+            "pubmed:42526427"
+          ],
+          "evidence": [
+            "PubMed UpdateOf; target must be a preprint",
+            "PubMed preprint UpdateIn"
+          ],
+          "matched_record": "pubmed:42526427"
         }
       ],
       "published": "2026-07-29T00:00:00Z"
