@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-09-17T21:20:59Z</updated>
+  <updated>2026-09-18T11:12:20Z</updated>
   <entry>
     <id>urn:uuid:64244f38-0942-5fed-bdcd-947fec3c7d95</id>
     <title>De novo design of allosterically controlled enzymes</title>
@@ -319,6 +319,72 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1021/acschembio.6c00584"&gt;pubmed (published) — DOI: 10.1021/acschembio.6c00584&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1021/acschembio.6c00584"&gt;Published version — DOI: 10.1021/acschembio.6c00584&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:67ff67b3-580d-5292-9a93-dbebbe0843ee</id>
+    <title>Accelerating protein design by scaling experimental characterization.</title>
+    <published>2026-08-20T00:00:00Z</published>
+    <updated>2026-09-18T11:12:20Z</updated>
+    <link href="https://doi.org/10.1038/s41467-026-76740-9" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Jason Qian</name>
+    </author>
+    <author>
+      <name>Lukas F Milles</name>
+    </author>
+    <author>
+      <name>Basile I M Wicky</name>
+    </author>
+    <author>
+      <name>Robert J Ragotte</name>
+    </author>
+    <author>
+      <name>Amir Motmaen</name>
+    </author>
+    <author>
+      <name>Andrew J Borst</name>
+    </author>
+    <author>
+      <name>Rebecca Skotheim</name>
+    </author>
+    <author>
+      <name>Sebastian Ols</name>
+    </author>
+    <author>
+      <name>Brian Coventry</name>
+    </author>
+    <author>
+      <name>Xinting Li</name>
+    </author>
+    <author>
+      <name>Ryan D Kibler</name>
+    </author>
+    <author>
+      <name>Inna Goreshnik</name>
+    </author>
+    <author>
+      <name>Marc Expòsit</name>
+    </author>
+    <author>
+      <name>Karin Loré</name>
+    </author>
+    <author>
+      <name>Lance Stewart</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Jason Qian; Lukas F Milles; Basile I M Wicky; Robert J Ragotte; Amir Motmaen; Andrew J Borst; Rebecca Skotheim; Sebastian Ols; Brian Coventry; Xinting Li; Ryan D Kibler; Inna Goreshnik; Marc Expòsit; Karin Loré; Lance Stewart; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2026-08-20&lt;/p&gt;
+&lt;p&gt;Journal: Nature communications&lt;/p&gt;
+&lt;p&gt;Recent advances in de novo protein design have greatly outpaced standard protein biochemistry workflows, making experimental validation a bottleneck. Here, we describe workflows to address the scale, speed and reproducibility of common in vitro protein testing methods, enabling at least an order of magnitude increase in throughput while reducing wetlab time. Semi-Automated Protein Production (SAPP) is a rapid, modular, scalable and cost-effective protocol, enabling up to milligram-scale protein production and standardized characterization - including yield, dispersity, and oligomeric state - of hundreds of designs per day, at the cost-equivalent of a few DNA oligos per construct. End-to-end protocol execution takes 48 hours, with ~6 hours spent benchside using standard laboratory equipment. We showcase the platform by rapidly screening redesigned fluorescent proteins, as well as identifying de novo binders that potently neutralize respiratory syncytial virus. We also developed a barcoding and demultiplexing protocol (DMX) to further reduce gene synthesis cost 5-fold by leveraging oligo pools as input DNA for the generation of thousands of sequence-verified arrayed clones. These protocols which combine optimized molecular biology, automated analysis, and optional open-source robotics should be widely adoptable, accelerating protein design.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41467-026-76740-9"&gt;pubmed (published) — DOI: 10.1038/s41467-026-76740-9&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41467-026-76740-9"&gt;Published version — DOI: 10.1038/s41467-026-76740-9&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>

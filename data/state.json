@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-09-18T04:41:41Z",
+      "last_success": "2026-09-18T11:12:20Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-09-18T04:41:41Z",
+      "last_success": "2026-09-18T11:12:20Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-09-18T04:41:41Z",
+      "last_success": "2026-09-18T11:12:20Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -92,7 +92,8 @@
     "pubmed:39386615": "2026-09-17T21:20:59Z",
     "pubmed:39345553": "2026-09-17T21:20:59Z",
     "pubmed:38502697": "2026-09-17T21:20:59Z",
-    "pubmed:37577478": "2026-09-17T21:20:59Z"
+    "pubmed:37577478": "2026-09-17T21:20:59Z",
+    "pubmed:42754580": "2026-09-18T11:12:20Z"
   },
   "works": {
     "urn:uuid:7f477453-6c38-52e7-b591-accb9b0e6576": {
@@ -14193,10 +14194,282 @@
         }
       ],
       "published": "2025-08-26T00:00:00Z"
+    },
+    "urn:uuid:67ff67b3-580d-5292-9a93-dbebbe0843ee": {
+      "id": "urn:uuid:67ff67b3-580d-5292-9a93-dbebbe0843ee",
+      "first_seen": "2026-09-18T11:12:20Z",
+      "updated": "2026-09-18T11:12:20Z",
+      "records": {
+        "pubmed:42754580": {
+          "source": "pubmed",
+          "source_id": "42754580",
+          "title": "Accelerating protein design by scaling experimental characterization.",
+          "authors": [
+            {
+              "name": "Jason Qian",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Lukas F Milles",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA. milles@lmu.de.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA. milles@lmu.de."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Basile I M Wicky",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA. basile.wicky@bsse.ethz.ch.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA. basile.wicky@bsse.ethz.ch."
+              ],
+              "orcid": "0000-0002-2501-7875"
+            },
+            {
+              "name": "Robert J Ragotte",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Amir Motmaen",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Bioengineering Graduate Program, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0003-4190-6215"
+            },
+            {
+              "name": "Andrew J Borst",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0003-4297-7824"
+            },
+            {
+              "name": "Rebecca Skotheim",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Sebastian Ols",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Department of Medicine Solna, Division of Immunology and Allergy, Karolinska Institutet, Stockholm, Sweden.",
+                "Center for Molecular Medicine, Karolinska Institutet, Stockholm, Sweden."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Brian Coventry",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-6910-6255"
+            },
+            {
+              "name": "Xinting Li",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Ryan D Kibler",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-6984-9887"
+            },
+            {
+              "name": "Inna Goreshnik",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Marc Expòsit",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Molecular Engineering and Sciences Institute, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-2980-303X"
+            },
+            {
+              "name": "Karin Loré",
+              "affiliations": [
+                "Department of Medicine Solna, Division of Immunology and Allergy, Karolinska Institutet, Stockholm, Sweden.",
+                "Center for Molecular Medicine, Karolinska Institutet, Stockholm, Sweden."
+              ],
+              "orcid": "0000-0001-7679-9494"
+            },
+            {
+              "name": "Lance Stewart",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0003-4264-5125"
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA. dabaker@uw.edu.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA. dabaker@uw.edu.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA. dabaker@uw.edu."
+              ],
+              "orcid": "0000-0001-7896-6217"
+            }
+          ],
+          "abstract": "Recent advances in de novo protein design have greatly outpaced standard protein biochemistry workflows, making experimental validation a bottleneck. Here, we describe workflows to address the scale, speed and reproducibility of common in vitro protein testing methods, enabling at least an order of magnitude increase in throughput while reducing wetlab time. Semi-Automated Protein Production (SAPP) is a rapid, modular, scalable and cost-effective protocol, enabling up to milligram-scale protein production and standardized characterization - including yield, dispersity, and oligomeric state - of hundreds of designs per day, at the cost-equivalent of a few DNA oligos per construct. End-to-end protocol execution takes 48 hours, with ~6 hours spent benchside using standard laboratory equipment. We showcase the platform by rapidly screening redesigned fluorescent proteins, as well as identifying de novo binders that potently neutralize respiratory syncytial virus. We also developed a barcoding and demultiplexing protocol (DMX) to further reduce gene synthesis cost 5-fold by leveraging oligo pools as input DNA for the generation of thousands of sequence-verified arrayed clones. These protocols which combine optimized molecular biology, automated analysis, and optional open-source robotics should be widely adoptable, accelerating protein design.",
+          "date": "2026-08-20",
+          "url": "https://doi.org/10.1038/s41467-026-76740-9",
+          "doi": "10.1038/s41467-026-76740-9",
+          "status": "published",
+          "journal": "Nature communications",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:42754580",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:42754580",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2026-08-20T00:00:00Z"
     }
   },
   "aliases": {},
   "rejected": {
+    "pubmed:42189004": {
+      "first_seen": "2026-09-18T11:12:20Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "42189004",
+        "title": "Effect of pH and Benzalkonium Chloride in Low-Dose Atropine on Pupil Dilation in Dutch Belted Rabbits.",
+        "authors": [
+          {
+            "name": "Tim Murphy",
+            "affiliations": [
+              "Sydnexis, Inc., Del Mar, California."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Laura Kirkeby",
+            "affiliations": [
+              "Sydnexis, Inc., Del Mar, California.",
+              "Scripps Health, San Diego, California."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Linda Gieschen",
+            "affiliations": [
+              "Sydnexis, Inc., Del Mar, California."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "David Baker",
+            "affiliations": [
+              "Sydnexis, Inc., Del Mar, California.",
+              "Writeresource Inc., Carlsbad, California."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Janet K Cheetham",
+            "affiliations": [
+              "Sydnexis, Inc., Del Mar, California.",
+              "Celeris Consulting, Laguna Niguel, California, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Patrick Johnson",
+            "affiliations": [
+              "Sydnexis, Inc., Del Mar, California."
+            ],
+            "orcid": null
+          }
+        ],
+        "abstract": "PURPOSE: To investigate the impact of altering common components of ophthalmic formulations, specifically pH and benzalkonium chloride (BAK), on efficacy and bioavailability of low-dose atropine compositions as measured by pupil dilation.\n\nMETHODS: Sixty Dutch Belted rabbits were screened for atropinesterase, and 20 were selected for functional testing with 0.02% atropine, 0.01% BAK, and pH 7. After a 7-day washout, 6 rabbits were randomized to group 1 (0.02% atropine, 0% BAK, H2O, pH 4) and 6 to group 2 (0.02% atropine, 0.01% BAK, D2O, pH 7). Rabbits received a single drop in each eye of the assigned treatment. Pupillometry was performed at baseline, and 30, 60, 120, 240, 360, 480, 600, and 720 min post-dose. After a 7-day washout, the rabbits received a single drop of the crossover treatment and repeated the same exam. Pupil diameters were averaged for both eyes and then averaged for the 6 rabbits at each time point, in group 1 and in group 2 for each treatment. Mean pupil diameters were also pooled for the same treatment. Change from baseline pupil diameter and standard deviations/errors were calculated. Between-group differences were evaluated with a paired t-test.\n\nRESULTS: Change from baseline pupil diameter demonstrated that the eyes treated with 0.02% atropine, 0% BAK, H2O, and pH 4 were statistically significantly smaller at all post-baseline time points compared to those treated with 0.02% atropine, 0.01% BAK, D2O, and pH 7.\n\nCONCLUSIONS: Formulation, specifically the addition of BAK and near physiological pH, makes a profound difference to the efficacy of low-dose atropine eye drops.",
+        "date": "2026-05-26",
+        "url": "https://doi.org/10.1177/10807683261450043",
+        "doi": "10.1177/10807683261450043",
+        "status": "published",
+        "journal": "Journal of ocular pharmacology and therapeutics : the official journal of the Association for Ocular Pharmacology and Therapeutics",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "David Baker",
+              "method": "rejected",
+              "affiliations": [
+                "Sydnexis, Inc., Del Mar, California.",
+                "Writeresource Inc., Carlsbad, California."
+              ],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
     "biorxiv:10.64898/2026.09.14.751546": {
       "first_seen": "2026-09-17T11:39:49Z",
       "record": {
