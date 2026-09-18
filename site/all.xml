@@ -7,7 +7,46 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-09-18T11:12:20Z</updated>
+  <updated>2026-09-18T20:53:28Z</updated>
+  <entry>
+    <id>urn:uuid:bcda4bc3-56e6-5d49-b580-58d9b32c9d15</id>
+    <title>De Novo Design and Structural Optimization of Mn(salen)-Based Artificial Metalloenzymes for Asymmetric Sulfoxidation.</title>
+    <published>2026-09-18T00:00:00Z</published>
+    <updated>2026-09-18T20:53:28Z</updated>
+    <link href="https://doi.org/10.1002/anie.5852828" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Jing-Xiang Wang</name>
+    </author>
+    <author>
+      <name>Yunling Deng</name>
+    </author>
+    <author>
+      <name>Indrek Kalvet</name>
+    </author>
+    <author>
+      <name>Amira Haque</name>
+    </author>
+    <author>
+      <name>Huiguang Dai</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Yi Lu</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Jing-Xiang Wang; Yunling Deng; Indrek Kalvet; Amira Haque; Huiguang Dai; David Baker; Yi Lu&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2026-09-18&lt;/p&gt;
+&lt;p&gt;Journal: Angewandte Chemie (International ed. in English)&lt;/p&gt;
+&lt;p&gt;Artificial metalloenzymes (ArMs) exhibit exceptional selectivity, yet extending their reactivity beyond native cofactors remains a major challenge. While previous designs using native protein scaffolds to incorporate nonnative cofactors have been reported, de novo protein design enables tailored scaffolds that incorporate nonnative cofactors, unlocking transformations inaccessible to natural enzymes. Here, we report the computational design of de novo proteins that bind Mn(salen)-based complexes for asymmetric sulfoxidation. The resulting ArMs outperform the free cofactor, achieving up to 45% yield and an enantiomeric ratio (e.r.) of 26:74 under optimized conditions. A 1.5 Å resolution crystal structure confirms the designed architecture and reveals key secondary-sphere interactions that govern reactivity. Guided by these insights, rational mutagenesis enhanced performance up to 79% yield and an e.r. up to 16:84. This work establishes a general strategy for integrating complex nonnative cofactors into de novo scaffolds, enabling selective catalysts for reactions beyond the reach of natural enzymes.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1002/anie.5852828"&gt;pubmed (published) — DOI: 10.1002/anie.5852828&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1002/anie.5852828"&gt;Published version — DOI: 10.1002/anie.5852828&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
   <entry>
     <id>urn:uuid:64244f38-0942-5fed-bdcd-947fec3c7d95</id>
     <title>De novo design of allosterically controlled enzymes</title>
@@ -2643,6 +2682,133 @@
 &lt;/ul&gt;</content>
   </entry>
   <entry>
+    <id>urn:uuid:ac35a80a-84de-5c78-b872-8a6f3d958920</id>
+    <title>De novo Design of All-atom Biomolecular Interactions with RFdiffusion3.</title>
+    <published>2025-11-19T00:00:00Z</published>
+    <updated>2026-09-18T20:53:28Z</updated>
+    <link href="https://doi.org/10.1101/2025.09.18.676967" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Jasper Butcher</name>
+    </author>
+    <author>
+      <name>Rohith Krishna</name>
+    </author>
+    <author>
+      <name>Raktim Mitra</name>
+    </author>
+    <author>
+      <name>Rafael I Brent</name>
+    </author>
+    <author>
+      <name>Yanjing Li</name>
+    </author>
+    <author>
+      <name>Nathaniel Corley</name>
+    </author>
+    <author>
+      <name>Paul T Kim</name>
+    </author>
+    <author>
+      <name>Jonathan Funk</name>
+    </author>
+    <author>
+      <name>Simon Mathis</name>
+    </author>
+    <author>
+      <name>Saman Salike</name>
+    </author>
+    <author>
+      <name>Aiko Muraishi</name>
+    </author>
+    <author>
+      <name>Helen Eisenach</name>
+    </author>
+    <author>
+      <name>Tuscan Rock Thompson</name>
+    </author>
+    <author>
+      <name>Jie Chen</name>
+    </author>
+    <author>
+      <name>Yuliya Politanska</name>
+    </author>
+    <author>
+      <name>Enisha Sehgal</name>
+    </author>
+    <author>
+      <name>Brian Coventry</name>
+    </author>
+    <author>
+      <name>Odin Zhang</name>
+    </author>
+    <author>
+      <name>Bo Qiang</name>
+    </author>
+    <author>
+      <name>Kieran Didi</name>
+    </author>
+    <author>
+      <name>Max Kazman</name>
+    </author>
+    <author>
+      <name>Frank DiMaio</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Jasper Butcher; Rohith Krishna; Raktim Mitra; Rafael I Brent; Yanjing Li; Nathaniel Corley; Paul T Kim; Jonathan Funk; Simon Mathis; Saman Salike; Aiko Muraishi; Helen Eisenach; Tuscan Rock Thompson; Jie Chen; Yuliya Politanska; Enisha Sehgal; Brian Coventry; Odin Zhang; Bo Qiang; Kieran Didi; Max Kazman; Frank DiMaio; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Preprint date: 2025-11-19&lt;/p&gt;
+&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
+&lt;p&gt;Deep learning has accelerated protein design, but most existing methods are restricted to generating protein backbone coordinates and often neglect interactions with other biomolecules. We present RFdiffusion3 (RFD3), a diffusion model that generates protein structures in the context of ligands, nucleic acids and other non-protein constellations of atoms. Because all polymer atoms are modeled explicitly, conditioning the model on complex sets of atom-level constraints for enzyme design and other challenges is both simpler and more effective than previous approaches. RFD3 achieves improved performance compared to prior approaches on a range of in silico benchmarks with one tenth the computational cost. Finally, we demonstrate the broad applicability of RFD3 by designing and experimentally characterizing DNA binding proteins and cysteine hydrolases. The ability to rapidly generate protein structures guided by complex sets of atom-level constraints in the context of arbitrary non-protein atoms should further expand the range of functions attainable through protein design.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1101/2025.09.18.676967"&gt;pubmed (preprint) — DOI: 10.1101/2025.09.18.676967&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:5ad2403e-eb55-5d7e-8c3e-a75e35ec811c</id>
+    <title>Proteolytic activation of diverse antiviral defense modules in prokaryotes.</title>
+    <published>2025-11-14T00:00:00Z</published>
+    <updated>2026-09-18T20:53:28Z</updated>
+    <link href="https://doi.org/10.1101/2025.11.14.688446" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Simone A Evans</name>
+    </author>
+    <author>
+      <name>Jianxiu Zhang</name>
+    </author>
+    <author>
+      <name>Yannie Lam</name>
+    </author>
+    <author>
+      <name>Katherine Wang</name>
+    </author>
+    <author>
+      <name>Yu Tin Lin</name>
+    </author>
+    <author>
+      <name>Daniel Herschlag</name>
+    </author>
+    <author>
+      <name>Liang Feng</name>
+    </author>
+    <author>
+      <name>Alex Gao</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Simone A Evans; Jianxiu Zhang; Yannie Lam; Katherine Wang; Yu Tin Lin; Daniel Herschlag; Liang Feng; Alex Gao&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Preprint date: 2025-11-14&lt;/p&gt;
+&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
+&lt;p&gt;Linked protease-effector modules are widespread in prokaryotic antiviral defense, yet the mechanisms of most remain poorly understood. Here we show that four of the most prevalent modules-metallo-β-lactamase (MBL)-fold hydrolase, α/β-hydrolase, Pepco, and EACC1-form latent death effectors that are unleashed by site-specific proteolysis. Genetic, biochemical, and structural analyses reveal novel modes of effector licensing. MBL and α/β-hydrolase are zymogens activated by cleavage at two distinct sites, and upon proteolysis, MBL becomes a Zn2+-dependent double-stranded DNA nuclease. In contrast, Pepco and EACC1 act as pore-forming toxins via distinct mechanisms: Pepco constitutively oligomerizes into a denaturation-resistant beta barrel that is activated by cleavage after a specific isoleucine in its C-terminal tail, whereas EACC1 monomers assemble into large membrane pores following removal of an autoinhibitory domain. All four modules are fused to diverse sensors to detect a wide range of phage signals, and EACC1-DnaK chaperone fusions suggest a convergence between defense and general stress responses. These findings establish proteolysisgated activation as a dominant, modular logic for anti-phage defense and reveal parallels with eukaryotic innate immunity.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1101/2025.11.14.688446"&gt;pubmed (preprint) — DOI: 10.1101/2025.11.14.688446&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
     <id>urn:uuid:4f44e5a0-b23a-524a-b6a7-03c82b363db1</id>
     <title>Atomically accurate de novo design of antibodies with RFdiffusion.</title>
     <published>2025-11-05T00:00:00Z</published>
@@ -2757,6 +2923,113 @@
 &lt;/ul&gt;</content>
   </entry>
   <entry>
+    <id>urn:uuid:d9c869ba-c709-5c1a-8aac-288b447ba30d</id>
+    <title>De Novo Design of Miniprotein Inhibitors of Bacterial Adhesins.</title>
+    <published>2025-11-04T00:00:00Z</published>
+    <updated>2026-09-18T20:53:28Z</updated>
+    <link href="https://doi.org/10.21203/rs.3.rs-7951484/v1" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Adam Chazin-Gray</name>
+    </author>
+    <author>
+      <name>Tuscan Thompson</name>
+    </author>
+    <author>
+      <name>Edward Lopatto</name>
+    </author>
+    <author>
+      <name>Pearl Magala</name>
+    </author>
+    <author>
+      <name>Patrick Erickson</name>
+    </author>
+    <author>
+      <name>Andrew Hunt</name>
+    </author>
+    <author>
+      <name>Anna Manchenko</name>
+    </author>
+    <author>
+      <name>Pavel Aprikian</name>
+    </author>
+    <author>
+      <name>Veronika Tchesnokova</name>
+    </author>
+    <author>
+      <name>Irina Basova</name>
+    </author>
+    <author>
+      <name>Denise Sanick</name>
+    </author>
+    <author>
+      <name>Kevin Tamadonfar</name>
+    </author>
+    <author>
+      <name>Morgan Timm</name>
+    </author>
+    <author>
+      <name>Jerome Pinkner</name>
+    </author>
+    <author>
+      <name>Karen Dodson</name>
+    </author>
+    <author>
+      <name>Alex Kang</name>
+    </author>
+    <author>
+      <name>Emily Joyce</name>
+    </author>
+    <author>
+      <name>Asim Bera</name>
+    </author>
+    <author>
+      <name>Aaron Schmitz</name>
+    </author>
+    <author>
+      <name>Ali Ellebedy</name>
+    </author>
+    <author>
+      <name>Kelli Hvorecny</name>
+    </author>
+    <author>
+      <name>Gianluca Interlandi</name>
+    </author>
+    <author>
+      <name>Mark Cartwright</name>
+    </author>
+    <author>
+      <name>Andyna Vernet</name>
+    </author>
+    <author>
+      <name>Sarai Bardales</name>
+    </author>
+    <author>
+      <name>Desmond White</name>
+    </author>
+    <author>
+      <name>Rachel Klevit</name>
+    </author>
+    <author>
+      <name>Evgeni Sokurenko</name>
+    </author>
+    <author>
+      <name>Scott Hultgren</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Adam Chazin-Gray; Tuscan Thompson; Edward Lopatto; Pearl Magala; Patrick Erickson; Andrew Hunt; Anna Manchenko; Pavel Aprikian; Veronika Tchesnokova; Irina Basova; Denise Sanick; Kevin Tamadonfar; Morgan Timm; Jerome Pinkner; Karen Dodson; Alex Kang; Emily Joyce; Asim Bera; Aaron Schmitz; Ali Ellebedy; Kelli Hvorecny; Gianluca Interlandi; Mark Cartwright; Andyna Vernet; Sarai Bardales; Desmond White; Rachel Klevit; Evgeni Sokurenko; Scott Hultgren; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Preprint date: 2025-11-04&lt;/p&gt;
+&lt;p&gt;Journal: Research square&lt;/p&gt;
+&lt;p&gt;The rise of multidrug-resistant bacterial infections necessitates the discovery of novel antimicrobial strategies. Here, we show that protein design provides a generalizable means of generating new antimicrobials by neutralizing the function of bacterial adhesins, which are virulence factors critical in host-pathogen interactions. We de novo designed high-affinity miniprotein binders to FimH and Abp chaperone usher pili adhesins from uropathogenic Escherichia coli and Acinetobacter baumannii, respectively, which are implicated in mediating both uncomplicated and catheter-associated urinary tract infections (UTI) responsible for significant morbidity worldwide. The designed antagonists have high specificity and stability, disrupt bacterial recognition of host receptors, block biofilm formation, and are effective in treating and preventing murine models of uncomplicated and catheter-associated UTIs in vivo.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.21203/rs.3.rs-7951484/v1"&gt;pubmed (preprint) — DOI: 10.21203/rs.3.rs-7951484/v1&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
     <id>urn:uuid:d2ac3cd4-81ea-5ad2-8b0a-a92a451ab52a</id>
     <title>Modeling protein-small molecule conformational ensembles with PLACER.</title>
     <published>2025-11-04T00:00:00Z</published>
@@ -2811,6 +3084,92 @@
 &lt;li&gt;&lt;a href="https://doi.org/10.1073/pnas.2427161122"&gt;pubmed (published) — DOI: 10.1073/pnas.2427161122&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1073/pnas.2427161122"&gt;Published version — DOI: 10.1073/pnas.2427161122&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://pubmed.ncbi.nlm.nih.gov/41187076/"&gt;Published version&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:e0bcf50d-9504-5d0f-8712-43761b15f37f</id>
+    <title>De novo design of metal-oxide templating proteins.</title>
+    <published>2025-11-01T00:00:00Z</published>
+    <updated>2026-09-18T20:53:28Z</updated>
+    <link href="https://doi.org/10.1101/2024.06.24.600095" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Amijai Saragovi</name>
+    </author>
+    <author>
+      <name>Harley Pyles</name>
+    </author>
+    <author>
+      <name>Timothy F Huddy</name>
+    </author>
+    <author>
+      <name>Wenzhao Dai</name>
+    </author>
+    <author>
+      <name>Xinqi Li</name>
+    </author>
+    <author>
+      <name>Andrew J Borst</name>
+    </author>
+    <author>
+      <name>Nikita Hanikel</name>
+    </author>
+    <author>
+      <name>Alexis Courbet</name>
+    </author>
+    <author>
+      <name>Paul Kwon</name>
+    </author>
+    <author>
+      <name>Fátima A Dávila-Hernández</name>
+    </author>
+    <author>
+      <name>Ryan Kibler</name>
+    </author>
+    <author>
+      <name>Dionne K Vafeados</name>
+    </author>
+    <author>
+      <name>Aza Allen</name>
+    </author>
+    <author>
+      <name>Kenneth D Carr</name>
+    </author>
+    <author>
+      <name>Asim K Bera</name>
+    </author>
+    <author>
+      <name>Alex Kang</name>
+    </author>
+    <author>
+      <name>Evans Brackenbrough</name>
+    </author>
+    <author>
+      <name>Sakshi Schmid</name>
+    </author>
+    <author>
+      <name>Yuna Bae</name>
+    </author>
+    <author>
+      <name>Lance Stewart</name>
+    </author>
+    <author>
+      <name>Shuai Zhang</name>
+    </author>
+    <author>
+      <name>James De Yoreo</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Amijai Saragovi; Harley Pyles; Timothy F Huddy; Wenzhao Dai; Xinqi Li; Andrew J Borst; Nikita Hanikel; Alexis Courbet; Paul Kwon; Fátima A Dávila-Hernández; Ryan Kibler; Dionne K Vafeados; Aza Allen; Kenneth D Carr; Asim K Bera; Alex Kang; Evans Brackenbrough; Sakshi Schmid; Yuna Bae; Lance Stewart; Shuai Zhang; James De Yoreo; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Preprint date: 2025-11-01&lt;/p&gt;
+&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
+&lt;p&gt;Protein design now enables the precise arrangement of atoms on the nanometer length scales of inorganic crystal nuclei, opening up the possibility of templating the growth of metal oxides including semiconductors. We designed proteins presenting regularly repeating interfaces containing functional groups that organize ions and water molecules, and characterized their ability to bind to and template metal oxides. Two interfaces promoted the growth of hematite under conditions that otherwise resulted in the formation of magnetite. Three interfaces promoted ZnO nucleation under conditions where traditional ZnO-binding peptides and control proteins were ineffective. Designed cyclic assemblies with these ZnO nucleating interfaces lining interior cavities promoted ZnO growth within the cavity. CryoEM analysis of a designed octahedral nanocage revealed atomic density likely corresponding to the growing ZnO directly adjacent to the designed nucleation promoting interfaces. These findings demonstrate that designed proteins can direct the formation of metal oxides not observed in biological systems, opening the door to protein-semiconductor hybrid materials.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1101/2024.06.24.600095"&gt;pubmed (preprint) — DOI: 10.1101/2024.06.24.600095&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
@@ -2922,6 +3281,488 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-025-09646-z"&gt;pubmed (published) — DOI: 10.1038/s41586-025-09646-z&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-025-09646-z"&gt;Published version — DOI: 10.1038/s41586-025-09646-z&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:d2554168-8a62-51f5-b22d-1bcd04fca59c</id>
+    <title>High-Throughput De Novo Protein Design Yields Novel Immunomodulatory Agonists.</title>
+    <published>2025-10-13T00:00:00Z</published>
+    <updated>2026-09-18T20:53:28Z</updated>
+    <link href="https://doi.org/10.1101/2025.10.12.681920" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Mohamad Abedi</name>
+    </author>
+    <author>
+      <name>Marc Expòsit</name>
+    </author>
+    <author>
+      <name>Brian Coventry</name>
+    </author>
+    <author>
+      <name>Divij Mathew</name>
+    </author>
+    <author>
+      <name>Shruti Jain</name>
+    </author>
+    <author>
+      <name>Aditya Krishnakumar</name>
+    </author>
+    <author>
+      <name>Inna Goreshnik</name>
+    </author>
+    <author>
+      <name>Sophie L Gray-Gaillard</name>
+    </author>
+    <author>
+      <name>Margaret Lunn-Halbert</name>
+    </author>
+    <author>
+      <name>Ta-Yi Yu</name>
+    </author>
+    <author>
+      <name>Matthias Glögl</name>
+    </author>
+    <author>
+      <name>Uma Mitchell</name>
+    </author>
+    <author>
+      <name>Riya Keshri</name>
+    </author>
+    <author>
+      <name>Jung Ho Chun</name>
+    </author>
+    <author>
+      <name>Hannele Ruohola-Baker</name>
+    </author>
+    <author>
+      <name>E John Wherry</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Mohamad Abedi; Marc Expòsit; Brian Coventry; Divij Mathew; Shruti Jain; Aditya Krishnakumar; Inna Goreshnik; Sophie L Gray-Gaillard; Margaret Lunn-Halbert; Ta-Yi Yu; Matthias Glögl; Uma Mitchell; Riya Keshri; Jung Ho Chun; Hannele Ruohola-Baker; E John Wherry; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Preprint date: 2025-10-13&lt;/p&gt;
+&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
+&lt;p&gt;Cytokines regulate cell behavior by bringing together specific receptor subunits to trigger downstream signaling. Designed molecules that bring together non-natural receptor pairs could have novel signaling responses and cell specificities. We present a high-throughput de-novo design approach to create novel cytokines by generating and fusing pairs of computationally designed binders. By combining 33 designed receptor-binding domains, we generated over a thousand potential de novo designed &amp;quot;Novokines&amp;quot;, of which 75 activated pSTAT signaling in peripheral blood mononuclear cells. We characterized 18 of these, including new pairings of established common receptors, cross-family pairings such as TrkA-γcommon, and a series of pairings with interferon receptor-1 (IFNAR1), revealing that IFNAR1 can function as a versatile common receptor similar to γcommon or βcommon. We identify novokines that drive monocyte proliferation, T cell survival and CD4+ T cell-specific proliferation. Our framework provides a blueprint for expanding the understanding of cytokine signaling and generating novel therapeutic proteins.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1101/2025.10.12.681920"&gt;pubmed (preprint) — DOI: 10.1101/2025.10.12.681920&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:6206588f-028c-5241-9a1e-d94a6b8b27fa</id>
+    <title>Multiplex design and discovery of proximity handles for programmable proteome editing.</title>
+    <published>2025-10-13T00:00:00Z</published>
+    <updated>2026-09-18T20:53:28Z</updated>
+    <link href="https://doi.org/10.1101/2025.10.13.681693" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Chase C Suiter</name>
+    </author>
+    <author>
+      <name>Green Ahn</name>
+    </author>
+    <author>
+      <name>Melodie Chiu</name>
+    </author>
+    <author>
+      <name>Yi Fu</name>
+    </author>
+    <author>
+      <name>Shayan Sadre</name>
+    </author>
+    <author>
+      <name>Jessica J Simon</name>
+    </author>
+    <author>
+      <name>David S Lee</name>
+    </author>
+    <author>
+      <name>Douglas M Fowler</name>
+    </author>
+    <author>
+      <name>Dustin J Maly</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Jay Shendure</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Chase C Suiter; Green Ahn; Melodie Chiu; Yi Fu; Shayan Sadre; Jessica J Simon; David S Lee; Douglas M Fowler; Dustin J Maly; David Baker; Jay Shendure&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Preprint date: 2025-10-13&lt;/p&gt;
+&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
+&lt;p&gt;Although we now have a rich toolset for genome editing, an equivalent framework for manipulating the proteome with a comparable flexibility and specificity remains elusive. A promising strategy for &amp;quot;proteome editing&amp;quot; is to use bifunctional molecules (e.g. PROteolysis-Targeting Chimeras or PROTACs1) that bring a target protein into proximity with a degradation or stabilization effector, but their broader application is constrained by a limited repertoire of well-characterized target or effector &amp;quot;handles&amp;quot;. We asked whether coupling de novo protein design to a multiplex screening framework could address this gap by accelerating the discovery of effector handles for intracellular protein degradation, stabilization, or relocalization. Using LABEL-seq2, a sequencing-based assay that enables multiplex, quantitative measurement of protein abundance, we screened 9,715 de novo designed candidate effector handles for their ability to recruit a target protein to components of the ubiquitin-proteasome system3 (UPS) (FBXL12, TRAF2, UCHL1, USP38) or the autophagy pathway4 (GABARAP, GABARAPL2, MAP1LC3A). In a single experiment, we discovered hundreds of de novo designed effector handles that reproducibly drove either intracellular degradation (n = 277) or stabilization (n = 204) of a reporter protein. Validation of a subset of these hits in an orthogonal assay confirmed that sequencing-based measurements from the primary screen reliably reflected changes in intracellular abundance of the target protein. Successful effector handles were discovered for both the UPS (n = 194) and autophagy (n = 287) pathways, which provide complementary routes for programmable proteome editing. Autophagy-recruiting effector handles generalized to endogenous targets, as substituting the reporter-specific target handle with a high-affinity MCL1 binder5 reduced endogenous levels of this intracellular oncoprotein6. Moreover, directing autophagy-recruiting effector handles to the outer mitochondrial membrane dramatically perturbed mitochondrial networks in a manner consistent with synthetic tethering and sequestration7,8. Beyond generating a diverse repertoire of protein abundance or localization effector handles, our results establish a scalable, low-cost platform that links deep learning-guided protein design to functional cellular readouts, and chart a course toward a general framework for programmable proteome editing.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1101/2025.10.13.681693"&gt;pubmed (preprint) — DOI: 10.1101/2025.10.13.681693&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:4418e25b-6e22-5e0f-9113-11a13826bb3c</id>
+    <title>Geometric Tuning of Cytokine Receptor Association Modulates Synthetic Agonist Signaling.</title>
+    <published>2025-10-13T00:00:00Z</published>
+    <updated>2026-09-18T20:53:28Z</updated>
+    <link href="https://doi.org/10.1101/2025.10.12.681819" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Marc Expòsit</name>
+    </author>
+    <author>
+      <name>Mohamad Abedi</name>
+    </author>
+    <author>
+      <name>Aditya Krishnakumar</name>
+    </author>
+    <author>
+      <name>Shruti Jain</name>
+    </author>
+    <author>
+      <name>Ta-Yi Yu</name>
+    </author>
+    <author>
+      <name>Timothy R Hercus</name>
+    </author>
+    <author>
+      <name>Divij Mathew</name>
+    </author>
+    <author>
+      <name>Sophie Gray-Gaillard</name>
+    </author>
+    <author>
+      <name>Zhijie Chen</name>
+    </author>
+    <author>
+      <name>William S Grubbe</name>
+    </author>
+    <author>
+      <name>Andrew Favor</name>
+    </author>
+    <author>
+      <name>Winnie L Kan</name>
+    </author>
+    <author>
+      <name>Thomas Schlichthaerle</name>
+    </author>
+    <author>
+      <name>Wei Chen</name>
+    </author>
+    <author>
+      <name>Michael W Parker</name>
+    </author>
+    <author>
+      <name>Juan L Mendoza</name>
+    </author>
+    <author>
+      <name>Angel F Lopez</name>
+    </author>
+    <author>
+      <name>E John Wherry</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Marc Expòsit; Mohamad Abedi; Aditya Krishnakumar; Shruti Jain; Ta-Yi Yu; Timothy R Hercus; Divij Mathew; Sophie Gray-Gaillard; Zhijie Chen; William S Grubbe; Andrew Favor; Winnie L Kan; Thomas Schlichthaerle; Wei Chen; Michael W Parker; Juan L Mendoza; Angel F Lopez; E John Wherry; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Preprint date: 2025-10-13&lt;/p&gt;
+&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
+&lt;p&gt;Cytokines signal by bringing receptor subunits together, but the role of receptor geometry in shaping signaling remains unclear because natural ligands enforce fixed assemblies. Here, we present a de novo protein design platform that rigidly scaffolds receptor-binding domains into defined spatial arrangements. Applying this across IL-7, type I and III interferons, IL-10, gp130, β common, and synthetic receptor pairs, we show that by varying geometry, we can bias pSTAT pathway usage and tune functional outcomes. Geometric control allowed us to decouple pSTAT1 from pSTAT5 in IL-7, separate antigen presentation (MHC-I) from checkpoint induction (PD-L1) in type I interferons, and suppress pro-inflammatory IFNγ secretion while retaining anti-inflammatory activity in IL-10. We further created minimal IL-6 and IL-3 agonists and strengthened synthetic receptor pairings inaccessible with present cytokines. These results establish receptor geometry as a central determinant of cytokine activity and provide a platform for programmable immune modulation.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1101/2025.10.12.681819"&gt;pubmed (preprint) — DOI: 10.1101/2025.10.12.681819&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:fb74c22a-6f6e-5bf5-a602-878c8949732f</id>
+    <title>RNA sequence design and protein-DNA specificity prediction with NA-MPNN.</title>
+    <published>2025-10-08T00:00:00Z</published>
+    <updated>2026-09-18T20:53:28Z</updated>
+    <link href="https://doi.org/10.1101/2025.10.03.679414" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Andrew Kubaney</name>
+    </author>
+    <author>
+      <name>Andrew Favor</name>
+    </author>
+    <author>
+      <name>Lilian McHugh</name>
+    </author>
+    <author>
+      <name>Raktim Mitra</name>
+    </author>
+    <author>
+      <name>Robert Pecoraro</name>
+    </author>
+    <author>
+      <name>Justas Dauparas</name>
+    </author>
+    <author>
+      <name>Cameron Glasscock</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Andrew Kubaney; Andrew Favor; Lilian McHugh; Raktim Mitra; Robert Pecoraro; Justas Dauparas; Cameron Glasscock; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Preprint date: 2025-10-08&lt;/p&gt;
+&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
+&lt;p&gt;RNA sequence design and protein-DNA binding specificity prediction can both be framed as nucleic acid inverse-folding problems: finding the most likely nucleic acid sequences given a fixed three-dimensional structure of a nucleic acid or nucleic acid-protein complex. While task-specific tools have been developed, no unified deep learning model for nucleic acid inverse folding has been described; a single model would have larger and more diverse datasets available for training and a considerably greater range of applicability. Here we introduce Nucleic Acid MPNN (NA-MPNN), a message-passing neural network that treats proteins, DNA, and RNA within a unified biopolymer graph representation. NA-MPNN outperforms previous methods on RNA sequence design and fixed-dock protein-DNA specificity prediction, and should be broadly useful for de novo RNA structure design and prediction of DNA-binding specificity.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1101/2025.10.03.679414"&gt;pubmed (preprint) — DOI: 10.1101/2025.10.03.679414&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:139d2550-a0a4-5767-83d6-dd64246f61d8</id>
+    <title>De novo design of RNA and nucleoprotein complexes.</title>
+    <published>2025-10-02T00:00:00Z</published>
+    <updated>2026-09-18T20:53:28Z</updated>
+    <link href="https://doi.org/10.1101/2025.10.01.679929" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Andrew Favor</name>
+    </author>
+    <author>
+      <name>Riley Quijano</name>
+    </author>
+    <author>
+      <name>Elizaveta Chernova</name>
+    </author>
+    <author>
+      <name>Andrew Kubaney</name>
+    </author>
+    <author>
+      <name>Connor Weidle</name>
+    </author>
+    <author>
+      <name>Morgan A Esler</name>
+    </author>
+    <author>
+      <name>Lilian McHugh</name>
+    </author>
+    <author>
+      <name>Ann Carr</name>
+    </author>
+    <author>
+      <name>Yang Hsia</name>
+    </author>
+    <author>
+      <name>David Juergens</name>
+    </author>
+    <author>
+      <name>Kenneth D Carr</name>
+    </author>
+    <author>
+      <name>Paul T Kim</name>
+    </author>
+    <author>
+      <name>Yuliya Politanska</name>
+    </author>
+    <author>
+      <name>Enisha Sehgal</name>
+    </author>
+    <author>
+      <name>Paul S Kwon</name>
+    </author>
+    <author>
+      <name>Robert J Pecoraro</name>
+    </author>
+    <author>
+      <name>Cameron Glasscock</name>
+    </author>
+    <author>
+      <name>Andrew J Borst</name>
+    </author>
+    <author>
+      <name>Frank DiMaio</name>
+    </author>
+    <author>
+      <name>Barry L Stoddard</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Andrew Favor; Riley Quijano; Elizaveta Chernova; Andrew Kubaney; Connor Weidle; Morgan A Esler; Lilian McHugh; Ann Carr; Yang Hsia; David Juergens; Kenneth D Carr; Paul T Kim; Yuliya Politanska; Enisha Sehgal; Paul S Kwon; Robert J Pecoraro; Cameron Glasscock; Andrew J Borst; Frank DiMaio; Barry L Stoddard; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Preprint date: 2025-10-02&lt;/p&gt;
+&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
+&lt;p&gt;Nucleic acids fold into sequence-dependent tertiary structures and carry out diverse biological functions, much like proteins. However, while considerable advances have been made in the de novo design of protein structure and function, the same has not yet been achieved for RNA tertiary structures of similar intricacy. Here, we describe a generative diffusion framework, RFDpoly, for generalized de novo biopolymer (RNA, DNA and protein) design, and use it to create diverse and designable RNA structures. We design RNA structures with novel folds and experimentally validate them using a combination of chemical footprinting (SHAPE-seq) and electron microscopy. We further use this approach to design protein-nucleic acid assemblies; the crystal structure of one such design is nearly identical to the design model. This work demonstrates that the principles of structure-based de novo protein design can be extended to nucleic acids, opening the door to creating a wide range of new RNA structures and protein-nucleic acid complexes.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1101/2025.10.01.679929"&gt;pubmed (preprint) — DOI: 10.1101/2025.10.01.679929&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:20f6b6db-c26d-5282-8159-562ec718b5d2</id>
+    <title>De novo design of phospho-tyrosine peptide binders.</title>
+    <published>2025-09-30T00:00:00Z</published>
+    <updated>2026-09-18T20:53:28Z</updated>
+    <link href="https://doi.org/10.1101/2025.09.29.678898" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Magnus S Bauer</name>
+    </author>
+    <author>
+      <name>Jason Z Zhang</name>
+    </author>
+    <author>
+      <name>Kejia Wu</name>
+    </author>
+    <author>
+      <name>Gyu Rie Lee</name>
+    </author>
+    <author>
+      <name>Brian Coventry</name>
+    </author>
+    <author>
+      <name>Kody A Klupt</name>
+    </author>
+    <author>
+      <name>Jiuhan Shi</name>
+    </author>
+    <author>
+      <name>Rafael I Brent</name>
+    </author>
+    <author>
+      <name>Xinting Li</name>
+    </author>
+    <author>
+      <name>Carolina Moller</name>
+    </author>
+    <author>
+      <name>Nicole Roullier</name>
+    </author>
+    <author>
+      <name>Dionne K Vafeados</name>
+    </author>
+    <author>
+      <name>Indrek Kalvet</name>
+    </author>
+    <author>
+      <name>Rebecca K Skotheim</name>
+    </author>
+    <author>
+      <name>Siyu Zhu</name>
+    </author>
+    <author>
+      <name>Amir Motmaen</name>
+    </author>
+    <author>
+      <name>Luca C Herrmann</name>
+    </author>
+    <author>
+      <name>Pascal Sturmfels</name>
+    </author>
+    <author>
+      <name>Doug Tischer</name>
+    </author>
+    <author>
+      <name>Han Raut Altae-Tran</name>
+    </author>
+    <author>
+      <name>David Juergens</name>
+    </author>
+    <author>
+      <name>Rohith Krishna</name>
+    </author>
+    <author>
+      <name>Woody Ahern</name>
+    </author>
+    <author>
+      <name>Jason Yim</name>
+    </author>
+    <author>
+      <name>Asim K Bera</name>
+    </author>
+    <author>
+      <name>Alex Kang</name>
+    </author>
+    <author>
+      <name>Emily Joyce</name>
+    </author>
+    <author>
+      <name>Andrew Lu</name>
+    </author>
+    <author>
+      <name>Lance Stewart</name>
+    </author>
+    <author>
+      <name>Frank DiMaio</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Magnus S Bauer; Jason Z Zhang; Kejia Wu; Gyu Rie Lee; Brian Coventry; Kody A Klupt; Jiuhan Shi; Rafael I Brent; Xinting Li; Carolina Moller; Nicole Roullier; Dionne K Vafeados; Indrek Kalvet; Rebecca K Skotheim; Siyu Zhu; Amir Motmaen; Luca C Herrmann; Pascal Sturmfels; Doug Tischer; Han Raut Altae-Tran; David Juergens; Rohith Krishna; Woody Ahern; Jason Yim; Asim K Bera; Alex Kang; Emily Joyce; Andrew Lu; Lance Stewart; Frank DiMaio; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Preprint date: 2025-09-30&lt;/p&gt;
+&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
+&lt;p&gt;Phosphorylation on tyrosine is a key step in many signaling pathways. Despite recent progress in de novo design of protein binders, there are no current methods for designing binders that recognize phosphorylated proteins and peptides; this is a challenging problem as phosphate groups are highly charged, and phosphorylation often occurs within unstructured regions. Here we introduce RoseTTAFold Diffusion 2 for Molecular Interfaces (RFD2-MI), a deep generative framework for the design of binders for protein, ligand, and covalently modified protein targets. We demonstrate the power and versatility of this method by designing binders for four critical phosphotyrosine sites on three clinically relevant targets: Cluster of Differentiation 3 (CD3ε), Epidermal Growth Factor Receptor (EGFR) and Insulin Receptor (INSR). Experimental characterization shows that the designs bind their phospho-tyrosine containing targets with affinities comparable to native binding sites and have negligible binding to non-phosphorylated targets or phosphopeptides with different sequences. X-ray crystal structures of generated binders to CD3ε and EGFR are very close to the design models, demonstrating the accuracy of the design approach. RFD2-MI provides a generalizable all-atom diffusion framework for probing and modulating phosphorylation-dependent signaling, and more generally, for developing research tools and targeted therapeutics against post-translationally modified proteins.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1101/2025.09.29.678898"&gt;pubmed (preprint) — DOI: 10.1101/2025.09.29.678898&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:e6d33c2e-29ab-5df6-ac26-9f89fd4c1048</id>
+    <title>Computational design of pH-sensitive binders.</title>
+    <published>2025-09-29T00:00:00Z</published>
+    <updated>2026-09-18T20:53:28Z</updated>
+    <link href="https://doi.org/10.1101/2025.09.29.678932" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Green Ahn</name>
+    </author>
+    <author>
+      <name>Brian Coventry</name>
+    </author>
+    <author>
+      <name>Ella Haefner</name>
+    </author>
+    <author>
+      <name>Shayan Sadre</name>
+    </author>
+    <author>
+      <name>Jenny Hu</name>
+    </author>
+    <author>
+      <name>Mimosa Van</name>
+    </author>
+    <author>
+      <name>Buwei Huang</name>
+    </author>
+    <author>
+      <name>Isaac Sappington</name>
+    </author>
+    <author>
+      <name>Adam J Broerman</name>
+    </author>
+    <author>
+      <name>Mauriz A Lichtenstein</name>
+    </author>
+    <author>
+      <name>Matthias Glögl</name>
+    </author>
+    <author>
+      <name>Inna Goreshnik</name>
+    </author>
+    <author>
+      <name>Dionne Vafeados</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Green Ahn; Brian Coventry; Ella Haefner; Shayan Sadre; Jenny Hu; Mimosa Van; Buwei Huang; Isaac Sappington; Adam J Broerman; Mauriz A Lichtenstein; Matthias Glögl; Inna Goreshnik; Dionne Vafeados; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Preprint date: 2025-09-29&lt;/p&gt;
+&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
+&lt;p&gt;pH gradients are central to physiology, from vesicle acidification to the acidic tumor microenvironment. While therapeutics have been developed to exploit these pH changes to modulate activity across different physiological environments, current approaches for generating pH-dependent binders, such as combinatorial histidine scanning and display-based selections, are largely empirical and often labor-intensive. Here we describe two complementary principles and associated computational methods for designing pH-dependent binders: (i) introducing histidine residues adjacent to positively charged residues at binder-target interfaces to induce electrostatic repulsion and weaken binding at low pH, and (ii) introducing buried histidine-containing charged hydrogen-bonding networks in the binder core such that the protein is destabilized under acidic conditions. Using these methods, we designed binders that dissociate at acidic pH against ephrin type-A receptor 2, tumor necrosis factor receptor 2, interleukin-6, proprotein convertase subtilisin/kexin type 9, and the interleukin-2 mimic Neo2. Fusions of the designs to pH-independent binders of lysosomal trafficking receptors function as catalytic degraders, inducing target degradation at substoichiometric levels. Our methods should be broadly useful for designing pH-sensitive protein therapeutics.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1101/2025.09.29.678932"&gt;pubmed (preprint) — DOI: 10.1101/2025.09.29.678932&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>

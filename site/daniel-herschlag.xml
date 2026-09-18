@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-09-17T04:51:15Z</updated>
+  <updated>2026-09-18T20:53:28Z</updated>
   <entry>
     <id>urn:uuid:549c333f-7164-59ed-aeac-18f2d08baa08</id>
     <title>Quantifying protein unfolding kinetics with a high-throughput microfluidic platform.</title>
@@ -68,6 +68,47 @@
 &lt;p&gt;The modular structure and energetics of RNA simplifies its folding. Leveraging this modularity, we introduce Rho ( ρ ) analysis to systematically dissect RNA conformational pathways. ρ analysis uses isolated RNA secondary or tertiary contacts as external standards to provide insights not possible via the &amp;quot;internal&amp;quot; comparisons of traditional ϕ analysis. Equivalent effects of a mutation on the folding rate constant of the RNA of interest and the thermodynamic stability of the isolated contact indicate that the mutated interaction is fully formed prior to the rate-limiting transition state; the absence of a kinetic effect indicates that the interaction is formed after this transition state. Comparisons with properties of the isolated contact provide additional insights about conformational pathways. We demonstrate ρ analysis by dissecting Tetrahymena group I intron folding pathways, using a split intron in which the P5abc subdomain assembles with the intron core through three tertiary contacts. We uncover multiple folding pathways and modulation in pathway flux that are readily understood from the energetic properties of the constituent RNA motifs. Extending these concepts to RNA-guided DNA recognition by CRISPR-Cas12a, crRNA-DNA mismatches give substantial ϕ values across much of the target, indicating a late transition state in binding. Thermodynamic penalties from mismatches support modular base-pairing energetics and define an upper bound on DNA target specificity. Our results establish ρ analysis as a general framework to probe RNA conformational pathways and function. It is straightforward to implement and can be readily applied in vitro and in cells.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.07.18.739347"&gt;pubmed (preprint) — DOI: 10.64898/2026.07.18.739347&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:5ad2403e-eb55-5d7e-8c3e-a75e35ec811c</id>
+    <title>Proteolytic activation of diverse antiviral defense modules in prokaryotes.</title>
+    <published>2025-11-14T00:00:00Z</published>
+    <updated>2026-09-18T20:53:28Z</updated>
+    <link href="https://doi.org/10.1101/2025.11.14.688446" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Simone A Evans</name>
+    </author>
+    <author>
+      <name>Jianxiu Zhang</name>
+    </author>
+    <author>
+      <name>Yannie Lam</name>
+    </author>
+    <author>
+      <name>Katherine Wang</name>
+    </author>
+    <author>
+      <name>Yu Tin Lin</name>
+    </author>
+    <author>
+      <name>Daniel Herschlag</name>
+    </author>
+    <author>
+      <name>Liang Feng</name>
+    </author>
+    <author>
+      <name>Alex Gao</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Simone A Evans; Jianxiu Zhang; Yannie Lam; Katherine Wang; Yu Tin Lin; Daniel Herschlag; Liang Feng; Alex Gao&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Preprint date: 2025-11-14&lt;/p&gt;
+&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
+&lt;p&gt;Linked protease-effector modules are widespread in prokaryotic antiviral defense, yet the mechanisms of most remain poorly understood. Here we show that four of the most prevalent modules-metallo-β-lactamase (MBL)-fold hydrolase, α/β-hydrolase, Pepco, and EACC1-form latent death effectors that are unleashed by site-specific proteolysis. Genetic, biochemical, and structural analyses reveal novel modes of effector licensing. MBL and α/β-hydrolase are zymogens activated by cleavage at two distinct sites, and upon proteolysis, MBL becomes a Zn2+-dependent double-stranded DNA nuclease. In contrast, Pepco and EACC1 act as pore-forming toxins via distinct mechanisms: Pepco constitutively oligomerizes into a denaturation-resistant beta barrel that is activated by cleavage after a specific isoleucine in its C-terminal tail, whereas EACC1 monomers assemble into large membrane pores following removal of an autoinhibitory domain. All four modules are fused to diverse sensors to detect a wide range of phage signals, and EACC1-DnaK chaperone fusions suggest a convergence between defense and general stress responses. These findings establish proteolysisgated activation as a dominant, modular logic for anti-phage defense and reveal parallels with eukaryotic innate immunity.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1101/2025.11.14.688446"&gt;pubmed (preprint) — DOI: 10.1101/2025.11.14.688446&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
