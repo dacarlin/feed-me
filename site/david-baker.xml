@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-09-20T04:52:37Z</updated>
+  <updated>2026-09-20T16:04:19Z</updated>
   <entry>
     <id>urn:uuid:bcda4bc3-56e6-5d49-b580-58d9b32c9d15</id>
     <title>De Novo Design and Structural Optimization of Mn(salen)-Based Artificial Metalloenzymes for Asymmetric Sulfoxidation.</title>
@@ -2269,6 +2269,77 @@
 &lt;p&gt;Gene editing has been used to enhance CAR T-cell function by disrupting negative regulators but has limitations. Here we show that de novo-designed generated targeted degraders (bioPROTACs) provide an alternative approach. Expression of bioPROTACs in CAR T-cells targeting DNMT3A, a key regulator of T-cell exhaustion, phenocopied gene knockout. Our reversible, non-gene editing approach provides a tunable strategy to reprogram T-cell fate which should be broadly applicable for next-generation cell therapies.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.02.21.706835"&gt;pubmed (preprint) — DOI: 10.64898/2026.02.21.706835&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:ccb5201f-f774-5655-8930-80e2e9cd0095</id>
+    <title>Topological reprogramming transforms an integral membrane oligosaccharyltransferase into a water-soluble glycosylation catalyst.</title>
+    <published>2026-01-31T00:00:00Z</published>
+    <updated>2026-09-20T16:04:19Z</updated>
+    <link href="https://doi.org/10.64898/2026.01.30.702934" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Yong Hyun Kwon</name>
+    </author>
+    <author>
+      <name>Ljubica Mihaljević</name>
+    </author>
+    <author>
+      <name>Keehun Kim</name>
+    </author>
+    <author>
+      <name>David E Kim</name>
+    </author>
+    <author>
+      <name>Thomas C Donahue</name>
+    </author>
+    <author>
+      <name>Erik J Bidstrup</name>
+    </author>
+    <author>
+      <name>Chandra K Bandi</name>
+    </author>
+    <author>
+      <name>Belen Sotomayor</name>
+    </author>
+    <author>
+      <name>Sophia W Hulbert</name>
+    </author>
+    <author>
+      <name>Kathryn A Myers</name>
+    </author>
+    <author>
+      <name>Anru Tian</name>
+    </author>
+    <author>
+      <name>Mariah Culpepper</name>
+    </author>
+    <author>
+      <name>Dario Mizrachi</name>
+    </author>
+    <author>
+      <name>Thapakorn Jaroentomeechai</name>
+    </author>
+    <author>
+      <name>Henrik Clausen</name>
+    </author>
+    <author>
+      <name>Michael C Jewett</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Matthew P DeLisa</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Yong Hyun Kwon; Ljubica Mihaljević; Keehun Kim; David E Kim; Thomas C Donahue; Erik J Bidstrup; Chandra K Bandi; Belen Sotomayor; Sophia W Hulbert; Kathryn A Myers; Anru Tian; Mariah Culpepper; Dario Mizrachi; Thapakorn Jaroentomeechai; Henrik Clausen; Michael C Jewett; David Baker; Matthew P DeLisa&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Preprint date: 2026-01-31&lt;/p&gt;
+&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
+&lt;p&gt;Glycosyltransferases (GTs) catalyze the formation of new glycosidic bonds and thus are vital for synthesizing nature&amp;#x27;s vast repertoire of glycans and glycoconjugates and for engineering glycan-related medicines and materials. However, obtaining detailed structural and functional insights for the &amp;gt;750,000 known GTs is limited by difficulties associated with their efficient recombinant expression. Members of the GT-C fold, in particular, pose the most significant expression challenges due to the integration and folding requirements of their multiple membrane-spanning regions. Here, we address this challenge by engineering water-soluble variants of an archetypal GT-C fold enzyme, namely the oligosaccharyltransferase PglB from Campylobacter jejuni (CjPglB), which possesses 13 hydrophobic transmembrane helices. To render CjPglB water-soluble, we leveraged two advanced protein engineering methods: one that is universal called SIMPLEx (solubilization of IMPs with high levels of expression) and the other that is custom tailored called WRAPs (water-soluble RFdiffused amphipathic proteins). Each approach was able to transform CjPglB into a water-soluble enzyme that could be readily expressed in the cytoplasm of Escherichia coli cells at yields in the 3-6 mg/L range. Importantly, solubilization was achieved without the need for detergents and with retention of catalytic function. Collectively, our findings demonstrate that both SIMPLEx and WRAPs are promising platforms for advancing the molecular characterization of even the most structurally complex GTs, while also enabling broader GT-mediated glycosylation capabilities within synthetic glycobiology applications.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.01.30.702934"&gt;pubmed (preprint) — DOI: 10.64898/2026.01.30.702934&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
