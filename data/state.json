@@ -2,19 +2,19 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-09-19T23:03:07Z",
+      "last_success": "2026-09-20T04:52:37Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-09-19T23:03:07Z",
+      "last_success": "2026-09-20T04:52:37Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
-      "last_success": "2026-09-19T04:36:04Z",
+      "last_success": "2026-09-20T04:52:37Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-09-19T23:03:07Z",
+      "last_success": "2026-09-20T04:52:37Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -77,9 +77,9 @@
     "pubmed:38052802": "2026-09-18T04:41:41Z",
     "pubmed:37845322": "2026-09-18T04:41:41Z",
     "pubmed:35319882": "2026-09-18T04:41:41Z",
-    "pubmed:42526427": "2026-09-13T18:42:33Z",
-    "pubmed:42523424": "2026-09-13T18:42:33Z",
-    "pubmed:26727239": "2026-09-13T18:42:33Z",
+    "pubmed:42526427": "2026-09-20T04:52:37Z",
+    "pubmed:42523424": "2026-09-20T04:52:37Z",
+    "pubmed:26727239": "2026-09-20T04:52:37Z",
     "pubmed:39814879": "2026-09-16T11:30:33Z",
     "pubmed:39322662": "2026-09-16T11:30:33Z",
     "pubmed:39922190": "2026-09-16T16:53:43Z",
@@ -105,7 +105,11 @@
     "pubmed:41256494": "2026-09-18T20:53:28Z",
     "pubmed:41256432": "2026-09-18T20:53:28Z",
     "pubmed:41256377": "2026-09-18T20:53:28Z",
-    "pubmed:41000976": "2026-09-18T20:53:28Z"
+    "pubmed:41000976": "2026-09-18T20:53:28Z",
+    "pubmed:41509375": "2026-09-20T04:52:37Z",
+    "pubmed:41332769": "2026-09-20T04:52:37Z",
+    "pubmed:41332722": "2026-09-20T04:52:37Z",
+    "pubmed:41086805": "2026-09-20T04:52:37Z"
   },
   "works": {
     "urn:uuid:7f477453-6c38-52e7-b591-accb9b0e6576": {
@@ -16727,6 +16731,1221 @@
         }
       ],
       "published": "2026-09-18T00:00:00Z"
+    },
+    "urn:uuid:fc418b53-fae8-5ba3-8fcf-fe60e8dbb42d": {
+      "id": "urn:uuid:fc418b53-fae8-5ba3-8fcf-fe60e8dbb42d",
+      "first_seen": "2026-09-20T04:52:37Z",
+      "updated": "2026-09-20T04:52:37Z",
+      "records": {
+        "pubmed:41086805": {
+          "source": "pubmed",
+          "source_id": "41086805",
+          "title": "Tuning insulin receptor signaling using de novo-designed agonists.",
+          "authors": [
+            {
+              "name": "Xinru Wang",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA; Institute for Protein Design, University of Washington, Seattle, WA, USA. Electronic address: xinruw7@uw.edu."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Sarah Cardoso",
+              "affiliations": [
+                "Department of Pathology and Cell Biology, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Kai Cai",
+              "affiliations": [
+                "Department of Biophysics, University of Texas Southwestern Medical Center, Dallas, TX, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Preetham Venkatesh",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA; Institute for Protein Design, University of Washington, Seattle, WA, USA; Graduate Program in Biological Physics, Structure and Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Albert Hung",
+              "affiliations": [
+                "Department of Pathology and Cell Biology, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Michelle Ng",
+              "affiliations": [
+                "Department of Pathology and Cell Biology, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Catherine Hall",
+              "affiliations": [
+                "Department of Pathology and Cell Biology, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Brian Coventry",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA; Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David S Lee",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA; Institute for Protein Design, University of Washington, Seattle, WA, USA; Department of Genome Sciences, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Rishabh Chowhan",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA; Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Stacey Gerben",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA; Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Jie Li",
+              "affiliations": [
+                "Department of Biophysics, University of Texas Southwestern Medical Center, Dallas, TX, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Weidong An",
+              "affiliations": [
+                "Department of Biophysics, University of Texas Southwestern Medical Center, Dallas, TX, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Mara Hon",
+              "affiliations": [
+                "Department of Pathology and Cell Biology, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Michael Gao",
+              "affiliations": [
+                "Department of Pathology and Cell Biology, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Ya-Cheng Liao",
+              "affiliations": [
+                "Department of Biochemistry and Molecular Biophysics, The Taub Institute for Research on Alzheimer's Disease and the Aging Brain, Columbia University, New York, NY, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Domenico Accili",
+              "affiliations": [
+                "Department of Medicine, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Eunhee Choi",
+              "affiliations": [
+                "Department of Pathology and Cell Biology, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, USA. Electronic address: ec3477@cumc.columbia.edu."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Xiao-Chen Bai",
+              "affiliations": [
+                "Department of Biophysics, University of Texas Southwestern Medical Center, Dallas, TX, USA; Department of Cell Biology, University of Texas Southwestern Medical Center, Dallas, TX, USA. Electronic address: xiaochen.bai@utsouthwestern.edu."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA; Institute for Protein Design, University of Washington, Seattle, WA, USA; Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA. Electronic address: dabaker@uw.edu."
+              ],
+              "orcid": null
+            }
+          ],
+          "abstract": "Insulin binding induces conformational changes in the insulin receptor (IR) that activate the intracellular kinase domain and the protein kinase B (AKT) and mitogen-activated protein kinase (MAPK) pathways, regulating metabolism and proliferation. We reasoned that designed agonists inducing different IR conformational changes might induce different downstream responses. We used de novo protein design to generate binders for individual IR extracellular domains and fused them in different orientations with different conformational flexibility. We obtained a series of synthetic IR agonists that elicit a wide range of receptor autophosphorylation, MAPK activation, trafficking, and proliferation responses. We identified designs more potent than insulin, causing longer-lasting glucose lowering in vivo and retaining activity on disease-causing IR mutants, while largely avoiding the cancer cell proliferation induced by insulin. Our findings shed light on how changes in IR conformation and dynamics translate into downstream signaling, and with further development, our synthetic agonists could have therapeutic utility for metabolic and proliferative diseases.",
+          "date": "2025-10-13",
+          "url": "https://doi.org/10.1016/j.molcel.2025.09.020",
+          "doi": "10.1016/j.molcel.2025.09.020",
+          "status": "published",
+          "journal": "Molecular cell",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC12702617"
+          ],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:41086805",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "name_and_affiliations",
+                "affiliations": [
+                  "Department of Biochemistry, University of Washington, Seattle, WA, USA; Institute for Protein Design, University of Washington, Seattle, WA, USA; Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA. Electronic address: dabaker@uw.edu."
+                ],
+                "matched_affiliations": [
+                  "Institute for Protein Design",
+                  "University of Washington",
+                  "Department of Biochemistry"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:41086805",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2025-10-13T00:00:00Z"
+    },
+    "urn:uuid:a4e9b99f-442d-56f2-a534-ace35f1823a3": {
+      "id": "urn:uuid:a4e9b99f-442d-56f2-a534-ace35f1823a3",
+      "first_seen": "2026-09-20T04:52:37Z",
+      "updated": "2026-09-20T04:52:37Z",
+      "records": {
+        "pubmed:41332722": {
+          "source": "pubmed",
+          "source_id": "41332722",
+          "title": "Targeting peptide-MHC complexes with designed T cell receptors and antibodies.",
+          "authors": [
+            {
+              "name": "Amir Motmaen",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Bioengineering Graduate Program, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0003-4190-6215"
+            },
+            {
+              "name": "Kevin M Jude",
+              "affiliations": [
+                "Departments of Molecular and Cellular Physiology and Structural Biology, Stanford University School of Medicine, Stanford, CA, USA.",
+                "Howard Hughes Medical Institute, Stanford University School of Medicine, Stanford, CA, USA."
+              ],
+              "orcid": "0000-0002-3675-5136"
+            },
+            {
+              "name": "Nan Wang",
+              "affiliations": [
+                "Departments of Molecular and Cellular Physiology and Structural Biology, Stanford University School of Medicine, Stanford, CA, USA.",
+                "Howard Hughes Medical Institute, Stanford University School of Medicine, Stanford, CA, USA."
+              ],
+              "orcid": "0000-0001-6840-5336"
+            },
+            {
+              "name": "Anastasia Minervina",
+              "affiliations": [
+                "Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Center, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David Feldman",
+              "affiliations": [
+                "Inceptive, Berlin, Germany."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Mauriz A Lichtenstein",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Institute for Chemistry and Biochemistry, Freie Universität Berlin, Berlin, Germany."
+              ],
+              "orcid": "0000-0002-2124-8262"
+            },
+            {
+              "name": "Abishai Ebenezer",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Department of Computer Science and Engineering, University of California, San Diego, La Jolla, CA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Colin Correnti",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Paul G Thomas",
+              "affiliations": [
+                "Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Center, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "K Christopher Garcia",
+              "affiliations": [
+                "Departments of Molecular and Cellular Physiology and Structural Biology, Stanford University School of Medicine, Stanford, CA, USA.",
+                "Howard Hughes Medical Institute, Stanford University School of Medicine, Stanford, CA, USA."
+              ],
+              "orcid": "0000-0001-9273-0278"
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Philip Bradley",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Herbold Computational Biology Program, Fred Hutchinson Cancer Center, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-0224-6464"
+            }
+          ],
+          "abstract": "Class I major histocompatibility complexes (MHCs), expressed on the surface of all nucleated cells, present peptides derived from intracellular proteins for surveillance by T cells. The precise recognition of foreign or mutated peptide-MHC (pMHC) complexes by T cell receptors (TCRs) is central to immune defense against pathogens and tumors. Although patient-derived TCRs specific for cancer-associated antigens have been used to engineer tumor-targeting therapies, their reactivity toward self- or near-self antigens may be constrained by negative selection in the thymus. Here, we introduce a structure-based deep learning framework, ADAPT (Antigen-receptor Design Against Peptide-MHC Targets), for the design of TCRs and antibodies that bind to pMHC targets of interest. We evaluate the ADAPT pipeline by designing and characterizing TCRs and antibodies against a diverse panel of pMHCs. Cryogenic electron microscopy structures of two designed antibodies bound to their respective pMHC targets demonstrate atomic-level accuracy at the recognition interface, supporting the robustness of our structure-based approach. Computationally designed TCRs and antibodies targeting pMHC complexes could enable a broad range of therapeutic applications, from cancer immunotherapy to autoimmune disease treatment, and insights gained from TCR-pMHC design should advance predictive understanding of TCR specificity with implications for basic immunology and clinical diagnostics.",
+          "date": "2025-11-20",
+          "url": "https://doi.org/10.1101/2025.11.19.689381",
+          "doi": "10.1101/2025.11.19.689381",
+          "status": "preprint",
+          "journal": "bioRxiv : the preprint server for biology",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC12667852"
+          ],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:41332722",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "name_and_affiliations",
+                "affiliations": [
+                  "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                  "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                  "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+                ],
+                "matched_affiliations": [
+                  "Institute for Protein Design",
+                  "University of Washington",
+                  "Department of Biochemistry"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:41332722",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2025-11-20T00:00:00Z"
+    },
+    "urn:uuid:9e012682-4c6a-50a3-b187-e8ed207714b5": {
+      "id": "urn:uuid:9e012682-4c6a-50a3-b187-e8ed207714b5",
+      "first_seen": "2026-09-20T04:52:37Z",
+      "updated": "2026-09-20T04:52:37Z",
+      "records": {
+        "pubmed:41332769": {
+          "source": "pubmed",
+          "source_id": "41332769",
+          "title": "Computational design of metalloproteases.",
+          "authors": [
+            {
+              "name": "Anqi Chen",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA.",
+                "These authors contributed equally."
+              ],
+              "orcid": "0000-0001-9857-0594"
+            },
+            {
+              "name": "Kejia Wu",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA.",
+                "These authors contributed equally."
+              ],
+              "orcid": "0000-0002-4532-4290"
+            },
+            {
+              "name": "Hojae Choi",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA.",
+                "Graduate Program in Biological Physics, Structure and Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Preetham Venkatesh",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA.",
+                "Graduate Program in Biological Physics, Structure and Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-0089-9365"
+            },
+            {
+              "name": "Samuel J Pellock",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": "0000-0002-7557-7985"
+            },
+            {
+              "name": "Nikita Hanikel",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": "0000-0002-3292-5070"
+            },
+            {
+              "name": "Brian Coventry",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": "0000-0002-6910-6255"
+            },
+            {
+              "name": "Donghyo Kim",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": "0000-0002-8097-3675"
+            },
+            {
+              "name": "Seth M Woodbury",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA.",
+                "Graduate Program in Biological Physics, Structure and Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0003-0510-8240"
+            },
+            {
+              "name": "Pengfei Ji",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA.",
+                "Department of Chemistry, Zhejiang University, Hangzhou, China."
+              ],
+              "orcid": "0000-0002-8109-7929"
+            },
+            {
+              "name": "Shingo Honda",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": "0000-0002-9403-6631"
+            },
+            {
+              "name": "Xinting Li",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": "0000-0001-5559-7578"
+            },
+            {
+              "name": "Stacey Gerben",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": "0000-0003-0313-6248"
+            },
+            {
+              "name": "Lemuel Chang",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": "0009-0008-7785-5388"
+            },
+            {
+              "name": "Xiao Yan",
+              "affiliations": [
+                "Max Planck Institute of Molecular Cell Biology and Genetics; Dresden, Saxony, 01307, Germany."
+              ],
+              "orcid": "0000-0002-2933-7702"
+            },
+            {
+              "name": "Anthony A Hyman",
+              "affiliations": [
+                "Max Planck Institute of Molecular Cell Biology and Genetics; Dresden, Saxony, 01307, Germany."
+              ],
+              "orcid": "0000-0003-0851-704X"
+            },
+            {
+              "name": "Donald Hilvert",
+              "affiliations": [
+                "Laboratory of Organic Chemistry, ETH Zurich, Zurich, Switzerland."
+              ],
+              "orcid": "0000-0002-3941-621X"
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": "0000-0001-7896-6217"
+            }
+          ],
+          "abstract": "Although significant progress has been made in creating de novo metalloenzymes that hydrolyze activated esters1,2, the energetically demanding cleavage of amide bonds has remained a major challenge for enzyme design: amide bonds are significantly more stable than ester bonds, the amine leaving groups in proteins are not activated, and peptide substrates are flexible making them difficult to bind precisely. Here, we report the de novo design of zinc proteases from minimal catalytic motifs using a fine-tuned version of RoseTTAFold Diffusion 2, called RoseTTAFold Diffusion 2 for Molecular Interfaces3, optimized for both enzyme and protein-protein interaction design. In a single one-shot design round of 135 designs, 36% of the designs had activity and cleaved precisely at the intended site. The most active design accelerated peptide bond hydrolysis more than 108-fold over the uncatalyzed reaction4. These results demonstrated that de novo enzyme design has advanced well beyond model reactions with activated substrates, and open the door to design of proficient metallohydrolases for medicine and bioremediation.",
+          "date": "2025-11-21",
+          "url": "https://doi.org/10.1101/2025.11.20.689622",
+          "doi": "10.1101/2025.11.20.689622",
+          "status": "preprint",
+          "journal": "bioRxiv : the preprint server for biology",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC12667880"
+          ],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:41332769",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:41332769",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2025-11-21T00:00:00Z"
+    },
+    "urn:uuid:c0d0baa2-7040-5523-a813-967f99cad1a8": {
+      "id": "urn:uuid:c0d0baa2-7040-5523-a813-967f99cad1a8",
+      "first_seen": "2026-09-20T04:52:37Z",
+      "updated": "2026-09-20T04:52:37Z",
+      "records": {
+        "pubmed:41509375": {
+          "source": "pubmed",
+          "source_id": "41509375",
+          "title": "Template-based RNA structure prediction advanced through a blind code competition.",
+          "authors": [
+            {
+              "name": "Youhan Lee",
+              "affiliations": [
+                "NVIDIA, USA."
+              ],
+              "orcid": "0000-0001-8950-3701"
+            },
+            {
+              "name": "Shujun He",
+              "affiliations": [
+                "Texas A&M University, College Station, TX, USA."
+              ],
+              "orcid": "0000-0003-1010-536X"
+            },
+            {
+              "name": "Toshiyuki Oda",
+              "affiliations": [
+                "QuettaAI, Inc., Tokyo, Japan."
+              ],
+              "orcid": "0000-0002-4962-6376"
+            },
+            {
+              "name": "G John Rao",
+              "affiliations": [
+                "NVIDIA, USA.",
+                "Texas A&M University, College Station, TX, USA.",
+                "QuettaAI, Inc., Tokyo, Japan.",
+                "Eigen Bio, New York, NY.",
+                "Professorship of Media Informatics, Chemnitz University of Technology, Chemnitz, Germany.",
+                "CZUR Technology Co., Ltd., Dalian, China.",
+                "Institut Pasteur, Imaging and Modeling Unit, F-75015 Paris, France.",
+                "Sichuan Intelligent Expressway Technology Co., Ltd, ChengDu, China.",
+                "PeptiDream Inc., Kanagawa, Japan.",
+                "Medical Equipment Management Center, University of Toyama Hospital, Toyama, Japan.",
+                "Mohamed bin Zayed University of Artificial Intelligence, Abu Dhabi, United Arab Emirates.",
+                "University of Montevideo, Montevideo, Uruguay.",
+                "Zhejiang University-University of Edinburgh Institute, Zhejiang University, Haining, Zhejiang, China.",
+                "Anbogen Therapeutics, Inc.",
+                "Biophysics Program, Stanford University, Stanford, CA, USA.",
+                "Division of CryoEM and Bioimaging, SSRL-SLAC National Accelerator Laboratory, Menlo Park, CA, USA.",
+                "Department of Bioengineering and James Clark Center, Stanford University, Stanford, CA, USA.",
+                "Department of Microbiology and Immunology, Stanford University, Stanford, CA, USA.",
+                "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY, USA.",
+                "Department of Chemistry and Biochemistry, University of California San Diego, CA, USA.",
+                "Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei 230026, China.",
+                "Department of Cell and Molecular Biology, Uppsala University, Uppsala, Sweden.",
+                "European Molecular Biology Laboratory (EMBL), Grenoble, France.",
+                "University of Maryland, Baltimore County, MD, USA.",
+                "Department of Biochemistry and Molecular Biology, The University of Chicago, Chicago, IL, USA.",
+                "Istituto Italiano di Tecnologia, Genoa, Italy.",
+                "Science for Life Laboratory, Department of Cell and Molecular Biology, Uppsala University, Uppsala, Sweden.",
+                "Department of Chemistry, The University of Chicago, Chicago, IL, USA.",
+                "State Key Laboratory of Biotherapy, West China Hospital, Sichuan University.",
+                "The State Key Laboratory of Oral Diseases, National Clinical Research Center for Oral Diseases, National Center for Stomatology, West China Hospital of Stomatology, Sichuan University, Chengdu, China.",
+                "Department of Cariology and Endodontics, West China Hospital of Stomatology, Sichuan University, Chengdu, China.",
+                "Department of Molecular Biophysics and Biochemistry, Yale University, CT, USA.",
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA USA.",
+                "Department of Physics and Astronomy, University of Missouri, Columbia, MO, USA.",
+                "Department of Biochemistry, University of Missouri, Columbia, MO, USA.",
+                "Institute of Data Sciences and Informatics, University of Missouri, Columbia, MO, USA.",
+                "Google, Kaggle, Mountain View, CA, USA.",
+                "Department of Biochemistry, Stanford University School of Medicine, Stanford, CA, USA.",
+                "Department of Computer Science and Technology, University of Cambridge, UK.",
+                "University of California, Davis, CA, USA.",
+                "Guangzhou National Laboratory, Guangzhou International Bio Island, Guangzhou, China.",
+                "Institute for Bioscience and Biotechnology Research, Rockville, MD, USA.",
+                "Department of Cell Biology and Molecular Genetics, University of Maryland, MD, USA.",
+                "Architecture et Réactivité de l'ARN, Institut de Biologie Moléculaire et Cellulaire du CNRS, Université de Strasbourg, Strasbourg, France.",
+                "Wenzhou Institute, University of Chinese Academy of Sciences, Wenzhou, China.",
+                "Howard Hughes Medical Institute, Stanford, CA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Yehyun Kim",
+              "affiliations": [
+                "Eigen Bio, New York, NY."
+              ],
+              "orcid": "0009-0001-6824-7857"
+            },
+            {
+              "name": "Raehyun Kim",
+              "affiliations": [
+                "Eigen Bio, New York, NY."
+              ],
+              "orcid": "0009-0001-9386-0215"
+            },
+            {
+              "name": "Hyunjin Kim",
+              "affiliations": [
+                "Eigen Bio, New York, NY."
+              ],
+              "orcid": "0000-0001-7007-2841"
+            },
+            {
+              "name": "Cher Keng Heng",
+              "affiliations": [
+                "NVIDIA, USA.",
+                "Texas A&M University, College Station, TX, USA.",
+                "QuettaAI, Inc., Tokyo, Japan.",
+                "Eigen Bio, New York, NY.",
+                "Professorship of Media Informatics, Chemnitz University of Technology, Chemnitz, Germany.",
+                "CZUR Technology Co., Ltd., Dalian, China.",
+                "Institut Pasteur, Imaging and Modeling Unit, F-75015 Paris, France.",
+                "Sichuan Intelligent Expressway Technology Co., Ltd, ChengDu, China.",
+                "PeptiDream Inc., Kanagawa, Japan.",
+                "Medical Equipment Management Center, University of Toyama Hospital, Toyama, Japan.",
+                "Mohamed bin Zayed University of Artificial Intelligence, Abu Dhabi, United Arab Emirates.",
+                "University of Montevideo, Montevideo, Uruguay.",
+                "Zhejiang University-University of Edinburgh Institute, Zhejiang University, Haining, Zhejiang, China.",
+                "Anbogen Therapeutics, Inc.",
+                "Biophysics Program, Stanford University, Stanford, CA, USA.",
+                "Division of CryoEM and Bioimaging, SSRL-SLAC National Accelerator Laboratory, Menlo Park, CA, USA.",
+                "Department of Bioengineering and James Clark Center, Stanford University, Stanford, CA, USA.",
+                "Department of Microbiology and Immunology, Stanford University, Stanford, CA, USA.",
+                "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY, USA.",
+                "Department of Chemistry and Biochemistry, University of California San Diego, CA, USA.",
+                "Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei 230026, China.",
+                "Department of Cell and Molecular Biology, Uppsala University, Uppsala, Sweden.",
+                "European Molecular Biology Laboratory (EMBL), Grenoble, France.",
+                "University of Maryland, Baltimore County, MD, USA.",
+                "Department of Biochemistry and Molecular Biology, The University of Chicago, Chicago, IL, USA.",
+                "Istituto Italiano di Tecnologia, Genoa, Italy.",
+                "Science for Life Laboratory, Department of Cell and Molecular Biology, Uppsala University, Uppsala, Sweden.",
+                "Department of Chemistry, The University of Chicago, Chicago, IL, USA.",
+                "State Key Laboratory of Biotherapy, West China Hospital, Sichuan University.",
+                "The State Key Laboratory of Oral Diseases, National Clinical Research Center for Oral Diseases, National Center for Stomatology, West China Hospital of Stomatology, Sichuan University, Chengdu, China.",
+                "Department of Cariology and Endodontics, West China Hospital of Stomatology, Sichuan University, Chengdu, China.",
+                "Department of Molecular Biophysics and Biochemistry, Yale University, CT, USA.",
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA USA.",
+                "Department of Physics and Astronomy, University of Missouri, Columbia, MO, USA.",
+                "Department of Biochemistry, University of Missouri, Columbia, MO, USA.",
+                "Institute of Data Sciences and Informatics, University of Missouri, Columbia, MO, USA.",
+                "Google, Kaggle, Mountain View, CA, USA.",
+                "Department of Biochemistry, Stanford University School of Medicine, Stanford, CA, USA.",
+                "Department of Computer Science and Technology, University of Cambridge, UK.",
+                "University of California, Davis, CA, USA.",
+                "Guangzhou National Laboratory, Guangzhou International Bio Island, Guangzhou, China.",
+                "Institute for Bioscience and Biotechnology Research, Rockville, MD, USA.",
+                "Department of Cell Biology and Molecular Genetics, University of Maryland, MD, USA.",
+                "Architecture et Réactivité de l'ARN, Institut de Biologie Moléculaire et Cellulaire du CNRS, Université de Strasbourg, Strasbourg, France.",
+                "Wenzhou Institute, University of Chinese Academy of Sciences, Wenzhou, China.",
+                "Howard Hughes Medical Institute, Stanford, CA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Danny Kowerko",
+              "affiliations": [
+                "Professorship of Media Informatics, Chemnitz University of Technology, Chemnitz, Germany."
+              ],
+              "orcid": "0000-0002-4538-7814"
+            },
+            {
+              "name": "Haowei Li",
+              "affiliations": [
+                "CZUR Technology Co., Ltd., Dalian, China."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Hoa Nguyen",
+              "affiliations": [
+                "Institut Pasteur, Imaging and Modeling Unit, F-75015 Paris, France."
+              ],
+              "orcid": "0000-0002-5259-7414"
+            },
+            {
+              "name": "Arunodhayan Sampathkumar",
+              "affiliations": [
+                "Professorship of Media Informatics, Chemnitz University of Technology, Chemnitz, Germany."
+              ],
+              "orcid": "0000-0002-2654-7050"
+            },
+            {
+              "name": "Raúl Enrique Gómez",
+              "affiliations": [
+                "NVIDIA, USA.",
+                "Texas A&M University, College Station, TX, USA.",
+                "QuettaAI, Inc., Tokyo, Japan.",
+                "Eigen Bio, New York, NY.",
+                "Professorship of Media Informatics, Chemnitz University of Technology, Chemnitz, Germany.",
+                "CZUR Technology Co., Ltd., Dalian, China.",
+                "Institut Pasteur, Imaging and Modeling Unit, F-75015 Paris, France.",
+                "Sichuan Intelligent Expressway Technology Co., Ltd, ChengDu, China.",
+                "PeptiDream Inc., Kanagawa, Japan.",
+                "Medical Equipment Management Center, University of Toyama Hospital, Toyama, Japan.",
+                "Mohamed bin Zayed University of Artificial Intelligence, Abu Dhabi, United Arab Emirates.",
+                "University of Montevideo, Montevideo, Uruguay.",
+                "Zhejiang University-University of Edinburgh Institute, Zhejiang University, Haining, Zhejiang, China.",
+                "Anbogen Therapeutics, Inc.",
+                "Biophysics Program, Stanford University, Stanford, CA, USA.",
+                "Division of CryoEM and Bioimaging, SSRL-SLAC National Accelerator Laboratory, Menlo Park, CA, USA.",
+                "Department of Bioengineering and James Clark Center, Stanford University, Stanford, CA, USA.",
+                "Department of Microbiology and Immunology, Stanford University, Stanford, CA, USA.",
+                "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY, USA.",
+                "Department of Chemistry and Biochemistry, University of California San Diego, CA, USA.",
+                "Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei 230026, China.",
+                "Department of Cell and Molecular Biology, Uppsala University, Uppsala, Sweden.",
+                "European Molecular Biology Laboratory (EMBL), Grenoble, France.",
+                "University of Maryland, Baltimore County, MD, USA.",
+                "Department of Biochemistry and Molecular Biology, The University of Chicago, Chicago, IL, USA.",
+                "Istituto Italiano di Tecnologia, Genoa, Italy.",
+                "Science for Life Laboratory, Department of Cell and Molecular Biology, Uppsala University, Uppsala, Sweden.",
+                "Department of Chemistry, The University of Chicago, Chicago, IL, USA.",
+                "State Key Laboratory of Biotherapy, West China Hospital, Sichuan University.",
+                "The State Key Laboratory of Oral Diseases, National Clinical Research Center for Oral Diseases, National Center for Stomatology, West China Hospital of Stomatology, Sichuan University, Chengdu, China.",
+                "Department of Cariology and Endodontics, West China Hospital of Stomatology, Sichuan University, Chengdu, China.",
+                "Department of Molecular Biophysics and Biochemistry, Yale University, CT, USA.",
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA USA.",
+                "Department of Physics and Astronomy, University of Missouri, Columbia, MO, USA.",
+                "Department of Biochemistry, University of Missouri, Columbia, MO, USA.",
+                "Institute of Data Sciences and Informatics, University of Missouri, Columbia, MO, USA.",
+                "Google, Kaggle, Mountain View, CA, USA.",
+                "Department of Biochemistry, Stanford University School of Medicine, Stanford, CA, USA.",
+                "Department of Computer Science and Technology, University of Cambridge, UK.",
+                "University of California, Davis, CA, USA.",
+                "Guangzhou National Laboratory, Guangzhou International Bio Island, Guangzhou, China.",
+                "Institute for Bioscience and Biotechnology Research, Rockville, MD, USA.",
+                "Department of Cell Biology and Molecular Genetics, University of Maryland, MD, USA.",
+                "Architecture et Réactivité de l'ARN, Institut de Biologie Moléculaire et Cellulaire du CNRS, Université de Strasbourg, Strasbourg, France.",
+                "Wenzhou Institute, University of Chinese Academy of Sciences, Wenzhou, China.",
+                "Howard Hughes Medical Institute, Stanford, CA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Meng Chen",
+              "affiliations": [
+                "Sichuan Intelligent Expressway Technology Co., Ltd, ChengDu, China."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Atsushi Yoshizawa",
+              "affiliations": [
+                "PeptiDream Inc., Kanagawa, Japan."
+              ],
+              "orcid": "0009-0003-8203-2363"
+            },
+            {
+              "name": "Shun Kuraishi",
+              "affiliations": [
+                "Medical Equipment Management Center, University of Toyama Hospital, Toyama, Japan."
+              ],
+              "orcid": "0009-0007-5808-0145"
+            },
+            {
+              "name": "Kenji Ogawa",
+              "affiliations": [
+                "Medical Equipment Management Center, University of Toyama Hospital, Toyama, Japan."
+              ],
+              "orcid": "0009-0001-1679-0663"
+            },
+            {
+              "name": "Shuxian Zou",
+              "affiliations": [
+                "Mohamed bin Zayed University of Artificial Intelligence, Abu Dhabi, United Arab Emirates."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Alejo Paullier",
+              "affiliations": [
+                "University of Montevideo, Montevideo, Uruguay."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Bingkang Zhao",
+              "affiliations": [
+                "Zhejiang University-University of Edinburgh Institute, Zhejiang University, Haining, Zhejiang, China."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Huey-Long Chen",
+              "affiliations": [
+                "Anbogen Therapeutics, Inc."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Tsu-An Hsu",
+              "affiliations": [
+                "Anbogen Therapeutics, Inc."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Tatsuya Hirano",
+              "affiliations": [
+                "NVIDIA, USA.",
+                "Texas A&M University, College Station, TX, USA.",
+                "QuettaAI, Inc., Tokyo, Japan.",
+                "Eigen Bio, New York, NY.",
+                "Professorship of Media Informatics, Chemnitz University of Technology, Chemnitz, Germany.",
+                "CZUR Technology Co., Ltd., Dalian, China.",
+                "Institut Pasteur, Imaging and Modeling Unit, F-75015 Paris, France.",
+                "Sichuan Intelligent Expressway Technology Co., Ltd, ChengDu, China.",
+                "PeptiDream Inc., Kanagawa, Japan.",
+                "Medical Equipment Management Center, University of Toyama Hospital, Toyama, Japan.",
+                "Mohamed bin Zayed University of Artificial Intelligence, Abu Dhabi, United Arab Emirates.",
+                "University of Montevideo, Montevideo, Uruguay.",
+                "Zhejiang University-University of Edinburgh Institute, Zhejiang University, Haining, Zhejiang, China.",
+                "Anbogen Therapeutics, Inc.",
+                "Biophysics Program, Stanford University, Stanford, CA, USA.",
+                "Division of CryoEM and Bioimaging, SSRL-SLAC National Accelerator Laboratory, Menlo Park, CA, USA.",
+                "Department of Bioengineering and James Clark Center, Stanford University, Stanford, CA, USA.",
+                "Department of Microbiology and Immunology, Stanford University, Stanford, CA, USA.",
+                "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY, USA.",
+                "Department of Chemistry and Biochemistry, University of California San Diego, CA, USA.",
+                "Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei 230026, China.",
+                "Department of Cell and Molecular Biology, Uppsala University, Uppsala, Sweden.",
+                "European Molecular Biology Laboratory (EMBL), Grenoble, France.",
+                "University of Maryland, Baltimore County, MD, USA.",
+                "Department of Biochemistry and Molecular Biology, The University of Chicago, Chicago, IL, USA.",
+                "Istituto Italiano di Tecnologia, Genoa, Italy.",
+                "Science for Life Laboratory, Department of Cell and Molecular Biology, Uppsala University, Uppsala, Sweden.",
+                "Department of Chemistry, The University of Chicago, Chicago, IL, USA.",
+                "State Key Laboratory of Biotherapy, West China Hospital, Sichuan University.",
+                "The State Key Laboratory of Oral Diseases, National Clinical Research Center for Oral Diseases, National Center for Stomatology, West China Hospital of Stomatology, Sichuan University, Chengdu, China.",
+                "Department of Cariology and Endodontics, West China Hospital of Stomatology, Sichuan University, Chengdu, China.",
+                "Department of Molecular Biophysics and Biochemistry, Yale University, CT, USA.",
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA USA.",
+                "Department of Physics and Astronomy, University of Missouri, Columbia, MO, USA.",
+                "Department of Biochemistry, University of Missouri, Columbia, MO, USA.",
+                "Institute of Data Sciences and Informatics, University of Missouri, Columbia, MO, USA.",
+                "Google, Kaggle, Mountain View, CA, USA.",
+                "Department of Biochemistry, Stanford University School of Medicine, Stanford, CA, USA.",
+                "Department of Computer Science and Technology, University of Cambridge, UK.",
+                "University of California, Davis, CA, USA.",
+                "Guangzhou National Laboratory, Guangzhou International Bio Island, Guangzhou, China.",
+                "Institute for Bioscience and Biotechnology Research, Rockville, MD, USA.",
+                "Department of Cell Biology and Molecular Genetics, University of Maryland, MD, USA.",
+                "Architecture et Réactivité de l'ARN, Institut de Biologie Moléculaire et Cellulaire du CNRS, Université de Strasbourg, Strasbourg, France.",
+                "Wenzhou Institute, University of Chinese Academy of Sciences, Wenzhou, China.",
+                "Howard Hughes Medical Institute, Stanford, CA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Wah Chiu",
+              "affiliations": [
+                "Biophysics Program, Stanford University, Stanford, CA, USA.",
+                "Division of CryoEM and Bioimaging, SSRL-SLAC National Accelerator Laboratory, Menlo Park, CA, USA.",
+                "Department of Bioengineering and James Clark Center, Stanford University, Stanford, CA, USA.",
+                "Department of Microbiology and Immunology, Stanford University, Stanford, CA, USA."
+              ],
+              "orcid": "0000-0002-8910-3078"
+            },
+            {
+              "name": "Jeanine G Gezelle",
+              "affiliations": [
+                "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Daniel Haack",
+              "affiliations": [
+                "Department of Chemistry and Biochemistry, University of California San Diego, CA, USA."
+              ],
+              "orcid": "0000-0002-4926-7772"
+            },
+            {
+              "name": "Yibao Hong",
+              "affiliations": [
+                "Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei 230026, China."
+              ],
+              "orcid": "0009-0006-2926-7333"
+            },
+            {
+              "name": "Shekhar Jadhav",
+              "affiliations": [
+                "Department of Cell and Molecular Biology, Uppsala University, Uppsala, Sweden.",
+                "European Molecular Biology Laboratory (EMBL), Grenoble, France."
+              ],
+              "orcid": "0009-0009-4682-7568"
+            },
+            {
+              "name": "Deepak Koirala",
+              "affiliations": [
+                "University of Maryland, Baltimore County, MD, USA."
+              ],
+              "orcid": "0000-0001-6424-3173"
+            },
+            {
+              "name": "Rachael C Kretsch",
+              "affiliations": [
+                "Biophysics Program, Stanford University, Stanford, CA, USA."
+              ],
+              "orcid": "0000-0002-6935-518X"
+            },
+            {
+              "name": "Anna Lewicka",
+              "affiliations": [
+                "Department of Biochemistry and Molecular Biology, The University of Chicago, Chicago, IL, USA."
+              ],
+              "orcid": "0000-0002-9578-2628"
+            },
+            {
+              "name": "Shanshan Li",
+              "affiliations": [
+                "Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei 230026, China."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Marco Marcia",
+              "affiliations": [
+                "Department of Cell and Molecular Biology, Uppsala University, Uppsala, Sweden.",
+                "European Molecular Biology Laboratory (EMBL), Grenoble, France.",
+                "Istituto Italiano di Tecnologia, Genoa, Italy.",
+                "Science for Life Laboratory, Department of Cell and Molecular Biology, Uppsala University, Uppsala, Sweden."
+              ],
+              "orcid": "0000-0003-2430-0713"
+            },
+            {
+              "name": "Joseph Piccirilli",
+              "affiliations": [
+                "Department of Biochemistry and Molecular Biology, The University of Chicago, Chicago, IL, USA.",
+                "Department of Chemistry, The University of Chicago, Chicago, IL, USA."
+              ],
+              "orcid": "0000-0002-0541-6270"
+            },
+            {
+              "name": "Boris Rudolfs",
+              "affiliations": [
+                "Department of Chemistry and Biochemistry, University of California San Diego, CA, USA."
+              ],
+              "orcid": "0000-0002-8791-9487"
+            },
+            {
+              "name": "Yoshita Srivastava",
+              "affiliations": [
+                "Department of Biochemistry and Molecular Biology, The University of Chicago, Chicago, IL, USA."
+              ],
+              "orcid": "0000-0001-9091-9851"
+            },
+            {
+              "name": "Anna-Lena Steckelberg",
+              "affiliations": [
+                "Department of Biochemistry and Molecular Biophysics, Columbia University, New York, NY, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Zhaoming Su",
+              "affiliations": [
+                "State Key Laboratory of Biotherapy, West China Hospital, Sichuan University."
+              ],
+              "orcid": "0000-0002-9279-1721"
+            },
+            {
+              "name": "Navtej Toor",
+              "affiliations": [
+                "Department of Chemistry and Biochemistry, University of California San Diego, CA, USA."
+              ],
+              "orcid": "0000-0002-6134-163X"
+            },
+            {
+              "name": "Liu Wang",
+              "affiliations": [
+                "The State Key Laboratory of Oral Diseases, National Clinical Research Center for Oral Diseases, National Center for Stomatology, West China Hospital of Stomatology, Sichuan University, Chengdu, China.",
+                "Department of Cariology and Endodontics, West China Hospital of Stomatology, Sichuan University, Chengdu, China."
+              ],
+              "orcid": "0000-0003-1243-9654"
+            },
+            {
+              "name": "Zi Yang",
+              "affiliations": [
+                "Department of Molecular Biophysics and Biochemistry, Yale University, CT, USA."
+              ],
+              "orcid": "0009-0000-2192-8981"
+            },
+            {
+              "name": "Kaiming Zhang",
+              "affiliations": [
+                "Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei 230026, China."
+              ],
+              "orcid": "0000-0003-0414-4776"
+            },
+            {
+              "name": "Jian Zou",
+              "affiliations": [
+                "State Key Laboratory of Biotherapy, West China Hospital, Sichuan University."
+              ],
+              "orcid": "0009-0006-0336-8240"
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA USA."
+              ],
+              "orcid": "0000-0001-7896-6217"
+            },
+            {
+              "name": "Shi-Jie Chen",
+              "affiliations": [
+                "Department of Physics and Astronomy, University of Missouri, Columbia, MO, USA.",
+                "Department of Biochemistry, University of Missouri, Columbia, MO, USA.",
+                "Institute of Data Sciences and Informatics, University of Missouri, Columbia, MO, USA."
+              ],
+              "orcid": "0000-0002-8093-7244"
+            },
+            {
+              "name": "Maggie Demkin",
+              "affiliations": [
+                "Google, Kaggle, Mountain View, CA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Andrew Favor",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-9977-2785"
+            },
+            {
+              "name": "Alissa M Hummer",
+              "affiliations": [
+                "Department of Biochemistry, Stanford University School of Medicine, Stanford, CA, USA."
+              ],
+              "orcid": "0000-0002-3023-2588"
+            },
+            {
+              "name": "Chaitanya K Joshi",
+              "affiliations": [
+                "Department of Computer Science and Technology, University of Cambridge, UK."
+              ],
+              "orcid": "0000-0003-4722-1815"
+            },
+            {
+              "name": "Andriy Kryshtafovych",
+              "affiliations": [
+                "University of California, Davis, CA, USA."
+              ],
+              "orcid": "0000-0001-5066-7178"
+            },
+            {
+              "name": "Emine Küçükbenli",
+              "affiliations": [
+                "NVIDIA, USA."
+              ],
+              "orcid": "0000-0002-0588-7750"
+            },
+            {
+              "name": "Zhichao Miao",
+              "affiliations": [
+                "Guangzhou National Laboratory, Guangzhou International Bio Island, Guangzhou, China."
+              ],
+              "orcid": "0000-0002-5777-9815"
+            },
+            {
+              "name": "John Moult",
+              "affiliations": [
+                "Institute for Bioscience and Biotechnology Research, Rockville, MD, USA.",
+                "Department of Cell Biology and Molecular Genetics, University of Maryland, MD, USA."
+              ],
+              "orcid": "0000-0002-3012-2282"
+            },
+            {
+              "name": "Christian Munley",
+              "affiliations": [
+                "NVIDIA, USA."
+              ],
+              "orcid": "0000-0003-0123-4848"
+            },
+            {
+              "name": "Walter Reade",
+              "affiliations": [
+                "Google, Kaggle, Mountain View, CA, USA."
+              ],
+              "orcid": "0000-0002-9215-700X"
+            },
+            {
+              "name": "Theo Viel",
+              "affiliations": [
+                "NVIDIA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Eric Westhof",
+              "affiliations": [
+                "Architecture et Réactivité de l'ARN, Institut de Biologie Moléculaire et Cellulaire du CNRS, Université de Strasbourg, Strasbourg, France.",
+                "Wenzhou Institute, University of Chinese Academy of Sciences, Wenzhou, China."
+              ],
+              "orcid": "0000-0002-6172-5422"
+            },
+            {
+              "name": "Sicheng Zhang",
+              "affiliations": [
+                "Department of Molecular Biophysics and Biochemistry, Yale University, CT, USA.",
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA USA."
+              ],
+              "orcid": "0009-0009-9851-5451"
+            },
+            {
+              "name": "Rhiju Das",
+              "affiliations": [
+                "Biophysics Program, Stanford University, Stanford, CA, USA.",
+                "Department of Biochemistry, Stanford University School of Medicine, Stanford, CA, USA.",
+                "Howard Hughes Medical Institute, Stanford, CA, USA."
+              ],
+              "orcid": "0000-0001-7497-0972"
+            }
+          ],
+          "abstract": "Automatically predicting RNA 3D structure from sequence remains an unsolved challenge in biology and biotechnology. Here, we describe a Kaggle code competition engaging over 1700 teams and 43 previously unreleased structures to tackle this challenge. The top three submitted algorithms achieved scores within statistical error of the winners of the recent CASP16 competition. Unexpectedly, the top Kaggle strategy involved a pipeline for discovering 3D templates, without the use of deep learning. We integrated this template-modeling pipeline and other Kaggle strategies to develop a single model RNAPro that retrospectively outperformed individual Kaggle models on the same test set. These results suggest a growing importance of template-based modeling in RNA structure prediction.",
+          "date": "2025-12-30",
+          "url": "https://doi.org/10.64898/2025.12.30.696949",
+          "doi": "10.64898/2025.12.30.696949",
+          "status": "preprint",
+          "journal": "bioRxiv : the preprint server for biology",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC12776560"
+          ],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:41509375",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:41509375",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2025-12-30T00:00:00Z"
     }
   },
   "aliases": {},

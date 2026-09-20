@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-09-18T20:53:28Z</updated>
+  <updated>2026-09-20T04:52:37Z</updated>
   <entry>
     <id>urn:uuid:bcda4bc3-56e6-5d49-b580-58d9b32c9d15</id>
     <title>De Novo Design and Structural Optimization of Mn(salen)-Based Artificial Metalloenzymes for Asymmetric Sulfoxidation.</title>
@@ -2532,6 +2532,200 @@
 &lt;/ul&gt;</content>
   </entry>
   <entry>
+    <id>urn:uuid:c0d0baa2-7040-5523-a813-967f99cad1a8</id>
+    <title>Template-based RNA structure prediction advanced through a blind code competition.</title>
+    <published>2025-12-30T00:00:00Z</published>
+    <updated>2026-09-20T04:52:37Z</updated>
+    <link href="https://doi.org/10.64898/2025.12.30.696949" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Youhan Lee</name>
+    </author>
+    <author>
+      <name>Shujun He</name>
+    </author>
+    <author>
+      <name>Toshiyuki Oda</name>
+    </author>
+    <author>
+      <name>G John Rao</name>
+    </author>
+    <author>
+      <name>Yehyun Kim</name>
+    </author>
+    <author>
+      <name>Raehyun Kim</name>
+    </author>
+    <author>
+      <name>Hyunjin Kim</name>
+    </author>
+    <author>
+      <name>Cher Keng Heng</name>
+    </author>
+    <author>
+      <name>Danny Kowerko</name>
+    </author>
+    <author>
+      <name>Haowei Li</name>
+    </author>
+    <author>
+      <name>Hoa Nguyen</name>
+    </author>
+    <author>
+      <name>Arunodhayan Sampathkumar</name>
+    </author>
+    <author>
+      <name>Raúl Enrique Gómez</name>
+    </author>
+    <author>
+      <name>Meng Chen</name>
+    </author>
+    <author>
+      <name>Atsushi Yoshizawa</name>
+    </author>
+    <author>
+      <name>Shun Kuraishi</name>
+    </author>
+    <author>
+      <name>Kenji Ogawa</name>
+    </author>
+    <author>
+      <name>Shuxian Zou</name>
+    </author>
+    <author>
+      <name>Alejo Paullier</name>
+    </author>
+    <author>
+      <name>Bingkang Zhao</name>
+    </author>
+    <author>
+      <name>Huey-Long Chen</name>
+    </author>
+    <author>
+      <name>Tsu-An Hsu</name>
+    </author>
+    <author>
+      <name>Tatsuya Hirano</name>
+    </author>
+    <author>
+      <name>Wah Chiu</name>
+    </author>
+    <author>
+      <name>Jeanine G Gezelle</name>
+    </author>
+    <author>
+      <name>Daniel Haack</name>
+    </author>
+    <author>
+      <name>Yibao Hong</name>
+    </author>
+    <author>
+      <name>Shekhar Jadhav</name>
+    </author>
+    <author>
+      <name>Deepak Koirala</name>
+    </author>
+    <author>
+      <name>Rachael C Kretsch</name>
+    </author>
+    <author>
+      <name>Anna Lewicka</name>
+    </author>
+    <author>
+      <name>Shanshan Li</name>
+    </author>
+    <author>
+      <name>Marco Marcia</name>
+    </author>
+    <author>
+      <name>Joseph Piccirilli</name>
+    </author>
+    <author>
+      <name>Boris Rudolfs</name>
+    </author>
+    <author>
+      <name>Yoshita Srivastava</name>
+    </author>
+    <author>
+      <name>Anna-Lena Steckelberg</name>
+    </author>
+    <author>
+      <name>Zhaoming Su</name>
+    </author>
+    <author>
+      <name>Navtej Toor</name>
+    </author>
+    <author>
+      <name>Liu Wang</name>
+    </author>
+    <author>
+      <name>Zi Yang</name>
+    </author>
+    <author>
+      <name>Kaiming Zhang</name>
+    </author>
+    <author>
+      <name>Jian Zou</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Shi-Jie Chen</name>
+    </author>
+    <author>
+      <name>Maggie Demkin</name>
+    </author>
+    <author>
+      <name>Andrew Favor</name>
+    </author>
+    <author>
+      <name>Alissa M Hummer</name>
+    </author>
+    <author>
+      <name>Chaitanya K Joshi</name>
+    </author>
+    <author>
+      <name>Andriy Kryshtafovych</name>
+    </author>
+    <author>
+      <name>Emine Küçükbenli</name>
+    </author>
+    <author>
+      <name>Zhichao Miao</name>
+    </author>
+    <author>
+      <name>John Moult</name>
+    </author>
+    <author>
+      <name>Christian Munley</name>
+    </author>
+    <author>
+      <name>Walter Reade</name>
+    </author>
+    <author>
+      <name>Theo Viel</name>
+    </author>
+    <author>
+      <name>Eric Westhof</name>
+    </author>
+    <author>
+      <name>Sicheng Zhang</name>
+    </author>
+    <author>
+      <name>Rhiju Das</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Youhan Lee; Shujun He; Toshiyuki Oda; G John Rao; Yehyun Kim; Raehyun Kim; Hyunjin Kim; Cher Keng Heng; Danny Kowerko; Haowei Li; Hoa Nguyen; Arunodhayan Sampathkumar; Raúl Enrique Gómez; Meng Chen; Atsushi Yoshizawa; Shun Kuraishi; Kenji Ogawa; Shuxian Zou; Alejo Paullier; Bingkang Zhao; Huey-Long Chen; Tsu-An Hsu; Tatsuya Hirano; Wah Chiu; Jeanine G Gezelle; Daniel Haack; Yibao Hong; Shekhar Jadhav; Deepak Koirala; Rachael C Kretsch; Anna Lewicka; Shanshan Li; Marco Marcia; Joseph Piccirilli; Boris Rudolfs; Yoshita Srivastava; Anna-Lena Steckelberg; Zhaoming Su; Navtej Toor; Liu Wang; Zi Yang; Kaiming Zhang; Jian Zou; David Baker; Shi-Jie Chen; Maggie Demkin; Andrew Favor; Alissa M Hummer; Chaitanya K Joshi; Andriy Kryshtafovych; Emine Küçükbenli; Zhichao Miao; John Moult; Christian Munley; Walter Reade; Theo Viel; Eric Westhof; Sicheng Zhang; Rhiju Das&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Preprint date: 2025-12-30&lt;/p&gt;
+&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
+&lt;p&gt;Automatically predicting RNA 3D structure from sequence remains an unsolved challenge in biology and biotechnology. Here, we describe a Kaggle code competition engaging over 1700 teams and 43 previously unreleased structures to tackle this challenge. The top three submitted algorithms achieved scores within statistical error of the winners of the recent CASP16 competition. Unexpectedly, the top Kaggle strategy involved a pipeline for discovering 3D templates, without the use of deep learning. We integrated this template-modeling pipeline and other Kaggle strategies to develop a single model RNAPro that retrospectively outperformed individual Kaggle models on the same test set. These results suggest a growing importance of template-based modeling in RNA structure prediction.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.64898/2025.12.30.696949"&gt;pubmed (preprint) — DOI: 10.64898/2025.12.30.696949&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
     <id>urn:uuid:eca559ce-5036-5328-bab2-06b800c043b5</id>
     <title>Accurate single-domain scaffolding of three nonoverlapping protein epitopes using deep learning.</title>
     <published>2025-12-05T00:00:00Z</published>
@@ -2679,6 +2873,130 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1021/jacs.5c16108"&gt;pubmed (published) — DOI: 10.1021/jacs.5c16108&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1021/jacs.5c16108"&gt;Published version — DOI: 10.1021/jacs.5c16108&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:9e012682-4c6a-50a3-b187-e8ed207714b5</id>
+    <title>Computational design of metalloproteases.</title>
+    <published>2025-11-21T00:00:00Z</published>
+    <updated>2026-09-20T04:52:37Z</updated>
+    <link href="https://doi.org/10.1101/2025.11.20.689622" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Anqi Chen</name>
+    </author>
+    <author>
+      <name>Kejia Wu</name>
+    </author>
+    <author>
+      <name>Hojae Choi</name>
+    </author>
+    <author>
+      <name>Preetham Venkatesh</name>
+    </author>
+    <author>
+      <name>Samuel J Pellock</name>
+    </author>
+    <author>
+      <name>Nikita Hanikel</name>
+    </author>
+    <author>
+      <name>Brian Coventry</name>
+    </author>
+    <author>
+      <name>Donghyo Kim</name>
+    </author>
+    <author>
+      <name>Seth M Woodbury</name>
+    </author>
+    <author>
+      <name>Pengfei Ji</name>
+    </author>
+    <author>
+      <name>Shingo Honda</name>
+    </author>
+    <author>
+      <name>Xinting Li</name>
+    </author>
+    <author>
+      <name>Stacey Gerben</name>
+    </author>
+    <author>
+      <name>Lemuel Chang</name>
+    </author>
+    <author>
+      <name>Xiao Yan</name>
+    </author>
+    <author>
+      <name>Anthony A Hyman</name>
+    </author>
+    <author>
+      <name>Donald Hilvert</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Anqi Chen; Kejia Wu; Hojae Choi; Preetham Venkatesh; Samuel J Pellock; Nikita Hanikel; Brian Coventry; Donghyo Kim; Seth M Woodbury; Pengfei Ji; Shingo Honda; Xinting Li; Stacey Gerben; Lemuel Chang; Xiao Yan; Anthony A Hyman; Donald Hilvert; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Preprint date: 2025-11-21&lt;/p&gt;
+&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
+&lt;p&gt;Although significant progress has been made in creating de novo metalloenzymes that hydrolyze activated esters1,2, the energetically demanding cleavage of amide bonds has remained a major challenge for enzyme design: amide bonds are significantly more stable than ester bonds, the amine leaving groups in proteins are not activated, and peptide substrates are flexible making them difficult to bind precisely. Here, we report the de novo design of zinc proteases from minimal catalytic motifs using a fine-tuned version of RoseTTAFold Diffusion 2, called RoseTTAFold Diffusion 2 for Molecular Interfaces3, optimized for both enzyme and protein-protein interaction design. In a single one-shot design round of 135 designs, 36% of the designs had activity and cleaved precisely at the intended site. The most active design accelerated peptide bond hydrolysis more than 108-fold over the uncatalyzed reaction4. These results demonstrated that de novo enzyme design has advanced well beyond model reactions with activated substrates, and open the door to design of proficient metallohydrolases for medicine and bioremediation.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1101/2025.11.20.689622"&gt;pubmed (preprint) — DOI: 10.1101/2025.11.20.689622&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:a4e9b99f-442d-56f2-a534-ace35f1823a3</id>
+    <title>Targeting peptide-MHC complexes with designed T cell receptors and antibodies.</title>
+    <published>2025-11-20T00:00:00Z</published>
+    <updated>2026-09-20T04:52:37Z</updated>
+    <link href="https://doi.org/10.1101/2025.11.19.689381" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Amir Motmaen</name>
+    </author>
+    <author>
+      <name>Kevin M Jude</name>
+    </author>
+    <author>
+      <name>Nan Wang</name>
+    </author>
+    <author>
+      <name>Anastasia Minervina</name>
+    </author>
+    <author>
+      <name>David Feldman</name>
+    </author>
+    <author>
+      <name>Mauriz A Lichtenstein</name>
+    </author>
+    <author>
+      <name>Abishai Ebenezer</name>
+    </author>
+    <author>
+      <name>Colin Correnti</name>
+    </author>
+    <author>
+      <name>Paul G Thomas</name>
+    </author>
+    <author>
+      <name>K Christopher Garcia</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Philip Bradley</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Amir Motmaen; Kevin M Jude; Nan Wang; Anastasia Minervina; David Feldman; Mauriz A Lichtenstein; Abishai Ebenezer; Colin Correnti; Paul G Thomas; K Christopher Garcia; David Baker; Philip Bradley&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Preprint date: 2025-11-20&lt;/p&gt;
+&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
+&lt;p&gt;Class I major histocompatibility complexes (MHCs), expressed on the surface of all nucleated cells, present peptides derived from intracellular proteins for surveillance by T cells. The precise recognition of foreign or mutated peptide-MHC (pMHC) complexes by T cell receptors (TCRs) is central to immune defense against pathogens and tumors. Although patient-derived TCRs specific for cancer-associated antigens have been used to engineer tumor-targeting therapies, their reactivity toward self- or near-self antigens may be constrained by negative selection in the thymus. Here, we introduce a structure-based deep learning framework, ADAPT (Antigen-receptor Design Against Peptide-MHC Targets), for the design of TCRs and antibodies that bind to pMHC targets of interest. We evaluate the ADAPT pipeline by designing and characterizing TCRs and antibodies against a diverse panel of pMHCs. Cryogenic electron microscopy structures of two designed antibodies bound to their respective pMHC targets demonstrate atomic-level accuracy at the recognition interface, supporting the robustness of our structure-based approach. Computationally designed TCRs and antibodies targeting pMHC complexes could enable a broad range of therapeutic applications, from cancer immunotherapy to autoimmune disease treatment, and insights gained from TCR-pMHC design should advance predictive understanding of TCR specificity with implications for basic immunology and clinical diagnostics.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1101/2025.11.19.689381"&gt;pubmed (preprint) — DOI: 10.1101/2025.11.19.689381&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
@@ -3281,6 +3599,84 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-025-09646-z"&gt;pubmed (published) — DOI: 10.1038/s41586-025-09646-z&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-025-09646-z"&gt;Published version — DOI: 10.1038/s41586-025-09646-z&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:fc418b53-fae8-5ba3-8fcf-fe60e8dbb42d</id>
+    <title>Tuning insulin receptor signaling using de novo-designed agonists.</title>
+    <published>2025-10-13T00:00:00Z</published>
+    <updated>2026-09-20T04:52:37Z</updated>
+    <link href="https://doi.org/10.1016/j.molcel.2025.09.020" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Xinru Wang</name>
+    </author>
+    <author>
+      <name>Sarah Cardoso</name>
+    </author>
+    <author>
+      <name>Kai Cai</name>
+    </author>
+    <author>
+      <name>Preetham Venkatesh</name>
+    </author>
+    <author>
+      <name>Albert Hung</name>
+    </author>
+    <author>
+      <name>Michelle Ng</name>
+    </author>
+    <author>
+      <name>Catherine Hall</name>
+    </author>
+    <author>
+      <name>Brian Coventry</name>
+    </author>
+    <author>
+      <name>David S Lee</name>
+    </author>
+    <author>
+      <name>Rishabh Chowhan</name>
+    </author>
+    <author>
+      <name>Stacey Gerben</name>
+    </author>
+    <author>
+      <name>Jie Li</name>
+    </author>
+    <author>
+      <name>Weidong An</name>
+    </author>
+    <author>
+      <name>Mara Hon</name>
+    </author>
+    <author>
+      <name>Michael Gao</name>
+    </author>
+    <author>
+      <name>Ya-Cheng Liao</name>
+    </author>
+    <author>
+      <name>Domenico Accili</name>
+    </author>
+    <author>
+      <name>Eunhee Choi</name>
+    </author>
+    <author>
+      <name>Xiao-Chen Bai</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Xinru Wang; Sarah Cardoso; Kai Cai; Preetham Venkatesh; Albert Hung; Michelle Ng; Catherine Hall; Brian Coventry; David S Lee; Rishabh Chowhan; Stacey Gerben; Jie Li; Weidong An; Mara Hon; Michael Gao; Ya-Cheng Liao; Domenico Accili; Eunhee Choi; Xiao-Chen Bai; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2025-10-13&lt;/p&gt;
+&lt;p&gt;Journal: Molecular cell&lt;/p&gt;
+&lt;p&gt;Insulin binding induces conformational changes in the insulin receptor (IR) that activate the intracellular kinase domain and the protein kinase B (AKT) and mitogen-activated protein kinase (MAPK) pathways, regulating metabolism and proliferation. We reasoned that designed agonists inducing different IR conformational changes might induce different downstream responses. We used de novo protein design to generate binders for individual IR extracellular domains and fused them in different orientations with different conformational flexibility. We obtained a series of synthetic IR agonists that elicit a wide range of receptor autophosphorylation, MAPK activation, trafficking, and proliferation responses. We identified designs more potent than insulin, causing longer-lasting glucose lowering in vivo and retaining activity on disease-causing IR mutants, while largely avoiding the cancer cell proliferation induced by insulin. Our findings shed light on how changes in IR conformation and dynamics translate into downstream signaling, and with further development, our synthetic agonists could have therapeutic utility for metabolic and proliferative diseases.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1016/j.molcel.2025.09.020"&gt;pubmed (published) — DOI: 10.1016/j.molcel.2025.09.020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1016/j.molcel.2025.09.020"&gt;Published version — DOI: 10.1016/j.molcel.2025.09.020&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
