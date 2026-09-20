@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-09-20T20:47:44Z",
+      "last_success": "2026-09-20T23:14:56Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-09-20T20:47:44Z",
+      "last_success": "2026-09-20T23:14:56Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-09-20T20:47:44Z",
+      "last_success": "2026-09-20T23:14:56Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -18141,6 +18141,141 @@
   },
   "aliases": {},
   "rejected": {
+    "pubmed:41046518": {
+      "first_seen": "2026-09-20T23:14:56Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "41046518",
+        "title": "P-Rex1 limits glucose clearance and suppresses hepatocyte glucose uptake and mitochondrial metabolism independently of its Rac-GEF activity.",
+        "authors": [
+          {
+            "name": "Julia Y Chu",
+            "affiliations": [
+              "Signalling Programme, The Babraham Institute, Cambridge, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Elpida Tsonou",
+            "affiliations": [
+              "Signalling Programme, The Babraham Institute, Cambridge, UK; Bioscience Metabolism, Research and Early Development, Cardiovascular, Renal and Metabolism (CVRM), BioPharmaceuticals R&D, AstraZeneca, Cambridge, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Polly A Machin",
+            "affiliations": [
+              "Signalling Programme, The Babraham Institute, Cambridge, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Kirsty MacLellan-Gibson",
+            "affiliations": [
+              "Imaging Facility, The Babraham Institute, Cambridge, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Anna G Roberts",
+            "affiliations": [
+              "Signalling Programme, The Babraham Institute, Cambridge, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Stephen A Chetwynd",
+            "affiliations": [
+              "Signalling Programme, The Babraham Institute, Cambridge, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Adam T McCormack",
+            "affiliations": [
+              "Department of Chemistry, Maynooth University, Maynooth, Ireland."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "John C Stephens",
+            "affiliations": [
+              "Department of Chemistry, Maynooth University, Maynooth, Ireland; The Kathleen Lonsdale Institute for Human Health Research, Maynooth University, Maynooth, Ireland."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Elisa Benetti",
+            "affiliations": [
+              "Department of Drug Science and Technology, University of Turin, Turin, Italy."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Gemma K Kinsella",
+            "affiliations": [
+              "School of Food Sciences and Environmental Health, Technological University Dublin, Dublin, Ireland."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "David Baker",
+            "affiliations": [
+              "Bioscience Metabolism, Research and Early Development, Cardiovascular, Renal and Metabolism (CVRM), BioPharmaceuticals R&D, AstraZeneca, Cambridge, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "David C Hornigold",
+            "affiliations": [
+              "Bioscience Metabolism, Research and Early Development, Cardiovascular, Renal and Metabolism (CVRM), BioPharmaceuticals R&D, AstraZeneca, Cambridge, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Heidi C E Welch",
+            "affiliations": [
+              "Signalling Programme, The Babraham Institute, Cambridge, UK. Electronic address: heidi.welch@babraham.ac.uk."
+            ],
+            "orcid": null
+          }
+        ],
+        "abstract": "We investigated the roles of Rac guanine-nucleotide exchange factor (Rac-GEF) P-Rex1 in glucose homeostasis using Prex1-/- and catalytically inactive Prex1GD mice. P-Rex1 maintains fasting blood glucose levels and insulin sensitivity through its Rac-GEF activity but limits glucose clearance independently of its catalytic activity, throughout aging. Prex1-/- mice on a high-fat diet are protected from diabetes. The increased glucose clearance in Prex1-/- mice may stem in part from constitutively enhanced hepatic glucose uptake. P-Rex1 controls Glut2 surface levels and mitochondrial morphology, membrane potential, and ATP production in hepatocytes, independently of its catalytic activity. The inverse agonist GRA2 showed that P-Rex1 suppresses glucose uptake and mitochondrial ATP production in hepatocytes through the orphan GPCR Gpr21. Cell fractionation showed that P-Rex1 controls Gpr21 trafficking, independently of its catalytic activity. We propose that P-Rex1 limits hepatocyte glucose uptake by retaining Gpr21 at the plasma membrane. These findings delineate new strategies for controlling glucose homeostasis.",
+        "date": "2025-10-04",
+        "url": "https://doi.org/10.1016/j.celrep.2025.116357",
+        "doi": "10.1016/j.celrep.2025.116357",
+        "status": "published",
+        "journal": "Cell reports",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "David Baker",
+              "method": "rejected",
+              "affiliations": [
+                "Bioscience Metabolism, Research and Early Development, Cardiovascular, Renal and Metabolism (CVRM), BioPharmaceuticals R&D, AstraZeneca, Cambridge, UK."
+              ],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
     "pubmed:42189004": {
       "first_seen": "2026-09-18T11:12:20Z",
       "record": {
