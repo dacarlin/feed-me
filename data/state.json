@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-09-21T04:53:45Z",
+      "last_success": "2026-09-21T12:45:55Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-09-21T04:53:45Z",
+      "last_success": "2026-09-21T12:45:55Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-09-21T04:53:45Z",
+      "last_success": "2026-09-21T12:45:55Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -110,7 +110,8 @@
     "pubmed:41332769": "2026-09-20T04:52:37Z",
     "pubmed:41332722": "2026-09-20T04:52:37Z",
     "pubmed:41086805": "2026-09-20T04:52:37Z",
-    "pubmed:41659604": "2026-09-20T16:04:19Z"
+    "pubmed:41659604": "2026-09-20T16:04:19Z",
+    "biorxiv:10.1101/2025.11.20.689622": "2026-09-21T12:45:55Z"
   },
   "works": {
     "urn:uuid:7f477453-6c38-52e7-b591-accb9b0e6576": {
@@ -17087,7 +17088,7 @@
     "urn:uuid:9e012682-4c6a-50a3-b187-e8ed207714b5": {
       "id": "urn:uuid:9e012682-4c6a-50a3-b187-e8ed207714b5",
       "first_seen": "2026-09-20T04:52:37Z",
-      "updated": "2026-09-20T04:52:37Z",
+      "updated": "2026-09-21T12:45:55Z",
       "records": {
         "pubmed:41332769": {
           "source": "pubmed",
@@ -17256,6 +17257,165 @@
             "pmc:PMC12667880"
           ],
           "relations": []
+        },
+        "biorxiv:10.1101/2025.11.20.689622": {
+          "source": "biorxiv",
+          "source_id": "10.1101/2025.11.20.689622",
+          "title": "Computational design of metalloproteases",
+          "authors": [
+            {
+              "name": "Chen, A.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Wu, K.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Choi, H.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Venkatesh, P.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Pellock, S. J.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Hanikel, N.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Shin, H.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Evans, D.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Didi, K.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Schaaf, L. L.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Diaz-Perlas, C.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Coventry, B.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Kim, D.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Woodbury, S. M.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Ji, P.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Honda, S.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Bera, A.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Nguyen, H.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Kang, A.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Wang, Y.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Li, X.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Gerben, S.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Chang, L.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Yan, X.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Oller-Salvia, B.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Hyman, A. A.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Hilvert, D.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Baker, D.",
+              "affiliations": [
+                "University of Washington"
+              ],
+              "orcid": null
+            }
+          ],
+          "abstract": "Although significant progress has been made in creating de novo metalloenzymes that hydrolyze activated esters, the energetically demanding cleavage of amide bonds has remained a major challenge for enzyme design: amide bonds are significantly more stable than ester bonds, the amine leaving groups in proteins are not activated, and peptide substrates are flexible making them difficult to bind precisely. Here, we report the de novo design of zinc proteases from minimal catalytic motifs using RoseTTAFold Diffusion 2 for Molecular Interfaces, optimized for both enzyme and protein-protein interaction design. Of 135 computational designs experimentally tested, 36% had activity and cleaved precisely at the intended site. The most active design accelerates peptide bond hydrolysis by more than 10^8-fold relative to the uncatalyzed reaction, and by over 10^10-fold following the introduction of four point mutations that enhanced active-site preorganization4. Building on these capabilities, we designed metalloproteases that specifically cleave human TDP-43, the amyloid-{beta} peptide, and serum amyloid A with rate accelerations up to 9.2x10^8-fold over background. We illustrate the potential of our approach for bio-orthogonal control over cell state by generating caged cytokines and caged receptor antagonists that are selectively unmasked by our designed proteases. These results demonstrate that de novo enzyme design has advanced well beyond model reactions with activated substrates and open the door to design of proficient metallohydrolases for a wide range of applications in medicine and bioremediation.",
+          "date": "2026-09-21",
+          "url": "https://doi.org/10.1101/2025.11.20.689622",
+          "doi": "10.1101/2025.11.20.689622",
+          "status": "preprint",
+          "journal": "",
+          "version": "3",
+          "publication_date": "",
+          "identifiers": [],
+          "relations": []
         }
       },
       "matched_researchers": {
@@ -17271,6 +17431,14 @@
                 "orcid": "0000-0001-7896-6217"
               }
             ]
+          },
+          {
+            "record": "biorxiv:10.1101/2025.11.20.689622",
+            "matched": true,
+            "reason": "identity inherited through a strong work identifier",
+            "via_work": "urn:uuid:9e012682-4c6a-50a3-b187-e8ed207714b5",
+            "via_record": "pubmed:41332769",
+            "method": "shared_identifier"
           }
         ]
       },
@@ -17279,6 +17447,15 @@
           "record": "pubmed:41332769",
           "method": "new_work",
           "reason": "no existing work"
+        },
+        {
+          "record": "biorxiv:10.1101/2025.11.20.689622",
+          "rank": 3,
+          "method": "shared_identifier",
+          "identifiers": [
+            "doi:10.1101/2025.11.20.689622"
+          ],
+          "matched_record": "pubmed:41332769"
         }
       ],
       "published": "2025-11-21T00:00:00Z"
@@ -18141,6 +18318,169 @@
   },
   "aliases": {},
   "rejected": {
+    "biorxiv:10.1101/2025.11.21.689808": {
+      "first_seen": "2026-09-21T12:45:55Z",
+      "record": {
+        "source": "biorxiv",
+        "source_id": "10.1101/2025.11.21.689808",
+        "title": "De novo design of cysteine proteases",
+        "authors": [
+          {
+            "name": "Choi, H.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Bauer, M. S.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Coventry, B.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Venkatesh, P.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Chen, A.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Kim, D.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Bera, A. K.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Kang, A.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Nguyen, H.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Sadre, S.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Decarreau, J.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Joyce, E.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Shankaran, B.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Thompson, T. R.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Greenstein, G.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Didi, K.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Schaaf, L. L.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Gershon, J.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Shida, A. F.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Lee, G. R.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Hilvert, D.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Pellock, S. J.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Baker, D.",
+            "affiliations": [
+              "University of Washington"
+            ],
+            "orcid": null
+          }
+        ],
+        "abstract": "Despite advances in de novo enzyme design, success has been largely limited to low energy barrier model reactions. Amide bonds such as those linking amino acids along the peptide backbone are stable for hundreds of years in neutral aqueous solution because of the high energy barrier to hydrolysis. Here we describe the de novo design of enzymes which utilize an activated cysteine nucleophile to hydrolyze the polypeptide backbone in a sequence-dependent manner, with a success rate of 13/69=19% and rate enhancements over the background reaction (kcat/kuncat) of up to 3 x 10^7. The designed proteases have folds very different from proteases in nature (TM score < 0.50), and six crystal structures are very close to the design models (Ca RMSDs < 1.2 A), highlighting the capacity for generalization and the accuracy of the design methodology. Experimental and computational analyses suggest that the remaining gap in activity to the most active native cysteine proteases arises from imperfections in active site preorganization and substrate positioning. The designed proteases efficiently cleave their targets in mammalian cells, opening the door to a wide range of synthetic biology applications.",
+        "date": "2026-09-21",
+        "url": "https://doi.org/10.1101/2025.11.21.689808",
+        "doi": "10.1101/2025.11.21.689808",
+        "status": "preprint",
+        "journal": "",
+        "version": "3",
+        "publication_date": "",
+        "identifiers": [],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "Baker, D.",
+              "method": "rejected",
+              "affiliations": [
+                "University of Washington"
+              ],
+              "matched_affiliations": [
+                "University of Washington"
+              ],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
     "pubmed:41046518": {
       "first_seen": "2026-09-20T23:14:56Z",
       "record": {

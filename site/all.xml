@@ -7,7 +7,108 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-09-20T16:04:19Z</updated>
+  <updated>2026-09-21T12:45:55Z</updated>
+  <entry>
+    <id>urn:uuid:9e012682-4c6a-50a3-b187-e8ed207714b5</id>
+    <title>Computational design of metalloproteases</title>
+    <published>2025-11-21T00:00:00Z</published>
+    <updated>2026-09-21T12:45:55Z</updated>
+    <link href="https://doi.org/10.1101/2025.11.20.689622" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Chen, A.</name>
+    </author>
+    <author>
+      <name>Wu, K.</name>
+    </author>
+    <author>
+      <name>Choi, H.</name>
+    </author>
+    <author>
+      <name>Venkatesh, P.</name>
+    </author>
+    <author>
+      <name>Pellock, S. J.</name>
+    </author>
+    <author>
+      <name>Hanikel, N.</name>
+    </author>
+    <author>
+      <name>Shin, H.</name>
+    </author>
+    <author>
+      <name>Evans, D.</name>
+    </author>
+    <author>
+      <name>Didi, K.</name>
+    </author>
+    <author>
+      <name>Schaaf, L. L.</name>
+    </author>
+    <author>
+      <name>Diaz-Perlas, C.</name>
+    </author>
+    <author>
+      <name>Coventry, B.</name>
+    </author>
+    <author>
+      <name>Kim, D.</name>
+    </author>
+    <author>
+      <name>Woodbury, S. M.</name>
+    </author>
+    <author>
+      <name>Ji, P.</name>
+    </author>
+    <author>
+      <name>Honda, S.</name>
+    </author>
+    <author>
+      <name>Bera, A.</name>
+    </author>
+    <author>
+      <name>Nguyen, H.</name>
+    </author>
+    <author>
+      <name>Kang, A.</name>
+    </author>
+    <author>
+      <name>Wang, Y.</name>
+    </author>
+    <author>
+      <name>Li, X.</name>
+    </author>
+    <author>
+      <name>Gerben, S.</name>
+    </author>
+    <author>
+      <name>Chang, L.</name>
+    </author>
+    <author>
+      <name>Yan, X.</name>
+    </author>
+    <author>
+      <name>Oller-Salvia, B.</name>
+    </author>
+    <author>
+      <name>Hyman, A. A.</name>
+    </author>
+    <author>
+      <name>Hilvert, D.</name>
+    </author>
+    <author>
+      <name>Baker, D.</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Chen, A.; Wu, K.; Choi, H.; Venkatesh, P.; Pellock, S. J.; Hanikel, N.; Shin, H.; Evans, D.; Didi, K.; Schaaf, L. L.; Diaz-Perlas, C.; Coventry, B.; Kim, D.; Woodbury, S. M.; Ji, P.; Honda, S.; Bera, A.; Nguyen, H.; Kang, A.; Wang, Y.; Li, X.; Gerben, S.; Chang, L.; Yan, X.; Oller-Salvia, B.; Hyman, A. A.; Hilvert, D.; Baker, D.&lt;/p&gt;
+&lt;p&gt;Sources: biorxiv, pubmed&lt;/p&gt;
+&lt;p&gt;Preprint date: 2026-09-21&lt;/p&gt;
+&lt;p&gt;Although significant progress has been made in creating de novo metalloenzymes that hydrolyze activated esters, the energetically demanding cleavage of amide bonds has remained a major challenge for enzyme design: amide bonds are significantly more stable than ester bonds, the amine leaving groups in proteins are not activated, and peptide substrates are flexible making them difficult to bind precisely. Here, we report the de novo design of zinc proteases from minimal catalytic motifs using RoseTTAFold Diffusion 2 for Molecular Interfaces, optimized for both enzyme and protein-protein interaction design. Of 135 computational designs experimentally tested, 36% had activity and cleaved precisely at the intended site. The most active design accelerates peptide bond hydrolysis by more than 10^8-fold relative to the uncatalyzed reaction, and by over 10^10-fold following the introduction of four point mutations that enhanced active-site preorganization4. Building on these capabilities, we designed metalloproteases that specifically cleave human TDP-43, the amyloid-{beta} peptide, and serum amyloid A with rate accelerations up to 9.2x10^8-fold over background. We illustrate the potential of our approach for bio-orthogonal control over cell state by generating caged cytokines and caged receptor antagonists that are selectively unmasked by our designed proteases. These results demonstrate that de novo enzyme design has advanced well beyond model reactions with activated substrates and open the door to design of proficient metallohydrolases for a wide range of applications in medicine and bioremediation.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1101/2025.11.20.689622"&gt;biorxiv (preprint) — DOI: 10.1101/2025.11.20.689622&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1101/2025.11.20.689622"&gt;pubmed (preprint) — DOI: 10.1101/2025.11.20.689622&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
   <entry>
     <id>urn:uuid:bcda4bc3-56e6-5d49-b580-58d9b32c9d15</id>
     <title>De Novo Design and Structural Optimization of Mn(salen)-Based Artificial Metalloenzymes for Asymmetric Sulfoxidation.</title>
@@ -2944,77 +3045,6 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1021/jacs.5c16108"&gt;pubmed (published) — DOI: 10.1021/jacs.5c16108&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1021/jacs.5c16108"&gt;Published version — DOI: 10.1021/jacs.5c16108&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <id>urn:uuid:9e012682-4c6a-50a3-b187-e8ed207714b5</id>
-    <title>Computational design of metalloproteases.</title>
-    <published>2025-11-21T00:00:00Z</published>
-    <updated>2026-09-20T04:52:37Z</updated>
-    <link href="https://doi.org/10.1101/2025.11.20.689622" rel="alternate" />
-    <category term="preprint" />
-    <author>
-      <name>Anqi Chen</name>
-    </author>
-    <author>
-      <name>Kejia Wu</name>
-    </author>
-    <author>
-      <name>Hojae Choi</name>
-    </author>
-    <author>
-      <name>Preetham Venkatesh</name>
-    </author>
-    <author>
-      <name>Samuel J Pellock</name>
-    </author>
-    <author>
-      <name>Nikita Hanikel</name>
-    </author>
-    <author>
-      <name>Brian Coventry</name>
-    </author>
-    <author>
-      <name>Donghyo Kim</name>
-    </author>
-    <author>
-      <name>Seth M Woodbury</name>
-    </author>
-    <author>
-      <name>Pengfei Ji</name>
-    </author>
-    <author>
-      <name>Shingo Honda</name>
-    </author>
-    <author>
-      <name>Xinting Li</name>
-    </author>
-    <author>
-      <name>Stacey Gerben</name>
-    </author>
-    <author>
-      <name>Lemuel Chang</name>
-    </author>
-    <author>
-      <name>Xiao Yan</name>
-    </author>
-    <author>
-      <name>Anthony A Hyman</name>
-    </author>
-    <author>
-      <name>Donald Hilvert</name>
-    </author>
-    <author>
-      <name>David Baker</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Authors: Anqi Chen; Kejia Wu; Hojae Choi; Preetham Venkatesh; Samuel J Pellock; Nikita Hanikel; Brian Coventry; Donghyo Kim; Seth M Woodbury; Pengfei Ji; Shingo Honda; Xinting Li; Stacey Gerben; Lemuel Chang; Xiao Yan; Anthony A Hyman; Donald Hilvert; David Baker&lt;/p&gt;
-&lt;p&gt;Sources: pubmed&lt;/p&gt;
-&lt;p&gt;Preprint date: 2025-11-21&lt;/p&gt;
-&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
-&lt;p&gt;Although significant progress has been made in creating de novo metalloenzymes that hydrolyze activated esters1,2, the energetically demanding cleavage of amide bonds has remained a major challenge for enzyme design: amide bonds are significantly more stable than ester bonds, the amine leaving groups in proteins are not activated, and peptide substrates are flexible making them difficult to bind precisely. Here, we report the de novo design of zinc proteases from minimal catalytic motifs using a fine-tuned version of RoseTTAFold Diffusion 2, called RoseTTAFold Diffusion 2 for Molecular Interfaces3, optimized for both enzyme and protein-protein interaction design. In a single one-shot design round of 135 designs, 36% of the designs had activity and cleaved precisely at the intended site. The most active design accelerated peptide bond hydrolysis more than 108-fold over the uncatalyzed reaction4. These results demonstrated that de novo enzyme design has advanced well beyond model reactions with activated substrates, and open the door to design of proficient metallohydrolases for medicine and bioremediation.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://doi.org/10.1101/2025.11.20.689622"&gt;pubmed (preprint) — DOI: 10.1101/2025.11.20.689622&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
