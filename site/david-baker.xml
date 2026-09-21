@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-09-21T12:45:55Z</updated>
+  <updated>2026-09-21T19:58:59Z</updated>
   <entry>
     <id>urn:uuid:9e012682-4c6a-50a3-b187-e8ed207714b5</id>
     <title>Computational design of metalloproteases</title>
@@ -5743,6 +5743,57 @@
 &lt;/ul&gt;</content>
   </entry>
   <entry>
+    <id>urn:uuid:d07b42fb-c03a-59fe-99ac-b3d722dc1152</id>
+    <title>Directing polymorph specific calcium carbonate formation with de novo protein templates.</title>
+    <published>2023-12-14T00:00:00Z</published>
+    <updated>2026-09-21T19:58:59Z</updated>
+    <link href="https://doi.org/10.1038/s41467-023-43608-1" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Fatima A Davila-Hernandez</name>
+    </author>
+    <author>
+      <name>Biao Jin</name>
+    </author>
+    <author>
+      <name>Harley Pyles</name>
+    </author>
+    <author>
+      <name>Shuai Zhang</name>
+    </author>
+    <author>
+      <name>Zheming Wang</name>
+    </author>
+    <author>
+      <name>Timothy F Huddy</name>
+    </author>
+    <author>
+      <name>Asim K Bera</name>
+    </author>
+    <author>
+      <name>Alex Kang</name>
+    </author>
+    <author>
+      <name>Chun-Long Chen</name>
+    </author>
+    <author>
+      <name>James J De Yoreo</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Fatima A Davila-Hernandez; Biao Jin; Harley Pyles; Shuai Zhang; Zheming Wang; Timothy F Huddy; Asim K Bera; Alex Kang; Chun-Long Chen; James J De Yoreo; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2023-12-14&lt;/p&gt;
+&lt;p&gt;Journal: Nature communications&lt;/p&gt;
+&lt;p&gt;Biomolecules modulate inorganic crystallization to generate hierarchically structured biominerals, but the atomic structure of the organic-inorganic interfaces that regulate mineralization remain largely unknown. We hypothesized that heterogeneous nucleation of calcium carbonate could be achieved by a structured flat molecular template that pre-organizes calcium ions on its surface. To test this hypothesis, we design helical repeat proteins (DHRs) displaying regularly spaced carboxylate arrays on their surfaces and find that both protein monomers and protein-Ca2+ supramolecular assemblies directly nucleate nano-calcite with non-natural {110} or {202} faces while vaterite, which forms first in the absence of the proteins, is bypassed. These protein-stabilized nanocrystals then assemble by oriented attachment into calcite mesocrystals. We find further that nanocrystal size and polymorph can be tuned by varying the length and surface chemistry of the designed protein templates. Thus, bio-mineralization can be programmed using de novo protein design, providing a route to next-generation hybrid materials.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41467-023-43608-1"&gt;pubmed (published) — DOI: 10.1038/s41467-023-43608-1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41467-023-43608-1"&gt;Published version — DOI: 10.1038/s41467-023-43608-1&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
     <id>urn:uuid:af06e47e-1604-5510-98a4-f741615db7d4</id>
     <title>Design and structural validation of peptide-drug conjugate ligands of the kappa-opioid receptor.</title>
     <published>2023-12-06T00:00:00Z</published>
@@ -5941,6 +5992,93 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41563-023-01683-1"&gt;pubmed (published) — DOI: 10.1038/s41563-023-01683-1&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41563-023-01683-1"&gt;Published version — DOI: 10.1038/s41563-023-01683-1&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:5524da5c-5dee-5c56-9004-c867e10bb030</id>
+    <title>Design of stimulus-responsive two-state hinge proteins.</title>
+    <published>2023-08-17T00:00:00Z</published>
+    <updated>2026-09-21T19:58:59Z</updated>
+    <link href="https://doi.org/10.1126/science.adg7731" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Florian Praetorius</name>
+    </author>
+    <author>
+      <name>Philip J Y Leung</name>
+    </author>
+    <author>
+      <name>Maxx H Tessmer</name>
+    </author>
+    <author>
+      <name>Adam Broerman</name>
+    </author>
+    <author>
+      <name>Cullen Demakis</name>
+    </author>
+    <author>
+      <name>Acacia F Dishman</name>
+    </author>
+    <author>
+      <name>Arvind Pillai</name>
+    </author>
+    <author>
+      <name>Abbas Idris</name>
+    </author>
+    <author>
+      <name>David Juergens</name>
+    </author>
+    <author>
+      <name>Justas Dauparas</name>
+    </author>
+    <author>
+      <name>Xinting Li</name>
+    </author>
+    <author>
+      <name>Paul M Levine</name>
+    </author>
+    <author>
+      <name>Mila Lamb</name>
+    </author>
+    <author>
+      <name>Ryanne K Ballard</name>
+    </author>
+    <author>
+      <name>Stacey R Gerben</name>
+    </author>
+    <author>
+      <name>Hannah Nguyen</name>
+    </author>
+    <author>
+      <name>Alex Kang</name>
+    </author>
+    <author>
+      <name>Banumathi Sankaran</name>
+    </author>
+    <author>
+      <name>Asim K Bera</name>
+    </author>
+    <author>
+      <name>Brian F Volkman</name>
+    </author>
+    <author>
+      <name>Jeff Nivala</name>
+    </author>
+    <author>
+      <name>Stefan Stoll</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Florian Praetorius; Philip J Y Leung; Maxx H Tessmer; Adam Broerman; Cullen Demakis; Acacia F Dishman; Arvind Pillai; Abbas Idris; David Juergens; Justas Dauparas; Xinting Li; Paul M Levine; Mila Lamb; Ryanne K Ballard; Stacey R Gerben; Hannah Nguyen; Alex Kang; Banumathi Sankaran; Asim K Bera; Brian F Volkman; Jeff Nivala; Stefan Stoll; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2023-08-17&lt;/p&gt;
+&lt;p&gt;Journal: Science (New York, N.Y.)&lt;/p&gt;
+&lt;p&gt;In nature, proteins that switch between two conformations in response to environmental stimuli structurally transduce biochemical information in a manner analogous to how transistors control information flow in computing devices. Designing proteins with two distinct but fully structured conformations is a challenge for protein design as it requires sculpting an energy landscape with two distinct minima. Here we describe the design of &amp;quot;hinge&amp;quot; proteins that populate one designed state in the absence of ligand and a second designed state in the presence of ligand. X-ray crystallography, electron microscopy, double electron-electron resonance spectroscopy, and binding measurements demonstrate that despite the significant structural differences the two states are designed with atomic level accuracy and that the conformational and binding equilibria are closely coupled.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1126/science.adg7731"&gt;pubmed (published) — DOI: 10.1126/science.adg7731&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1126/science.adg7731"&gt;Published version — DOI: 10.1126/science.adg7731&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>

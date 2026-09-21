@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-09-18T20:53:28Z</updated>
+  <updated>2026-09-21T19:58:59Z</updated>
   <entry>
     <id>urn:uuid:549c333f-7164-59ed-aeac-18f2d08baa08</id>
     <title>Quantifying protein unfolding kinetics with a high-throughput microfluidic platform.</title>
@@ -68,6 +68,41 @@
 &lt;p&gt;The modular structure and energetics of RNA simplifies its folding. Leveraging this modularity, we introduce Rho ( ρ ) analysis to systematically dissect RNA conformational pathways. ρ analysis uses isolated RNA secondary or tertiary contacts as external standards to provide insights not possible via the &amp;quot;internal&amp;quot; comparisons of traditional ϕ analysis. Equivalent effects of a mutation on the folding rate constant of the RNA of interest and the thermodynamic stability of the isolated contact indicate that the mutated interaction is fully formed prior to the rate-limiting transition state; the absence of a kinetic effect indicates that the interaction is formed after this transition state. Comparisons with properties of the isolated contact provide additional insights about conformational pathways. We demonstrate ρ analysis by dissecting Tetrahymena group I intron folding pathways, using a split intron in which the P5abc subdomain assembles with the intron core through three tertiary contacts. We uncover multiple folding pathways and modulation in pathway flux that are readily understood from the energetic properties of the constituent RNA motifs. Extending these concepts to RNA-guided DNA recognition by CRISPR-Cas12a, crRNA-DNA mismatches give substantial ϕ values across much of the target, indicating a late transition state in binding. Thermodynamic penalties from mismatches support modular base-pairing energetics and define an upper bound on DNA target specificity. Our results establish ρ analysis as a general framework to probe RNA conformational pathways and function. It is straightforward to implement and can be readily applied in vitro and in cells.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.07.18.739347"&gt;pubmed (preprint) — DOI: 10.64898/2026.07.18.739347&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:b9d0d7cd-423d-544d-bf92-2dca8af6459d</id>
+    <title>High-throughput biochemical phenotyping of SHP2 variants reveals the molecular basis of diseases and allosteric drug inhibition.</title>
+    <published>2026-04-02T00:00:00Z</published>
+    <updated>2026-09-21T19:58:59Z</updated>
+    <link href="https://doi.org/10.64898/2026.03.30.715055" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Albert A Lee</name>
+    </author>
+    <author>
+      <name>Daniel A Mokhtari</name>
+    </author>
+    <author>
+      <name>Emily D Egan</name>
+    </author>
+    <author>
+      <name>Stephen C Blacklow</name>
+    </author>
+    <author>
+      <name>Daniel Herschlag</name>
+    </author>
+    <author>
+      <name>Polly M Fordyce</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Albert A Lee; Daniel A Mokhtari; Emily D Egan; Stephen C Blacklow; Daniel Herschlag; Polly M Fordyce&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Preprint date: 2026-04-02&lt;/p&gt;
+&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
+&lt;p&gt;Interpreting clinical and functional consequences of genetic variants remains challenging due to limited quantitative biochemical data at scale. We applied high-throughput microfluidic enzyme kinetics to profile 190 clinical variants of SHP2, a protein tyrosine phosphatase linked to developmental disorders and cancers. Through &amp;gt;300,000 reaction progress curves, we derived kinetic and thermodynamic parameters quantifying variant effects on catalysis, autoinhibition, stability, phosphopeptide binding, and drug responses. This multidimensional dataset reveals that dysregulated autoinhibition, rather than altered stability or catalysis, predominantly determines SHP2-associated pathogenesis. Thermodynamic modeling reveals that clinical-stage allosteric inhibitors preferentially stabilize a previously underappreciated, partially active conformation over the fully inactive state, leading to variant-dependent drug responses. Our high-throughput biochemical framework establishes a general approach to decipher the biochemical logic connecting protein variants to clinical outcomes.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.03.30.715055"&gt;pubmed (preprint) — DOI: 10.64898/2026.03.30.715055&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>

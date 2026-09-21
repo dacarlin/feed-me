@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-09-21T12:45:55Z",
+      "last_success": "2026-09-21T19:58:59Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-09-21T12:45:55Z",
+      "last_success": "2026-09-21T19:58:59Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-09-21T12:45:55Z",
+      "last_success": "2026-09-21T19:58:59Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -111,7 +111,10 @@
     "pubmed:41332722": "2026-09-20T04:52:37Z",
     "pubmed:41086805": "2026-09-20T04:52:37Z",
     "pubmed:41659604": "2026-09-20T16:04:19Z",
-    "biorxiv:10.1101/2025.11.20.689622": "2026-09-21T12:45:55Z"
+    "biorxiv:10.1101/2025.11.20.689622": "2026-09-21T12:45:55Z",
+    "pubmed:41959461": "2026-09-21T19:58:59Z",
+    "pubmed:38097544": "2026-09-21T19:58:59Z",
+    "pubmed:37590357": "2026-09-21T19:58:59Z"
   },
   "works": {
     "urn:uuid:7f477453-6c38-52e7-b591-accb9b0e6576": {
@@ -18314,6 +18317,481 @@
         }
       ],
       "published": "2026-01-31T00:00:00Z"
+    },
+    "urn:uuid:5524da5c-5dee-5c56-9004-c867e10bb030": {
+      "id": "urn:uuid:5524da5c-5dee-5c56-9004-c867e10bb030",
+      "first_seen": "2026-09-21T19:58:59Z",
+      "updated": "2026-09-21T19:58:59Z",
+      "records": {
+        "pubmed:37590357": {
+          "source": "pubmed",
+          "source_id": "37590357",
+          "title": "Design of stimulus-responsive two-state hinge proteins.",
+          "authors": [
+            {
+              "name": "Florian Praetorius",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-0806-8101"
+            },
+            {
+              "name": "Philip J Y Leung",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Graduate Program in Molecular Engineering, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-1801-8968"
+            },
+            {
+              "name": "Maxx H Tessmer",
+              "affiliations": [
+                "Department of Chemistry, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-6357-3496"
+            },
+            {
+              "name": "Adam Broerman",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Department of Chemical Engineering, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-6878-1769"
+            },
+            {
+              "name": "Cullen Demakis",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Graduate Program in Biological Physics, Structure, and Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-7553-1437"
+            },
+            {
+              "name": "Acacia F Dishman",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Department of Biochemistry, Medical College of Wisconsin, Milwaukee, WI, USA.",
+                "Medical Scientist Training Program, Medical College of Wisconsin, Milwaukee, WI, USA."
+              ],
+              "orcid": "0000-0002-8952-8551"
+            },
+            {
+              "name": "Arvind Pillai",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-5012-1199"
+            },
+            {
+              "name": "Abbas Idris",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Department of Bioengineering, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-4928-8426"
+            },
+            {
+              "name": "David Juergens",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Graduate Program in Molecular Engineering, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-6425-8391"
+            },
+            {
+              "name": "Justas Dauparas",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-0030-144X"
+            },
+            {
+              "name": "Xinting Li",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-5559-7578"
+            },
+            {
+              "name": "Paul M Levine",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0003-4874-5557"
+            },
+            {
+              "name": "Mila Lamb",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-7318-1805"
+            },
+            {
+              "name": "Ryanne K Ballard",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0003-4895-130X"
+            },
+            {
+              "name": "Stacey R Gerben",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0003-0313-6248"
+            },
+            {
+              "name": "Hannah Nguyen",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-9696-4004"
+            },
+            {
+              "name": "Alex Kang",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-5487-0499"
+            },
+            {
+              "name": "Banumathi Sankaran",
+              "affiliations": [
+                "Molecular Biophysics and Integrated Bioimaging, Lawrence Berkeley National Laboratory, Berkeley, CA, USA."
+              ],
+              "orcid": "0000-0002-3266-8131"
+            },
+            {
+              "name": "Asim K Bera",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-9473-2912"
+            },
+            {
+              "name": "Brian F Volkman",
+              "affiliations": [
+                "Department of Biochemistry, Medical College of Wisconsin, Milwaukee, WI, USA."
+              ],
+              "orcid": "0000-0002-6681-5179"
+            },
+            {
+              "name": "Jeff Nivala",
+              "affiliations": [
+                "Paul G. Allen School of Computer Science and Engineering, University of Washington, Seattle, WA, USA.",
+                "Molecular Engineering and Sciences Institute, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-8210-5417"
+            },
+            {
+              "name": "Stefan Stoll",
+              "affiliations": [
+                "Department of Chemistry, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-7896-6217"
+            }
+          ],
+          "abstract": "In nature, proteins that switch between two conformations in response to environmental stimuli structurally transduce biochemical information in a manner analogous to how transistors control information flow in computing devices. Designing proteins with two distinct but fully structured conformations is a challenge for protein design as it requires sculpting an energy landscape with two distinct minima. Here we describe the design of \"hinge\" proteins that populate one designed state in the absence of ligand and a second designed state in the presence of ligand. X-ray crystallography, electron microscopy, double electron-electron resonance spectroscopy, and binding measurements demonstrate that despite the significant structural differences the two states are designed with atomic level accuracy and that the conformational and binding equilibria are closely coupled.",
+          "date": "2023-08-17",
+          "url": "https://doi.org/10.1126/science.adg7731",
+          "doi": "10.1126/science.adg7731",
+          "status": "published",
+          "journal": "Science (New York, N.Y.)",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC10697137"
+          ],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:37590357",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:37590357",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2023-08-17T00:00:00Z"
+    },
+    "urn:uuid:d07b42fb-c03a-59fe-99ac-b3d722dc1152": {
+      "id": "urn:uuid:d07b42fb-c03a-59fe-99ac-b3d722dc1152",
+      "first_seen": "2026-09-21T19:58:59Z",
+      "updated": "2026-09-21T19:58:59Z",
+      "records": {
+        "pubmed:38097544": {
+          "source": "pubmed",
+          "source_id": "38097544",
+          "title": "Directing polymorph specific calcium carbonate formation with de novo protein templates.",
+          "authors": [
+            {
+              "name": "Fatima A Davila-Hernandez",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, 98105, USA.",
+                "Molecular Engineering Graduate Program, University of Washington, Seattle, WA, 98105, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Biao Jin",
+              "affiliations": [
+                "Physical Sciences Division, Pacific Northwest National Laboratory, Richland, WA, 99352, USA. biao.jin@pnnl.gov.",
+                "Department of Materials Science and Engineering, University of Washington, Seattle, WA, 98195, USA. biao.jin@pnnl.gov."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Harley Pyles",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, 98105, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Shuai Zhang",
+              "affiliations": [
+                "Physical Sciences Division, Pacific Northwest National Laboratory, Richland, WA, 99352, USA.",
+                "Department of Materials Science and Engineering, University of Washington, Seattle, WA, 98195, USA."
+              ],
+              "orcid": "0000-0003-0170-6470"
+            },
+            {
+              "name": "Zheming Wang",
+              "affiliations": [
+                "Physical Sciences Division, Pacific Northwest National Laboratory, Richland, WA, 99352, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Timothy F Huddy",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, 98105, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Asim K Bera",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, 98105, USA."
+              ],
+              "orcid": "0000-0001-9473-2912"
+            },
+            {
+              "name": "Alex Kang",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, 98105, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Chun-Long Chen",
+              "affiliations": [
+                "Physical Sciences Division, Pacific Northwest National Laboratory, Richland, WA, 99352, USA.",
+                "Department of Chemical Engineering, University of Washington, Seattle, WA, 98195, USA."
+              ],
+              "orcid": "0000-0002-5584-824X"
+            },
+            {
+              "name": "James J De Yoreo",
+              "affiliations": [
+                "Physical Sciences Division, Pacific Northwest National Laboratory, Richland, WA, 99352, USA. James.DeYoreo@pnnl.gov.",
+                "Department of Materials Science and Engineering, University of Washington, Seattle, WA, 98195, USA. James.DeYoreo@pnnl.gov."
+              ],
+              "orcid": "0000-0002-9541-733X"
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, 98195, USA. dabaker@uw.edu.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, 98105, USA. dabaker@uw.edu.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, 98105, USA. dabaker@uw.edu."
+              ],
+              "orcid": "0000-0001-7896-6217"
+            }
+          ],
+          "abstract": "Biomolecules modulate inorganic crystallization to generate hierarchically structured biominerals, but the atomic structure of the organic-inorganic interfaces that regulate mineralization remain largely unknown. We hypothesized that heterogeneous nucleation of calcium carbonate could be achieved by a structured flat molecular template that pre-organizes calcium ions on its surface. To test this hypothesis, we design helical repeat proteins (DHRs) displaying regularly spaced carboxylate arrays on their surfaces and find that both protein monomers and protein-Ca2+ supramolecular assemblies directly nucleate nano-calcite with non-natural {110} or {202} faces while vaterite, which forms first in the absence of the proteins, is bypassed. These protein-stabilized nanocrystals then assemble by oriented attachment into calcite mesocrystals. We find further that nanocrystal size and polymorph can be tuned by varying the length and surface chemistry of the designed protein templates. Thus, bio-mineralization can be programmed using de novo protein design, providing a route to next-generation hybrid materials.",
+          "date": "2023-12-14",
+          "url": "https://doi.org/10.1038/s41467-023-43608-1",
+          "doi": "10.1038/s41467-023-43608-1",
+          "status": "published",
+          "journal": "Nature communications",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC10721895"
+          ],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:38097544",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:38097544",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2023-12-14T00:00:00Z"
+    },
+    "urn:uuid:b9d0d7cd-423d-544d-bf92-2dca8af6459d": {
+      "id": "urn:uuid:b9d0d7cd-423d-544d-bf92-2dca8af6459d",
+      "first_seen": "2026-09-21T19:58:59Z",
+      "updated": "2026-09-21T19:58:59Z",
+      "records": {
+        "pubmed:41959461": {
+          "source": "pubmed",
+          "source_id": "41959461",
+          "title": "High-throughput biochemical phenotyping of SHP2 variants reveals the molecular basis of diseases and allosteric drug inhibition.",
+          "authors": [
+            {
+              "name": "Albert A Lee",
+              "affiliations": [
+                "Department of Genetics, Stanford University, Stanford, CA 94305."
+              ],
+              "orcid": "0000-0002-7238-1274"
+            },
+            {
+              "name": "Daniel A Mokhtari",
+              "affiliations": [
+                "Department of Biochemistry, Stanford University, Stanford, CA 94305.",
+                "Velocity Bio, San Carlos, CA 94070."
+              ],
+              "orcid": "0000-0003-4206-9471"
+            },
+            {
+              "name": "Emily D Egan",
+              "affiliations": [
+                "Department of Biological Chemistry and Molecular Pharmacology, Blavatnik Institute, Harvard Medical School, Cambridge, MA 02115."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Stephen C Blacklow",
+              "affiliations": [
+                "Department of Biological Chemistry and Molecular Pharmacology, Blavatnik Institute, Harvard Medical School, Cambridge, MA 02115.",
+                "Department of Cancer Biology, Dana Farber Cancer Institute, Boston, MA 02215.",
+                "Broad Institute of Harvard and MIT, Cambridge, MA 02142."
+              ],
+              "orcid": "0000-0002-6904-1981"
+            },
+            {
+              "name": "Daniel Herschlag",
+              "affiliations": [
+                "Department of Biochemistry, Stanford University, Stanford, CA 94305."
+              ],
+              "orcid": "0000-0002-4685-1973"
+            },
+            {
+              "name": "Polly M Fordyce",
+              "affiliations": [
+                "Department of Genetics, Stanford University, Stanford, CA 94305.",
+                "Department of Bioengineering, Stanford University, Stanford, CA 94305.",
+                "Sarafan ChEM-H, Stanford University, Stanford, CA 94305.",
+                "Chan Zuckerberg Biohub San Francisco, San Francisco, CA 94110."
+              ],
+              "orcid": "0000-0002-9505-0638"
+            }
+          ],
+          "abstract": "Interpreting clinical and functional consequences of genetic variants remains challenging due to limited quantitative biochemical data at scale. We applied high-throughput microfluidic enzyme kinetics to profile 190 clinical variants of SHP2, a protein tyrosine phosphatase linked to developmental disorders and cancers. Through >300,000 reaction progress curves, we derived kinetic and thermodynamic parameters quantifying variant effects on catalysis, autoinhibition, stability, phosphopeptide binding, and drug responses. This multidimensional dataset reveals that dysregulated autoinhibition, rather than altered stability or catalysis, predominantly determines SHP2-associated pathogenesis. Thermodynamic modeling reveals that clinical-stage allosteric inhibitors preferentially stabilize a previously underappreciated, partially active conformation over the fully inactive state, leading to variant-dependent drug responses. Our high-throughput biochemical framework establishes a general approach to decipher the biochemical logic connecting protein variants to clinical outcomes.",
+          "date": "2026-04-02",
+          "url": "https://doi.org/10.64898/2026.03.30.715055",
+          "doi": "10.64898/2026.03.30.715055",
+          "status": "preprint",
+          "journal": "bioRxiv : the preprint server for biology",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC13060101"
+          ],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "daniel-herschlag": [
+          {
+            "record": "pubmed:41959461",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "Daniel Herschlag",
+                "method": "orcid",
+                "orcid": "0000-0002-4685-1973"
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:41959461",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2026-04-02T00:00:00Z"
     }
   },
   "aliases": {},

@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-09-21T12:45:55Z</updated>
+  <updated>2026-09-21T19:58:59Z</updated>
   <entry>
     <id>urn:uuid:9e012682-4c6a-50a3-b187-e8ed207714b5</id>
     <title>Computational design of metalloproteases</title>
@@ -1984,6 +1984,41 @@
 &lt;p&gt;Current single molecule methods either rely on fluorescence or lack chemical information. Here we report stimulated Raman photothermal encoded scattering (SRPSCAT) microscopy for quantitative bond-selective imaging of single-biomolecule structures and interactions in native environments. In this approach, scattering of the target molecule is modulated by the deposited energy from stimulated Raman gain and loss processes, thereby encoding vibrational spectroscopic information. Leveraging single-molecule sensitivity of interferometric scattering, SRPSCAT can map single proteins with chemical specificity, determine their mass, and distinguish protein secondary structures based on their Raman fingerprints. Furthermore, single protein binding kinetics are quantified and the conformational dynamics of single de novo designed allosteric proteins are observed. Together, these results highlight the potential of SRPSCAT for label-free structural, functional and dynamic analysis at the single-molecule level.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://pubmed.ncbi.nlm.nih.gov/41994174/"&gt;pubmed (preprint)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:b9d0d7cd-423d-544d-bf92-2dca8af6459d</id>
+    <title>High-throughput biochemical phenotyping of SHP2 variants reveals the molecular basis of diseases and allosteric drug inhibition.</title>
+    <published>2026-04-02T00:00:00Z</published>
+    <updated>2026-09-21T19:58:59Z</updated>
+    <link href="https://doi.org/10.64898/2026.03.30.715055" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Albert A Lee</name>
+    </author>
+    <author>
+      <name>Daniel A Mokhtari</name>
+    </author>
+    <author>
+      <name>Emily D Egan</name>
+    </author>
+    <author>
+      <name>Stephen C Blacklow</name>
+    </author>
+    <author>
+      <name>Daniel Herschlag</name>
+    </author>
+    <author>
+      <name>Polly M Fordyce</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Albert A Lee; Daniel A Mokhtari; Emily D Egan; Stephen C Blacklow; Daniel Herschlag; Polly M Fordyce&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Preprint date: 2026-04-02&lt;/p&gt;
+&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
+&lt;p&gt;Interpreting clinical and functional consequences of genetic variants remains challenging due to limited quantitative biochemical data at scale. We applied high-throughput microfluidic enzyme kinetics to profile 190 clinical variants of SHP2, a protein tyrosine phosphatase linked to developmental disorders and cancers. Through &amp;gt;300,000 reaction progress curves, we derived kinetic and thermodynamic parameters quantifying variant effects on catalysis, autoinhibition, stability, phosphopeptide binding, and drug responses. This multidimensional dataset reveals that dysregulated autoinhibition, rather than altered stability or catalysis, predominantly determines SHP2-associated pathogenesis. Thermodynamic modeling reveals that clinical-stage allosteric inhibitors preferentially stabilize a previously underappreciated, partially active conformation over the fully inactive state, leading to variant-dependent drug responses. Our high-throughput biochemical framework establishes a general approach to decipher the biochemical logic connecting protein variants to clinical outcomes.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.03.30.715055"&gt;pubmed (preprint) — DOI: 10.64898/2026.03.30.715055&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
@@ -5846,6 +5881,57 @@
 &lt;/ul&gt;</content>
   </entry>
   <entry>
+    <id>urn:uuid:d07b42fb-c03a-59fe-99ac-b3d722dc1152</id>
+    <title>Directing polymorph specific calcium carbonate formation with de novo protein templates.</title>
+    <published>2023-12-14T00:00:00Z</published>
+    <updated>2026-09-21T19:58:59Z</updated>
+    <link href="https://doi.org/10.1038/s41467-023-43608-1" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Fatima A Davila-Hernandez</name>
+    </author>
+    <author>
+      <name>Biao Jin</name>
+    </author>
+    <author>
+      <name>Harley Pyles</name>
+    </author>
+    <author>
+      <name>Shuai Zhang</name>
+    </author>
+    <author>
+      <name>Zheming Wang</name>
+    </author>
+    <author>
+      <name>Timothy F Huddy</name>
+    </author>
+    <author>
+      <name>Asim K Bera</name>
+    </author>
+    <author>
+      <name>Alex Kang</name>
+    </author>
+    <author>
+      <name>Chun-Long Chen</name>
+    </author>
+    <author>
+      <name>James J De Yoreo</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Fatima A Davila-Hernandez; Biao Jin; Harley Pyles; Shuai Zhang; Zheming Wang; Timothy F Huddy; Asim K Bera; Alex Kang; Chun-Long Chen; James J De Yoreo; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2023-12-14&lt;/p&gt;
+&lt;p&gt;Journal: Nature communications&lt;/p&gt;
+&lt;p&gt;Biomolecules modulate inorganic crystallization to generate hierarchically structured biominerals, but the atomic structure of the organic-inorganic interfaces that regulate mineralization remain largely unknown. We hypothesized that heterogeneous nucleation of calcium carbonate could be achieved by a structured flat molecular template that pre-organizes calcium ions on its surface. To test this hypothesis, we design helical repeat proteins (DHRs) displaying regularly spaced carboxylate arrays on their surfaces and find that both protein monomers and protein-Ca2+ supramolecular assemblies directly nucleate nano-calcite with non-natural {110} or {202} faces while vaterite, which forms first in the absence of the proteins, is bypassed. These protein-stabilized nanocrystals then assemble by oriented attachment into calcite mesocrystals. We find further that nanocrystal size and polymorph can be tuned by varying the length and surface chemistry of the designed protein templates. Thus, bio-mineralization can be programmed using de novo protein design, providing a route to next-generation hybrid materials.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41467-023-43608-1"&gt;pubmed (published) — DOI: 10.1038/s41467-023-43608-1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41467-023-43608-1"&gt;Published version — DOI: 10.1038/s41467-023-43608-1&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
     <id>urn:uuid:af06e47e-1604-5510-98a4-f741615db7d4</id>
     <title>Design and structural validation of peptide-drug conjugate ligands of the kappa-opioid receptor.</title>
     <published>2023-12-06T00:00:00Z</published>
@@ -6044,6 +6130,93 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41563-023-01683-1"&gt;pubmed (published) — DOI: 10.1038/s41563-023-01683-1&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41563-023-01683-1"&gt;Published version — DOI: 10.1038/s41563-023-01683-1&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:5524da5c-5dee-5c56-9004-c867e10bb030</id>
+    <title>Design of stimulus-responsive two-state hinge proteins.</title>
+    <published>2023-08-17T00:00:00Z</published>
+    <updated>2026-09-21T19:58:59Z</updated>
+    <link href="https://doi.org/10.1126/science.adg7731" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Florian Praetorius</name>
+    </author>
+    <author>
+      <name>Philip J Y Leung</name>
+    </author>
+    <author>
+      <name>Maxx H Tessmer</name>
+    </author>
+    <author>
+      <name>Adam Broerman</name>
+    </author>
+    <author>
+      <name>Cullen Demakis</name>
+    </author>
+    <author>
+      <name>Acacia F Dishman</name>
+    </author>
+    <author>
+      <name>Arvind Pillai</name>
+    </author>
+    <author>
+      <name>Abbas Idris</name>
+    </author>
+    <author>
+      <name>David Juergens</name>
+    </author>
+    <author>
+      <name>Justas Dauparas</name>
+    </author>
+    <author>
+      <name>Xinting Li</name>
+    </author>
+    <author>
+      <name>Paul M Levine</name>
+    </author>
+    <author>
+      <name>Mila Lamb</name>
+    </author>
+    <author>
+      <name>Ryanne K Ballard</name>
+    </author>
+    <author>
+      <name>Stacey R Gerben</name>
+    </author>
+    <author>
+      <name>Hannah Nguyen</name>
+    </author>
+    <author>
+      <name>Alex Kang</name>
+    </author>
+    <author>
+      <name>Banumathi Sankaran</name>
+    </author>
+    <author>
+      <name>Asim K Bera</name>
+    </author>
+    <author>
+      <name>Brian F Volkman</name>
+    </author>
+    <author>
+      <name>Jeff Nivala</name>
+    </author>
+    <author>
+      <name>Stefan Stoll</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Florian Praetorius; Philip J Y Leung; Maxx H Tessmer; Adam Broerman; Cullen Demakis; Acacia F Dishman; Arvind Pillai; Abbas Idris; David Juergens; Justas Dauparas; Xinting Li; Paul M Levine; Mila Lamb; Ryanne K Ballard; Stacey R Gerben; Hannah Nguyen; Alex Kang; Banumathi Sankaran; Asim K Bera; Brian F Volkman; Jeff Nivala; Stefan Stoll; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2023-08-17&lt;/p&gt;
+&lt;p&gt;Journal: Science (New York, N.Y.)&lt;/p&gt;
+&lt;p&gt;In nature, proteins that switch between two conformations in response to environmental stimuli structurally transduce biochemical information in a manner analogous to how transistors control information flow in computing devices. Designing proteins with two distinct but fully structured conformations is a challenge for protein design as it requires sculpting an energy landscape with two distinct minima. Here we describe the design of &amp;quot;hinge&amp;quot; proteins that populate one designed state in the absence of ligand and a second designed state in the presence of ligand. X-ray crystallography, electron microscopy, double electron-electron resonance spectroscopy, and binding measurements demonstrate that despite the significant structural differences the two states are designed with atomic level accuracy and that the conformational and binding equilibria are closely coupled.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1126/science.adg7731"&gt;pubmed (published) — DOI: 10.1126/science.adg7731&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1126/science.adg7731"&gt;Published version — DOI: 10.1126/science.adg7731&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
