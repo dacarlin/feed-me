@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-09-21T19:58:59Z</updated>
+  <updated>2026-09-22T00:07:13Z</updated>
   <entry>
     <id>urn:uuid:9e012682-4c6a-50a3-b187-e8ed207714b5</id>
     <title>Computational design of metalloproteases</title>
@@ -4565,6 +4565,72 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41587-024-02456-0"&gt;pubmed (published) — DOI: 10.1038/s41587-024-02456-0&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41587-024-02456-0"&gt;Published version — DOI: 10.1038/s41587-024-02456-0&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:a3a791e9-c29f-58a4-9069-bee60cd712bf</id>
+    <title>Computational design of bifaceted protein nanomaterials.</title>
+    <published>2025-07-31T00:00:00Z</published>
+    <updated>2026-09-22T00:07:13Z</updated>
+    <link href="https://doi.org/10.1038/s41563-025-02295-7" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Sanela Rankovic</name>
+    </author>
+    <author>
+      <name>Kenneth D Carr</name>
+    </author>
+    <author>
+      <name>Justin Decarreau</name>
+    </author>
+    <author>
+      <name>Rebecca Skotheim</name>
+    </author>
+    <author>
+      <name>Ryan D Kibler</name>
+    </author>
+    <author>
+      <name>Sebastian Ols</name>
+    </author>
+    <author>
+      <name>Sangmin Lee</name>
+    </author>
+    <author>
+      <name>Jung-Ho Chun</name>
+    </author>
+    <author>
+      <name>Marti R Tooley</name>
+    </author>
+    <author>
+      <name>Justas Dauparas</name>
+    </author>
+    <author>
+      <name>Helen E Eisenach</name>
+    </author>
+    <author>
+      <name>Matthias Glögl</name>
+    </author>
+    <author>
+      <name>Connor Weidle</name>
+    </author>
+    <author>
+      <name>Andrew J Borst</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Neil P King</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Sanela Rankovic; Kenneth D Carr; Justin Decarreau; Rebecca Skotheim; Ryan D Kibler; Sebastian Ols; Sangmin Lee; Jung-Ho Chun; Marti R Tooley; Justas Dauparas; Helen E Eisenach; Matthias Glögl; Connor Weidle; Andrew J Borst; David Baker; Neil P King&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2025-07-31&lt;/p&gt;
+&lt;p&gt;Journal: Nature materials&lt;/p&gt;
+&lt;p&gt;Advances in computational methods have led to considerable progress in the design of protein nanomaterials. However, nearly all nanoparticles designed so far exhibit strict point group symmetry, which limits structural diversity and precludes anisotropic functionalization. Here we describe a computational strategy for designing multicomponent bifaceted protein nanomaterials with two distinctly addressable sides. The method centres on docking pseudosymmetric hetero-oligomeric building blocks in architectures with dihedral symmetry and designing an asymmetric protein-protein interface between them. We obtain an initial 30-subunit assembly with pseudo-D5 symmetry and generate variants in which we alter the size and morphology of the bifaceted nanoparticles by designing extensions to one of the subunits. Functionalization of the two nanoparticle faces with protein minibinders enables the specific colocalization of two populations of polystyrene microparticles coated with the target protein receptors. The ability to accurately design anisotropic protein nanoparticles could be broadly useful in applications requiring the colocalization of distinct target moieties.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41563-025-02295-7"&gt;pubmed (published) — DOI: 10.1038/s41563-025-02295-7&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41563-025-02295-7"&gt;Published version — DOI: 10.1038/s41563-025-02295-7&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
