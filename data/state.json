@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-09-22T11:36:20Z",
+      "last_success": "2026-09-22T16:56:50Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-09-22T11:36:20Z",
+      "last_success": "2026-09-22T16:56:50Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-09-22T11:36:20Z",
+      "last_success": "2026-09-22T16:56:50Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -115,7 +115,9 @@
     "pubmed:41959461": "2026-09-21T19:58:59Z",
     "pubmed:38097544": "2026-09-21T19:58:59Z",
     "pubmed:37590357": "2026-09-21T19:58:59Z",
-    "pubmed:40745094": "2026-09-22T00:07:13Z"
+    "pubmed:40745094": "2026-09-22T00:07:13Z",
+    "pubmed:39143214": "2026-09-22T16:56:50Z",
+    "pubmed:38187589": "2026-09-22T16:56:50Z"
   },
   "works": {
     "urn:uuid:7f477453-6c38-52e7-b591-accb9b0e6576": {
@@ -14220,7 +14222,7 @@
     "urn:uuid:67ff67b3-580d-5292-9a93-dbebbe0843ee": {
       "id": "urn:uuid:67ff67b3-580d-5292-9a93-dbebbe0843ee",
       "first_seen": "2026-09-18T11:12:20Z",
-      "updated": "2026-09-18T11:12:20Z",
+      "updated": "2026-09-22T16:56:50Z",
       "records": {
         "pubmed:42754580": {
           "source": "pubmed",
@@ -14370,7 +14372,9 @@
           "journal": "Nature communications",
           "version": "",
           "publication_date": "",
-          "identifiers": [],
+          "identifiers": [
+            "pmc:PMC13586242"
+          ],
           "relations": []
         }
       },
@@ -14395,6 +14399,16 @@
           "record": "pubmed:42754580",
           "method": "new_work",
           "reason": "no existing work"
+        },
+        {
+          "record": "pubmed:42754580",
+          "rank": 3,
+          "method": "shared_identifier",
+          "identifiers": [
+            "doi:10.1038/s41467-026-76740-9",
+            "pubmed:42754580"
+          ],
+          "matched_record": "pubmed:42754580"
         }
       ],
       "published": "2026-08-20T00:00:00Z"
@@ -18978,10 +18992,526 @@
         }
       ],
       "published": "2025-07-31T00:00:00Z"
+    },
+    "urn:uuid:5f2dc035-9511-5b67-b098-8d49f1097426": {
+      "id": "urn:uuid:5f2dc035-9511-5b67-b098-8d49f1097426",
+      "first_seen": "2026-09-22T16:56:50Z",
+      "updated": "2026-09-22T16:56:50Z",
+      "records": {
+        "pubmed:38187589": {
+          "source": "pubmed",
+          "source_id": "38187589",
+          "title": "De novo design of diverse small molecule binders and sensors using Shape Complementary Pseudocycles.",
+          "authors": [
+            {
+              "name": "Linna An",
+              "affiliations": [
+                "Department of Biochemistry, The University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-9858-9105"
+            },
+            {
+              "name": "Meerit Said",
+              "affiliations": [
+                "Department of Biochemistry, The University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Long Tran",
+              "affiliations": [
+                "Department of Chemical Engineering, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Sagardip Majumder",
+              "affiliations": [
+                "Department of Biochemistry, The University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Inna Goreshnik",
+              "affiliations": [
+                "Department of Biochemistry, The University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Gyu Rie Lee",
+              "affiliations": [
+                "Department of Biochemistry, The University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David Juergens",
+              "affiliations": [
+                "Department of Biochemistry, The University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Justas Dauparas",
+              "affiliations": [
+                "Department of Biochemistry, The University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Ivan Anishchenko",
+              "affiliations": [
+                "Department of Biochemistry, The University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Brian Coventry",
+              "affiliations": [
+                "Department of Biochemistry, The University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Asim K Bera",
+              "affiliations": [
+                "Department of Biochemistry, The University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Alex Kang",
+              "affiliations": [
+                "Department of Biochemistry, The University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Paul M Levine",
+              "affiliations": [
+                "Department of Biochemistry, The University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Valentina Alvarez",
+              "affiliations": [
+                "Department of Biochemistry, The University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Arvind Pillai",
+              "affiliations": [
+                "Department of Biochemistry, The University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Christoffer Norn",
+              "affiliations": [
+                "BioInnovation Institute, DK2200 Copenhagen N, Denmark."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David Feldman",
+              "affiliations": [
+                "BioInnovation Institute, DK2200 Copenhagen N, Denmark."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Dmitri Zorine",
+              "affiliations": [
+                "Department of Biochemistry, The University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Derrick R Hicks",
+              "affiliations": [
+                "Department of Biochemistry, The University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Xinting Li",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Mariana Garcia Sanchez",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Dionne K Vafeados",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Patrick J Salveson",
+              "affiliations": [
+                "Department of Biochemistry, The University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Anastassia A Vorobieva",
+              "affiliations": [
+                "VIB-VUB Center for Structural Biology, Belgium."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, The University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            }
+          ],
+          "abstract": "A general method for designing proteins to bind and sense any small molecule of interest would be widely useful. Due to the small number of atoms to interact with, binding to small molecules with high affinity requires highly shape complementary pockets, and transducing binding events into signals is challenging. Here we describe an integrated deep learning and energy based approach for designing high shape complementarity binders to small molecules that are poised for downstream sensing applications. We employ deep learning generated psuedocycles with repeating structural units surrounding central pockets; depending on the geometry of the structural unit and repeat number, these pockets span wide ranges of sizes and shapes. For a small molecule target of interest, we extensively sample high shape complementarity pseudocycles to generate large numbers of customized potential binding pockets; the ligand binding poses and the interacting interfaces are then optimized for high affinity binding. We computationally design binders to four diverse molecules, including for the first time polar flexible molecules such as methotrexate and thyroxine, which are expressed at high levels and have nanomolar affinities straight out of the computer. Co-crystal structures are nearly identical to the design models. Taking advantage of the modular repeating structure of pseudocycles and central location of the binding pockets, we constructed low noise nanopore sensors and chemically induced dimerization systems by splitting the binders into domains which assemble into the original pseudocycle pocket upon target molecule addition.",
+          "date": "2023-12-21",
+          "url": "https://doi.org/10.1101/2023.12.20.572602",
+          "doi": "10.1101/2023.12.20.572602",
+          "status": "preprint",
+          "journal": "bioRxiv : the preprint server for biology",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC10769206"
+          ],
+          "relations": [
+            {
+              "kind": "is_preprint_of",
+              "target": "pubmed:39024436",
+              "evidence": "PubMed preprint UpdateIn"
+            }
+          ]
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:38187589",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "name_and_affiliations",
+                "affiliations": [
+                  "Department of Biochemistry, The University of Washington, Seattle, WA, USA.",
+                  "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                  "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+                ],
+                "matched_affiliations": [
+                  "Institute for Protein Design",
+                  "University of Washington",
+                  "Department of Biochemistry"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:38187589",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2023-12-21T00:00:00Z"
+    },
+    "urn:uuid:79779acb-8192-51ce-a061-e47e198e3f23": {
+      "id": "urn:uuid:79779acb-8192-51ce-a061-e47e198e3f23",
+      "first_seen": "2026-09-22T16:56:50Z",
+      "updated": "2026-09-22T16:56:50Z",
+      "records": {
+        "pubmed:39143214": {
+          "source": "pubmed",
+          "source_id": "39143214",
+          "title": "De novo design of allosterically switchable protein assemblies.",
+          "authors": [
+            {
+              "name": "Arvind Pillai",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA. apillai1@uw.edu.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA. apillai1@uw.edu."
+              ],
+              "orcid": "0000-0002-5012-1199"
+            },
+            {
+              "name": "Abbas Idris",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Department of Bioengineering, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Annika Philomin",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0009-0008-0305-9709"
+            },
+            {
+              "name": "Connor Weidle",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Rebecca Skotheim",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0009-0005-0757-8432"
+            },
+            {
+              "name": "Philip J Y Leung",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Program in Molecular Engineering, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Adam Broerman",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Department of Chemical Engineering, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-6878-1769"
+            },
+            {
+              "name": "Cullen Demakis",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Graduate Program in Biological Physics, Structure, and Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Andrew J Borst",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0003-4297-7824"
+            },
+            {
+              "name": "Florian Praetorius",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA. flop@uw.edu.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA. flop@uw.edu.",
+                "Institute of Science and Technology Austria (ISTA), Klosterneuburg, Austria. flop@uw.edu."
+              ],
+              "orcid": "0000-0002-0806-8101"
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA. dabaker@uw.edu.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA. dabaker@uw.edu."
+              ],
+              "orcid": "0000-0001-7896-6217"
+            }
+          ],
+          "abstract": "Allosteric modulation of protein function, wherein the binding of an effector to a protein triggers conformational changes at distant functional sites, plays a central part in the control of metabolism and cell signalling1-3. There has been considerable interest in designing allosteric systems, both to gain insight into the mechanisms underlying such 'action at a distance' modulation and to create synthetic proteins whose functions can be regulated by effectors4-7. However, emulating the subtle conformational changes distributed across many residues, characteristic of natural allosteric proteins, is a significant challenge8,9. Here, inspired by the classic Monod-Wyman-Changeux model of cooperativity10, we investigate the de novo design of allostery through rigid-body coupling of peptide-switchable hinge modules11 to protein interfaces12 that direct the formation of alternative oligomeric states. We find that this approach can be used to generate a wide variety of allosterically switchable systems, including cyclic rings that incorporate or eject subunits in response to peptide binding and dihedral cages that undergo effector-induced disassembly. Size-exclusion chromatography, mass photometry13 and electron microscopy reveal that these designed allosteric protein assemblies closely resemble the design models in both the presence and absence of peptide effectors and can have ligand-binding cooperativity comparable to classic natural systems such as haemoglobin14. Our results indicate that allostery can arise from global coupling of the energetics of protein substructures without optimized side-chain-side-chain allosteric communication pathways and provide a roadmap for generating allosterically triggerable delivery systems, protein nanomachines and cellular feedback control circuitry.",
+          "date": "2024-08-14",
+          "url": "https://doi.org/10.1038/s41586-024-07813-2",
+          "doi": "10.1038/s41586-024-07813-2",
+          "status": "published",
+          "journal": "Nature",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC11338832"
+          ],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:39143214",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:39143214",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2024-08-14T00:00:00Z"
     }
   },
   "aliases": {},
   "rejected": {
+    "biorxiv:10.64898/2026.09.19.752834": {
+      "first_seen": "2026-09-22T16:56:50Z",
+      "record": {
+        "source": "biorxiv",
+        "source_id": "10.64898/2026.09.19.752834",
+        "title": "De novo design of protease-activatable cytokine prodrugs",
+        "authors": [
+          {
+            "name": "Shin, H.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Tello, J. G.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Kim, C. J.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Chun, J.-H.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Peprah, F.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Parent, B. D.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Atajanova, T.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Mahmud, R. A. I.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Qiang, L.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Aguirre, A. J.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Dougan, S. K.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Dougan, M.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Baker, D.",
+            "affiliations": [
+              "University of Washington"
+            ],
+            "orcid": null
+          }
+        ],
+        "abstract": "Cytokines can elicit potent antitumor immunity, but their clinical use is often limited by systemic immune activation and dose-limiting toxicity. Protease-responsive masking offers a way to improve selectivity by linking cytokine activity to disease-associated protease cleavage, but current approaches have faced several challenges. Here we describe a de novo protein design strategy for generating protease-activatable cytokine prodrugs that overcomes these challenges. We use this strategy to design and characterize cytokine prodrugs and well-behaved AND-gated split systems that require both target-dependent colocalization and proteolytic unmasking to generate active cytokines. In challenging syngeneic tumor models, our IL-21 prodrugs reduced treatment-associated toxicity while maintaining antitumor efficacy.",
+        "date": "2026-09-22",
+        "url": "https://doi.org/10.64898/2026.09.19.752834",
+        "doi": "10.64898/2026.09.19.752834",
+        "status": "preprint",
+        "journal": "",
+        "version": "1",
+        "publication_date": "",
+        "identifiers": [],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "Baker, D.",
+              "method": "rejected",
+              "affiliations": [
+                "University of Washington"
+              ],
+              "matched_affiliations": [
+                "University of Washington"
+              ],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
     "biorxiv:10.1101/2025.11.21.689808": {
       "first_seen": "2026-09-21T12:45:55Z",
       "record": {
