@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-09-22T16:56:50Z</updated>
+  <updated>2026-09-23T16:56:28Z</updated>
   <entry>
     <id>urn:uuid:9e012682-4c6a-50a3-b187-e8ed207714b5</id>
     <title>Computational design of metalloproteases</title>
@@ -5330,6 +5330,66 @@
 &lt;/ul&gt;</content>
   </entry>
   <entry>
+    <id>urn:uuid:3e586aad-c03d-52ce-8c01-16dfb2f41547</id>
+    <title>Design of pseudosymmetric protein hetero-oligomers.</title>
+    <published>2024-12-18T00:00:00Z</published>
+    <updated>2026-09-23T16:56:28Z</updated>
+    <link href="https://doi.org/10.1038/s41467-024-54913-8" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Ryan D Kibler</name>
+    </author>
+    <author>
+      <name>Sangmin Lee</name>
+    </author>
+    <author>
+      <name>Madison A Kennedy</name>
+    </author>
+    <author>
+      <name>Basile I M Wicky</name>
+    </author>
+    <author>
+      <name>Stella M Lai</name>
+    </author>
+    <author>
+      <name>Marius M Kostelic</name>
+    </author>
+    <author>
+      <name>Ann Carr</name>
+    </author>
+    <author>
+      <name>Xinting Li</name>
+    </author>
+    <author>
+      <name>Cameron M Chow</name>
+    </author>
+    <author>
+      <name>Tina K Nguyen</name>
+    </author>
+    <author>
+      <name>Lauren Carter</name>
+    </author>
+    <author>
+      <name>Vicki H Wysocki</name>
+    </author>
+    <author>
+      <name>Barry L Stoddard</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Ryan D Kibler; Sangmin Lee; Madison A Kennedy; Basile I M Wicky; Stella M Lai; Marius M Kostelic; Ann Carr; Xinting Li; Cameron M Chow; Tina K Nguyen; Lauren Carter; Vicki H Wysocki; Barry L Stoddard; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2024-12-18&lt;/p&gt;
+&lt;p&gt;Journal: Nature communications&lt;/p&gt;
+&lt;p&gt;Pseudosymmetric hetero-oligomers with three or more unique subunits with overall structural (but not sequence) symmetry play key roles in biology, and systematic approaches for generating such proteins de novo would provide new routes to controlling cell signaling and designing complex protein materials. However, the de novo design of protein hetero-oligomers with three or more distinct chains with nearly identical structures is a challenging unsolved problem because it requires the accurate design of multiple protein-protein interfaces simultaneously. Here, we describe a divide-and-conquer approach that breaks the multiple-interface design challenge into a set of more tractable symmetric single-interface redesign tasks, followed by structural recombination of the validated homo-oligomers into pseudosymmetric hetero-oligomers. Starting from de novo designed circular homo-oligomers composed of 9 or 24 tandemly repeated units, we redesigned the inter-subunit interfaces to generate 19 new homo-oligomers and structurally recombined them to make 24 new hetero-oligomers, including ABC heterotrimers, A2B2 heterotetramers, and A3B3 and A2B2C2 heterohexamers which assemble with high structural specificity. The symmetric homo-oligomers and pseudosymmetric hetero-oligomers generated for each system have identical or nearly identical backbones, and hence are ideal building blocks for generating and functionalizing larger symmetric and pseudosymmetric assemblies.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41467-024-54913-8"&gt;pubmed (published) — DOI: 10.1038/s41467-024-54913-8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41467-024-54913-8"&gt;Published version — DOI: 10.1038/s41467-024-54913-8&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
     <id>urn:uuid:cda366f6-eeb2-5637-9acc-a2c32b6485e0</id>
     <title>Target-conditioned diffusion generates potent TNFR superfamily antagonists and agonists.</title>
     <published>2024-12-05T00:00:00Z</published>
@@ -5758,113 +5818,11 @@
 &lt;/ul&gt;</content>
   </entry>
   <entry>
-    <id>urn:uuid:ba311f34-103b-57eb-a504-88225da04c43</id>
-    <title>Enhancing extracellular vesicle cargo loading and functional delivery by engineering protein-lipid interactions.</title>
-    <published>2024-07-04T00:00:00Z</published>
-    <updated>2026-09-11T17:54:26Z</updated>
-    <link href="https://doi.org/10.1038/s41467-024-49678-z" rel="alternate" />
-    <category term="published" />
-    <author>
-      <name>Justin A Peruzzi</name>
-    </author>
-    <author>
-      <name>Taylor F Gunnels</name>
-    </author>
-    <author>
-      <name>Hailey I Edelstein</name>
-    </author>
-    <author>
-      <name>Peilong Lu</name>
-    </author>
-    <author>
-      <name>David Baker</name>
-    </author>
-    <author>
-      <name>Joshua N Leonard</name>
-    </author>
-    <author>
-      <name>Neha P Kamat</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Authors: Justin A Peruzzi; Taylor F Gunnels; Hailey I Edelstein; Peilong Lu; David Baker; Joshua N Leonard; Neha P Kamat&lt;/p&gt;
-&lt;p&gt;Sources: pubmed&lt;/p&gt;
-&lt;p&gt;Publication date: 2024-07-04&lt;/p&gt;
-&lt;p&gt;Journal: Nature communications&lt;/p&gt;
-&lt;p&gt;Naturally generated lipid nanoparticles termed extracellular vesicles (EVs) hold significant promise as engineerable therapeutic delivery vehicles. However, active loading of protein cargo into EVs in a manner that is useful for delivery remains a challenge. Here, we demonstrate that by rationally designing proteins to traffic to the plasma membrane and associate with lipid rafts, we can enhance loading of protein cargo into EVs for a set of structurally diverse transmembrane and peripheral membrane proteins. We then demonstrate the capacity of select lipid tags to mediate increased EV loading and functional delivery of an engineered transcription factor to modulate gene expression in target cells. We envision that this technology could be leveraged to develop new EV-based therapeutics that deliver a wide array of macromolecular cargo.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41467-024-49678-z"&gt;pubmed (published) — DOI: 10.1038/s41467-024-49678-z&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41467-024-49678-z"&gt;Published version — DOI: 10.1038/s41467-024-49678-z&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <id>urn:uuid:ade27771-2136-535b-aeb7-af45c8c7ef1c</id>
-    <title>Rapid and automated design of two-component protein nanomaterials using ProteinMPNN.</title>
-    <published>2023-08-04T00:00:00Z</published>
-    <updated>2026-09-17T21:20:59Z</updated>
-    <link href="https://doi.org/10.1073/pnas.2314646121" rel="alternate" />
-    <link href="https://doi.org/10.1101/2023.08.04.551935" rel="related" title="pubmed" />
-    <category term="published" />
-    <author>
-      <name>Robbert J de Haas</name>
-    </author>
-    <author>
-      <name>Natalie Brunette</name>
-    </author>
-    <author>
-      <name>Alex Goodson</name>
-    </author>
-    <author>
-      <name>Justas Dauparas</name>
-    </author>
-    <author>
-      <name>Sue Y Yi</name>
-    </author>
-    <author>
-      <name>Erin C Yang</name>
-    </author>
-    <author>
-      <name>Quinton Dowling</name>
-    </author>
-    <author>
-      <name>Hannah Nguyen</name>
-    </author>
-    <author>
-      <name>Alex Kang</name>
-    </author>
-    <author>
-      <name>Asim K Bera</name>
-    </author>
-    <author>
-      <name>Banumathi Sankaran</name>
-    </author>
-    <author>
-      <name>Renko de Vries</name>
-    </author>
-    <author>
-      <name>David Baker</name>
-    </author>
-    <author>
-      <name>Neil P King</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Authors: Robbert J de Haas; Natalie Brunette; Alex Goodson; Justas Dauparas; Sue Y Yi; Erin C Yang; Quinton Dowling; Hannah Nguyen; Alex Kang; Asim K Bera; Banumathi Sankaran; Renko de Vries; David Baker; Neil P King&lt;/p&gt;
-&lt;p&gt;Sources: pubmed&lt;/p&gt;
-&lt;p&gt;Publication date: 2024-03-19&lt;/p&gt;
-&lt;p&gt;Journal: Proceedings of the National Academy of Sciences of the United States of America&lt;/p&gt;
-&lt;p&gt;The design of protein-protein interfaces using physics-based design methods such as Rosetta requires substantial computational resources and manual refinement by expert structural biologists. Deep learning methods promise to simplify protein-protein interface design and enable its application to a wide variety of problems by researchers from various scientific disciplines. Here, we test the ability of a deep learning method for protein sequence design, ProteinMPNN, to design two-component tetrahedral protein nanomaterials and benchmark its performance against Rosetta. ProteinMPNN had a similar success rate to Rosetta, yielding 13 new experimentally confirmed assemblies, but required orders of magnitude less computation and no manual refinement. The interfaces designed by ProteinMPNN were substantially more polar than those designed by Rosetta, which facilitated in vitro assembly of the designed nanomaterials from independently purified components. Crystal structures of several of the assemblies confirmed the accuracy of the design method at high resolution. Our results showcase the potential of deep learning-based methods to unlock the widespread application of designed protein-protein interfaces and self-assembling protein nanomaterials in biotechnology.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://doi.org/10.1101/2023.08.04.551935"&gt;pubmed (preprint) — DOI: 10.1101/2023.08.04.551935&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://doi.org/10.1073/pnas.2314646121"&gt;pubmed (published) — DOI: 10.1073/pnas.2314646121&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://doi.org/10.1073/pnas.2314646121"&gt;Published version — DOI: 10.1073/pnas.2314646121&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://pubmed.ncbi.nlm.nih.gov/38502697/"&gt;Published version&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-  </entry>
-  <entry>
     <id>urn:uuid:5f2dc035-9511-5b67-b098-8d49f1097426</id>
-    <title>De novo design of diverse small molecule binders and sensors using Shape Complementary Pseudocycles.</title>
+    <title>Binding and sensing diverse small molecules using shape-complementary pseudocycles.</title>
     <published>2023-12-21T00:00:00Z</published>
-    <updated>2026-09-22T16:56:50Z</updated>
-    <link href="https://pubmed.ncbi.nlm.nih.gov/39024436/" rel="alternate" />
+    <updated>2026-09-23T16:56:28Z</updated>
+    <link href="https://doi.org/10.1126/science.adn3780" rel="alternate" />
     <link href="https://doi.org/10.1101/2023.12.20.572602" rel="related" title="pubmed" />
     <category term="published" />
     <author>
@@ -5945,13 +5903,254 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Authors: Linna An; Meerit Said; Long Tran; Sagardip Majumder; Inna Goreshnik; Gyu Rie Lee; David Juergens; Justas Dauparas; Ivan Anishchenko; Brian Coventry; Asim K Bera; Alex Kang; Paul M Levine; Valentina Alvarez; Arvind Pillai; Christoffer Norn; David Feldman; Dmitri Zorine; Derrick R Hicks; Xinting Li; Mariana Garcia Sanchez; Dionne K Vafeados; Patrick J Salveson; Anastassia A Vorobieva; David Baker&lt;/p&gt;
 &lt;p&gt;Sources: pubmed&lt;/p&gt;
-&lt;p&gt;Preprint date: 2023-12-21&lt;/p&gt;
-&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
-&lt;p&gt;A published version is linked below. Title, authors and abstract are from the preprint.&lt;/p&gt;
-&lt;p&gt;A general method for designing proteins to bind and sense any small molecule of interest would be widely useful. Due to the small number of atoms to interact with, binding to small molecules with high affinity requires highly shape complementary pockets, and transducing binding events into signals is challenging. Here we describe an integrated deep learning and energy based approach for designing high shape complementarity binders to small molecules that are poised for downstream sensing applications. We employ deep learning generated psuedocycles with repeating structural units surrounding central pockets; depending on the geometry of the structural unit and repeat number, these pockets span wide ranges of sizes and shapes. For a small molecule target of interest, we extensively sample high shape complementarity pseudocycles to generate large numbers of customized potential binding pockets; the ligand binding poses and the interacting interfaces are then optimized for high affinity binding. We computationally design binders to four diverse molecules, including for the first time polar flexible molecules such as methotrexate and thyroxine, which are expressed at high levels and have nanomolar affinities straight out of the computer. Co-crystal structures are nearly identical to the design models. Taking advantage of the modular repeating structure of pseudocycles and central location of the binding pockets, we constructed low noise nanopore sensors and chemically induced dimerization systems by splitting the binders into domains which assemble into the original pseudocycle pocket upon target molecule addition.&lt;/p&gt;
+&lt;p&gt;Publication date: 2024-07-18&lt;/p&gt;
+&lt;p&gt;Journal: Science (New York, N.Y.)&lt;/p&gt;
+&lt;p&gt;We describe an approach for designing high-affinity small molecule-binding proteins poised for downstream sensing. We use deep learning-generated pseudocycles with repeating structural units surrounding central binding pockets with widely varying shapes that depend on the geometry and number of the repeat units. We dock small molecules of interest into the most shape complementary of these pseudocycles, design the interaction surfaces for high binding affinity, and experimentally screen to identify designs with the highest affinity. We obtain binders to four diverse molecules, including the polar and flexible methotrexate and thyroxine. Taking advantage of the modular repeat structure and central binding pockets, we construct chemically induced dimerization systems and low-noise nanopore sensors by splitting designs into domains that reassemble upon ligand addition.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1101/2023.12.20.572602"&gt;pubmed (preprint) — DOI: 10.1101/2023.12.20.572602&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1126/science.adn3780"&gt;pubmed (published) — DOI: 10.1126/science.adn3780&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1126/science.adn3780"&gt;Published version — DOI: 10.1126/science.adn3780&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://pubmed.ncbi.nlm.nih.gov/39024436/"&gt;Published version&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:ba311f34-103b-57eb-a504-88225da04c43</id>
+    <title>Enhancing extracellular vesicle cargo loading and functional delivery by engineering protein-lipid interactions.</title>
+    <published>2024-07-04T00:00:00Z</published>
+    <updated>2026-09-11T17:54:26Z</updated>
+    <link href="https://doi.org/10.1038/s41467-024-49678-z" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Justin A Peruzzi</name>
+    </author>
+    <author>
+      <name>Taylor F Gunnels</name>
+    </author>
+    <author>
+      <name>Hailey I Edelstein</name>
+    </author>
+    <author>
+      <name>Peilong Lu</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Joshua N Leonard</name>
+    </author>
+    <author>
+      <name>Neha P Kamat</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Justin A Peruzzi; Taylor F Gunnels; Hailey I Edelstein; Peilong Lu; David Baker; Joshua N Leonard; Neha P Kamat&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2024-07-04&lt;/p&gt;
+&lt;p&gt;Journal: Nature communications&lt;/p&gt;
+&lt;p&gt;Naturally generated lipid nanoparticles termed extracellular vesicles (EVs) hold significant promise as engineerable therapeutic delivery vehicles. However, active loading of protein cargo into EVs in a manner that is useful for delivery remains a challenge. Here, we demonstrate that by rationally designing proteins to traffic to the plasma membrane and associate with lipid rafts, we can enhance loading of protein cargo into EVs for a set of structurally diverse transmembrane and peripheral membrane proteins. We then demonstrate the capacity of select lipid tags to mediate increased EV loading and functional delivery of an engineered transcription factor to modulate gene expression in target cells. We envision that this technology could be leveraged to develop new EV-based therapeutics that deliver a wide array of macromolecular cargo.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41467-024-49678-z"&gt;pubmed (published) — DOI: 10.1038/s41467-024-49678-z&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41467-024-49678-z"&gt;Published version — DOI: 10.1038/s41467-024-49678-z&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:92a0e118-1577-5a2d-b7d2-8cda4d4fd789</id>
+    <title>Modulation of FGF pathway signaling and vascular differentiation using designed oligomeric assemblies.</title>
+    <published>2024-06-10T00:00:00Z</published>
+    <updated>2026-09-23T16:56:28Z</updated>
+    <link href="https://doi.org/10.1016/j.cell.2024.05.025" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Natasha I Edman</name>
+    </author>
+    <author>
+      <name>Ashish Phal</name>
+    </author>
+    <author>
+      <name>Rachel L Redler</name>
+    </author>
+    <author>
+      <name>Thomas Schlichthaerle</name>
+    </author>
+    <author>
+      <name>Sanjay R Srivatsan</name>
+    </author>
+    <author>
+      <name>Devon Duron Ehnes</name>
+    </author>
+    <author>
+      <name>Ali Etemadi</name>
+    </author>
+    <author>
+      <name>Seong J An</name>
+    </author>
+    <author>
+      <name>Andrew Favor</name>
+    </author>
+    <author>
+      <name>Zhe Li</name>
+    </author>
+    <author>
+      <name>Florian Praetorius</name>
+    </author>
+    <author>
+      <name>Max Gordon</name>
+    </author>
+    <author>
+      <name>Thomas Vincent</name>
+    </author>
+    <author>
+      <name>Silvia Marchiano</name>
+    </author>
+    <author>
+      <name>Leslie Blakely</name>
+    </author>
+    <author>
+      <name>Chuwei Lin</name>
+    </author>
+    <author>
+      <name>Wei Yang</name>
+    </author>
+    <author>
+      <name>Brian Coventry</name>
+    </author>
+    <author>
+      <name>Derrick R Hicks</name>
+    </author>
+    <author>
+      <name>Longxing Cao</name>
+    </author>
+    <author>
+      <name>Neville Bethel</name>
+    </author>
+    <author>
+      <name>Piper Heine</name>
+    </author>
+    <author>
+      <name>Analisa Murray</name>
+    </author>
+    <author>
+      <name>Stacey Gerben</name>
+    </author>
+    <author>
+      <name>Lauren Carter</name>
+    </author>
+    <author>
+      <name>Marcos Miranda</name>
+    </author>
+    <author>
+      <name>Babak Negahdari</name>
+    </author>
+    <author>
+      <name>Sangwon Lee</name>
+    </author>
+    <author>
+      <name>Cole Trapnell</name>
+    </author>
+    <author>
+      <name>Ying Zheng</name>
+    </author>
+    <author>
+      <name>Charles E Murry</name>
+    </author>
+    <author>
+      <name>Devin K Schweppe</name>
+    </author>
+    <author>
+      <name>Benjamin S Freedman</name>
+    </author>
+    <author>
+      <name>Lance Stewart</name>
+    </author>
+    <author>
+      <name>Damian C Ekiert</name>
+    </author>
+    <author>
+      <name>Joseph Schlessinger</name>
+    </author>
+    <author>
+      <name>Jay Shendure</name>
+    </author>
+    <author>
+      <name>Gira Bhabha</name>
+    </author>
+    <author>
+      <name>Hannele Ruohola-Baker</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Natasha I Edman; Ashish Phal; Rachel L Redler; Thomas Schlichthaerle; Sanjay R Srivatsan; Devon Duron Ehnes; Ali Etemadi; Seong J An; Andrew Favor; Zhe Li; Florian Praetorius; Max Gordon; Thomas Vincent; Silvia Marchiano; Leslie Blakely; Chuwei Lin; Wei Yang; Brian Coventry; Derrick R Hicks; Longxing Cao; Neville Bethel; Piper Heine; Analisa Murray; Stacey Gerben; Lauren Carter; Marcos Miranda; Babak Negahdari; Sangwon Lee; Cole Trapnell; Ying Zheng; Charles E Murry; Devin K Schweppe; Benjamin S Freedman; Lance Stewart; Damian C Ekiert; Joseph Schlessinger; Jay Shendure; Gira Bhabha; Hannele Ruohola-Baker; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2024-06-10&lt;/p&gt;
+&lt;p&gt;Journal: Cell&lt;/p&gt;
+&lt;p&gt;Many growth factors and cytokines signal by binding to the extracellular domains of their receptors and driving association and transphosphorylation of the receptor intracellular tyrosine kinase domains, initiating downstream signaling cascades. To enable systematic exploration of how receptor valency and geometry affect signaling outcomes, we designed cyclic homo-oligomers with up to 8 subunits using repeat protein building blocks that can be modularly extended. By incorporating a de novo-designed fibroblast growth factor receptor (FGFR)-binding module into these scaffolds, we generated a series of synthetic signaling ligands that exhibit potent valency- and geometry-dependent Ca2+ release and mitogen-activated protein kinase (MAPK) pathway activation. The high specificity of the designed agonists reveals distinct roles for two FGFR splice variants in driving arterial endothelium and perivascular cell fates during early vascular development. Our designed modular assemblies should be broadly useful for unraveling the complexities of signaling in key developmental transitions and for developing future therapeutic applications.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1016/j.cell.2024.05.025"&gt;pubmed (published) — DOI: 10.1016/j.cell.2024.05.025&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1016/j.cell.2024.05.025"&gt;Published version — DOI: 10.1016/j.cell.2024.05.025&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:ade27771-2136-535b-aeb7-af45c8c7ef1c</id>
+    <title>Rapid and automated design of two-component protein nanomaterials using ProteinMPNN.</title>
+    <published>2023-08-04T00:00:00Z</published>
+    <updated>2026-09-17T21:20:59Z</updated>
+    <link href="https://doi.org/10.1073/pnas.2314646121" rel="alternate" />
+    <link href="https://doi.org/10.1101/2023.08.04.551935" rel="related" title="pubmed" />
+    <category term="published" />
+    <author>
+      <name>Robbert J de Haas</name>
+    </author>
+    <author>
+      <name>Natalie Brunette</name>
+    </author>
+    <author>
+      <name>Alex Goodson</name>
+    </author>
+    <author>
+      <name>Justas Dauparas</name>
+    </author>
+    <author>
+      <name>Sue Y Yi</name>
+    </author>
+    <author>
+      <name>Erin C Yang</name>
+    </author>
+    <author>
+      <name>Quinton Dowling</name>
+    </author>
+    <author>
+      <name>Hannah Nguyen</name>
+    </author>
+    <author>
+      <name>Alex Kang</name>
+    </author>
+    <author>
+      <name>Asim K Bera</name>
+    </author>
+    <author>
+      <name>Banumathi Sankaran</name>
+    </author>
+    <author>
+      <name>Renko de Vries</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Neil P King</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Robbert J de Haas; Natalie Brunette; Alex Goodson; Justas Dauparas; Sue Y Yi; Erin C Yang; Quinton Dowling; Hannah Nguyen; Alex Kang; Asim K Bera; Banumathi Sankaran; Renko de Vries; David Baker; Neil P King&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2024-03-19&lt;/p&gt;
+&lt;p&gt;Journal: Proceedings of the National Academy of Sciences of the United States of America&lt;/p&gt;
+&lt;p&gt;The design of protein-protein interfaces using physics-based design methods such as Rosetta requires substantial computational resources and manual refinement by expert structural biologists. Deep learning methods promise to simplify protein-protein interface design and enable its application to a wide variety of problems by researchers from various scientific disciplines. Here, we test the ability of a deep learning method for protein sequence design, ProteinMPNN, to design two-component tetrahedral protein nanomaterials and benchmark its performance against Rosetta. ProteinMPNN had a similar success rate to Rosetta, yielding 13 new experimentally confirmed assemblies, but required orders of magnitude less computation and no manual refinement. The interfaces designed by ProteinMPNN were substantially more polar than those designed by Rosetta, which facilitated in vitro assembly of the designed nanomaterials from independently purified components. Crystal structures of several of the assemblies confirmed the accuracy of the design method at high resolution. Our results showcase the potential of deep learning-based methods to unlock the widespread application of designed protein-protein interfaces and self-assembling protein nanomaterials in biotechnology.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1101/2023.08.04.551935"&gt;pubmed (preprint) — DOI: 10.1101/2023.08.04.551935&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1073/pnas.2314646121"&gt;pubmed (published) — DOI: 10.1073/pnas.2314646121&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1073/pnas.2314646121"&gt;Published version — DOI: 10.1073/pnas.2314646121&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pubmed.ncbi.nlm.nih.gov/38502697/"&gt;Published version&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
