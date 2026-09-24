@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-09-24T04:48:28Z</updated>
+  <updated>2026-09-24T17:09:22Z</updated>
   <entry>
     <id>urn:uuid:f0e2e76d-1158-50c5-aac7-cb15806c3f19</id>
     <title>CD4 T cells convert transient responses to KRAS inhibition to durable remissions in pancreatic cancer.</title>
@@ -281,6 +281,80 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1002/anie.5852828"&gt;pubmed (published) — DOI: 10.1002/anie.5852828&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1002/anie.5852828"&gt;Published version — DOI: 10.1002/anie.5852828&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:93153e5d-5606-5268-a8b1-21a9ec67b74f</id>
+    <title>Computational design of potent, broadly neutralizing anti-Nipah virus and Hendra virus miniproteins.</title>
+    <published>2026-09-17T00:00:00Z</published>
+    <updated>2026-09-24T17:09:22Z</updated>
+    <link href="https://doi.org/10.64898/2026.09.14.751546" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Jeremiah N Sims</name>
+    </author>
+    <author>
+      <name>Risako Gen</name>
+    </author>
+    <author>
+      <name>Kaitlin Sprouse</name>
+    </author>
+    <author>
+      <name>Young-Jun Park</name>
+    </author>
+    <author>
+      <name>Zhaoqian Wang</name>
+    </author>
+    <author>
+      <name>Moushimi Amaya</name>
+    </author>
+    <author>
+      <name>Alka Jays</name>
+    </author>
+    <author>
+      <name>Brendan B Larsen</name>
+    </author>
+    <author>
+      <name>Cameron Stewart</name>
+    </author>
+    <author>
+      <name>Jack T Brown</name>
+    </author>
+    <author>
+      <name>Robert Ragotte</name>
+    </author>
+    <author>
+      <name>Rashmi Ravichandran</name>
+    </author>
+    <author>
+      <name>Garrett Ruth</name>
+    </author>
+    <author>
+      <name>Xinting Li</name>
+    </author>
+    <author>
+      <name>Dionne Vafeados</name>
+    </author>
+    <author>
+      <name>Jesse D Bloom</name>
+    </author>
+    <author>
+      <name>Christopher Broder</name>
+    </author>
+    <author>
+      <name>David Veesler</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Jeremiah N Sims; Risako Gen; Kaitlin Sprouse; Young-Jun Park; Zhaoqian Wang; Moushimi Amaya; Alka Jays; Brendan B Larsen; Cameron Stewart; Jack T Brown; Robert Ragotte; Rashmi Ravichandran; Garrett Ruth; Xinting Li; Dionne Vafeados; Jesse D Bloom; Christopher Broder; David Veesler; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Preprint date: 2026-09-17&lt;/p&gt;
+&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
+&lt;p&gt;The prototype members of the genus Henipavirus, Nipah virus (NiV) and Hendra virus (HeV), cause recurrent zoonotic spillovers with case fatality rates ranging from 40-90% in humans. Currently, there are no approved vaccines or therapeutics for use in humans. Neutralizing antibodies targeting the NiV/HeV F-or G-glycoproteins protect animals from lethal challenge and are a main correlate of protection. However, antibody-based formulations are expensive, typically requiring hospital admission for administration and cold-chain for storage and transportation. To address the lack of shelf-stable clinical countermeasures, we computationally designed thermostable miniproteins that cross-react with subnanomolar affinities with both NiV and HeV F and G glycoproteins and inhibit viral entry in vitro with potencies comparable to lead antibodies. Oligomerized forms of these miniproteins have enhanced potency relative to their monomeric building blocks and increase the barrier for emergence of escape mutants, establishing them as promising preclinical candidates against these deadly viruses.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.09.14.751546"&gt;pubmed (preprint) — DOI: 10.64898/2026.09.14.751546&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
@@ -5189,6 +5263,45 @@
 &lt;/ul&gt;</content>
   </entry>
   <entry>
+    <id>urn:uuid:192d1fe0-ac40-5236-84f9-4281545eb9e9</id>
+    <title>Solution mapping of MHC-I:TCR interactions using a minimalistic protein system.</title>
+    <published>2025-06-09T00:00:00Z</published>
+    <updated>2026-09-24T17:09:22Z</updated>
+    <link href="https://doi.org/10.1073/pnas.2506016122" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Claire H Woodward</name>
+    </author>
+    <author>
+      <name>Apala Chaudhuri</name>
+    </author>
+    <author>
+      <name>Xiaojing Tina Chen</name>
+    </author>
+    <author>
+      <name>William L White</name>
+    </author>
+    <author>
+      <name>K Christopher Garcia</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Nikolaos G Sgourakis</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Claire H Woodward; Apala Chaudhuri; Xiaojing Tina Chen; William L White; K Christopher Garcia; David Baker; Nikolaos G Sgourakis&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2025-06-09&lt;/p&gt;
+&lt;p&gt;Journal: Proceedings of the National Academy of Sciences of the United States of America&lt;/p&gt;
+&lt;p&gt;Recognition of epitopic peptide antigens presented on class I major histocompatibility complex (MHC-I) proteins by T cell receptors (TCRs) forms the cornerstone of immune surveillance, leading to a plethora of adaptive immune responses. Characterization of TCR:peptide/MHC-I interactions is critical for understanding immune recognition, and developing immunotherapies, but the large variation in docking orientations of TCRs on their peptide/MHC-I targets challenges structural modeling. NMR spectroscopy could potentially resolve this ambiguity, but the large size of the TCR:peptide/MHC-I complex limits data quality. Here, we demonstrate that a designed MHC-I protein, SMART A*02:01, enables facile solution mapping of MHC-I:TCR interactions at scale. Our approach can be combined with computational modeling and structure-guided engineering to aid the development of TCR-based therapeutics.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1073/pnas.2506016122"&gt;pubmed (published) — DOI: 10.1073/pnas.2506016122&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1073/pnas.2506016122"&gt;Published version — DOI: 10.1073/pnas.2506016122&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
     <id>urn:uuid:07844dda-29c5-5b23-a392-4da1b6636814</id>
     <title>Monitoring in real time and far-red imaging of H2O2 dynamics with subcellular resolution.</title>
     <published>2025-04-28T00:00:00Z</published>
@@ -5603,6 +5716,56 @@
 &lt;/ul&gt;</content>
   </entry>
   <entry>
+    <id>urn:uuid:aff5fafc-66f1-54ea-89e5-b6fcc565547b</id>
+    <title>Parametrically guided design of beta barrels and transmembrane nanopores using deep learning.</title>
+    <published>2025-01-06T00:00:00Z</published>
+    <updated>2026-09-24T17:09:22Z</updated>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/40953261/" rel="alternate" />
+    <link href="https://doi.org/10.1101/2024.07.22.604663" rel="related" title="pubmed" />
+    <category term="published" />
+    <author>
+      <name>David E Kim</name>
+    </author>
+    <author>
+      <name>Joseph L Watson</name>
+    </author>
+    <author>
+      <name>David Juergens</name>
+    </author>
+    <author>
+      <name>Sagardip Majumder</name>
+    </author>
+    <author>
+      <name>Ria Sonigra</name>
+    </author>
+    <author>
+      <name>Stacey R Gerben</name>
+    </author>
+    <author>
+      <name>Alex Kang</name>
+    </author>
+    <author>
+      <name>Asim K Bera</name>
+    </author>
+    <author>
+      <name>Xinting Li</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: David E Kim; Joseph L Watson; David Juergens; Sagardip Majumder; Ria Sonigra; Stacey R Gerben; Alex Kang; Asim K Bera; Xinting Li; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Preprint date: 2025-01-06&lt;/p&gt;
+&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
+&lt;p&gt;A published version is linked below. Title, authors and abstract are from the preprint.&lt;/p&gt;
+&lt;p&gt;Francis Crick&amp;#x27;s global parameterization of coiled coil geometry has been widely useful for guiding design of new protein structures and functions. However, design guided by similar global parameterization of beta barrel structures has been less successful, likely due to the deviations from ideal barrel geometry required to maintain inter-strand hydrogen bonding without introducing backbone strain. Instead, beta barrels have been designed using 2D structural blueprints; while this approach has successfully generated new fluorescent proteins, transmembrane nanopores, and other structures, it requires expert knowledge and provides only indirect control over the global shape. Here we show that the simplicity and control over shape and structure provided by parametric representations can be generalized beyond coiled coils by taking advantage of the rich sequence-structure relationships implicit in RoseTTAFold based design methods. Starting from parametrically generated barrel backbones, both RFjoint inpainting and RFdiffusion readily incorporate backbone irregularities necessary for proper folding with minimal deviation from the idealized barrel geometries. We show that for beta barrels across a broad range of beta sheet parameterizations, these methods achieve high in silico and experimental success rates, with atomic accuracy confirmed by an X-ray crystal structure of a novel barrel topology, and de novo designed 12, 14, and 16 stranded transmembrane nanopores with conductances ranging from 200 to 500 pS. By combining the simplicity and control of parametric generation with the high success rates of deep learning based protein design methods, our approach makes the design of proteins where global shape confers function, such as beta barrel nanopores, more precisely specifiable and accessible.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1101/2024.07.22.604663"&gt;pubmed (preprint) — DOI: 10.1101/2024.07.22.604663&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pubmed.ncbi.nlm.nih.gov/40953261/"&gt;Published version&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
     <id>urn:uuid:3e586aad-c03d-52ce-8c01-16dfb2f41547</id>
     <title>Design of pseudosymmetric protein hetero-oligomers.</title>
     <published>2024-12-18T00:00:00Z</published>
@@ -5723,6 +5886,39 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1126/science.adp1779"&gt;pubmed (published) — DOI: 10.1126/science.adp1779&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1126/science.adp1779"&gt;Published version — DOI: 10.1126/science.adp1779&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:dd207605-e996-5772-aa4b-d735a94832a1</id>
+    <title>Computational Stabilization of a Non-Heme Iron Enzyme Enables Efficient Evolution of New Function.</title>
+    <published>2024-11-11T00:00:00Z</published>
+    <updated>2026-09-24T17:09:22Z</updated>
+    <link href="https://doi.org/10.1002/anie.202414705" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Brianne R King</name>
+    </author>
+    <author>
+      <name>Kiera H Sumida</name>
+    </author>
+    <author>
+      <name>Jessica L Caruso</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Jesse G Zalatan</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Brianne R King; Kiera H Sumida; Jessica L Caruso; David Baker; Jesse G Zalatan&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2024-11-11&lt;/p&gt;
+&lt;p&gt;Journal: Angewandte Chemie (International ed. in English)&lt;/p&gt;
+&lt;p&gt;Deep learning tools for enzyme design are rapidly emerging, and there is a critical need to evaluate their effectiveness in engineering workflows. Here we show that the deep learning-based tool ProteinMPNN can be used to redesign Fe(II)/αKG superfamily enzymes for greater stability, solubility, and expression while retaining both native activity and industrially relevant non-native functions. This superfamily has diverse catalytic functions and could provide a rich new source of biocatalysts for synthesis and industrial processes. Through systematic comparisons of directed evolution trajectories for a non-native, remote C(sp3)-H hydroxylation reaction, we demonstrate that the stabilized redesign can be evolved more efficiently than the wild-type enzyme. After three rounds of directed evolution, we obtained a 6-fold activity increase from the wild-type parent and an 80-fold increase from the stabilized variant. To generate the initial stabilized variant, we identified multiple structural and sequence constraints to preserve catalytic function. We applied these criteria to produce stabilized, catalytically active variants of a second Fe(II)/αKG enzyme, suggesting that the approach is generalizable to additional members of the Fe(II)/αKG superfamily. ProteinMPNN is user-friendly and widely accessible, and our results provide a framework for the routine implementation of deep learning-based protein stabilization tools in directed evolution workflows for novel biocatalysts.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1002/anie.202414705"&gt;pubmed (published) — DOI: 10.1002/anie.202414705&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1002/anie.202414705"&gt;Published version — DOI: 10.1002/anie.202414705&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>

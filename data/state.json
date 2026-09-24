@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-09-24T04:48:28Z",
+      "last_success": "2026-09-24T17:09:22Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-09-24T11:43:56Z",
+      "last_success": "2026-09-24T17:09:22Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -121,7 +121,11 @@
     "pubmed:39695145": "2026-09-23T16:56:28Z",
     "pubmed:39024436": "2026-09-23T16:56:28Z",
     "pubmed:38861993": "2026-09-23T16:56:28Z",
-    "pubmed:42777708": "2026-09-24T04:48:28Z"
+    "pubmed:42777708": "2026-09-24T04:48:28Z",
+    "pubmed:42779973": "2026-09-24T17:09:22Z",
+    "pubmed:40489613": "2026-09-24T17:09:22Z",
+    "pubmed:39394803": "2026-09-24T17:09:22Z",
+    "pubmed:39091726": "2026-09-24T17:09:22Z"
   },
   "works": {
     "urn:uuid:7f477453-6c38-52e7-b591-accb9b0e6576": {
@@ -20491,10 +20495,849 @@
         }
       ],
       "published": "2026-09-23T00:00:00Z"
+    },
+    "urn:uuid:aff5fafc-66f1-54ea-89e5-b6fcc565547b": {
+      "id": "urn:uuid:aff5fafc-66f1-54ea-89e5-b6fcc565547b",
+      "first_seen": "2026-09-24T17:09:22Z",
+      "updated": "2026-09-24T17:09:22Z",
+      "records": {
+        "pubmed:39091726": {
+          "source": "pubmed",
+          "source_id": "39091726",
+          "title": "Parametrically guided design of beta barrels and transmembrane nanopores using deep learning.",
+          "authors": [
+            {
+              "name": "David E Kim",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195.",
+                "HHMI, University of Washington, Seattle, WA 98195."
+              ],
+              "orcid": "0000-0002-0023-956X"
+            },
+            {
+              "name": "Joseph L Watson",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195.",
+                "HHMI, University of Washington, Seattle, WA 98195."
+              ],
+              "orcid": "0000-0001-5492-0249"
+            },
+            {
+              "name": "David Juergens",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195.",
+                "HHMI, University of Washington, Seattle, WA 98195."
+              ],
+              "orcid": "0000-0001-6425-8391"
+            },
+            {
+              "name": "Sagardip Majumder",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195.",
+                "HHMI, University of Washington, Seattle, WA 98195."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Ria Sonigra",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Stacey R Gerben",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195."
+              ],
+              "orcid": "0000-0003-0313-6248"
+            },
+            {
+              "name": "Alex Kang",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195."
+              ],
+              "orcid": "0000-0001-5487-0499"
+            },
+            {
+              "name": "Asim K Bera",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195."
+              ],
+              "orcid": "0000-0001-9473-2912"
+            },
+            {
+              "name": "Xinting Li",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195."
+              ],
+              "orcid": "0000-0001-5559-7578"
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195.",
+                "HHMI, University of Washington, Seattle, WA 98195."
+              ],
+              "orcid": "0000-0001-7896-6217"
+            }
+          ],
+          "abstract": "Francis Crick's global parameterization of coiled coil geometry has been widely useful for guiding design of new protein structures and functions. However, design guided by similar global parameterization of beta barrel structures has been less successful, likely due to the deviations from ideal barrel geometry required to maintain inter-strand hydrogen bonding without introducing backbone strain. Instead, beta barrels have been designed using 2D structural blueprints; while this approach has successfully generated new fluorescent proteins, transmembrane nanopores, and other structures, it requires expert knowledge and provides only indirect control over the global shape. Here we show that the simplicity and control over shape and structure provided by parametric representations can be generalized beyond coiled coils by taking advantage of the rich sequence-structure relationships implicit in RoseTTAFold based design methods. Starting from parametrically generated barrel backbones, both RFjoint inpainting and RFdiffusion readily incorporate backbone irregularities necessary for proper folding with minimal deviation from the idealized barrel geometries. We show that for beta barrels across a broad range of beta sheet parameterizations, these methods achieve high in silico and experimental success rates, with atomic accuracy confirmed by an X-ray crystal structure of a novel barrel topology, and de novo designed 12, 14, and 16 stranded transmembrane nanopores with conductances ranging from 200 to 500 pS. By combining the simplicity and control of parametric generation with the high success rates of deep learning based protein design methods, our approach makes the design of proteins where global shape confers function, such as beta barrel nanopores, more precisely specifiable and accessible.",
+          "date": "2025-01-06",
+          "url": "https://doi.org/10.1101/2024.07.22.604663",
+          "doi": "10.1101/2024.07.22.604663",
+          "status": "preprint",
+          "journal": "bioRxiv : the preprint server for biology",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC11291061"
+          ],
+          "relations": [
+            {
+              "kind": "is_preprint_of",
+              "target": "pubmed:40953261",
+              "evidence": "PubMed preprint UpdateIn"
+            }
+          ]
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:39091726",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:39091726",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2025-01-06T00:00:00Z"
+    },
+    "urn:uuid:dd207605-e996-5772-aa4b-d735a94832a1": {
+      "id": "urn:uuid:dd207605-e996-5772-aa4b-d735a94832a1",
+      "first_seen": "2026-09-24T17:09:22Z",
+      "updated": "2026-09-24T17:09:22Z",
+      "records": {
+        "pubmed:39394803": {
+          "source": "pubmed",
+          "source_id": "39394803",
+          "title": "Computational Stabilization of a Non-Heme Iron Enzyme Enables Efficient Evolution of New Function.",
+          "authors": [
+            {
+              "name": "Brianne R King",
+              "affiliations": [
+                "Department of Chemistry, University of Washington, Seattle, Washington, 98195, USA."
+              ],
+              "orcid": "0000-0003-3592-5882"
+            },
+            {
+              "name": "Kiera H Sumida",
+              "affiliations": [
+                "Department of Chemistry, University of Washington, Seattle, Washington, 98195, USA.",
+                "Institute of Protein Design, University of Washington, Seattle, Washington, 98195, USA."
+              ],
+              "orcid": "0000-0003-2773-9676"
+            },
+            {
+              "name": "Jessica L Caruso",
+              "affiliations": [
+                "Department of Chemistry, University of Washington, Seattle, Washington, 98195, USA."
+              ],
+              "orcid": "0009-0009-1692-3233"
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Institute of Protein Design, University of Washington, Seattle, Washington, 98195, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, Washington, 98195, USA."
+              ],
+              "orcid": "0000-0001-7896-6217"
+            },
+            {
+              "name": "Jesse G Zalatan",
+              "affiliations": [
+                "Department of Chemistry, University of Washington, Seattle, Washington, 98195, USA."
+              ],
+              "orcid": "0000-0002-1458-0654"
+            }
+          ],
+          "abstract": "Deep learning tools for enzyme design are rapidly emerging, and there is a critical need to evaluate their effectiveness in engineering workflows. Here we show that the deep learning-based tool ProteinMPNN can be used to redesign Fe(II)/αKG superfamily enzymes for greater stability, solubility, and expression while retaining both native activity and industrially relevant non-native functions. This superfamily has diverse catalytic functions and could provide a rich new source of biocatalysts for synthesis and industrial processes. Through systematic comparisons of directed evolution trajectories for a non-native, remote C(sp3)-H hydroxylation reaction, we demonstrate that the stabilized redesign can be evolved more efficiently than the wild-type enzyme. After three rounds of directed evolution, we obtained a 6-fold activity increase from the wild-type parent and an 80-fold increase from the stabilized variant. To generate the initial stabilized variant, we identified multiple structural and sequence constraints to preserve catalytic function. We applied these criteria to produce stabilized, catalytically active variants of a second Fe(II)/αKG enzyme, suggesting that the approach is generalizable to additional members of the Fe(II)/αKG superfamily. ProteinMPNN is user-friendly and widely accessible, and our results provide a framework for the routine implementation of deep learning-based protein stabilization tools in directed evolution workflows for novel biocatalysts.",
+          "date": "2024-11-11",
+          "url": "https://doi.org/10.1002/anie.202414705",
+          "doi": "10.1002/anie.202414705",
+          "status": "published",
+          "journal": "Angewandte Chemie (International ed. in English)",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC11723803"
+          ],
+          "relations": [
+            {
+              "kind": "update_of",
+              "target": "pubmed:39091854",
+              "evidence": "PubMed UpdateOf; target must be a preprint"
+            }
+          ]
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:39394803",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:39394803",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2024-11-11T00:00:00Z"
+    },
+    "urn:uuid:192d1fe0-ac40-5236-84f9-4281545eb9e9": {
+      "id": "urn:uuid:192d1fe0-ac40-5236-84f9-4281545eb9e9",
+      "first_seen": "2026-09-24T17:09:22Z",
+      "updated": "2026-09-24T17:09:22Z",
+      "records": {
+        "pubmed:40489613": {
+          "source": "pubmed",
+          "source_id": "40489613",
+          "title": "Solution mapping of MHC-I:TCR interactions using a minimalistic protein system.",
+          "authors": [
+            {
+              "name": "Claire H Woodward",
+              "affiliations": [
+                "Department of Biochemistry and Biophysics, Perelman School of Medicine at the University of Pennsylvania, Philadelphia, PA 19104.",
+                "Center for Computational and Genomic Medicine and Department of Pathology and Laboratory Medicine, Children's Hospital of Philadelphia, Philadelphia, PA 19104."
+              ],
+              "orcid": "0000-0002-0373-6318"
+            },
+            {
+              "name": "Apala Chaudhuri",
+              "affiliations": [
+                "Department of Biochemistry and Biophysics, Perelman School of Medicine at the University of Pennsylvania, Philadelphia, PA 19104.",
+                "Center for Computational and Genomic Medicine and Department of Pathology and Laboratory Medicine, Children's Hospital of Philadelphia, Philadelphia, PA 19104."
+              ],
+              "orcid": "0000-0003-2669-850X"
+            },
+            {
+              "name": "Xiaojing Tina Chen",
+              "affiliations": [
+                "Department of Molecular and Cellular Physiology, Stanford University School of Medicine, Stanford, CA 94305.",
+                "Department of Structural Biology, Stanford University School of Medicine, Stanford, CA 94305.",
+                "HHMI, Stanford University School of Medicine, Stanford, CA 94305."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "William L White",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195.",
+                "HHMI, University of Washington, Seattle, WA 98195."
+              ],
+              "orcid": "0009-0004-0041-2125"
+            },
+            {
+              "name": "K Christopher Garcia",
+              "affiliations": [
+                "Department of Molecular and Cellular Physiology, Stanford University School of Medicine, Stanford, CA 94305.",
+                "Department of Structural Biology, Stanford University School of Medicine, Stanford, CA 94305.",
+                "HHMI, Stanford University School of Medicine, Stanford, CA 94305."
+              ],
+              "orcid": "0000-0001-9273-0278"
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195.",
+                "HHMI, University of Washington, Seattle, WA 98195."
+              ],
+              "orcid": "0000-0001-7896-6217"
+            },
+            {
+              "name": "Nikolaos G Sgourakis",
+              "affiliations": [
+                "Department of Biochemistry and Biophysics, Perelman School of Medicine at the University of Pennsylvania, Philadelphia, PA 19104.",
+                "Center for Computational and Genomic Medicine and Department of Pathology and Laboratory Medicine, Children's Hospital of Philadelphia, Philadelphia, PA 19104."
+              ],
+              "orcid": "0000-0003-3655-3902"
+            }
+          ],
+          "abstract": "Recognition of epitopic peptide antigens presented on class I major histocompatibility complex (MHC-I) proteins by T cell receptors (TCRs) forms the cornerstone of immune surveillance, leading to a plethora of adaptive immune responses. Characterization of TCR:peptide/MHC-I interactions is critical for understanding immune recognition, and developing immunotherapies, but the large variation in docking orientations of TCRs on their peptide/MHC-I targets challenges structural modeling. NMR spectroscopy could potentially resolve this ambiguity, but the large size of the TCR:peptide/MHC-I complex limits data quality. Here, we demonstrate that a designed MHC-I protein, SMART A*02:01, enables facile solution mapping of MHC-I:TCR interactions at scale. Our approach can be combined with computational modeling and structure-guided engineering to aid the development of TCR-based therapeutics.",
+          "date": "2025-06-09",
+          "url": "https://doi.org/10.1073/pnas.2506016122",
+          "doi": "10.1073/pnas.2506016122",
+          "status": "published",
+          "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC12184636"
+          ],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:40489613",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:40489613",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2025-06-09T00:00:00Z"
+    },
+    "urn:uuid:93153e5d-5606-5268-a8b1-21a9ec67b74f": {
+      "id": "urn:uuid:93153e5d-5606-5268-a8b1-21a9ec67b74f",
+      "first_seen": "2026-09-24T17:09:22Z",
+      "updated": "2026-09-24T17:09:22Z",
+      "records": {
+        "pubmed:42779973": {
+          "source": "pubmed",
+          "source_id": "42779973",
+          "title": "Computational design of potent, broadly neutralizing anti-Nipah virus and Hendra virus miniproteins.",
+          "authors": [
+            {
+              "name": "Jeremiah N Sims",
+              "affiliations": [],
+              "orcid": "0000-0002-0479-0367"
+            },
+            {
+              "name": "Risako Gen",
+              "affiliations": [],
+              "orcid": "0009-0004-4416-0417"
+            },
+            {
+              "name": "Kaitlin Sprouse",
+              "affiliations": [],
+              "orcid": "0000-0003-0007-2226"
+            },
+            {
+              "name": "Young-Jun Park",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Zhaoqian Wang",
+              "affiliations": [],
+              "orcid": "0000-0001-8989-0422"
+            },
+            {
+              "name": "Moushimi Amaya",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Alka Jays",
+              "affiliations": [],
+              "orcid": "0009-0003-7287-1219"
+            },
+            {
+              "name": "Brendan B Larsen",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Cameron Stewart",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Jack T Brown",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Robert Ragotte",
+              "affiliations": [],
+              "orcid": "0000-0002-6463-1595"
+            },
+            {
+              "name": "Rashmi Ravichandran",
+              "affiliations": [],
+              "orcid": "0000-0002-2630-7487"
+            },
+            {
+              "name": "Garrett Ruth",
+              "affiliations": [],
+              "orcid": "0009-0004-4974-0410"
+            },
+            {
+              "name": "Xinting Li",
+              "affiliations": [],
+              "orcid": "0000-0001-5559-7578"
+            },
+            {
+              "name": "Dionne Vafeados",
+              "affiliations": [],
+              "orcid": "0000-0002-2560-8907"
+            },
+            {
+              "name": "Jesse D Bloom",
+              "affiliations": [],
+              "orcid": "0000-0003-1267-3408"
+            },
+            {
+              "name": "Christopher Broder",
+              "affiliations": [],
+              "orcid": "0000-0001-5382-0510"
+            },
+            {
+              "name": "David Veesler",
+              "affiliations": [],
+              "orcid": "0000-0002-6019-8675"
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [],
+              "orcid": "0000-0001-7896-6217"
+            }
+          ],
+          "abstract": "The prototype members of the genus Henipavirus, Nipah virus (NiV) and Hendra virus (HeV), cause recurrent zoonotic spillovers with case fatality rates ranging from 40-90% in humans. Currently, there are no approved vaccines or therapeutics for use in humans. Neutralizing antibodies targeting the NiV/HeV F-or G-glycoproteins protect animals from lethal challenge and are a main correlate of protection. However, antibody-based formulations are expensive, typically requiring hospital admission for administration and cold-chain for storage and transportation. To address the lack of shelf-stable clinical countermeasures, we computationally designed thermostable miniproteins that cross-react with subnanomolar affinities with both NiV and HeV F and G glycoproteins and inhibit viral entry in vitro with potencies comparable to lead antibodies. Oligomerized forms of these miniproteins have enhanced potency relative to their monomeric building blocks and increase the barrier for emergence of escape mutants, establishing them as promising preclinical candidates against these deadly viruses.",
+          "date": "2026-09-17",
+          "url": "https://doi.org/10.64898/2026.09.14.751546",
+          "doi": "10.64898/2026.09.14.751546",
+          "status": "preprint",
+          "journal": "bioRxiv : the preprint server for biology",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC13596370"
+          ],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:42779973",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:42779973",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2026-09-17T00:00:00Z"
     }
   },
   "aliases": {},
   "rejected": {
+    "pubmed:40764335": {
+      "first_seen": "2026-09-24T17:09:22Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "40764335",
+        "title": "P-Rex2 suppresses glucose uptake into liver and skeletal muscle through different adaptor functions.",
+        "authors": [
+          {
+            "name": "Elpida Tsonou",
+            "affiliations": [
+              "Signalling Programme, The Babraham Institute, Babraham Research Campus, Cambridge, CB22 3AT, UK.",
+              "Bioscience Metabolism, Research and Early Development, Cardiovascular, Renal and Metabolism (CVRM), BioPharmaceuticals R&D, AstraZeneca, Cambridge, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Julia Y Chu",
+            "affiliations": [
+              "Signalling Programme, The Babraham Institute, Babraham Research Campus, Cambridge, CB22 3AT, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Polly A Machin",
+            "affiliations": [
+              "Signalling Programme, The Babraham Institute, Babraham Research Campus, Cambridge, CB22 3AT, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Anna G Roberts",
+            "affiliations": [
+              "Signalling Programme, The Babraham Institute, Babraham Research Campus, Cambridge, CB22 3AT, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Anne Segonds-Pichon",
+            "affiliations": [
+              "Bioinformatics Facility, The Babraham Institute, Cambridge, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "David Baker",
+            "affiliations": [
+              "Bioscience Metabolism, Research and Early Development, Cardiovascular, Renal and Metabolism (CVRM), BioPharmaceuticals R&D, AstraZeneca, Cambridge, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "David C Hornigold",
+            "affiliations": [
+              "Bioscience Metabolism, Research and Early Development, Cardiovascular, Renal and Metabolism (CVRM), BioPharmaceuticals R&D, AstraZeneca, Cambridge, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Heidi C E Welch",
+            "affiliations": [
+              "Signalling Programme, The Babraham Institute, Babraham Research Campus, Cambridge, CB22 3AT, UK. heidi.welch@babraham.ac.uk."
+            ],
+            "orcid": null
+          }
+        ],
+        "abstract": "P-Rex2 is a Rac guanine-nucleotide factor (Rac-GEF) that controls glucose homeostasis. This role is thought to be mediated through its adaptor function inhibiting Pten rather than through its Rac-GEF activity, but this remains to be demonstrated. To examine this question, we have investigated the roles of P-Rex2 in glucose homeostasis using Prex2-/- and catalytically-inactive Prex2GD mice. We show that P-Rex2 is required for insulin sensitivity but limits glucose clearance, suppressing glucose uptake into liver and skeletal muscle independently of its catalytic activity. In hepatocytes, P-Rex2 suppresses Glut2 cell surface levels, mitochondrial membrane potential and mitochondrial ATP production. We identify the orphan GPCR Gpr21 as a P-Rex2 target and propose that P-Rex2 limits hepatic glucose clearance by controlling Gpr21 trafficking. In skeletal muscle cells, P-Rex2 suppresses glucose uptake through a separate adaptor function, independently of Gpr21. Additionally, P-Rex2 suppresses insulin secretion by pancreatic islets and plasma insulin levels. Finally, P-Rex2 plays distinct Rac-GEF activity dependent and independent roles in PIP3 production in liver and skeletal muscle, respectively. Together, our study identifies complex roles of P-Rex2 in glucose homeostasis, mediated through largely GEF-activity independent mechanisms which include the GPCR Gpr21 in hepatocytes and but are not obviously linked to the regulation of Pten.",
+        "date": "2025-08-05",
+        "url": "https://doi.org/10.1038/s41598-025-01720-w",
+        "doi": "10.1038/s41598-025-01720-w",
+        "status": "published",
+        "journal": "Scientific reports",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [
+          "pmc:PMC12325715"
+        ],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "David Baker",
+              "method": "rejected",
+              "affiliations": [
+                "Bioscience Metabolism, Research and Early Development, Cardiovascular, Renal and Metabolism (CVRM), BioPharmaceuticals R&D, AstraZeneca, Cambridge, UK."
+              ],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
+    "pubmed:40302838": {
+      "first_seen": "2026-09-24T17:09:22Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "40302838",
+        "title": "Faecal metagenomes of great tits and blue tits provide insights into host, diet, pathogens and microbial biodiversity.",
+        "authors": [
+          {
+            "name": "Mark J Pallen",
+            "affiliations": [
+              "Quadram Institute Bioscience, Norwich Research Park, Norwich, UK.",
+              "University of East Anglia, Norwich Research Park, Norwich, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Alise Jany Ponsero",
+            "affiliations": [
+              "Quadram Institute Bioscience, Norwich Research Park, Norwich, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Andrea Telatin",
+            "affiliations": [
+              "Quadram Institute Bioscience, Norwich Research Park, Norwich, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Cara-Jane Moss",
+            "affiliations": [
+              "Quadram Institute Bioscience, Norwich Research Park, Norwich, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "David Baker",
+            "affiliations": [
+              "Quadram Institute Bioscience, Norwich Research Park, Norwich, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Darren Heavens",
+            "affiliations": [
+              "Earlham Institute, Norwich Research Park, Norwich, Norfolk, NR4 7UZ UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Gabrielle L Davidson",
+            "affiliations": [
+              "University of East Anglia, Norwich Research Park, Norwich, UK.",
+              "University of Cambridge, Downing Street, Cambridge, CB2 3EB, UK."
+            ],
+            "orcid": null
+          }
+        ],
+        "abstract": "Background. The vertebrate gut microbiome plays crucial roles in host health and disease. However, there is limited information on the microbiomes of wild birds, most of which is restricted to barcode sequences. We therefore explored the use of shotgun metagenomics on the faecal microbiomes of two wild bird species widely used as model organisms in ecological studies: the great tit (Parus major) and the Eurasian blue tit (Cyanistes caeruleus). Results. Short-read sequencing of five faecal samples generated a metagenomic dataset, revealing substantial variation in composition between samples. Reference-based profiling with Kraken2 identified key differences in the ratios of reads assigned to host, diet and microbes. Some samples showed high abundance of potential pathogens, including siadenoviruses, coccidian parasites and the antimicrobial-resistant bacterial species Serratia fonticola. From metagenome assemblies, we obtained complete mitochondrial genomes from the host species and from Isospora spp., while metagenome-assembled genomes documented new prokaryotic species. Conclusions. Here, we have shown the utility of shotgun metagenomics in uncovering microbial diversity beyond what is possible with 16S rRNA gene sequencing. These findings provide a foundation for future hypothesis testing and microbiome manipulation to improve fitness in wild bird populations. The study also highlights the potential role of wild birds in the dissemination of antimicrobial resistance.",
+        "date": "2025-04-28",
+        "url": "https://doi.org/10.1099/acmi.0.000910.v3",
+        "doi": "10.1099/acmi.0.000910.v3",
+        "status": "published",
+        "journal": "Access microbiology",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [
+          "pmc:PMC12038002"
+        ],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "David Baker",
+              "method": "rejected",
+              "affiliations": [
+                "Quadram Institute Bioscience, Norwich Research Park, Norwich, UK."
+              ],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
+    "pubmed:40131871": {
+      "first_seen": "2026-09-24T17:09:22Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "40131871",
+        "title": "Temporal dynamics of SARS-CoV-2 shedding in feces and saliva: a longitudinal study in Norfolk, United Kingdom during the 2021-2022 COVID-19 waves.",
+        "authors": [
+          {
+            "name": "Lee Kellingray",
+            "affiliations": [
+              "Quadram Institute Bioscience, Norwich Research Park, Norwich, United Kingdom."
+            ],
+            "orcid": "0000-0002-6135-6321"
+          },
+          {
+            "name": "George M Savva",
+            "affiliations": [
+              "Quadram Institute Bioscience, Norwich Research Park, Norwich, United Kingdom."
+            ],
+            "orcid": "0000-0001-9190-124X"
+          },
+          {
+            "name": "Enriqueta Garcia-Gutierrez",
+            "affiliations": [
+              "Quadram Institute Bioscience, Norwich Research Park, Norwich, United Kingdom.",
+              "Department of Agronomic Engineering-ETSIA, Universidad Politécnica de Cartagena, Paseo Alfonso XIII, Cartagena, Region of Murcia, Spain."
+            ],
+            "orcid": "0000-0001-5683-7924"
+          },
+          {
+            "name": "Jemma Snell",
+            "affiliations": [
+              "Quadram Institute Bioscience, Norwich Research Park, Norwich, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Stefano Romano",
+            "affiliations": [
+              "Quadram Institute Bioscience, Norwich Research Park, Norwich, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Daniel Alejandro Yara",
+            "affiliations": [
+              "Quadram Institute Bioscience, Norwich Research Park, Norwich, United Kingdom."
+            ],
+            "orcid": "0000-0003-0482-7059"
+          },
+          {
+            "name": "Annalisa Altera",
+            "affiliations": [
+              "Quadram Institute Bioscience, Norwich Research Park, Norwich, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Leonardo de Oliveira Martins",
+            "affiliations": [
+              "Quadram Institute Bioscience, Norwich Research Park, Norwich, United Kingdom."
+            ],
+            "orcid": "0000-0001-5247-1320"
+          },
+          {
+            "name": "Chloe Hutchins",
+            "affiliations": [
+              "Quadram Institute Bioscience, Norwich Research Park, Norwich, United Kingdom."
+            ],
+            "orcid": "0000-0001-7797-9833"
+          },
+          {
+            "name": "David Baker",
+            "affiliations": [
+              "Quadram Institute Bioscience, Norwich Research Park, Norwich, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Antonietta Hayhoe",
+            "affiliations": [
+              "Quadram Institute Bioscience, Norwich Research Park, Norwich, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Christian Hacon",
+            "affiliations": [
+              "James Paget University Hospitals NHS Foundation Trust, Great Yarmouth, England, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Ngozi Elumogo",
+            "affiliations": [
+              "Norfolk and Norwich University Hospitals NHS Foundation Trust, Norwich, United Kingdom."
+            ],
+            "orcid": "0009-0003-7354-3532"
+          },
+          {
+            "name": "Arjan Narbad",
+            "affiliations": [
+              "Quadram Institute Bioscience, Norwich Research Park, Norwich, United Kingdom."
+            ],
+            "orcid": "0000-0003-2968-7558"
+          },
+          {
+            "name": "Lizbeth Sayavedra",
+            "affiliations": [
+              "Quadram Institute Bioscience, Norwich Research Park, Norwich, United Kingdom."
+            ],
+            "orcid": "0000-0001-5814-9471"
+          }
+        ],
+        "abstract": "UNLABELLED: Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) was originally described as a respiratory illness; however, it is now known that the infection can spread to the gastrointestinal tract, leading to shedding in feces potentially being a source of infection through wastewater. We aimed to assess the prevalence and persistence of SARS-CoV-2 in fecal and saliva samples for up to 7 weeks post-detection in a cohort of 98 participants from Norfolk, United Kingdom using RT-qPCR. Secondary goals included sequencing the viral isolates present in fecal samples and comparing the genetic sequence with isolates in the saliva of the same participant. Furthermore, we sought to identify factors associated with the presence of detectable virus in feces or saliva after a positive SARS-CoV-2 test. Saliva remained SARS-CoV-2-positive for longer periods compared to fecal samples, with all positive fecal samples occurring within 4 weeks of the initial positive test. Detectable virus in fecal samples was positively associated with the number of symptoms experienced by the individuals. Based on the genome sequencing and taxonomic classification of the virus, one donor had a distinct strain in feces compared to saliva on the same collection date, which suggests that different isolates could dominate different tissues. Our results underscore the importance of considering multiple biological samples, such as feces, in the detection and characterization of SARS-CoV-2, particularly in clinical procedures involving patient fecal material transplant. Such insights could contribute to enhancing the safety protocols surrounding the handling of patient samples and aid in devising effective strategies for mitigating the spread of coronavirus disease.\n\nIMPORTANCE: This study provides critical insights into the dynamics of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) shedding in fecal and saliva samples, demonstrating that while viral RNA is detectable shortly after diagnosis, its prevalence declines rapidly over the course of infection. Detection was more common among individuals with more concurrent symptoms, emphasizing the potential influence of symptom burden on viral persistence. By analyzing a United Kingdom-based cohort, this study fills a significant gap in the literature, which has largely focused on Asian and North American populations, offering a geographically unique perspective on viral shedding dynamics. Our findings contribute to a globally relevant understanding of SARS-CoV-2 shedding by revealing differences in shedding durations compared to studies from other regions. These differences highlight the need for geographically diverse research to account for variations in genetic background, immune response, and healthcare practices.",
+        "date": "2025-03-25",
+        "url": "https://doi.org/10.1128/spectrum.03195-24",
+        "doi": "10.1128/spectrum.03195-24",
+        "status": "published",
+        "journal": "Microbiology spectrum",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [
+          "pmc:PMC12053912"
+        ],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "David Baker",
+              "method": "rejected",
+              "affiliations": [
+                "Quadram Institute Bioscience, Norwich Research Park, Norwich, United Kingdom."
+              ],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
     "pubmed:39713572": {
       "first_seen": "2026-09-23T16:56:28Z",
       "record": {
