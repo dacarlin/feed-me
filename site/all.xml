@@ -7,7 +7,142 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-09-23T16:56:28Z</updated>
+  <updated>2026-09-24T04:48:28Z</updated>
+  <entry>
+    <id>urn:uuid:f0e2e76d-1158-50c5-aac7-cb15806c3f19</id>
+    <title>CD4 T cells convert transient responses to KRAS inhibition to durable remissions in pancreatic cancer.</title>
+    <published>2026-09-23T00:00:00Z</published>
+    <updated>2026-09-24T04:48:28Z</updated>
+    <link href="https://doi.org/10.1016/j.cell.2026.08.045" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Li Qiang</name>
+    </author>
+    <author>
+      <name>Megan T Hoffman</name>
+    </author>
+    <author>
+      <name>Jung-Ho Chun</name>
+    </author>
+    <author>
+      <name>Brendan Parent</name>
+    </author>
+    <author>
+      <name>Felix Hambitzer</name>
+    </author>
+    <author>
+      <name>Frank Peprah</name>
+    </author>
+    <author>
+      <name>Courtney T S Kureshi</name>
+    </author>
+    <author>
+      <name>Birkley S Lim</name>
+    </author>
+    <author>
+      <name>Eugena Chang</name>
+    </author>
+    <author>
+      <name>Michael J Walsh</name>
+    </author>
+    <author>
+      <name>Julissa G Tello</name>
+    </author>
+    <author>
+      <name>Tavus Atajanova</name>
+    </author>
+    <author>
+      <name>Hojeong Shin</name>
+    </author>
+    <author>
+      <name>Corey Perkins</name>
+    </author>
+    <author>
+      <name>Rakeeb Kureshi</name>
+    </author>
+    <author>
+      <name>Yaniris Molina-Aponte</name>
+    </author>
+    <author>
+      <name>James M Dougan</name>
+    </author>
+    <author>
+      <name>Chong Zuo</name>
+    </author>
+    <author>
+      <name>Lauren Brais</name>
+    </author>
+    <author>
+      <name>Thomas E Clancy</name>
+    </author>
+    <author>
+      <name>James M Cleary</name>
+    </author>
+    <author>
+      <name>Jason L Hornick</name>
+    </author>
+    <author>
+      <name>Brandon M Huffman</name>
+    </author>
+    <author>
+      <name>Joseph D Mancias</name>
+    </author>
+    <author>
+      <name>George Molina</name>
+    </author>
+    <author>
+      <name>Mark Fairweather</name>
+    </author>
+    <author>
+      <name>Jonathan A Nowak</name>
+    </author>
+    <author>
+      <name>Kimberly J Perez</name>
+    </author>
+    <author>
+      <name>Douglas A Rubinson</name>
+    </author>
+    <author>
+      <name>Sarah Slater</name>
+    </author>
+    <author>
+      <name>Ritchell van Dams</name>
+    </author>
+    <author>
+      <name>Jiping Wang</name>
+    </author>
+    <author>
+      <name>Brian M Wolpin</name>
+    </author>
+    <author>
+      <name>Kwok-Kin Wong</name>
+    </author>
+    <author>
+      <name>Harshabad Singh</name>
+    </author>
+    <author>
+      <name>Andrew J Aguirre</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Michael Dougan</name>
+    </author>
+    <author>
+      <name>Stephanie K Dougan</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Li Qiang; Megan T Hoffman; Jung-Ho Chun; Brendan Parent; Felix Hambitzer; Frank Peprah; Courtney T S Kureshi; Birkley S Lim; Eugena Chang; Michael J Walsh; Julissa G Tello; Tavus Atajanova; Hojeong Shin; Corey Perkins; Rakeeb Kureshi; Yaniris Molina-Aponte; James M Dougan; Chong Zuo; Lauren Brais; Thomas E Clancy; James M Cleary; Jason L Hornick; Brandon M Huffman; Joseph D Mancias; George Molina; Mark Fairweather; Jonathan A Nowak; Kimberly J Perez; Douglas A Rubinson; Sarah Slater; Ritchell van Dams; Jiping Wang; Brian M Wolpin; Kwok-Kin Wong; Harshabad Singh; Andrew J Aguirre; David Baker; Michael Dougan; Stephanie K Dougan&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2026-09-23&lt;/p&gt;
+&lt;p&gt;Journal: Cell&lt;/p&gt;
+&lt;p&gt;Pancreatic ductal adenocarcinoma (PDAC) is refractory to most therapies, including immunotherapies, for which reinvigoration of CD8 T cells through immune checkpoint blockade is insufficient to induce long-term, durable remissions. Direct KRAS inhibitors (KRASi) have shown clinical promise, although acquired resistance is common. We modeled KRASi response and relapse in mice and demonstrated that, unlike chemotherapy or combinations with checkpoint blockade, an interleukin (IL)-21 cytokine mimic (21h10) induced long-term, durable remissions. Its efficacy depends on T helper 1 (Th1)-polarized CD4 T cells, but not on CD8 T cells or tumor cell expression of major histocompatibility complex class I (MHC class I). Specifically, CD4 T cells primed by type 2 conventional dendritic cells (cDC2s) produce interferon γ (IFN-γ), which promotes macrophage-mediated phagocytosis of tumor cells. Ex vivo treatment of human PDAC specimens with 21h10 induces IFN-γ production by infiltrating T cells. Thus, IL-21-elicited CD4 T cells exert antitumor activity in mice and potentially in humans, converting transient responses to KRAS inhibition into durable remissions.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1016/j.cell.2026.08.045"&gt;pubmed (published) — DOI: 10.1016/j.cell.2026.08.045&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1016/j.cell.2026.08.045"&gt;Published version — DOI: 10.1016/j.cell.2026.08.045&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
   <entry>
     <id>urn:uuid:9e012682-4c6a-50a3-b187-e8ed207714b5</id>
     <title>Computational design of metalloproteases</title>
