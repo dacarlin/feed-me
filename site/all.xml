@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-09-24T17:09:22Z</updated>
+  <updated>2026-09-25T11:49:34Z</updated>
   <entry>
     <id>urn:uuid:f0e2e76d-1158-50c5-aac7-cb15806c3f19</id>
     <title>CD4 T cells convert transient responses to KRAS inhibition to durable remissions in pancreatic cancer.</title>
@@ -2852,6 +2852,114 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1016/j.celbio.2025.100239"&gt;pubmed (published) — DOI: 10.1016/j.celbio.2025.100239&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1016/j.celbio.2025.100239"&gt;Published version — DOI: 10.1016/j.celbio.2025.100239&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:8c4f6097-6acb-56c4-9db9-c3918f1edd76</id>
+    <title>Improved protein binder design using β-pairing targeted RFdiffusion.</title>
+    <published>2026-01-10T00:00:00Z</published>
+    <updated>2026-09-25T11:49:34Z</updated>
+    <link href="https://doi.org/10.1038/s41467-025-67866-3" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Isaac Sappington</name>
+    </author>
+    <author>
+      <name>Martin Toul</name>
+    </author>
+    <author>
+      <name>David S Lee</name>
+    </author>
+    <author>
+      <name>Stephanie A Robinson</name>
+    </author>
+    <author>
+      <name>Inna Goreshnik</name>
+    </author>
+    <author>
+      <name>Clara McCurdy</name>
+    </author>
+    <author>
+      <name>Tung Ching Chan</name>
+    </author>
+    <author>
+      <name>Nic Buchholz</name>
+    </author>
+    <author>
+      <name>Buwei Huang</name>
+    </author>
+    <author>
+      <name>Dionne Vafeados</name>
+    </author>
+    <author>
+      <name>Mariana Garcia-Sanchez</name>
+    </author>
+    <author>
+      <name>Nicole Roullier</name>
+    </author>
+    <author>
+      <name>Matthias Glögl</name>
+    </author>
+    <author>
+      <name>Christopher J Kim</name>
+    </author>
+    <author>
+      <name>Joseph L Watson</name>
+    </author>
+    <author>
+      <name>Susana Vázquez Torres</name>
+    </author>
+    <author>
+      <name>Koen H G Verschueren</name>
+    </author>
+    <author>
+      <name>Kenneth Verstraete</name>
+    </author>
+    <author>
+      <name>Cynthia S Hinck</name>
+    </author>
+    <author>
+      <name>Melisa Benard-Valle</name>
+    </author>
+    <author>
+      <name>Brian Coventry</name>
+    </author>
+    <author>
+      <name>Jeremiah Nelson Sims</name>
+    </author>
+    <author>
+      <name>Green Ahn</name>
+    </author>
+    <author>
+      <name>Xinru Wang</name>
+    </author>
+    <author>
+      <name>Andrew P Hinck</name>
+    </author>
+    <author>
+      <name>Timothy P Jenkins</name>
+    </author>
+    <author>
+      <name>Hannele Ruohola-Baker</name>
+    </author>
+    <author>
+      <name>Steven M Banik</name>
+    </author>
+    <author>
+      <name>Savvas N Savvides</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Isaac Sappington; Martin Toul; David S Lee; Stephanie A Robinson; Inna Goreshnik; Clara McCurdy; Tung Ching Chan; Nic Buchholz; Buwei Huang; Dionne Vafeados; Mariana Garcia-Sanchez; Nicole Roullier; Matthias Glögl; Christopher J Kim; Joseph L Watson; Susana Vázquez Torres; Koen H G Verschueren; Kenneth Verstraete; Cynthia S Hinck; Melisa Benard-Valle; Brian Coventry; Jeremiah Nelson Sims; Green Ahn; Xinru Wang; Andrew P Hinck; Timothy P Jenkins; Hannele Ruohola-Baker; Steven M Banik; Savvas N Savvides; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2026-01-10&lt;/p&gt;
+&lt;p&gt;Journal: Nature communications&lt;/p&gt;
+&lt;p&gt;Designing proteins that bind with high affinity to hydrophilic protein target sites remains a challenging problem. Here we show that RFdiffusion can be conditioned to generate protein scaffolds that form geometrically matched extended β-sheets with target protein edge β-strands in which polar groups on the target are complemented with hydrogen bonding groups on the design. We use this approach to design binders against edge-strand target sites on KIT, PDGFRɑ, ALK-2, ALK-3, FCRL5, NRP1, and α-CTX, and obtain higher (pM to mid nM) affinities and success rates than unconditioned RFdiffusion. Despite sharing β-strand interactions, designs have high specificity, reflecting the precise customization of interacting β-strand geometry and additional designed binder-target interactions. A binder-KIT co-crystal structure is nearly identical to the design model, confirming the accuracy of the design approach. The ability to robustly generate binders to the hydrophilic interaction surfaces of exposed β-strands considerably increases the range of computational binder design.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41467-025-67866-3"&gt;pubmed (published) — DOI: 10.1038/s41467-025-67866-3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41467-025-67866-3"&gt;Published version — DOI: 10.1038/s41467-025-67866-3&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>

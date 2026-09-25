@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-09-25T04:55:49Z",
+      "last_success": "2026-09-25T11:49:34Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-09-25T04:55:49Z",
+      "last_success": "2026-09-25T11:49:34Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -125,7 +125,8 @@
     "pubmed:42779973": "2026-09-24T17:09:22Z",
     "pubmed:40489613": "2026-09-24T17:09:22Z",
     "pubmed:39394803": "2026-09-24T17:09:22Z",
-    "pubmed:39091726": "2026-09-24T17:09:22Z"
+    "pubmed:39091726": "2026-09-24T17:09:22Z",
+    "pubmed:41519838": "2026-09-25T11:49:34Z"
   },
   "works": {
     "urn:uuid:7f477453-6c38-52e7-b591-accb9b0e6576": {
@@ -20982,6 +20983,294 @@
         }
       ],
       "published": "2026-09-17T00:00:00Z"
+    },
+    "urn:uuid:8c4f6097-6acb-56c4-9db9-c3918f1edd76": {
+      "id": "urn:uuid:8c4f6097-6acb-56c4-9db9-c3918f1edd76",
+      "first_seen": "2026-09-25T11:49:34Z",
+      "updated": "2026-09-25T11:49:34Z",
+      "records": {
+        "pubmed:41519838": {
+          "source": "pubmed",
+          "source_id": "41519838",
+          "title": "Improved protein binder design using β-pairing targeted RFdiffusion.",
+          "authors": [
+            {
+              "name": "Isaac Sappington",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Graduate Program in Biological Physics, Structure and Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-1073-0643"
+            },
+            {
+              "name": "Martin Toul",
+              "affiliations": [
+                "Unit for Structural Biology, Department of Biochemistry and Microbiology, Ghent University, Ghent, Belgium.",
+                "Unit for Structural Biology, VIB Center for Inflammation Research, Ghent, Belgium."
+              ],
+              "orcid": "0000-0002-3707-6899"
+            },
+            {
+              "name": "David S Lee",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Department of Genome Sciences, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-6539-4272"
+            },
+            {
+              "name": "Stephanie A Robinson",
+              "affiliations": [
+                "Department of Chemistry, Stanford University, Stanford, CA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Inna Goreshnik",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Clara McCurdy",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Graduate Program in Biological Physics, Structure and Design, University of Washington, Seattle, WA, USA.",
+                "Institute for Stem Cell and Regenerative Medicine, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0009-0008-8120-9776"
+            },
+            {
+              "name": "Tung Ching Chan",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Stem Cell and Regenerative Medicine, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Nic Buchholz",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Stem Cell and Regenerative Medicine, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Buwei Huang",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Department of Bioengineering, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Dionne Vafeados",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-2560-8907"
+            },
+            {
+              "name": "Mariana Garcia-Sanchez",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0009-0002-9194-0251"
+            },
+            {
+              "name": "Nicole Roullier",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0009-0004-8430-9538"
+            },
+            {
+              "name": "Matthias Glögl",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Christopher J Kim",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Department of Chemistry, University of Minnesota, Minneapolis, MN, USA."
+              ],
+              "orcid": "0000-0003-4305-0473"
+            },
+            {
+              "name": "Joseph L Watson",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-5492-0249"
+            },
+            {
+              "name": "Susana Vázquez Torres",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Graduate Program in Biological Physics, Structure and Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Koen H G Verschueren",
+              "affiliations": [
+                "Unit for Structural Biology, Department of Biochemistry and Microbiology, Ghent University, Ghent, Belgium.",
+                "Unit for Structural Biology, VIB Center for Inflammation Research, Ghent, Belgium."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Kenneth Verstraete",
+              "affiliations": [
+                "Unit for Structural Biology, Department of Biochemistry and Microbiology, Ghent University, Ghent, Belgium.",
+                "Unit for Structural Biology, VIB Center for Inflammation Research, Ghent, Belgium."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Cynthia S Hinck",
+              "affiliations": [
+                "Department of Structural Biology, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Melisa Benard-Valle",
+              "affiliations": [
+                "Department of Biotechnology and Biomedicine, Technical University of Denmark, Kongens, Lyngby, Denmark."
+              ],
+              "orcid": "0000-0002-0042-6592"
+            },
+            {
+              "name": "Brian Coventry",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-6910-6255"
+            },
+            {
+              "name": "Jeremiah Nelson Sims",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Molecular & Cellular Biology, Medical Scientist Training Program, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-0479-0367"
+            },
+            {
+              "name": "Green Ahn",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0003-4482-2754"
+            },
+            {
+              "name": "Xinru Wang",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Andrew P Hinck",
+              "affiliations": [
+                "Department of Structural Biology, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA."
+              ],
+              "orcid": "0000-0003-3320-8054"
+            },
+            {
+              "name": "Timothy P Jenkins",
+              "affiliations": [
+                "Department of Biotechnology and Biomedicine, Technical University of Denmark, Kongens, Lyngby, Denmark."
+              ],
+              "orcid": "0000-0003-2979-5663"
+            },
+            {
+              "name": "Hannele Ruohola-Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Stem Cell and Regenerative Medicine, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-5588-4531"
+            },
+            {
+              "name": "Steven M Banik",
+              "affiliations": [
+                "Department of Chemistry, Stanford University, Stanford, CA, USA.",
+                "Sarafan ChEM-H, Stanford University, Stanford, CA, USA."
+              ],
+              "orcid": "0000-0002-0544-6488"
+            },
+            {
+              "name": "Savvas N Savvides",
+              "affiliations": [
+                "Unit for Structural Biology, Department of Biochemistry and Microbiology, Ghent University, Ghent, Belgium.",
+                "Unit for Structural Biology, VIB Center for Inflammation Research, Ghent, Belgium."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA. dabaker@uw.edu.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA. dabaker@uw.edu.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA. dabaker@uw.edu."
+              ],
+              "orcid": "0000-0001-7896-6217"
+            }
+          ],
+          "abstract": "Designing proteins that bind with high affinity to hydrophilic protein target sites remains a challenging problem. Here we show that RFdiffusion can be conditioned to generate protein scaffolds that form geometrically matched extended β-sheets with target protein edge β-strands in which polar groups on the target are complemented with hydrogen bonding groups on the design. We use this approach to design binders against edge-strand target sites on KIT, PDGFRɑ, ALK-2, ALK-3, FCRL5, NRP1, and α-CTX, and obtain higher (pM to mid nM) affinities and success rates than unconditioned RFdiffusion. Despite sharing β-strand interactions, designs have high specificity, reflecting the precise customization of interacting β-strand geometry and additional designed binder-target interactions. A binder-KIT co-crystal structure is nearly identical to the design model, confirming the accuracy of the design approach. The ability to robustly generate binders to the hydrophilic interaction surfaces of exposed β-strands considerably increases the range of computational binder design.",
+          "date": "2026-01-10",
+          "url": "https://doi.org/10.1038/s41467-025-67866-3",
+          "doi": "10.1038/s41467-025-67866-3",
+          "status": "published",
+          "journal": "Nature communications",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC12852815"
+          ],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:41519838",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:41519838",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2026-01-10T00:00:00Z"
     }
   },
   "aliases": {},
