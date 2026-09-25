@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-09-25T11:49:34Z",
+      "last_success": "2026-09-25T17:09:33Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-09-25T11:49:34Z",
+      "last_success": "2026-09-25T17:09:33Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -126,13 +126,16 @@
     "pubmed:40489613": "2026-09-24T17:09:22Z",
     "pubmed:39394803": "2026-09-24T17:09:22Z",
     "pubmed:39091726": "2026-09-24T17:09:22Z",
-    "pubmed:41519838": "2026-09-25T11:49:34Z"
+    "pubmed:41519838": "2026-09-25T11:49:34Z",
+    "pubmed:40953261": "2026-09-25T17:09:33Z",
+    "pubmed:40450691": "2026-09-25T17:09:33Z",
+    "pubmed:40145385": "2026-09-25T17:09:33Z"
   },
   "works": {
     "urn:uuid:7f477453-6c38-52e7-b591-accb9b0e6576": {
       "id": "urn:uuid:7f477453-6c38-52e7-b591-accb9b0e6576",
       "first_seen": "2026-09-11T05:51:48Z",
-      "updated": "2026-09-11T05:51:48Z",
+      "updated": "2026-09-25T17:09:33Z",
       "records": {
         "pubmed:39574666": {
           "source": "pubmed",
@@ -325,6 +328,192 @@
               "evidence": "PubMed preprint UpdateIn"
             }
           ]
+        },
+        "pubmed:40450691": {
+          "source": "pubmed",
+          "source_id": "40450691",
+          "title": "Designed miniproteins potently inhibit and protect against MERS-CoV.",
+          "authors": [
+            {
+              "name": "Robert J Ragotte",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA; Institute for Protein Design, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "M Alejandra Tortorici",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Nicholas J Catanzaro",
+              "affiliations": [
+                "Department of Epidemiology, University of North Carolina, Chapel Hill, NC 27599, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Amin Addetia",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Brian Coventry",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA; Institute for Protein Design, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Heather M Froggatt",
+              "affiliations": [
+                "Department of Epidemiology, University of North Carolina, Chapel Hill, NC 27599, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Jimin Lee",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Cameron Stewart",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Jack T Brown",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Inna Goreshnik",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA; Institute for Protein Design, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Jeremiah N Sims",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA; Institute for Protein Design, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Lukas F Milles",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA; Institute for Protein Design, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Basile I M Wicky",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA; Institute for Protein Design, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Matthias Glögl",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA; Institute for Protein Design, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Stacey Gerben",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA; Institute for Protein Design, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Alex Kang",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA; Institute for Protein Design, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Asim K Bera",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA; Institute for Protein Design, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "William Sharkey",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Alexandra Schäfer",
+              "affiliations": [
+                "Department of Epidemiology, University of North Carolina, Chapel Hill, NC 27599, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Jack R Harkema",
+              "affiliations": [
+                "Department of Pathobiology and Diagnostic Investigation, Michigan State University, East Lansing, MI 48824, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Ralph S Baric",
+              "affiliations": [
+                "Department of Epidemiology, University of North Carolina, Chapel Hill, NC 27599, USA. Electronic address: rbaric@email.unc.edu."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA; Institute for Protein Design, University of Washington, Seattle, WA 98195, USA; Howard Hughes Medical Institute, University of Washington, Seattle, WA 98195, USA. Electronic address: dabaker@uw.edu."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David Veesler",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA; Howard Hughes Medical Institute, University of Washington, Seattle, WA 98195, USA. Electronic address: dveesler@uw.edu."
+              ],
+              "orcid": null
+            }
+          ],
+          "abstract": "Middle East respiratory syndrome coronavirus (MERS-CoV) is a zoonotic pathogen with a 36% case-fatality rate in humans. No vaccines or specific therapeutics are currently approved for use in humans or the camel host reservoir. Here, we computationally designed monomeric and homo-oligomeric miniproteins that bind with high affinity to the MERS-CoV spike (S) glycoprotein, the main target of neutralizing antibodies and vaccine development. We show that these miniproteins broadly neutralize a panel of MERS-CoV S variants, spanning the known antigenic diversity of this pathogen, by targeting a conserved site in the receptor-binding domain (RBD). The miniproteins directly compete with binding of the dipeptidylpeptidase 4 (DPP4) receptor to MERS-CoV S, thereby blocking viral attachment to the host entry receptor and subsequent membrane fusion. Intranasal administration of a lead miniprotein provides prophylactic protection against stringent MERS-CoV challenge in mice, motivating its future clinical development as a next-generation countermeasure against this virus with pandemic potential.",
+          "date": "2025-05-31",
+          "url": "https://doi.org/10.1016/j.celrep.2025.115760",
+          "doi": "10.1016/j.celrep.2025.115760",
+          "status": "published",
+          "journal": "Cell reports",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC12276895"
+          ],
+          "relations": [
+            {
+              "kind": "update_of",
+              "target": "pubmed:39574666",
+              "evidence": "PubMed UpdateOf; target must be a preprint"
+            }
+          ]
         }
       },
       "matched_researchers": {
@@ -349,6 +538,25 @@
                 ]
               }
             ]
+          },
+          {
+            "record": "pubmed:40450691",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "name_and_affiliations",
+                "affiliations": [
+                  "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA; Institute for Protein Design, University of Washington, Seattle, WA 98195, USA; Howard Hughes Medical Institute, University of Washington, Seattle, WA 98195, USA. Electronic address: dabaker@uw.edu."
+                ],
+                "matched_affiliations": [
+                  "Institute for Protein Design",
+                  "University of Washington",
+                  "Department of Biochemistry"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -357,6 +565,20 @@
           "record": "pubmed:39574666",
           "method": "new_work",
           "reason": "no existing work"
+        },
+        {
+          "record": "pubmed:40450691",
+          "rank": 1,
+          "method": "explicit_relationship",
+          "identifiers": [
+            "pubmed:39574666",
+            "pubmed:40450691"
+          ],
+          "evidence": [
+            "PubMed UpdateOf; target must be a preprint",
+            "PubMed preprint UpdateIn"
+          ],
+          "matched_record": "pubmed:39574666"
         }
       ],
       "published": "2024-11-04T00:00:00Z"
@@ -20500,7 +20722,7 @@
     "urn:uuid:aff5fafc-66f1-54ea-89e5-b6fcc565547b": {
       "id": "urn:uuid:aff5fafc-66f1-54ea-89e5-b6fcc565547b",
       "first_seen": "2026-09-24T17:09:22Z",
-      "updated": "2026-09-24T17:09:22Z",
+      "updated": "2026-09-25T17:09:33Z",
       "records": {
         "pubmed:39091726": {
           "source": "pubmed",
@@ -20611,12 +20833,134 @@
               "evidence": "PubMed preprint UpdateIn"
             }
           ]
+        },
+        "pubmed:40953261": {
+          "source": "pubmed",
+          "source_id": "40953261",
+          "title": "Parametrically guided design of beta barrels and transmembrane nanopores using deep learning.",
+          "authors": [
+            {
+              "name": "David E Kim",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195.",
+                "HHMI, University of Washington, Seattle, WA 98195."
+              ],
+              "orcid": "0000-0002-0023-956X"
+            },
+            {
+              "name": "Joseph L Watson",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195.",
+                "HHMI, University of Washington, Seattle, WA 98195."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David Juergens",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195.",
+                "HHMI, University of Washington, Seattle, WA 98195."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Sagardip Majumder",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195.",
+                "HHMI, University of Washington, Seattle, WA 98195."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Ria Sonigra",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195."
+              ],
+              "orcid": "0000-0002-1657-6210"
+            },
+            {
+              "name": "Stacey R Gerben",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Alex Kang",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195."
+              ],
+              "orcid": "0000-0001-5487-0499"
+            },
+            {
+              "name": "Asim K Bera",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195."
+              ],
+              "orcid": "0000-0001-9473-2912"
+            },
+            {
+              "name": "Xinting Li",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195.",
+                "HHMI, University of Washington, Seattle, WA 98195."
+              ],
+              "orcid": "0000-0001-7896-6217"
+            }
+          ],
+          "abstract": "Francis Crick's global parameterization of coiled coil geometry has been widely useful for guiding design of new protein structures and functions. However, design guided by similar global parameterization of beta barrel structures has been less successful, likely due to the deviations from ideal barrel geometry required to maintain interstrand hydrogen bonding without introducing backbone strain. Instead, beta barrels have been designed using two-dimensional structural blueprints; while this approach has successfully generated new fluorescent proteins, transmembrane nanopores, and other structures, it requires expert knowledge and provides only indirect control over the global shape. Here, we show that the simplicity and control over shape and structure provided by parametric representations can be generalized beyond coiled coils by taking advantage of the rich sequence-structure relationships implicit in RoseTTAFold-based design methods. Starting from parametrically generated barrel backbones, both RFjoint inpainting and RFdiffusion readily incorporate backbone irregularities necessary for proper folding with minimal deviation from the idealized barrel geometries. We show that for beta barrels across a broad range of beta sheet parameterizations, these methods achieve high in silico and experimental success rates, with atomic accuracy confirmed by an X-ray crystal structure of a rare barrel topology, and de novo designed transmembrane nanopores with conductances ranging from 200 to 500 pS. By combining the simplicity and control of parametric generation with the high success rates of deep learning-based protein design methods, our approach makes the design of proteins where global shape confers function, such as beta barrel nanopores, more precisely specifiable and accessible.",
+          "date": "2025-09-15",
+          "url": "https://doi.org/10.1073/pnas.2425459122",
+          "doi": "10.1073/pnas.2425459122",
+          "status": "published",
+          "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC12478100"
+          ],
+          "relations": [
+            {
+              "kind": "update_of",
+              "target": "pubmed:39091726",
+              "evidence": "PubMed UpdateOf; target must be a preprint"
+            }
+          ]
         }
       },
       "matched_researchers": {
         "david-baker": [
           {
             "record": "pubmed:39091726",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
+          },
+          {
+            "record": "pubmed:40953261",
             "matched": true,
             "reason": "strong author identity",
             "evidence": [
@@ -20634,6 +20978,20 @@
           "record": "pubmed:39091726",
           "method": "new_work",
           "reason": "no existing work"
+        },
+        {
+          "record": "pubmed:40953261",
+          "rank": 1,
+          "method": "explicit_relationship",
+          "identifiers": [
+            "pubmed:39091726",
+            "pubmed:40953261"
+          ],
+          "evidence": [
+            "PubMed UpdateOf; target must be a preprint",
+            "PubMed preprint UpdateIn"
+          ],
+          "matched_record": "pubmed:39091726"
         }
       ],
       "published": "2025-01-06T00:00:00Z"
@@ -21271,10 +21629,209 @@
         }
       ],
       "published": "2026-01-10T00:00:00Z"
+    },
+    "urn:uuid:4d3df279-bd3b-5843-88dd-10097c2f6b46": {
+      "id": "urn:uuid:4d3df279-bd3b-5843-88dd-10097c2f6b46",
+      "first_seen": "2026-09-25T17:09:33Z",
+      "updated": "2026-09-25T17:09:33Z",
+      "records": {
+        "pubmed:40145385": {
+          "source": "pubmed",
+          "source_id": "40145385",
+          "title": "Rapid and Inexpensive Image-Guided Grayscale Biomaterial Customization via LCD Printing.",
+          "authors": [
+            {
+              "name": "Ryan M Francis",
+              "affiliations": [
+                "Department of Chemical Engineering, University of Washington, Seattle, Washington, USA."
+              ],
+              "orcid": "0000-0002-3964-6090"
+            },
+            {
+              "name": "Irina Kopyeva",
+              "affiliations": [
+                "Department of Bioengineering, University of Washington, Seattle, Washington, USA."
+              ],
+              "orcid": "0000-0003-3740-6971"
+            },
+            {
+              "name": "Nicholas Lai",
+              "affiliations": [
+                "Department of Chemical Engineering, University of Washington, Seattle, Washington, USA."
+              ],
+              "orcid": "0009-0004-1954-4814"
+            },
+            {
+              "name": "Shiyu Yang",
+              "affiliations": [
+                "Department of Chemical Engineering, University of Washington, Seattle, Washington, USA."
+              ],
+              "orcid": "0009-0004-9126-7786"
+            },
+            {
+              "name": "Jeremy R Filteau",
+              "affiliations": [
+                "Department of Chemical Engineering, University of Washington, Seattle, Washington, USA."
+              ],
+              "orcid": "0000-0002-4617-5063"
+            },
+            {
+              "name": "Xinru Wang",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, Washington, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, Washington, USA."
+              ],
+              "orcid": "0000-0001-5994-707X"
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Chemical Engineering, University of Washington, Seattle, Washington, USA.",
+                "Department of Bioengineering, University of Washington, Seattle, Washington, USA.",
+                "Department of Biochemistry, University of Washington, Seattle, Washington, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, Washington, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, Washington, USA.",
+                "Institute for Stem Cell & Regenerative Medicine, University of Washington, Seattle, Washington, USA.",
+                "Molecular Engineering & Sciences Institute, University of Washington, Seattle, Washington, USA."
+              ],
+              "orcid": "0000-0001-7896-6217"
+            },
+            {
+              "name": "Cole A DeForest",
+              "affiliations": [
+                "Department of Chemical Engineering, University of Washington, Seattle, Washington, USA.",
+                "Department of Bioengineering, University of Washington, Seattle, Washington, USA.",
+                "Department of Biochemistry, University of Washington, Seattle, Washington, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, Washington, USA.",
+                "Institute for Stem Cell & Regenerative Medicine, University of Washington, Seattle, Washington, USA.",
+                "Molecular Engineering & Sciences Institute, University of Washington, Seattle, Washington, USA.",
+                "Department of Chemistry, University of Washington, Seattle, Washington, USA."
+              ],
+              "orcid": "0000-0003-0337-3577"
+            }
+          ],
+          "abstract": "Hydrogels are an important class of biomaterials that permit cells to be cultured and studied within engineered microenvironments of user-defined physical and chemical properties. Though conventional 3D extrusion and stereolithographic (SLA) printing readily enable homogeneous and multimaterial hydrogels to be formed with specific macroscopic geometries, strategies that further afford spatiotemporal customization of the underlying gel physicochemistry in a non-discrete manner would be profoundly useful toward recapitulating the complexity of native tissue in vitro. Here, we demonstrate that grayscale control over local biomaterial biochemistry and mechanics can be rapidly achieved across large constructs using an inexpensive (~$300) and commercially available liquid crystal display (LCD)-based printer. Template grayscale images are first processed into a \"height-extruded\" 3D object, which is then printed on a standard LCD printer with an immobile build head. As the local height of the 3D object corresponds to the final light dosage delivered at the corresponding xy-coordinate, this method provides a route toward spatially specifying the extent of various dosage-dependent and biomaterial, forming/modifying photochemistries. Demonstrating the utility of this approach, we photopattern the grayscale polymerization of poly(ethylene glycol) (PEG) diacrylate gels, biochemical functionalization of agarose- and PEG-based gels via oxime ligation, and the controlled 2D adhesion and 3D growth of cells in response to a de novo-designed α5β1-modulating protein via thiol-norbornene click chemistry. Owing to the method's low cost, simple implementation, and high compatibility with many biomaterial photochemistries, we expect this strategy will prove useful toward fundamental biological studies and functional tissue engineering alike.",
+          "date": "2025-04",
+          "url": "https://doi.org/10.1002/jbm.a.37897",
+          "doi": "10.1002/jbm.a.37897",
+          "status": "published",
+          "journal": "Journal of biomedical materials research. Part A",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC12239860"
+          ],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:40145385",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:40145385",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2025-04-01T00:00:00Z"
     }
   },
   "aliases": {},
   "rejected": {
+    "pubmed:41195254": {
+      "first_seen": "2026-09-25T17:09:33Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "41195254",
+        "title": "A glimpse into a vanished ecosystem: reconstructing diet and palaeoenvironment of Palaeoloxodon from the Pleistocene of Taiwan.",
+        "authors": [
+          {
+            "name": "Deep Shubhra Biswas",
+            "affiliations": [
+              "Institute of Ecology and Evolutionary Biology, National Taiwan University, Taipei City 10617, Taiwan."
+            ],
+            "orcid": "0009-0006-1796-5193"
+          },
+          {
+            "name": "Yogaraj Banerjee",
+            "affiliations": [
+              "STARLAB, Department of Earth and Atmospheric Sciences, Central Michigan University, Mount Pleasant, MI 48859, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "David Baker",
+            "affiliations": [
+              "School of Biological Sciences, Faculty of Science, The University of Hong Kong, Hong Kong."
+            ],
+            "orcid": "0000-0002-0308-4954"
+          },
+          {
+            "name": "Chun-Hsiang Chang",
+            "affiliations": [
+              "Palaeontology Division, Geology Department, National Museum of Natural Science, Taichung 404023, Taiwan.",
+              "Department of Life Science, Tunghai University, Taichung 40704, Taiwan."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Cheng-Hsiu Tsai",
+            "affiliations": [
+              "Institute of Ecology and Evolutionary Biology, National Taiwan University, Taipei City 10617, Taiwan.",
+              "Department of Life Science, National Taiwan University, Taipei City 10617, Taiwan."
+            ],
+            "orcid": "0000-0003-3617-366X"
+          }
+        ],
+        "abstract": "Palaeoloxodon is the largest known terrestrial mammal in the history of Taiwan. However, little is known about the palaeoecology and palaeoenvironment of these extinct proboscideans. In this study, we investigate the stable carbon and oxygen isotopic ratios of sequential enamel samples taken along the growth direction of molars from three Palaeoloxodon specimens of different ontogenetic ages from the Pleistocene of Taiwan. Our results suggest that these proboscideans relied extensively on a C4 diet, a dietary niche distinct from the Eurasian Palaeoloxodon antiquus but similar to the predominantly C4-grazing species Palaeoloxodon namadicus. The specimens show depleted δ 18O values, indicating obligate drinking and reliance on running water sources, such as monsoon-fed rivers, which exhibit more depleted δ 18O values. Additionally, the juvenile specimen shows an isotopic shift in both δ 13C and δ 18O values, aligning with the known signals of weaning in proboscideans. This could provide a novel insight into the life history and weaning age of Palaeoloxodon. Our results highlight, to our knowledge, the first evidence of a unique palaeohabitat of Palaeoloxodon from the Pleistocene of Taiwan, represented by C4 vegetation and the presence of a palaeo-river system that supported these giant proboscideans.",
+        "date": "2025-11-05",
+        "url": "https://doi.org/10.1098/rsos.250935",
+        "doi": "10.1098/rsos.250935",
+        "status": "published",
+        "journal": "Royal Society open science",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [
+          "pmc:PMC12585864"
+        ],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "David Baker",
+              "method": "rejected",
+              "reason": "conflicting ORCID",
+              "orcid": "0000-0002-0308-4954"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
     "pubmed:40764335": {
       "first_seen": "2026-09-24T17:09:22Z",
       "record": {
