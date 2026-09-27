@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-09-27T12:00:07Z",
+      "last_success": "2026-09-27T16:57:09Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-09-27T12:00:07Z",
+      "last_success": "2026-09-27T16:57:09Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-09-23T16:56:28Z",
+      "last_success": "2026-09-27T16:57:09Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -24,8 +24,8 @@
     "pubmed:42162421": "2026-09-25T04:55:49Z",
     "pubmed:41284265": "2026-09-25T04:55:49Z",
     "pubmed:39574666": "2026-09-25T04:55:49Z",
-    "biorxiv:10.64898/2026.08.13.744004": "2026-09-18T04:41:41Z",
-    "biorxiv:10.64898/2026.09.08.750245": "2026-09-18T04:41:41Z",
+    "biorxiv:10.64898/2026.08.13.744004": "2026-09-27T16:57:09Z",
+    "biorxiv:10.64898/2026.09.08.750245": "2026-09-27T16:57:09Z",
     "pubmed:42677469": "2026-09-25T04:55:49Z",
     "pubmed:42658941": "2026-09-25T04:55:49Z",
     "pubmed:42461986": "2026-09-25T04:55:49Z",
@@ -129,7 +129,8 @@
     "pubmed:41519838": "2026-09-25T11:49:34Z",
     "pubmed:40953261": "2026-09-25T17:09:33Z",
     "pubmed:40450691": "2026-09-25T17:09:33Z",
-    "pubmed:40145385": "2026-09-25T17:09:33Z"
+    "pubmed:40145385": "2026-09-25T17:09:33Z",
+    "pubmed:34622888": "2026-09-27T16:57:09Z"
   },
   "works": {
     "urn:uuid:7f477453-6c38-52e7-b591-accb9b0e6576": {
@@ -21809,10 +21810,192 @@
         }
       ],
       "published": "2025-04-01T00:00:00Z"
+    },
+    "urn:uuid:ad99c5bc-f7b2-5040-a74c-f8703f272f04": {
+      "id": "urn:uuid:ad99c5bc-f7b2-5040-a74c-f8703f272f04",
+      "first_seen": "2026-09-27T16:57:09Z",
+      "updated": "2026-09-27T16:57:09Z",
+      "records": {
+        "pubmed:34622888": {
+          "source": "pubmed",
+          "source_id": "34622888",
+          "title": "Cation enrichment in the ion atmosphere is promoted by local hydration of DNA.",
+          "authors": [
+            {
+              "name": "Chun Yu Ma",
+              "affiliations": [
+                "Department of Physical Chemistry II, Ruhr-University Bochum, 44780 Bochum, Germany. martina.havenith@rub.de."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Simone Pezzotti",
+              "affiliations": [
+                "Department of Physical Chemistry II, Ruhr-University Bochum, 44780 Bochum, Germany. martina.havenith@rub.de."
+              ],
+              "orcid": "0000-0003-2023-3648"
+            },
+            {
+              "name": "Gerhard Schwaab",
+              "affiliations": [
+                "Department of Physical Chemistry II, Ruhr-University Bochum, 44780 Bochum, Germany. martina.havenith@rub.de."
+              ],
+              "orcid": "0000-0003-2136-907X"
+            },
+            {
+              "name": "Magdalena Gebala",
+              "affiliations": [
+                "Department of Biochemistry, Stanford University, Stanford, California 94305, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Daniel Herschlag",
+              "affiliations": [
+                "Department of Biochemistry, Stanford University, Stanford, California 94305, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Martina Havenith",
+              "affiliations": [
+                "Department of Physical Chemistry II, Ruhr-University Bochum, 44780 Bochum, Germany. martina.havenith@rub.de."
+              ],
+              "orcid": "0000-0001-8475-5037"
+            }
+          ],
+          "abstract": "Electrostatic interactions are central to the structure and function of nucleic acids, including their folding, condensation, and interaction with proteins and other charged molecules. These interactions are profoundly affected by ions surrounding nucleic acids, the constituents of the so-called ion atmosphere. Here, we report precise Fourier Transform-Terahertz/Far-Infrared (FT-THz/FIR) measurements in the frequency range 30-500 cm-1 for a 24-bp DNA solvated in a series of alkali halide (NaCl, NaF, KCl, CsCl, and CsF) electrolyte solutions which are sensitive to changes in the ion atmosphere. Cation excess in the ion atmosphere is detected experimentally by observation of cation modes of Na+, K+, and Cs+ in the frequency range between 70-90 cm-1. Based on MD simulations, we propose that the magnitude of cation excess (which is salt specific) depends on the ability of the electrolyte to perturb the water network at the DNA interface: In the NaF atmosphere, the ions reduce the strength of interactions between water and the DNA more than in case of a NaCl electrolyte. Here, we explicitly take into account the solvent contribution to the chemical potential in the ion atmosphere: A decrease in the number of bound water molecules in the hydration layer of DNA is correlated with enhanced density fluctuations, which decrease the free energy cost of ion-hydration, thus promoting further ion accumulation within the DNA atmosphere. We propose that taking into account the local solvation is crucial for understanding the ion atmosphere.",
+          "date": "2021-10-20",
+          "url": "https://doi.org/10.1039/d1cp01963e",
+          "doi": "10.1039/d1cp01963e",
+          "status": "published",
+          "journal": "Physical chemistry chemical physics : PCCP",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC8797164"
+          ],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "daniel-herschlag": [
+          {
+            "record": "pubmed:34622888",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "Daniel Herschlag",
+                "method": "name_and_affiliations",
+                "affiliations": [
+                  "Department of Biochemistry, Stanford University, Stanford, California 94305, USA."
+                ],
+                "matched_affiliations": [
+                  "Stanford University",
+                  "Department of Biochemistry"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:34622888",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2021-10-20T00:00:00Z"
     }
   },
   "aliases": {},
   "rejected": {
+    "biorxiv:10.64898/2026.03.09.710580": {
+      "first_seen": "2026-09-27T16:57:09Z",
+      "record": {
+        "source": "biorxiv",
+        "source_id": "10.64898/2026.03.09.710580",
+        "title": "STAR Suite: Transcriptomics processing in a single binary through AI-assisted development",
+        "authors": [
+          {
+            "name": "Hung, L.-H.",
+            "affiliations": [
+              "University of Washington Tacoma"
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Baker, D.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Flynn, B.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Huangfu, D.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Luo, R.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Robson, P.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Zhou, T.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Yeung, K. Y.",
+            "affiliations": [],
+            "orcid": null
+          }
+        ],
+        "abstract": "Background. STAR is the aligner underlying most transcriptomics processing, and is used inside Cell Ranger. However, the surrounding steps - adapter trimming, sorting, feature-barcode assignment, probe handling, SLAM-seq analysis, quantification, and quality control - run as separate tools scripted around it. Cell Ranger hides this complexity but is proprietary, restricted to 10x products, and barred by its license from redistribution, so it cannot serve as a shared processing layer. While STARsolo supports scRNA-seq, it lacks the feature-barcode detection needed for Perturb-seq, where short tags such as CRISPR guides or lineage barcodes are read alongside the transcriptome. No open-source tool processes Perturb-seq feature barcodes at production scale, and the only open-source processor for 10x Flex - a probe-based assay for fixed and FFPE tissue that multiplexes several samples in one lane - is a recent standalone k-mer tool. Results. STAR Suite compiles these steps into the STAR codebase to create a drop-in executable for bulk RNA-seq, scRNA-seq, Perturb-seq, 10x Flex, and SLAM-seq. It adds no dependencies beyond OpenSSL's libcrypto, and legacy behavior is preserved. On consortium and public benchmarks it is up to 41-fold faster than Cell Ranger 9.0.1 for Flex (20- to 41-fold from binary CBQ input, 17- to 23-fold from FASTQ) and 3.9- to 6.2-fold faster for scRNA-seq and Perturb-seq, timed on one modest server (24 cores, 128 GiB, local SSD) except for the largest dataset, which ran on a cloud instance limited to the same size. The concordance to Cell Ranger is high: gene-level Spearman and Pearson 0.98-1.0, cell-level Pearson on per-cell total counts 0.9999-1.0, feature-UMI Pearson 0.999-1.000, Jaccard agreement of the called-cell sets 0.97-0.995, and 99-100% CRISPR-call agreement. It also needs far less disk: its peak use on the largest Flex dataset is 16.9 GiB, against 1.8 TiB for Cell Ranger. These gains arise from running the steps in one process rather than as separate programs exchanging files, and from four new computational techniques: fast-Hamming, a vectorized exact Hamming-distance search, used for Flex probe matching and optionally for feature barcodes; a disambiguated hash cascade that assigns Flex probes without alignment; a permit-based thread scheduler that interleaves alignment and feature assignment; and variance-based auto-trimming for SLAM-seq conversion calling, which finds the reliable region of each read from how variable the conversion rate is along it. The four modules add 183,606 lines of C/C++ to STAR's 28,228. STAR Suite is the NIH MorPhiC consortium's production processor. The same binary is run by people, by AI agents and by cluster schedulers, and every production run is recorded with its commands, checksums and outputs. It has been built and maintained over eight months and 25 releases under a human-directed, AI-implemented workflow, with its full design and benchmark record public. Conclusions. STAR Suite provides the first production-ready open-source implementation of Perturb-seq feature-barcode processing, and an open end-to-end 10x Flex pipeline matched to Cell Ranger, delivered as a drop-in replacement for the STAR aligner. The design also extends: downstream analysis now done in Python or R packages can be built into the same binary, and further modalities added alongside, as a companion preprint does for ATAC-seq. Source code, workflow recipes, and per-run provenance are released under the MIT license.",
+        "date": "2026-09-24",
+        "url": "https://doi.org/10.64898/2026.03.09.710580",
+        "doi": "10.64898/2026.03.09.710580",
+        "status": "preprint",
+        "journal": "",
+        "version": "7",
+        "publication_date": "",
+        "identifiers": [],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "Baker, D.",
+              "method": "rejected",
+              "affiliations": [],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
     "pubmed:41195254": {
       "first_seen": "2026-09-25T17:09:33Z",
       "record": {

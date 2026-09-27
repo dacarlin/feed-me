@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-09-21T19:58:59Z</updated>
+  <updated>2026-09-27T16:57:09Z</updated>
   <entry>
     <id>urn:uuid:549c333f-7164-59ed-aeac-18f2d08baa08</id>
     <title>Quantifying protein unfolding kinetics with a high-throughput microfluidic platform.</title>
@@ -144,6 +144,42 @@
 &lt;p&gt;Linked protease-effector modules are widespread in prokaryotic antiviral defense, yet the mechanisms of most remain poorly understood. Here we show that four of the most prevalent modules-metallo-β-lactamase (MBL)-fold hydrolase, α/β-hydrolase, Pepco, and EACC1-form latent death effectors that are unleashed by site-specific proteolysis. Genetic, biochemical, and structural analyses reveal novel modes of effector licensing. MBL and α/β-hydrolase are zymogens activated by cleavage at two distinct sites, and upon proteolysis, MBL becomes a Zn2+-dependent double-stranded DNA nuclease. In contrast, Pepco and EACC1 act as pore-forming toxins via distinct mechanisms: Pepco constitutively oligomerizes into a denaturation-resistant beta barrel that is activated by cleavage after a specific isoleucine in its C-terminal tail, whereas EACC1 monomers assemble into large membrane pores following removal of an autoinhibitory domain. All four modules are fused to diverse sensors to detect a wide range of phage signals, and EACC1-DnaK chaperone fusions suggest a convergence between defense and general stress responses. These findings establish proteolysisgated activation as a dominant, modular logic for anti-phage defense and reveal parallels with eukaryotic innate immunity.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1101/2025.11.14.688446"&gt;pubmed (preprint) — DOI: 10.1101/2025.11.14.688446&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:ad99c5bc-f7b2-5040-a74c-f8703f272f04</id>
+    <title>Cation enrichment in the ion atmosphere is promoted by local hydration of DNA.</title>
+    <published>2021-10-20T00:00:00Z</published>
+    <updated>2026-09-27T16:57:09Z</updated>
+    <link href="https://doi.org/10.1039/d1cp01963e" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Chun Yu Ma</name>
+    </author>
+    <author>
+      <name>Simone Pezzotti</name>
+    </author>
+    <author>
+      <name>Gerhard Schwaab</name>
+    </author>
+    <author>
+      <name>Magdalena Gebala</name>
+    </author>
+    <author>
+      <name>Daniel Herschlag</name>
+    </author>
+    <author>
+      <name>Martina Havenith</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Chun Yu Ma; Simone Pezzotti; Gerhard Schwaab; Magdalena Gebala; Daniel Herschlag; Martina Havenith&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2021-10-20&lt;/p&gt;
+&lt;p&gt;Journal: Physical chemistry chemical physics : PCCP&lt;/p&gt;
+&lt;p&gt;Electrostatic interactions are central to the structure and function of nucleic acids, including their folding, condensation, and interaction with proteins and other charged molecules. These interactions are profoundly affected by ions surrounding nucleic acids, the constituents of the so-called ion atmosphere. Here, we report precise Fourier Transform-Terahertz/Far-Infrared (FT-THz/FIR) measurements in the frequency range 30-500 cm-1 for a 24-bp DNA solvated in a series of alkali halide (NaCl, NaF, KCl, CsCl, and CsF) electrolyte solutions which are sensitive to changes in the ion atmosphere. Cation excess in the ion atmosphere is detected experimentally by observation of cation modes of Na+, K+, and Cs+ in the frequency range between 70-90 cm-1. Based on MD simulations, we propose that the magnitude of cation excess (which is salt specific) depends on the ability of the electrolyte to perturb the water network at the DNA interface: In the NaF atmosphere, the ions reduce the strength of interactions between water and the DNA more than in case of a NaCl electrolyte. Here, we explicitly take into account the solvent contribution to the chemical potential in the ion atmosphere: A decrease in the number of bound water molecules in the hydration layer of DNA is correlated with enhanced density fluctuations, which decrease the free energy cost of ion-hydration, thus promoting further ion accumulation within the DNA atmosphere. We propose that taking into account the local solvation is crucial for understanding the ion atmosphere.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1039/d1cp01963e"&gt;pubmed (published) — DOI: 10.1039/d1cp01963e&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1039/d1cp01963e"&gt;Published version — DOI: 10.1039/d1cp01963e&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
