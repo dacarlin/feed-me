@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-09-28T05:21:55Z",
+      "last_success": "2026-09-28T13:51:54Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-09-28T05:21:55Z",
+      "last_success": "2026-09-28T13:51:54Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-09-28T05:21:55Z",
+      "last_success": "2026-09-28T13:51:54Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -17338,7 +17338,7 @@
     "urn:uuid:9e012682-4c6a-50a3-b187-e8ed207714b5": {
       "id": "urn:uuid:9e012682-4c6a-50a3-b187-e8ed207714b5",
       "first_seen": "2026-09-20T04:52:37Z",
-      "updated": "2026-09-21T12:45:55Z",
+      "updated": "2026-09-28T13:51:54Z",
       "records": {
         "pubmed:41332769": {
           "source": "pubmed",
@@ -17657,12 +17657,12 @@
             }
           ],
           "abstract": "Although significant progress has been made in creating de novo metalloenzymes that hydrolyze activated esters, the energetically demanding cleavage of amide bonds has remained a major challenge for enzyme design: amide bonds are significantly more stable than ester bonds, the amine leaving groups in proteins are not activated, and peptide substrates are flexible making them difficult to bind precisely. Here, we report the de novo design of zinc proteases from minimal catalytic motifs using RoseTTAFold Diffusion 2 for Molecular Interfaces, optimized for both enzyme and protein-protein interaction design. Of 135 computational designs experimentally tested, 36% had activity and cleaved precisely at the intended site. The most active design accelerates peptide bond hydrolysis by more than 10^8-fold relative to the uncatalyzed reaction, and by over 10^10-fold following the introduction of four point mutations that enhanced active-site preorganization4. Building on these capabilities, we designed metalloproteases that specifically cleave human TDP-43, the amyloid-{beta} peptide, and serum amyloid A with rate accelerations up to 9.2x10^8-fold over background. We illustrate the potential of our approach for bio-orthogonal control over cell state by generating caged cytokines and caged receptor antagonists that are selectively unmasked by our designed proteases. These results demonstrate that de novo enzyme design has advanced well beyond model reactions with activated substrates and open the door to design of proficient metallohydrolases for a wide range of applications in medicine and bioremediation.",
-          "date": "2026-09-21",
+          "date": "2026-09-27",
           "url": "https://doi.org/10.1101/2025.11.20.689622",
           "doi": "10.1101/2025.11.20.689622",
           "status": "preprint",
           "journal": "",
-          "version": "3",
+          "version": "4",
           "publication_date": "",
           "identifiers": [],
           "relations": []
@@ -17706,6 +17706,16 @@
             "doi:10.1101/2025.11.20.689622"
           ],
           "matched_record": "pubmed:41332769"
+        },
+        {
+          "record": "biorxiv:10.1101/2025.11.20.689622",
+          "rank": 3,
+          "method": "shared_identifier",
+          "identifiers": [
+            "biorxiv:10.1101/2025.11.20.689622",
+            "doi:10.1101/2025.11.20.689622"
+          ],
+          "matched_record": "biorxiv:10.1101/2025.11.20.689622"
         }
       ],
       "published": "2025-11-21T00:00:00Z"
