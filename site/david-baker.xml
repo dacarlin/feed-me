@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-09-28T13:51:54Z</updated>
+  <updated>2026-09-29T18:04:38Z</updated>
   <entry>
     <id>urn:uuid:9e012682-4c6a-50a3-b187-e8ed207714b5</id>
     <title>Computational design of metalloproteases</title>
@@ -6976,6 +6976,66 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1126/science.adg7731"&gt;pubmed (published) — DOI: 10.1126/science.adg7731&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1126/science.adg7731"&gt;Published version — DOI: 10.1126/science.adg7731&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:1d8012eb-c744-5f5d-8045-e9ac72dea9ee</id>
+    <title>Exploration of Structured Symmetric Cyclic Peptides as Ligands for Metal-Organic Frameworks.</title>
+    <published>2022-10-25T00:00:00Z</published>
+    <updated>2026-09-29T18:04:38Z</updated>
+    <link href="https://doi.org/10.1021/acs.chemmater.2c02597" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Meerit Y Said</name>
+    </author>
+    <author>
+      <name>Christine S Kang</name>
+    </author>
+    <author>
+      <name>Shunzhi Wang</name>
+    </author>
+    <author>
+      <name>William Sheffler</name>
+    </author>
+    <author>
+      <name>Patrick J Salveson</name>
+    </author>
+    <author>
+      <name>Asim K Bera</name>
+    </author>
+    <author>
+      <name>Alex Kang</name>
+    </author>
+    <author>
+      <name>Hannah Nguyen</name>
+    </author>
+    <author>
+      <name>Ryanne Ballard</name>
+    </author>
+    <author>
+      <name>Xinting Li</name>
+    </author>
+    <author>
+      <name>Hua Bai</name>
+    </author>
+    <author>
+      <name>Lance Stewart</name>
+    </author>
+    <author>
+      <name>Paul Levine</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Meerit Y Said; Christine S Kang; Shunzhi Wang; William Sheffler; Patrick J Salveson; Asim K Bera; Alex Kang; Hannah Nguyen; Ryanne Ballard; Xinting Li; Hua Bai; Lance Stewart; Paul Levine; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2022-10-25&lt;/p&gt;
+&lt;p&gt;Journal: Chemistry of materials : a publication of the American Chemical Society&lt;/p&gt;
+&lt;p&gt;Despite remarkable advances in the assembly of highly structured coordination polymers and metal-organic frameworks, the rational design of such materials using more conformationally flexible organic ligands such as peptides remains challenging. In an effort to make the design of such materials fully programmable, we first developed a computational design method for generating metal-mediated 3D frameworks using rigid and symmetric peptide macrocycles with metal-coordinating sidechains. We solved the structures of six crystalline networks involving conformationally constrained 6 to 12 residue cyclic peptides with C2, C3, and S2 internal symmetry and three different types of metals (Zn2+, Co2+, or Cu2+) by single-crystal X-ray diffraction, which reveals how the peptide sequences, backbone symmetries, and metal coordination preferences drive the assembly of the resulting structures. In contrast to smaller ligands, these peptides associate through peptide-peptide interactions without full coordination of the metals, contrary to one of the assumptions underlying our computational design method. The cyclic peptides are the largest peptidic ligands reported to form crystalline coordination polymers with transition metals to date, and while more work is required to develop methods for fully programming their crystal structures, the combination of high chemical diversity with synthetic accessibility makes them attractive building blocks for engineering a broader set of new crystalline materials for use in applications such as sensing, asymmetric catalysis, and chiral separation.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1021/acs.chemmater.2c02597"&gt;pubmed (published) — DOI: 10.1021/acs.chemmater.2c02597&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1021/acs.chemmater.2c02597"&gt;Published version — DOI: 10.1021/acs.chemmater.2c02597&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
