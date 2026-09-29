@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-09-28T21:13:51Z",
+      "last_success": "2026-09-29T01:00:05Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-09-28T21:13:51Z",
+      "last_success": "2026-09-29T01:00:05Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-09-28T21:13:51Z",
+      "last_success": "2026-09-29T01:00:05Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -115,9 +115,9 @@
     "pubmed:41959461": "2026-09-28T05:21:55Z",
     "pubmed:38097544": "2026-09-28T05:21:55Z",
     "pubmed:37590357": "2026-09-28T05:21:55Z",
-    "pubmed:40745094": "2026-09-22T00:07:13Z",
-    "pubmed:39143214": "2026-09-22T16:56:50Z",
-    "pubmed:38187589": "2026-09-22T16:56:50Z",
+    "pubmed:40745094": "2026-09-29T01:00:05Z",
+    "pubmed:39143214": "2026-09-29T01:00:05Z",
+    "pubmed:38187589": "2026-09-29T01:00:05Z",
     "pubmed:39695145": "2026-09-23T16:56:28Z",
     "pubmed:39024436": "2026-09-23T16:56:28Z",
     "pubmed:38861993": "2026-09-23T16:56:28Z",
