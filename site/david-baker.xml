@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-09-29T18:04:38Z</updated>
+  <updated>2026-09-30T20:00:29Z</updated>
   <entry>
     <id>urn:uuid:9e012682-4c6a-50a3-b187-e8ed207714b5</id>
     <title>Computational design of metalloproteases</title>
@@ -7036,6 +7036,72 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1021/acs.chemmater.2c02597"&gt;pubmed (published) — DOI: 10.1021/acs.chemmater.2c02597&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1021/acs.chemmater.2c02597"&gt;Published version — DOI: 10.1021/acs.chemmater.2c02597&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:e6fce942-b673-5ea3-80ff-ed35f31085b6</id>
+    <title>Hallucinating symmetric protein assemblies.</title>
+    <published>2022-09-15T00:00:00Z</published>
+    <updated>2026-09-30T20:00:29Z</updated>
+    <link href="https://doi.org/10.1126/science.add1964" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>B I M Wicky</name>
+    </author>
+    <author>
+      <name>L F Milles</name>
+    </author>
+    <author>
+      <name>A Courbet</name>
+    </author>
+    <author>
+      <name>R J Ragotte</name>
+    </author>
+    <author>
+      <name>J Dauparas</name>
+    </author>
+    <author>
+      <name>E Kinfu</name>
+    </author>
+    <author>
+      <name>S Tipps</name>
+    </author>
+    <author>
+      <name>R D Kibler</name>
+    </author>
+    <author>
+      <name>M Baek</name>
+    </author>
+    <author>
+      <name>F DiMaio</name>
+    </author>
+    <author>
+      <name>X Li</name>
+    </author>
+    <author>
+      <name>L Carter</name>
+    </author>
+    <author>
+      <name>A Kang</name>
+    </author>
+    <author>
+      <name>H Nguyen</name>
+    </author>
+    <author>
+      <name>A K Bera</name>
+    </author>
+    <author>
+      <name>D Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: B I M Wicky; L F Milles; A Courbet; R J Ragotte; J Dauparas; E Kinfu; S Tipps; R D Kibler; M Baek; F DiMaio; X Li; L Carter; A Kang; H Nguyen; A K Bera; D Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2022-09-15&lt;/p&gt;
+&lt;p&gt;Journal: Science (New York, N.Y.)&lt;/p&gt;
+&lt;p&gt;Deep learning generative approaches provide an opportunity to broadly explore protein structure space beyond the sequences and structures of natural proteins. Here, we use deep network hallucination to generate a wide range of symmetric protein homo-oligomers given only a specification of the number of protomers and the protomer length. Crystal structures of seven designs are very similar to the computational models (median root mean square deviation: 0.6 angstroms), as are three cryo-electron microscopy structures of giant 10-nanometer rings with up to 1550 residues and C33 symmetry; all differ considerably from previously solved structures. Our results highlight the rich diversity of new protein structures that can be generated using deep learning and pave the way for the design of increasingly complex components for nanomachines and biomaterials.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1126/science.add1964"&gt;pubmed (published) — DOI: 10.1126/science.add1964&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1126/science.add1964"&gt;Published version — DOI: 10.1126/science.add1964&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
