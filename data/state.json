@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-09-30T05:30:52Z",
+      "last_success": "2026-09-30T12:32:48Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-09-30T05:30:52Z",
+      "last_success": "2026-09-30T12:32:48Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-09-30T05:30:52Z",
+      "last_success": "2026-09-30T12:32:48Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -22095,6 +22095,88 @@
   },
   "aliases": {},
   "rejected": {
+    "biorxiv:10.64898/2026.09.29.755317": {
+      "first_seen": "2026-09-30T12:32:48Z",
+      "record": {
+        "source": "biorxiv",
+        "source_id": "10.64898/2026.09.29.755317",
+        "title": "A scalable recombinant pipeline for disulphide-stapled peptides",
+        "authors": [
+          {
+            "name": "Flores Bueso, Y.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Gokce-Alpkilic, G.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Jeung, J.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Rettie, S.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Li, X.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Tangney, M.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Baker, D.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Bhardwaj, G.",
+            "affiliations": [],
+            "orcid": null
+          }
+        ],
+        "abstract": "Constrained macrocyclic peptides can engage protein surfaces that resist both small molecules and biologics but producing them at library scale still depends on chemical synthesis and macrocyclisation workflows that are slow, specialised and hard to parallelise. We describe a recombinant pipeline for disulphide-stapled cyclic peptides, compatible with 96 well plates, that lowers this barrier. Peptide-encoding sequences are introduced by extension PCR and in vivo assembly (IVA) cloning at about $2 per variant, expressed as small ubiquitin-like modifier (SUMO) fusions secreted to the oxidising periplasm, where the intramolecular disulphide forms spontaneously, and purified by immobilised metal-affinity chromatography (IMAC) with analytical size-exclusion chromatography (SEC). The route from a list of designs to characterised material takes about one week, much of it unattended. Applied to a 60-design library across nine protein targets, the pipeline gave purified products for all 60 designs, at a median total soluble yield of approximately 135 micrograms per 6 mL culture (range 9 to 261) that varied by target. Ellman's assay across 38 designs showed disulphide-formation failure to be sequence-driven and uncorrelated with yield, detecting a failure mode invisible to chromatography. Surface plasmon resonance confirmed target binding and showed that the recombinant SUMO fusion constructs retained affinities comparable to their corresponding peptide-only forms. Complementary to general-purpose recombinant platforms, the pipeline enables higher-throughput disulphide macrocycle screening and is amenable to partially or fully automated workflows.",
+        "date": "2026-09-30",
+        "url": "https://doi.org/10.64898/2026.09.29.755317",
+        "doi": "10.64898/2026.09.29.755317",
+        "status": "preprint",
+        "journal": "",
+        "version": "1",
+        "publication_date": "",
+        "identifiers": [],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "Baker, D.",
+              "method": "rejected",
+              "affiliations": [],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
     "biorxiv:10.64898/2026.03.09.710580": {
       "first_seen": "2026-09-27T16:57:09Z",
       "record": {
