@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-10-01T10:06:26Z",
+      "last_success": "2026-10-01T18:25:09Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-10-01T10:06:26Z",
+      "last_success": "2026-10-01T18:25:09Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-10-01T10:06:26Z",
+      "last_success": "2026-10-01T18:25:09Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -22276,6 +22276,342 @@
   },
   "aliases": {},
   "rejected": {
+    "pubmed:42818144": {
+      "first_seen": "2026-10-01T18:25:09Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "42818144",
+        "title": "De novo design of protease-activatable cytokine prodrugs.",
+        "authors": [
+          {
+            "name": "Hojeong Shin",
+            "affiliations": [],
+            "orcid": "0000-0001-5895-0955"
+          },
+          {
+            "name": "Julissa G Tello",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Chan Johng Kim",
+            "affiliations": [],
+            "orcid": "0000-0002-7256-0205"
+          },
+          {
+            "name": "Jung-Ho Chun",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Frank Peprah",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Brendan D Parent",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Tavus Atajanova",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Robiah Arefin Ibn Mahmud",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Li Qiang",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Andrew J Aguirre",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Stephanie K Dougan",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Michael Dougan",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "David Baker",
+            "affiliations": [],
+            "orcid": null
+          }
+        ],
+        "abstract": "Cytokines can elicit potent antitumor immunity, but their clinical use is often limited by systemic immune activation and dose-limiting toxicity. Protease-responsive masking offers a way to improve selectivity by linking cytokine activity to disease-associated protease cleavage, but current approaches have faced several challenges. Here we describe a de novo protein design strategy for generating protease-activatable cytokine prodrugs that overcomes these challenges. We use this strategy to design and characterize cytokine prodrugs and well-behaved AND-gated split systems that require both target-dependent colocalization and proteolytic unmasking to generate active cytokines. In challenging syngeneic tumor models, our IL-21 prodrugs reduced treatment-associated toxicity while maintaining antitumor efficacy.",
+        "date": "2026-09-22",
+        "url": "https://doi.org/10.64898/2026.09.19.752834",
+        "doi": "10.64898/2026.09.19.752834",
+        "status": "preprint",
+        "journal": "bioRxiv : the preprint server for biology",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [
+          "pmc:PMC13622076"
+        ],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "David Baker",
+              "method": "rejected",
+              "affiliations": [],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
+    "pubmed:33144575": {
+      "first_seen": "2026-10-01T18:25:09Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "33144575",
+        "title": "Revealing fine-scale spatiotemporal differences in SARS-CoV-2 introduction and spread.",
+        "authors": [
+          {
+            "name": "Gage K Moreno",
+            "affiliations": [
+              "Department of Pathology and Laboratory Medicine, University of Wisconsin-Madison, Madison, WI, USA."
+            ],
+            "orcid": "0000-0003-4738-5318"
+          },
+          {
+            "name": "Katarina M Braun",
+            "affiliations": [
+              "Department of Pathobiological Sciences, University of Wisconsin-Madison, Madison, WI, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Kasen K Riemersma",
+            "affiliations": [
+              "Department of Pathobiological Sciences, University of Wisconsin-Madison, Madison, WI, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Michael A Martin",
+            "affiliations": [
+              "Population Biology, Ecology, and Evolution Graduate Program, Laney Graduate School, Emory University, Atlanta, GA, USA.",
+              "Department of Biology, Emory University, Atlanta, GA, USA."
+            ],
+            "orcid": "0000-0002-9689-4066"
+          },
+          {
+            "name": "Peter J Halfmann",
+            "affiliations": [
+              "Department of Pathobiological Sciences, University of Wisconsin-Madison, Madison, WI, USA.",
+              "Influenza Research Institute, School of Veterinary Sciences, University of Wisconsin-Madison, Madison, WI, USA."
+            ],
+            "orcid": "0000-0002-1648-1625"
+          },
+          {
+            "name": "Chelsea M Crooks",
+            "affiliations": [
+              "Department of Pathobiological Sciences, University of Wisconsin-Madison, Madison, WI, USA."
+            ],
+            "orcid": "0000-0003-3874-4577"
+          },
+          {
+            "name": "Trent Prall",
+            "affiliations": [
+              "Department of Pathology and Laboratory Medicine, University of Wisconsin-Madison, Madison, WI, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "David Baker",
+            "affiliations": [
+              "Department of Pathology and Laboratory Medicine, University of Wisconsin-Madison, Madison, WI, USA."
+            ],
+            "orcid": "0000-0002-6811-8238"
+          },
+          {
+            "name": "John J Baczenas",
+            "affiliations": [
+              "Department of Pathology and Laboratory Medicine, University of Wisconsin-Madison, Madison, WI, USA.",
+              "Wisconsin National Primate Research Center, University of Wisconsin-Madison, Madison, WI, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Anna S Heffron",
+            "affiliations": [
+              "Department of Pathology and Laboratory Medicine, University of Wisconsin-Madison, Madison, WI, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Mitchell Ramuta",
+            "affiliations": [
+              "Department of Pathology and Laboratory Medicine, University of Wisconsin-Madison, Madison, WI, USA."
+            ],
+            "orcid": "0000-0003-2134-610X"
+          },
+          {
+            "name": "Manjeet Khubbar",
+            "affiliations": [
+              "City of Milwaukee Health Department Laboratory, Milwaukee, WI, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Andrea M Weiler",
+            "affiliations": [
+              "Department of Pathobiological Sciences, University of Wisconsin-Madison, Madison, WI, USA.",
+              "Wisconsin National Primate Research Center, University of Wisconsin-Madison, Madison, WI, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Molly A Accola",
+            "affiliations": [
+              "University of Wisconsin School of Medicine and Public Health, Madison, WI, USA.",
+              "The William S. Middleton Memorial Veterans Hospital, Madison, WI, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "William M Rehrauer",
+            "affiliations": [
+              "University of Wisconsin School of Medicine and Public Health, Madison, WI, USA.",
+              "The William S. Middleton Memorial Veterans Hospital, Madison, WI, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Shelby L O'Connor",
+            "affiliations": [
+              "Department of Pathology and Laboratory Medicine, University of Wisconsin-Madison, Madison, WI, USA.",
+              "Wisconsin National Primate Research Center, University of Wisconsin-Madison, Madison, WI, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Nasia Safdar",
+            "affiliations": [
+              "Department of Medicine, Division of Infectious Diseases, University of Wisconsin School of Medicine and Public Health, Madison, WI, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Caitlin S Pepperell",
+            "affiliations": [
+              "Department of Medicine, Division of Infectious Diseases, University of Wisconsin School of Medicine and Public Health, Madison, WI, USA.",
+              "Department of Medical Microbiology and Immunology, University of Wisconsin-Madison, Madison, WI, USA."
+            ],
+            "orcid": "0000-0002-6324-1333"
+          },
+          {
+            "name": "Trivikram Dasu",
+            "affiliations": [
+              "City of Milwaukee Health Department Laboratory, Milwaukee, WI, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Sanjib Bhattacharyya",
+            "affiliations": [
+              "City of Milwaukee Health Department Laboratory, Milwaukee, WI, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Yoshihiro Kawaoka",
+            "affiliations": [
+              "Department of Pathobiological Sciences, University of Wisconsin-Madison, Madison, WI, USA.",
+              "Influenza Research Institute, School of Veterinary Sciences, University of Wisconsin-Madison, Madison, WI, USA."
+            ],
+            "orcid": "0000-0001-5061-8296"
+          },
+          {
+            "name": "Katia Koelle",
+            "affiliations": [
+              "Population Biology, Ecology, and Evolution Graduate Program, Laney Graduate School, Emory University, Atlanta, GA, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "David H O'Connor",
+            "affiliations": [
+              "Department of Pathology and Laboratory Medicine, University of Wisconsin-Madison, Madison, WI, USA."
+            ],
+            "orcid": "0000-0003-2139-470X"
+          },
+          {
+            "name": "Thomas C Friedrich",
+            "affiliations": [
+              "Department of Pathobiological Sciences, University of Wisconsin-Madison, Madison, WI, USA. thomasf@primate.wisc.edu.",
+              "Wisconsin National Primate Research Center, University of Wisconsin-Madison, Madison, WI, USA. thomasf@primate.wisc.edu."
+            ],
+            "orcid": "0000-0001-9831-6895"
+          }
+        ],
+        "abstract": "Evidence-based public health approaches that minimize the introduction and spread of new SARS-CoV-2 transmission clusters are urgently needed in the United States and other countries struggling with expanding epidemics. Here we analyze 247 full-genome SARS-CoV-2 sequences from two nearby communities in Wisconsin, USA, and find surprisingly distinct patterns of viral spread. Dane County had the 12th known introduction of SARS-CoV-2 in the United States, but this did not lead to descendant community spread. Instead, the Dane County outbreak was seeded by multiple later introductions, followed by limited community spread. In contrast, relatively few introductions in Milwaukee County led to extensive community spread. We present evidence for reduced viral spread in both counties following the statewide \"Safer at Home\" order, which went into effect 25 March 2020. Our results suggest patterns of SARS-CoV-2 transmission may vary substantially even in nearby communities. Understanding these local patterns will enable better targeting of public health interventions.",
+        "date": "2020-11-03",
+        "url": "https://doi.org/10.1038/s41467-020-19346-z",
+        "doi": "10.1038/s41467-020-19346-z",
+        "status": "published",
+        "journal": "Nature communications",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [
+          "pmc:PMC7609670"
+        ],
+        "relations": [
+          {
+            "kind": "update_of",
+            "target": "pubmed:32676620",
+            "evidence": "PubMed UpdateOf; target must be a preprint"
+          }
+        ]
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "David Baker",
+              "method": "rejected",
+              "reason": "conflicting ORCID",
+              "orcid": "0000-0002-6811-8238"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
     "biorxiv:10.64898/2026.09.29.755317": {
       "first_seen": "2026-09-30T12:32:48Z",
       "record": {
