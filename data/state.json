@@ -2,81 +2,81 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-10-01T18:25:09Z",
+      "last_success": "2026-10-02T00:46:34Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-10-01T18:25:09Z",
+      "last_success": "2026-10-02T00:46:34Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
-      "last_success": "2026-10-01T00:32:32Z",
+      "last_success": "2026-10-02T00:46:34Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-10-01T18:25:09Z",
+      "last_success": "2026-10-02T00:46:34Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
   "refresh": {
-    "pubmed:42702625": "2026-09-25T04:55:49Z",
-    "pubmed:42696459": "2026-09-25T04:55:49Z",
-    "pubmed:42162421": "2026-09-25T04:55:49Z",
-    "pubmed:41284265": "2026-09-25T04:55:49Z",
-    "pubmed:39574666": "2026-09-25T04:55:49Z",
+    "pubmed:42702625": "2026-10-02T00:46:34Z",
+    "pubmed:42696459": "2026-10-02T00:46:34Z",
+    "pubmed:42162421": "2026-10-02T00:46:34Z",
+    "pubmed:41284265": "2026-10-02T00:46:34Z",
+    "pubmed:39574666": "2026-10-02T00:46:34Z",
     "biorxiv:10.64898/2026.08.13.744004": "2026-09-27T16:57:09Z",
     "biorxiv:10.64898/2026.09.08.750245": "2026-09-27T16:57:09Z",
-    "pubmed:42677469": "2026-09-25T04:55:49Z",
-    "pubmed:42658941": "2026-09-25T04:55:49Z",
-    "pubmed:42461986": "2026-09-25T04:55:49Z",
-    "pubmed:42425911": "2026-09-25T04:55:49Z",
-    "pubmed:42391386": "2026-09-25T04:55:49Z",
-    "pubmed:42298100": "2026-09-25T04:55:49Z",
-    "pubmed:42295740": "2026-09-25T04:55:49Z",
-    "pubmed:42282680": "2026-09-25T04:55:49Z",
-    "pubmed:42282627": "2026-09-25T04:55:49Z",
-    "pubmed:42239184": "2026-09-25T04:55:49Z",
-    "pubmed:42227562": "2026-09-25T04:55:49Z",
-    "pubmed:42168559": "2026-09-25T04:55:49Z",
-    "pubmed:42162430": "2026-09-25T04:55:49Z",
-    "pubmed:42151133": "2026-09-25T04:55:49Z",
-    "pubmed:42146344": "2026-09-25T04:55:49Z",
-    "pubmed:42094432": "2026-09-25T04:55:49Z",
-    "pubmed:42079119": "2026-09-25T04:55:49Z",
-    "pubmed:42018576": "2026-09-25T04:55:49Z",
-    "pubmed:41994174": "2026-09-25T04:55:49Z",
-    "pubmed:41909827": "2026-09-25T04:55:49Z",
-    "pubmed:41904144": "2026-09-25T04:55:49Z",
-    "pubmed:41847033": "2026-09-25T04:55:49Z",
-    "pubmed:41826298": "2026-09-25T04:55:49Z",
-    "pubmed:41819089": "2026-09-25T04:55:49Z",
-    "pubmed:41775935": "2026-09-25T04:55:49Z",
-    "pubmed:41765949": "2026-09-25T04:55:49Z",
-    "pubmed:41757106": "2026-09-25T04:55:49Z",
-    "pubmed:41565823": "2026-09-25T04:55:49Z",
-    "pubmed:41481462": "2026-09-25T04:55:49Z",
-    "pubmed:41350440": "2026-09-25T04:55:49Z",
-    "pubmed:41289379": "2026-09-25T04:55:49Z",
-    "pubmed:41187076": "2026-09-25T04:55:49Z",
-    "pubmed:41125887": "2026-09-25T04:55:49Z",
-    "pubmed:41004565": "2026-09-25T04:55:49Z",
-    "pubmed:40997207": "2026-09-25T04:55:49Z",
-    "pubmed:40950233": "2026-09-25T04:55:49Z",
-    "pubmed:40911686": "2026-09-25T04:55:49Z",
-    "pubmed:40745093": "2026-09-25T04:55:49Z",
-    "pubmed:40720516": "2026-09-25T04:55:49Z",
-    "pubmed:40705892": "2026-09-25T04:55:49Z",
-    "pubmed:40674483": "2026-09-25T04:55:49Z",
-    "pubmed:40295764": "2026-09-25T04:55:49Z",
-    "pubmed:40011747": "2026-09-25T04:55:49Z",
-    "pubmed:39946508": "2026-09-25T04:55:49Z",
-    "pubmed:39651227": "2026-09-25T04:55:49Z",
-    "pubmed:39636970": "2026-09-25T04:55:49Z",
-    "pubmed:39071356": "2026-09-25T04:55:49Z",
-    "pubmed:38965227": "2026-09-25T04:55:49Z",
-    "pubmed:38052802": "2026-09-25T04:55:49Z",
-    "pubmed:37845322": "2026-09-25T04:55:49Z",
-    "pubmed:35319882": "2026-09-25T04:55:49Z",
+    "pubmed:42677469": "2026-10-02T00:46:34Z",
+    "pubmed:42658941": "2026-10-02T00:46:34Z",
+    "pubmed:42461986": "2026-10-02T00:46:34Z",
+    "pubmed:42425911": "2026-10-02T00:46:34Z",
+    "pubmed:42391386": "2026-10-02T00:46:34Z",
+    "pubmed:42298100": "2026-10-02T00:46:34Z",
+    "pubmed:42295740": "2026-10-02T00:46:34Z",
+    "pubmed:42282680": "2026-10-02T00:46:34Z",
+    "pubmed:42282627": "2026-10-02T00:46:34Z",
+    "pubmed:42239184": "2026-10-02T00:46:34Z",
+    "pubmed:42227562": "2026-10-02T00:46:34Z",
+    "pubmed:42168559": "2026-10-02T00:46:34Z",
+    "pubmed:42162430": "2026-10-02T00:46:34Z",
+    "pubmed:42151133": "2026-10-02T00:46:34Z",
+    "pubmed:42146344": "2026-10-02T00:46:34Z",
+    "pubmed:42094432": "2026-10-02T00:46:34Z",
+    "pubmed:42079119": "2026-10-02T00:46:34Z",
+    "pubmed:42018576": "2026-10-02T00:46:34Z",
+    "pubmed:41994174": "2026-10-02T00:46:34Z",
+    "pubmed:41909827": "2026-10-02T00:46:34Z",
+    "pubmed:41904144": "2026-10-02T00:46:34Z",
+    "pubmed:41847033": "2026-10-02T00:46:34Z",
+    "pubmed:41826298": "2026-10-02T00:46:34Z",
+    "pubmed:41819089": "2026-10-02T00:46:34Z",
+    "pubmed:41775935": "2026-10-02T00:46:34Z",
+    "pubmed:41765949": "2026-10-02T00:46:34Z",
+    "pubmed:41757106": "2026-10-02T00:46:34Z",
+    "pubmed:41565823": "2026-10-02T00:46:34Z",
+    "pubmed:41481462": "2026-10-02T00:46:34Z",
+    "pubmed:41350440": "2026-10-02T00:46:34Z",
+    "pubmed:41289379": "2026-10-02T00:46:34Z",
+    "pubmed:41187076": "2026-10-02T00:46:34Z",
+    "pubmed:41125887": "2026-10-02T00:46:34Z",
+    "pubmed:41004565": "2026-10-02T00:46:34Z",
+    "pubmed:40997207": "2026-10-02T00:46:34Z",
+    "pubmed:40950233": "2026-10-02T00:46:34Z",
+    "pubmed:40911686": "2026-10-02T00:46:34Z",
+    "pubmed:40745093": "2026-10-02T00:46:34Z",
+    "pubmed:40720516": "2026-10-02T00:46:34Z",
+    "pubmed:40705892": "2026-10-02T00:46:34Z",
+    "pubmed:40674483": "2026-10-02T00:46:34Z",
+    "pubmed:40295764": "2026-10-02T00:46:34Z",
+    "pubmed:40011747": "2026-10-02T00:46:34Z",
+    "pubmed:39946508": "2026-10-02T00:46:34Z",
+    "pubmed:39651227": "2026-10-02T00:46:34Z",
+    "pubmed:39636970": "2026-10-02T00:46:34Z",
+    "pubmed:39071356": "2026-10-02T00:46:34Z",
+    "pubmed:38965227": "2026-10-02T00:46:34Z",
+    "pubmed:38052802": "2026-10-02T00:46:34Z",
+    "pubmed:37845322": "2026-10-02T00:46:34Z",
+    "pubmed:35319882": "2026-10-02T00:46:34Z",
     "pubmed:42526427": "2026-09-27T12:00:07Z",
     "pubmed:42523424": "2026-09-27T12:00:07Z",
     "pubmed:26727239": "2026-09-27T12:00:07Z",
@@ -93,19 +93,19 @@
     "pubmed:39345553": "2026-10-01T00:32:32Z",
     "pubmed:38502697": "2026-10-01T00:32:32Z",
     "pubmed:37577478": "2026-10-01T00:32:32Z",
-    "pubmed:42754580": "2026-09-25T04:55:49Z",
-    "pubmed:42758048": "2026-09-25T04:55:49Z",
-    "pubmed:41292956": "2026-09-25T04:55:49Z",
-    "pubmed:41282098": "2026-09-25T04:55:49Z",
-    "pubmed:41279593": "2026-09-25T04:55:49Z",
-    "pubmed:41279583": "2026-09-25T04:55:49Z",
-    "pubmed:41279570": "2026-09-25T04:55:49Z",
-    "pubmed:41279521": "2026-09-25T04:55:49Z",
-    "pubmed:41256668": "2026-09-25T04:55:49Z",
-    "pubmed:41256494": "2026-09-25T04:55:49Z",
-    "pubmed:41256432": "2026-09-25T04:55:49Z",
-    "pubmed:41256377": "2026-09-25T04:55:49Z",
-    "pubmed:41000976": "2026-09-25T04:55:49Z",
+    "pubmed:42754580": "2026-10-02T00:46:34Z",
+    "pubmed:42758048": "2026-10-02T00:46:34Z",
+    "pubmed:41292956": "2026-10-02T00:46:34Z",
+    "pubmed:41282098": "2026-10-02T00:46:34Z",
+    "pubmed:41279593": "2026-10-02T00:46:34Z",
+    "pubmed:41279583": "2026-10-02T00:46:34Z",
+    "pubmed:41279570": "2026-10-02T00:46:34Z",
+    "pubmed:41279521": "2026-10-02T00:46:34Z",
+    "pubmed:41256668": "2026-10-02T00:46:34Z",
+    "pubmed:41256494": "2026-10-02T00:46:34Z",
+    "pubmed:41256432": "2026-10-02T00:46:34Z",
+    "pubmed:41256377": "2026-10-02T00:46:34Z",
+    "pubmed:41000976": "2026-10-02T00:46:34Z",
     "pubmed:41509375": "2026-09-27T12:00:07Z",
     "pubmed:41332769": "2026-09-27T12:00:07Z",
     "pubmed:41332722": "2026-09-27T12:00:07Z",
@@ -126,10 +126,10 @@
     "pubmed:40489613": "2026-10-01T00:32:32Z",
     "pubmed:39394803": "2026-10-01T00:32:32Z",
     "pubmed:39091726": "2026-10-01T00:32:32Z",
-    "pubmed:41519838": "2026-09-25T11:49:34Z",
-    "pubmed:40953261": "2026-09-25T17:09:33Z",
-    "pubmed:40450691": "2026-09-25T17:09:33Z",
-    "pubmed:40145385": "2026-09-25T17:09:33Z",
+    "pubmed:41519838": "2026-10-02T00:46:34Z",
+    "pubmed:40953261": "2026-10-02T00:46:34Z",
+    "pubmed:40450691": "2026-10-02T00:46:34Z",
+    "pubmed:40145385": "2026-10-02T00:46:34Z",
     "pubmed:34622888": "2026-09-27T16:57:09Z",
     "pubmed:36397834": "2026-09-29T18:04:38Z",
     "pubmed:36108048": "2026-09-30T20:00:29Z"
@@ -22276,6 +22276,548 @@
   },
   "aliases": {},
   "rejected": {
+    "arxiv:2609.38468": {
+      "first_seen": "2026-10-02T00:46:34Z",
+      "record": {
+        "source": "arxiv",
+        "source_id": "2609.38468",
+        "title": "Migration and Evolution of giant ExoPlanets (MEEP). III. Twenty-Nine Giant Planets from the TESS Mission",
+        "authors": [
+          {
+            "name": "Jack Schulte",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Joseph E. Rodriguez",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "David W. Latham",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Allyson Bieryla",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Karen A. Collins",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Samuel N. Quinn",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Xian-Yu Wang",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Rafael Brahm",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Abdullah Al-Haji",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Robert Aloisi",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Caitlyn Altermatt",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Nikola Antonov",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "David Baker",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Pavel Balanutsa",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Khalid Barkaoui",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Özgür Baştürk",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Slawomir Bednarz",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Paul Benni",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Krzysztof Bernacki",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Mario Billiani",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Ventsislav Bodakov",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Pau Bosch-Cabot",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Valerio Bozza",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Ahmet Cem Kutluay",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "David R. Ciardi",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Catherine A. Clark",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Jerome de Leon",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Jason D. Eastman",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "İpek Aleyna Ertürk",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Thomas M. Esposito",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Phil Evans",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Miranda Felsmann",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Raquel Forés-Toribio",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Isaac Fournier",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Akihiko Fukui",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Tianjun Gan",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Cristilyn Gardner-Watkins",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Purvi Garg",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Eric Girardin",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Tateki Goto",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Ferran Grau Horta",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Thomas Henning",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Eric G. Hintz",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Keith Horne",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Kai Ikuta",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Jon M. Jenkins",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Andrés Jordán",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Jenson Keen",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Adam Kraus",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Valentina Kuzmina",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Artem Kuznetsov",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Adam Lark",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Rodrigo Leiva",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Vladimir Lipunov",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Michael B. Lund",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Franck Marchis",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Joshua Margherone",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Robert Massey",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Kim McLeod",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Edward Michaels",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Mayuko Mori",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "J. A. Muñoz",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Felipe Murgas",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Norio Narita",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Takaya Okada",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Shane Painter",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Enric Palle",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Ivan Panchenko",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Hannu Parviainen",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Anastasiia Pechko",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Adam Popowicz",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Don Radford",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Fabian Rodriguez Frustaglia",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Sylvain Roux",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Subhroja Roy",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Matthew Ryno",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Gülben Şancı",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Richard P. Schwarz",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Victor Senik",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Lauren A. Sgro",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Avi Shporer",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Gregor Srdoc",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Denise Stephens",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Chris Stockdale",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Ashley Stone",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Ivan Strakhov",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Marcelo Tala Pinto",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Thiam-Guan Tan",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Suzanne Taylor",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Neil Thomas",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Nataly Tiurina",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Julian C. van Eyken",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Songhu Wang",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Noriharu Watanabe",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Levi R. Webb",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Francis P. Wilkin",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Joe Williams",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Selçuk Yalçınkaya",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Mesut Yılmaz",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Carl Ziegler",
+            "affiliations": [],
+            "orcid": null
+          }
+        ],
+        "abstract": "We present the discovery and characterization of 29 hot and warm Jupiter systems transiting bright ($G < 12.8$) FGK stars using TESS data and ground-based photometry and spectroscopy. Through the use of high angular resolution imaging, we discovered three bound stellar companions, named TOI-3988 B, TOI-6171 B, and TOI-7266 B. The planets that we confirmed span an orbital period range of $1.28 - 16.9$ days, a mass range of $0.35 - 8.7$ $\\mathrm{M}_{\\mathrm{J}}$, and an orbital eccentricity range of $0 - 0.6$, and add to the growing self-consistent sample of hot and warm Jupiter systems detected using TESS and analyzed using the Markov-Chain Monte Carlo code EXOFASTv2. By performing two-sample Kolmogorov-Smirnov tests on a set of host star and planetary parameters, we find that this growing self-consistent sample of giant planets has a different distribution of host star masses, surface gravities, and metallicities, compared to the hot Jupiter and warm Jupiter systems in the literature, likely due to the additional constraint on the host star density from the planetary transits included in our global fits. We find that seven of the 29 newly confirmed planets have significant orbital eccentricity, and that one of these, TOI-3365 b, is in a system which likely hosts a massive outer companion. The continued confirmation of hot Jupiter and warm Jupiter systems and the follow-up RV monitoring on these systems to identify outer companions will pave the way for important investigations of giant planet migration.",
+        "date": "2026-09-29",
+        "url": "https://arxiv.org/abs/2609.38468",
+        "doi": null,
+        "status": "preprint",
+        "journal": "",
+        "version": "1",
+        "publication_date": "",
+        "identifiers": [],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "David Baker",
+              "method": "rejected",
+              "affiliations": [],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
     "pubmed:42818144": {
       "first_seen": "2026-10-01T18:25:09Z",
       "record": {
