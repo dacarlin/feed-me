@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-10-03T05:16:52Z",
+      "last_success": "2026-10-03T11:37:59Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-10-03T05:16:52Z",
+      "last_success": "2026-10-03T11:37:59Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-10-03T05:16:52Z",
+      "last_success": "2026-10-03T11:37:59Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -132,7 +132,9 @@
     "pubmed:40145385": "2026-10-02T00:46:34Z",
     "pubmed:34622888": "2026-09-27T16:57:09Z",
     "pubmed:36397834": "2026-09-29T18:04:38Z",
-    "pubmed:36108048": "2026-09-30T20:00:29Z"
+    "pubmed:36108048": "2026-09-30T20:00:29Z",
+    "pubmed:42523218": "2026-10-03T11:37:59Z",
+    "pubmed:40940539": "2026-10-03T11:37:59Z"
   },
   "works": {
     "urn:uuid:7f477453-6c38-52e7-b591-accb9b0e6576": {
@@ -22284,6 +22286,394 @@
         }
       ],
       "published": "2022-09-15T00:00:00Z"
+    },
+    "urn:uuid:78550e25-11c5-5eab-9dee-e0e3d48787c0": {
+      "id": "urn:uuid:78550e25-11c5-5eab-9dee-e0e3d48787c0",
+      "first_seen": "2026-10-03T11:37:59Z",
+      "updated": "2026-10-03T11:37:59Z",
+      "records": {
+        "pubmed:40940539": {
+          "source": "pubmed",
+          "source_id": "40940539",
+          "title": "Computational design of sequence-specific DNA-binding proteins.",
+          "authors": [
+            {
+              "name": "Cameron J Glasscock",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA. cjamesglasscock@gmail.com.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA. cjamesglasscock@gmail.com.",
+                "Department of BioSciences, Rice University, Houston, TX, USA. cjamesglasscock@gmail.com."
+              ],
+              "orcid": "0000-0001-5223-6339"
+            },
+            {
+              "name": "Robert J Pecoraro",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Department of Physics, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Ryan McHugh",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0003-0291-2196"
+            },
+            {
+              "name": "Lindsey A Doyle",
+              "affiliations": [
+                "Division of Basic Sciences, Fred Hutchinson Cancer Center, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-0008-473X"
+            },
+            {
+              "name": "Wei Chen",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-5255-4166"
+            },
+            {
+              "name": "Olivier Boivin",
+              "affiliations": [
+                "Program in Genetics and Genomics, Duke University, Durham, NC, USA.",
+                "Center for Advanced Genomic Technologies, Duke University, Durham, NC, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Beau Lonnquist",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Department of Bioengineering, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0009-0006-1778-2135"
+            },
+            {
+              "name": "Emily Na",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Yuliya Politanska",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Hugh K Haddox",
+              "affiliations": [
+                "Department of Physics, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David Cox",
+              "affiliations": [
+                "Department of Biochemistry, Stanford University School of Medicine, Palo Alto, CA, USA.",
+                "Department of Medicine, Division of Hematology, Stanford University, Stanford, CA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Christoffer Norn",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "BioInnovation Institute, Copenhagen, Denmark."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Brian Coventry",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-6910-6255"
+            },
+            {
+              "name": "Inna Goreshnik",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Dionne Vafeados",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Gyu Rie Lee",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-9119-5303"
+            },
+            {
+              "name": "Raluca Gordân",
+              "affiliations": [
+                "Center for Advanced Genomic Technologies, Duke University, Durham, NC, USA.",
+                "Department of Computer Science, Duke University, Durham, NC, USA.",
+                "Department of Genomics and Computational Biology, University of Massachusetts Chan Medical School, Worcester, MA, USA.",
+                "Department of Biostatics and Bioinformatics, Duke University, Durham, NC, USA.",
+                "Department of Molecular Genetics and Microbiology, Duke University, Durham, NC, USA."
+              ],
+              "orcid": "0000-0002-6404-6556"
+            },
+            {
+              "name": "Barry L Stoddard",
+              "affiliations": [
+                "Division of Basic Sciences, Fred Hutchinson Cancer Center, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Frank DiMaio",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-7524-8938"
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA. dabaker@uw.edu.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA. dabaker@uw.edu.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA. dabaker@uw.edu."
+              ],
+              "orcid": "0000-0001-7896-6217"
+            }
+          ],
+          "abstract": "Sequence-specific DNA-binding proteins (DBPs) have critical roles in biology and biotechnology and there has been considerable interest in the engineering of DBPs with new or altered specificities for genome editing and other applications. While there has been some success in reprogramming naturally occurring DBPs using selection methods, the computational design of new DBPs that recognize arbitrary target sites remains an outstanding challenge. We describe a computational method for the design of small DBPs that recognize short specific target sequences through interactions with bases in the major groove and use this method to generate binders for five distinct DNA targets with mid-nanomolar to high-nanomolar affinities. The individual binding modules have specificity closely matching the computational models at as many as six base-pair positions and higher-order specificity can be achieved by rigidly positioning the binders along the DNA double helix using RFdiffusion. The crystal structure of a designed DBP-target site complex is in close agreement with the design model and the designed DBPs function in both Escherichia coli and mammalian cells to repress and activate transcription of neighboring genes. Our method provides a route to small and, hence, readily deliverable sequence-specific DBPs for gene regulation and editing.",
+          "date": "2025-09-12",
+          "url": "https://doi.org/10.1038/s41594-025-01669-4",
+          "doi": "10.1038/s41594-025-01669-4",
+          "status": "published",
+          "journal": "Nature structural & molecular biology",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC12618268"
+          ],
+          "relations": [
+            {
+              "kind": "update_of",
+              "target": "pubmed:37790440",
+              "evidence": "PubMed UpdateOf; target must be a preprint"
+            }
+          ]
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:40940539",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:40940539",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2025-09-12T00:00:00Z"
+    },
+    "urn:uuid:1b3b0a3b-2c8f-58e0-bed4-8ccac45c1837": {
+      "id": "urn:uuid:1b3b0a3b-2c8f-58e0-bed4-8ccac45c1837",
+      "first_seen": "2026-10-03T11:37:59Z",
+      "updated": "2026-10-03T11:37:59Z",
+      "records": {
+        "pubmed:42523218": {
+          "source": "pubmed",
+          "source_id": "42523218",
+          "title": "De novo design of selective kinase modulators.",
+          "authors": [
+            {
+              "name": "Magnus S Bauer",
+              "affiliations": [],
+              "orcid": "0000-0003-1357-2852"
+            },
+            {
+              "name": "Saurav Kumar",
+              "affiliations": [],
+              "orcid": "0000-0002-0992-589X"
+            },
+            {
+              "name": "Mia Donald-Paladino",
+              "affiliations": [],
+              "orcid": "0009-0004-9711-7180"
+            },
+            {
+              "name": "Dongyang Li",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Kody A Klupt",
+              "affiliations": [],
+              "orcid": "0000-0003-0720-2310"
+            },
+            {
+              "name": "Matthias Glögl",
+              "affiliations": [],
+              "orcid": "0000-0001-7011-8184"
+            },
+            {
+              "name": "Ana María Fernández Escamilla",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Thomas Schlichthaerle",
+              "affiliations": [],
+              "orcid": "0000-0003-4444-2575"
+            },
+            {
+              "name": "Edin Muratspahić",
+              "affiliations": [],
+              "orcid": "0000-0002-6011-0805"
+            },
+            {
+              "name": "Xinru Wang",
+              "affiliations": [],
+              "orcid": "0000-0001-5994-707X"
+            },
+            {
+              "name": "Ludwig Schmiderer",
+              "affiliations": [],
+              "orcid": "0000-0003-3569-7699"
+            },
+            {
+              "name": "Sebastian Kenny",
+              "affiliations": [],
+              "orcid": "0000-0003-3541-2577"
+            },
+            {
+              "name": "Brian Coventry",
+              "affiliations": [],
+              "orcid": "0000-0002-6910-6255"
+            },
+            {
+              "name": "Bulat Faezov",
+              "affiliations": [],
+              "orcid": "0000-0002-8656-4872"
+            },
+            {
+              "name": "Wei Chen",
+              "affiliations": [],
+              "orcid": "0000-0002-5255-4166"
+            },
+            {
+              "name": "Alex F Shida",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Gyu Rie Lee",
+              "affiliations": [],
+              "orcid": "0000-0002-9119-5303"
+            },
+            {
+              "name": "Yang Hsia",
+              "affiliations": [],
+              "orcid": "0000-0001-7467-8373"
+            },
+            {
+              "name": "Ryan D Kibler",
+              "affiliations": [],
+              "orcid": "0000-0001-6984-9887"
+            },
+            {
+              "name": "Michael B Elowitz",
+              "affiliations": [],
+              "orcid": "0000-0002-1221-0967"
+            },
+            {
+              "name": "Daniel Lietha",
+              "affiliations": [],
+              "orcid": "0000-0002-6133-6486"
+            },
+            {
+              "name": "Behnam Nabet",
+              "affiliations": [],
+              "orcid": "0000-0002-6738-4200"
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [],
+              "orcid": "0000-0001-7896-6217"
+            }
+          ],
+          "abstract": "Protein kinases are critical regulators of cellular signaling, but precise modulation of their activity remains challenging due to their high structural conservation. Here, we present de novo designed genetically encoded miniproteins capable of activating or inhibiting focal adhesion kinase (FAK) by directly targeting the kinase domain itself. Among 96 binders designed to stabilize distinct conformational states of FAK, 33 modulated kinase activity. Biochemical characterization of the four most potent modulators revealed that two designs inhibit FAK with low-nanomolar IC 50 values while the remaining two potentiated FAK activity by more than two-fold. When expressed in cells, the modulators preserved the same inhibitory and activating effects observed in vitro, establishing that designed conformational binders can directly tune FAK signaling in living cells. Taking advantage of the high similarity between kinases, we redesigned the FAK inhibitors to inhibit Src kinase. Our approach establishes a versatile platform for selective and genetically encoded kinase control as a way to rewire cell signaling and as a starting point for the discovery of novel modulatory sites of kinases.",
+          "date": "2026-07-13",
+          "url": "https://doi.org/10.64898/2026.07.10.737808",
+          "doi": "10.64898/2026.07.10.737808",
+          "status": "preprint",
+          "journal": "bioRxiv : the preprint server for biology",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC13404887"
+          ],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:42523218",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:42523218",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2026-07-13T00:00:00Z"
     }
   },
   "aliases": {},

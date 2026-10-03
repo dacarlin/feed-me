@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-10-03T05:16:52Z</updated>
+  <updated>2026-10-03T11:37:59Z</updated>
   <entry>
     <id>urn:uuid:9e012682-4c6a-50a3-b187-e8ed207714b5</id>
     <title>Computational design of metalloproteases</title>
@@ -1126,6 +1126,92 @@
 &lt;p&gt;Protein nanopores are powerful tools for molecular sensing, sequencing, and separation, but designing pores with programmable function remains challenging. Native homo-oligomeric transmembrane β barrels (TMBs) are used for these applications, but their uniform lumens limit spatial resolution and analyte discrimination. Although monomeric TMBs can be designed using energy-based methods, these approaches remain highly manual and limited to structural design rather than function. Here, we present a generative AI framework for TMB design, with backbone and sequence design models trained on a curated distillation set. We characterized 48 designs spanning 0.7-1.5 nm in diameter, diverse lumen chemistries, and hydrophobic thicknesses. Crystal structures closely match the design models. We demonstrate that our method produces customizable nanopores for ion sensing, DNA translocation, and transport across polymer membranes.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.06.04.729630"&gt;pubmed (preprint) — DOI: 10.64898/2026.06.04.729630&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:1b3b0a3b-2c8f-58e0-bed4-8ccac45c1837</id>
+    <title>De novo design of selective kinase modulators.</title>
+    <published>2026-07-13T00:00:00Z</published>
+    <updated>2026-10-03T11:37:59Z</updated>
+    <link href="https://doi.org/10.64898/2026.07.10.737808" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Magnus S Bauer</name>
+    </author>
+    <author>
+      <name>Saurav Kumar</name>
+    </author>
+    <author>
+      <name>Mia Donald-Paladino</name>
+    </author>
+    <author>
+      <name>Dongyang Li</name>
+    </author>
+    <author>
+      <name>Kody A Klupt</name>
+    </author>
+    <author>
+      <name>Matthias Glögl</name>
+    </author>
+    <author>
+      <name>Ana María Fernández Escamilla</name>
+    </author>
+    <author>
+      <name>Thomas Schlichthaerle</name>
+    </author>
+    <author>
+      <name>Edin Muratspahić</name>
+    </author>
+    <author>
+      <name>Xinru Wang</name>
+    </author>
+    <author>
+      <name>Ludwig Schmiderer</name>
+    </author>
+    <author>
+      <name>Sebastian Kenny</name>
+    </author>
+    <author>
+      <name>Brian Coventry</name>
+    </author>
+    <author>
+      <name>Bulat Faezov</name>
+    </author>
+    <author>
+      <name>Wei Chen</name>
+    </author>
+    <author>
+      <name>Alex F Shida</name>
+    </author>
+    <author>
+      <name>Gyu Rie Lee</name>
+    </author>
+    <author>
+      <name>Yang Hsia</name>
+    </author>
+    <author>
+      <name>Ryan D Kibler</name>
+    </author>
+    <author>
+      <name>Michael B Elowitz</name>
+    </author>
+    <author>
+      <name>Daniel Lietha</name>
+    </author>
+    <author>
+      <name>Behnam Nabet</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Magnus S Bauer; Saurav Kumar; Mia Donald-Paladino; Dongyang Li; Kody A Klupt; Matthias Glögl; Ana María Fernández Escamilla; Thomas Schlichthaerle; Edin Muratspahić; Xinru Wang; Ludwig Schmiderer; Sebastian Kenny; Brian Coventry; Bulat Faezov; Wei Chen; Alex F Shida; Gyu Rie Lee; Yang Hsia; Ryan D Kibler; Michael B Elowitz; Daniel Lietha; Behnam Nabet; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Preprint date: 2026-07-13&lt;/p&gt;
+&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
+&lt;p&gt;Protein kinases are critical regulators of cellular signaling, but precise modulation of their activity remains challenging due to their high structural conservation. Here, we present de novo designed genetically encoded miniproteins capable of activating or inhibiting focal adhesion kinase (FAK) by directly targeting the kinase domain itself. Among 96 binders designed to stabilize distinct conformational states of FAK, 33 modulated kinase activity. Biochemical characterization of the four most potent modulators revealed that two designs inhibit FAK with low-nanomolar IC 50 values while the remaining two potentiated FAK activity by more than two-fold. When expressed in cells, the modulators preserved the same inhibitory and activating effects observed in vitro, establishing that designed conformational binders can directly tune FAK signaling in living cells. Taking advantage of the high similarity between kinases, we redesigned the FAK inhibitors to inhibit Src kinase. Our approach establishes a versatile platform for selective and genetically encoded kinase control as a way to rewire cell signaling and as a starting point for the discovery of novel modulatory sites of kinases.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.07.10.737808"&gt;pubmed (preprint) — DOI: 10.64898/2026.07.10.737808&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
@@ -4813,6 +4899,84 @@
 &lt;li&gt;&lt;a href="https://doi.org/10.1073/pnas.2425459122"&gt;pubmed (published) — DOI: 10.1073/pnas.2425459122&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1073/pnas.2425459122"&gt;Published version — DOI: 10.1073/pnas.2425459122&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://pubmed.ncbi.nlm.nih.gov/40953261/"&gt;Published version&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:78550e25-11c5-5eab-9dee-e0e3d48787c0</id>
+    <title>Computational design of sequence-specific DNA-binding proteins.</title>
+    <published>2025-09-12T00:00:00Z</published>
+    <updated>2026-10-03T11:37:59Z</updated>
+    <link href="https://doi.org/10.1038/s41594-025-01669-4" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Cameron J Glasscock</name>
+    </author>
+    <author>
+      <name>Robert J Pecoraro</name>
+    </author>
+    <author>
+      <name>Ryan McHugh</name>
+    </author>
+    <author>
+      <name>Lindsey A Doyle</name>
+    </author>
+    <author>
+      <name>Wei Chen</name>
+    </author>
+    <author>
+      <name>Olivier Boivin</name>
+    </author>
+    <author>
+      <name>Beau Lonnquist</name>
+    </author>
+    <author>
+      <name>Emily Na</name>
+    </author>
+    <author>
+      <name>Yuliya Politanska</name>
+    </author>
+    <author>
+      <name>Hugh K Haddox</name>
+    </author>
+    <author>
+      <name>David Cox</name>
+    </author>
+    <author>
+      <name>Christoffer Norn</name>
+    </author>
+    <author>
+      <name>Brian Coventry</name>
+    </author>
+    <author>
+      <name>Inna Goreshnik</name>
+    </author>
+    <author>
+      <name>Dionne Vafeados</name>
+    </author>
+    <author>
+      <name>Gyu Rie Lee</name>
+    </author>
+    <author>
+      <name>Raluca Gordân</name>
+    </author>
+    <author>
+      <name>Barry L Stoddard</name>
+    </author>
+    <author>
+      <name>Frank DiMaio</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Cameron J Glasscock; Robert J Pecoraro; Ryan McHugh; Lindsey A Doyle; Wei Chen; Olivier Boivin; Beau Lonnquist; Emily Na; Yuliya Politanska; Hugh K Haddox; David Cox; Christoffer Norn; Brian Coventry; Inna Goreshnik; Dionne Vafeados; Gyu Rie Lee; Raluca Gordân; Barry L Stoddard; Frank DiMaio; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2025-09-12&lt;/p&gt;
+&lt;p&gt;Journal: Nature structural &amp;amp; molecular biology&lt;/p&gt;
+&lt;p&gt;Sequence-specific DNA-binding proteins (DBPs) have critical roles in biology and biotechnology and there has been considerable interest in the engineering of DBPs with new or altered specificities for genome editing and other applications. While there has been some success in reprogramming naturally occurring DBPs using selection methods, the computational design of new DBPs that recognize arbitrary target sites remains an outstanding challenge. We describe a computational method for the design of small DBPs that recognize short specific target sequences through interactions with bases in the major groove and use this method to generate binders for five distinct DNA targets with mid-nanomolar to high-nanomolar affinities. The individual binding modules have specificity closely matching the computational models at as many as six base-pair positions and higher-order specificity can be achieved by rigidly positioning the binders along the DNA double helix using RFdiffusion. The crystal structure of a designed DBP-target site complex is in close agreement with the design model and the designed DBPs function in both Escherichia coli and mammalian cells to repress and activate transcription of neighboring genes. Our method provides a route to small and, hence, readily deliverable sequence-specific DBPs for gene regulation and editing.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41594-025-01669-4"&gt;pubmed (published) — DOI: 10.1038/s41594-025-01669-4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41594-025-01669-4"&gt;Published version — DOI: 10.1038/s41594-025-01669-4&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
