@@ -2,19 +2,19 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-10-02T22:12:55Z",
+      "last_success": "2026-10-03T05:16:52Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-10-02T22:12:55Z",
+      "last_success": "2026-10-03T05:16:52Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
-      "last_success": "2026-10-02T00:46:34Z",
+      "last_success": "2026-10-03T05:16:52Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-10-02T22:12:55Z",
+      "last_success": "2026-10-03T05:16:52Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -11708,7 +11708,7 @@
     "urn:uuid:e4de15d1-86f3-568a-8658-65ab79de508d": {
       "id": "urn:uuid:e4de15d1-86f3-568a-8658-65ab79de508d",
       "first_seen": "2026-09-11T17:54:26Z",
-      "updated": "2026-09-11T17:54:26Z",
+      "updated": "2026-10-03T05:16:52Z",
       "records": {
         "pubmed:42677469": {
           "source": "pubmed",
@@ -11802,7 +11802,9 @@
           "journal": "ACS chemical biology",
           "version": "",
           "publication_date": "",
-          "identifiers": [],
+          "identifiers": [
+            "pmc:PMC13630340"
+          ],
           "relations": []
         }
       },
@@ -11835,6 +11837,16 @@
           "record": "pubmed:42677469",
           "method": "new_work",
           "reason": "no existing work"
+        },
+        {
+          "record": "pubmed:42677469",
+          "rank": 3,
+          "method": "shared_identifier",
+          "identifiers": [
+            "doi:10.1021/acschembio.6c00584",
+            "pubmed:42677469"
+          ],
+          "matched_record": "pubmed:42677469"
         }
       ],
       "published": "2026-08-26T00:00:00Z"
