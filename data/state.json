@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-10-06T06:18:38Z",
+      "last_success": "2026-10-06T15:56:04Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-10-06T06:18:38Z",
+      "last_success": "2026-10-06T15:56:04Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-10-06T06:18:38Z",
+      "last_success": "2026-10-06T15:56:04Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -134,7 +134,8 @@
     "pubmed:36397834": "2026-10-06T06:18:38Z",
     "pubmed:36108048": "2026-09-30T20:00:29Z",
     "pubmed:42523218": "2026-10-03T11:37:59Z",
-    "pubmed:40940539": "2026-10-03T11:37:59Z"
+    "pubmed:40940539": "2026-10-03T11:37:59Z",
+    "biorxiv:10.64898/2026.10.02.756307": "2026-10-06T15:56:04Z"
   },
   "works": {
     "urn:uuid:7f477453-6c38-52e7-b591-accb9b0e6576": {
@@ -22674,6 +22675,157 @@
         }
       ],
       "published": "2026-07-13T00:00:00Z"
+    },
+    "urn:uuid:1210dab8-49b9-5c6a-8fac-bdabb9db617e": {
+      "id": "urn:uuid:1210dab8-49b9-5c6a-8fac-bdabb9db617e",
+      "first_seen": "2026-10-06T15:56:04Z",
+      "updated": "2026-10-06T15:56:04Z",
+      "records": {
+        "biorxiv:10.64898/2026.10.02.756307": {
+          "source": "biorxiv",
+          "source_id": "10.64898/2026.10.02.756307",
+          "title": "Complex enzyme active site scaffolding by iteratively detuned catalytic guidance",
+          "authors": [
+            {
+              "name": "Qian, T.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Wang, W.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Gao, S.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Muraishi, A.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Zhao, B.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "An, D. N.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Xue, F.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Kazman, M.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Mendoza, J.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Nguyen, H.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Bera, A.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Kang, A.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Yang, A.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Dai, W.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Liang, J.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Wang, Y.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Huang, X.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "DiMaio, F.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Baker, D.",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA 98105, USA; Howard Hughes Medical Institute, University of Washington, Seattle, WA 98105, US"
+              ],
+              "orcid": null
+            }
+          ],
+          "abstract": "De novo enzyme design requires sequences whose structures reproduce prescribed catalytic geometries. This remains challenging for active sites that couple multiple catalytic residues, cofactors and substrates. Here we introduce the Catalytic Guidance Engine (CaGE), which optimizes designed sequences to satisfy complex sets of functional constraints by alternating constraint guided structure prediction trajectories with sequence design, gradually fading the strength of the constraint information over cycles to nudge the designed sequence towards satisfying all the constraints. We train RF3 to accept atom-pair distances and other design conditions, and use classifier-free guidance to fade their influence over multiple design cycles. We also develop training-free motif guidance protocols which operate at inference time by directly adjusting selected atoms towards the design target geometry during diffusion sampling. CaGE improves catalytic-motif geometry across a diverse enzyme benchmark and yields sequences that recover complex target active sites in independent AF3 predictions. We experimentally demonstrate the power of CaGE by designing active enzymes with complex catalytic sites: a nonheme-iron design positions four active-site residues around an iron centre and a transition-state ligand, and a PLP-dependent design positions four catalytic residues around a PLP cofactor with multiple functional groups. Active site substitutions and a 2.7[A] crystal structure support the designed mechanisms and structures. Thus, CaGE provides a route to functional de novo enzymes with complex active sites.",
+          "date": "2026-10-06",
+          "url": "https://doi.org/10.64898/2026.10.02.756307",
+          "doi": "10.64898/2026.10.02.756307",
+          "status": "preprint",
+          "journal": "",
+          "version": "1",
+          "publication_date": "",
+          "identifiers": [],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "biorxiv:10.64898/2026.10.02.756307",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "Baker, D.",
+                "method": "name_and_affiliations",
+                "affiliations": [
+                  "Institute for Protein Design, University of Washington, Seattle, WA 98105, USA; Howard Hughes Medical Institute, University of Washington, Seattle, WA 98105, US"
+                ],
+                "matched_affiliations": [
+                  "Institute for Protein Design",
+                  "University of Washington"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "biorxiv:10.64898/2026.10.02.756307",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2026-10-06T00:00:00Z"
     }
   },
   "aliases": {},

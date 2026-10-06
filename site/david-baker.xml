@@ -7,7 +7,80 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-10-03T11:37:59Z</updated>
+  <updated>2026-10-06T15:56:04Z</updated>
+  <entry>
+    <id>urn:uuid:1210dab8-49b9-5c6a-8fac-bdabb9db617e</id>
+    <title>Complex enzyme active site scaffolding by iteratively detuned catalytic guidance</title>
+    <published>2026-10-06T00:00:00Z</published>
+    <updated>2026-10-06T15:56:04Z</updated>
+    <link href="https://doi.org/10.64898/2026.10.02.756307" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Qian, T.</name>
+    </author>
+    <author>
+      <name>Wang, W.</name>
+    </author>
+    <author>
+      <name>Gao, S.</name>
+    </author>
+    <author>
+      <name>Muraishi, A.</name>
+    </author>
+    <author>
+      <name>Zhao, B.</name>
+    </author>
+    <author>
+      <name>An, D. N.</name>
+    </author>
+    <author>
+      <name>Xue, F.</name>
+    </author>
+    <author>
+      <name>Kazman, M.</name>
+    </author>
+    <author>
+      <name>Mendoza, J.</name>
+    </author>
+    <author>
+      <name>Nguyen, H.</name>
+    </author>
+    <author>
+      <name>Bera, A.</name>
+    </author>
+    <author>
+      <name>Kang, A.</name>
+    </author>
+    <author>
+      <name>Yang, A.</name>
+    </author>
+    <author>
+      <name>Dai, W.</name>
+    </author>
+    <author>
+      <name>Liang, J.</name>
+    </author>
+    <author>
+      <name>Wang, Y.</name>
+    </author>
+    <author>
+      <name>Huang, X.</name>
+    </author>
+    <author>
+      <name>DiMaio, F.</name>
+    </author>
+    <author>
+      <name>Baker, D.</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Qian, T.; Wang, W.; Gao, S.; Muraishi, A.; Zhao, B.; An, D. N.; Xue, F.; Kazman, M.; Mendoza, J.; Nguyen, H.; Bera, A.; Kang, A.; Yang, A.; Dai, W.; Liang, J.; Wang, Y.; Huang, X.; DiMaio, F.; Baker, D.&lt;/p&gt;
+&lt;p&gt;Sources: biorxiv&lt;/p&gt;
+&lt;p&gt;Preprint date: 2026-10-06&lt;/p&gt;
+&lt;p&gt;De novo enzyme design requires sequences whose structures reproduce prescribed catalytic geometries. This remains challenging for active sites that couple multiple catalytic residues, cofactors and substrates. Here we introduce the Catalytic Guidance Engine (CaGE), which optimizes designed sequences to satisfy complex sets of functional constraints by alternating constraint guided structure prediction trajectories with sequence design, gradually fading the strength of the constraint information over cycles to nudge the designed sequence towards satisfying all the constraints. We train RF3 to accept atom-pair distances and other design conditions, and use classifier-free guidance to fade their influence over multiple design cycles. We also develop training-free motif guidance protocols which operate at inference time by directly adjusting selected atoms towards the design target geometry during diffusion sampling. CaGE improves catalytic-motif geometry across a diverse enzyme benchmark and yields sequences that recover complex target active sites in independent AF3 predictions. We experimentally demonstrate the power of CaGE by designing active enzymes with complex catalytic sites: a nonheme-iron design positions four active-site residues around an iron centre and a transition-state ligand, and a PLP-dependent design positions four catalytic residues around a PLP cofactor with multiple functional groups. Active site substitutions and a 2.7[A] crystal structure support the designed mechanisms and structures. Thus, CaGE provides a route to functional de novo enzymes with complex active sites.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.10.02.756307"&gt;biorxiv (preprint) — DOI: 10.64898/2026.10.02.756307&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
   <entry>
     <id>urn:uuid:9e012682-4c6a-50a3-b187-e8ed207714b5</id>
     <title>Computational design of metalloproteases</title>
