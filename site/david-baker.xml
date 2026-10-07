@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-10-06T15:56:04Z</updated>
+  <updated>2026-10-07T13:20:37Z</updated>
   <entry>
     <id>urn:uuid:1210dab8-49b9-5c6a-8fac-bdabb9db617e</id>
     <title>Complex enzyme active site scaffolding by iteratively detuned catalytic guidance</title>
@@ -3357,6 +3357,72 @@
 &lt;/ul&gt;</content>
   </entry>
   <entry>
+    <id>urn:uuid:02a0900b-df2a-5477-a8dd-54ed9d4774ab</id>
+    <title>Computational design of metallohydrolases.</title>
+    <published>2025-12-03T00:00:00Z</published>
+    <updated>2026-10-07T13:20:37Z</updated>
+    <link href="https://doi.org/10.1038/s41586-025-09746-w" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Donghyo Kim</name>
+    </author>
+    <author>
+      <name>Seth M Woodbury</name>
+    </author>
+    <author>
+      <name>Woody Ahern</name>
+    </author>
+    <author>
+      <name>Doug Tischer</name>
+    </author>
+    <author>
+      <name>Alex Kang</name>
+    </author>
+    <author>
+      <name>Emily Joyce</name>
+    </author>
+    <author>
+      <name>Asim K Bera</name>
+    </author>
+    <author>
+      <name>Nikita Hanikel</name>
+    </author>
+    <author>
+      <name>Saman Salike</name>
+    </author>
+    <author>
+      <name>Rohith Krishna</name>
+    </author>
+    <author>
+      <name>Jason Yim</name>
+    </author>
+    <author>
+      <name>Samuel J Pellock</name>
+    </author>
+    <author>
+      <name>Anna Lauko</name>
+    </author>
+    <author>
+      <name>Indrek Kalvet</name>
+    </author>
+    <author>
+      <name>Donald Hilvert</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Donghyo Kim; Seth M Woodbury; Woody Ahern; Doug Tischer; Alex Kang; Emily Joyce; Asim K Bera; Nikita Hanikel; Saman Salike; Rohith Krishna; Jason Yim; Samuel J Pellock; Anna Lauko; Indrek Kalvet; Donald Hilvert; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2025-12-03&lt;/p&gt;
+&lt;p&gt;Journal: Nature&lt;/p&gt;
+&lt;p&gt;De novo enzyme design seeks to build proteins containing ideal active sites with catalytic residues surrounding and stabilizing the transition state(s) of the target chemical reaction1-7. The generative artificial intelligence method RFdiffusion8,9 solves this problem, but requires specifying both the sequence position and backbone coordinates for each catalytic residue, limiting sampling. Here we introduce RFdiffusion2, which eliminates these requirements, and use it to design zinc metallohydrolases starting from quantum chemistry-derived active site geometries. From an initial set of 96 designs tested experimentally, the most active has a catalytic efficiency (kcat/KM) of 16,000 M-1 s-1, orders of magnitude higher than previously designed metallohydrolases6,7,10,11. A second round of 96 designs yielded 3 additional highly active enzymes, with kcat/KM values of up to 53,000 M-1 s-1 and a catalytic rate constant (kcat) of up to 1.5 s-1. The design models of the four most active designs differ from known structures and from each other, and the crystal structure of the most active design is very close to the design model, demonstrating the accuracy of the design method. The most active enzymes are predicted by PLACER12 and Chai-1 (ref. 13) to have preorganized active sites that effectively position the substrate for nucleophilic attack by a water molecule activated by the bound metal. The ability to generate highly active enzymes directly from the computer, without experimental optimization, should enable a new generation of potent designer catalysts14,15.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-025-09746-w"&gt;pubmed (published) — DOI: 10.1038/s41586-025-09746-w&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-025-09746-w"&gt;Published version — DOI: 10.1038/s41586-025-09746-w&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
     <id>urn:uuid:dce39ffa-5134-52fb-8226-d99c8cb3c0a3</id>
     <title>Inhibition of ice recrystallization with designed twistless helical repeat proteins.</title>
     <published>2025-11-25T00:00:00Z</published>
@@ -5305,6 +5371,120 @@
 &lt;/ul&gt;</content>
   </entry>
   <entry>
+    <id>urn:uuid:a89a86ed-a3ca-5774-9933-d7a1053e67f0</id>
+    <title>Diffusing protein binders to intrinsically disordered proteins.</title>
+    <published>2025-07-30T00:00:00Z</published>
+    <updated>2026-10-07T13:20:37Z</updated>
+    <link href="https://doi.org/10.1038/s41586-025-09248-9" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Caixuan Liu</name>
+    </author>
+    <author>
+      <name>Kejia Wu</name>
+    </author>
+    <author>
+      <name>Hojun Choi</name>
+    </author>
+    <author>
+      <name>Hannah L Han</name>
+    </author>
+    <author>
+      <name>Xueli Zhang</name>
+    </author>
+    <author>
+      <name>Joseph L Watson</name>
+    </author>
+    <author>
+      <name>Green Ahn</name>
+    </author>
+    <author>
+      <name>Jason Z Zhang</name>
+    </author>
+    <author>
+      <name>Sara Shijo</name>
+    </author>
+    <author>
+      <name>Lydia L Good</name>
+    </author>
+    <author>
+      <name>Charlotte M Fischer</name>
+    </author>
+    <author>
+      <name>Asim K Bera</name>
+    </author>
+    <author>
+      <name>Alex Kang</name>
+    </author>
+    <author>
+      <name>Evans Brackenbrough</name>
+    </author>
+    <author>
+      <name>Brian Coventry</name>
+    </author>
+    <author>
+      <name>Derrick R Hick</name>
+    </author>
+    <author>
+      <name>Seema Qamar</name>
+    </author>
+    <author>
+      <name>Xinting Li</name>
+    </author>
+    <author>
+      <name>Justin Decarreau</name>
+    </author>
+    <author>
+      <name>Stacey R Gerben</name>
+    </author>
+    <author>
+      <name>Wei Yang</name>
+    </author>
+    <author>
+      <name>Inna Goreshnik</name>
+    </author>
+    <author>
+      <name>Dionne Vafeados</name>
+    </author>
+    <author>
+      <name>Xinru Wang</name>
+    </author>
+    <author>
+      <name>Mila Lamb</name>
+    </author>
+    <author>
+      <name>Analisa Murray</name>
+    </author>
+    <author>
+      <name>Sebastian Kenny</name>
+    </author>
+    <author>
+      <name>Magnus S Bauer</name>
+    </author>
+    <author>
+      <name>Andrew N Hoofnagle</name>
+    </author>
+    <author>
+      <name>Ping Zhu</name>
+    </author>
+    <author>
+      <name>Tuomas P J Knowles</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Caixuan Liu; Kejia Wu; Hojun Choi; Hannah L Han; Xueli Zhang; Joseph L Watson; Green Ahn; Jason Z Zhang; Sara Shijo; Lydia L Good; Charlotte M Fischer; Asim K Bera; Alex Kang; Evans Brackenbrough; Brian Coventry; Derrick R Hick; Seema Qamar; Xinting Li; Justin Decarreau; Stacey R Gerben; Wei Yang; Inna Goreshnik; Dionne Vafeados; Xinru Wang; Mila Lamb; Analisa Murray; Sebastian Kenny; Magnus S Bauer; Andrew N Hoofnagle; Ping Zhu; Tuomas P J Knowles; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2025-07-30&lt;/p&gt;
+&lt;p&gt;Journal: Nature&lt;/p&gt;
+&lt;p&gt;Proteins that bind to intrinsically disordered proteins (IDPs) and intrinsically disordered regions (IDRs) with high affinity and specificity could be useful for therapeutic and diagnostic applications1-4. However, a general methodology for targeting IDPs or IDRs has yet to be developed. Here we show that starting only from the target sequence of the input, and freely sampling both target and binding protein conformations, RFdiffusion5 can generate binders to IDPs and IDRs in a wide range of conformations. We used this approach to generate binders to the IDPs amylin, C-peptide, VP48 and BRCA1_ARATH in diverse conformations with a dissociation constant (Kd) ranging from 3 to 100 nM. For the IDRs G3BP1, common cytokine receptor γ-chain (IL-2RG) and prion protein, we diffused binders to β-strand conformations of the targets, obtaining Kd between 10 and 100 nM. Fluorescence imaging experiments show that the binders bind to their respective targets in cells. The G3BP1 binder disrupts stress granule formation in cells, and the amylin binder inhibits amyloid fibril formation and dissociates existing fibres, enables targeting of both monomeric and fibrillar amylin to lysosomes, and increases the sensitivity of mass spectrometry-based amylin detection. Our approach should be useful for creating binders to flexible IDPs or IDRs spanning a wide range of intrinsic conformational preferences.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-025-09248-9"&gt;pubmed (published) — DOI: 10.1038/s41586-025-09248-9&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-025-09248-9"&gt;Published version — DOI: 10.1038/s41586-025-09248-9&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
     <id>urn:uuid:fb3b9879-f4ac-517e-a128-1959dbfc4c21</id>
     <title>De Novo Design of High-Performance Cortisol Luminescent Biosensors.</title>
     <published>2025-07-28T00:00:00Z</published>
@@ -6103,6 +6283,54 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-024-08393-x"&gt;pubmed (published) — DOI: 10.1038/s41586-024-08393-x&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-024-08393-x"&gt;Published version — DOI: 10.1038/s41586-024-08393-x&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:aed9cf5c-6b70-563c-9120-53f15d5ccc1d</id>
+    <title>Four-component protein nanocages designed by programmed symmetry breaking.</title>
+    <published>2024-12-18T00:00:00Z</published>
+    <updated>2026-10-07T13:20:37Z</updated>
+    <link href="https://doi.org/10.1038/s41586-024-07814-1" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Sangmin Lee</name>
+    </author>
+    <author>
+      <name>Ryan D Kibler</name>
+    </author>
+    <author>
+      <name>Green Ahn</name>
+    </author>
+    <author>
+      <name>Yang Hsia</name>
+    </author>
+    <author>
+      <name>Andrew J Borst</name>
+    </author>
+    <author>
+      <name>Annika Philomin</name>
+    </author>
+    <author>
+      <name>Madison A Kennedy</name>
+    </author>
+    <author>
+      <name>Buwei Huang</name>
+    </author>
+    <author>
+      <name>Barry Stoddard</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Sangmin Lee; Ryan D Kibler; Green Ahn; Yang Hsia; Andrew J Borst; Annika Philomin; Madison A Kennedy; Buwei Huang; Barry Stoddard; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2024-12-18&lt;/p&gt;
+&lt;p&gt;Journal: Nature&lt;/p&gt;
+&lt;p&gt;Four, eight or twenty C3 symmetric protein trimers can be arranged with tetrahedral, octahedral or icosahedral point group symmetry to generate closed cage-like structures1,2. Viruses access more complex higher triangulation number icosahedral architectures by breaking perfect point group symmetry3-9, but nature appears not to have explored similar symmetry breaking for tetrahedral or octahedral symmetries. Here we describe a general design strategy for building higher triangulation number architectures starting from regular polyhedra through pseudosymmetrization of trimeric building blocks. Electron microscopy confirms the structures of T = 4 cages with 48 (tetrahedral), 96 (octahedral) and 240 (icosahedral) subunits, each with 4 distinct chains and 6 different protein-protein interfaces, and diameters of 33 nm, 43 nm and 75 nm, respectively. Higher triangulation number viruses possess very sophisticated functionalities; our general route to higher triangulation number nanocages should similarly enable a next generation of multiple antigen-displaying vaccine candidates10,11 and targeted delivery vehicles12,13.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-024-07814-1"&gt;pubmed (published) — DOI: 10.1038/s41586-024-07814-1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-024-07814-1"&gt;Published version — DOI: 10.1038/s41586-024-07814-1&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
