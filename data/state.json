@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-10-08T10:32:48Z",
+      "last_success": "2026-10-08T18:50:24Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-10-08T10:32:48Z",
+      "last_success": "2026-10-08T18:50:24Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-10-07T20:36:49Z",
+      "last_success": "2026-10-08T18:50:24Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -138,7 +138,8 @@
     "biorxiv:10.64898/2026.10.02.756307": "2026-10-06T15:56:04Z",
     "pubmed:41339547": "2026-10-07T13:20:37Z",
     "pubmed:40739343": "2026-10-07T13:20:37Z",
-    "pubmed:39695226": "2026-10-07T13:20:37Z"
+    "pubmed:39695226": "2026-10-07T13:20:37Z",
+    "pubmed:42845701": "2026-10-08T18:50:24Z"
   },
   "works": {
     "urn:uuid:7f477453-6c38-52e7-b591-accb9b0e6576": {
@@ -1410,7 +1411,7 @@
     "urn:uuid:99e297c2-3b43-524f-8b34-b2b5eda5995f": {
       "id": "urn:uuid:99e297c2-3b43-524f-8b34-b2b5eda5995f",
       "first_seen": "2026-09-11T17:54:26Z",
-      "updated": "2026-09-11T17:54:26Z",
+      "updated": "2026-10-08T18:50:24Z",
       "records": {
         "biorxiv:10.64898/2026.08.13.744004": {
           "source": "biorxiv",
@@ -1475,6 +1476,70 @@
           "publication_date": "",
           "identifiers": [],
           "relations": []
+        },
+        "pubmed:42845701": {
+          "source": "pubmed",
+          "source_id": "42845701",
+          "title": "De novo design of autocatalytically forming intra- and intermolecular isopeptide bonds to construct rigid covalent protein assemblies.",
+          "authors": [
+            {
+              "name": "Lukas F Milles",
+              "affiliations": [],
+              "orcid": "0000-0001-8417-3205"
+            },
+            {
+              "name": "Evelyn B Huddy",
+              "affiliations": [],
+              "orcid": "0000-0002-5455-416X"
+            },
+            {
+              "name": "Ann Carr",
+              "affiliations": [],
+              "orcid": "0009-0007-2703-6512"
+            },
+            {
+              "name": "Yang Hsia",
+              "affiliations": [],
+              "orcid": "0000-0001-7467-8373"
+            },
+            {
+              "name": "Xinting Li",
+              "affiliations": [],
+              "orcid": "0000-0001-5559-7578"
+            },
+            {
+              "name": "Alex Kang",
+              "affiliations": [],
+              "orcid": "0000-0001-5487-0499"
+            },
+            {
+              "name": "Banumathi Sankaran",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Asim K Bera",
+              "affiliations": [],
+              "orcid": "0000-0001-9473-2912"
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [],
+              "orcid": "0000-0001-7896-6217"
+            }
+          ],
+          "abstract": "Isopeptide bonds are amide bonds between amino acid side chains that can form autocatalytically, notably in the pili of Gram-positive bacteria. Here, we design de novo proteins that form both intramolecular and intermolecular isopeptide bonds entirely autocatalytically. We report over 50 designs that form isopeptide bonds, validated by mass spectrometry and 5 crystal structures. We redesign these constructs as split proteins that form a covalent intermolecular isopeptide crosslink when combined. These split designs are orthogonal to the existing isopeptide-based SpyTag/Catcher system, and their formation can be regulated by temperature, providing control over the timing of crosslinking in protein assemblies. We extend these designs to create rigid domain crosslinks that enable the construction of large well ordered symmetric rings of up to 215 kDa that are irreversibly covalently crosslinked by multiple isopeptide bonds into a single molecule. Our results provide insight into the determinants of isopeptide bond formation, considerably expand the set of isopeptide bond crosslinking systems, and establish a framework to construct fully covalent rigid protein assemblies.",
+          "date": "2026-08-14",
+          "url": "https://doi.org/10.64898/2026.08.13.744004",
+          "doi": "10.64898/2026.08.13.744004",
+          "status": "preprint",
+          "journal": "bioRxiv : the preprint server for biology",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC13640782"
+          ],
+          "relations": []
         }
       },
       "matched_researchers": {
@@ -1497,6 +1562,18 @@
                 ]
               }
             ]
+          },
+          {
+            "record": "pubmed:42845701",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
           }
         ]
       },
@@ -1505,6 +1582,15 @@
           "record": "biorxiv:10.64898/2026.08.13.744004",
           "method": "new_work",
           "reason": "no existing work"
+        },
+        {
+          "record": "pubmed:42845701",
+          "rank": 3,
+          "method": "shared_identifier",
+          "identifiers": [
+            "doi:10.64898/2026.08.13.744004"
+          ],
+          "matched_record": "biorxiv:10.64898/2026.08.13.744004"
         }
       ],
       "published": "2026-08-18T00:00:00Z"
@@ -23455,6 +23541,145 @@
   },
   "aliases": {},
   "rejected": {
+    "biorxiv:10.64898/2026.10.07.757460": {
+      "first_seen": "2026-10-08T18:50:24Z",
+      "record": {
+        "source": "biorxiv",
+        "source_id": "10.64898/2026.10.07.757460",
+        "title": "Programming N-linked glycan composition through de novo protein design",
+        "authors": [
+          {
+            "name": "Lunn-Halbert, M. C.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Allen, J. D.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Krishna, R.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Manchenko, A.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Li, X.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Lopatto, E. D.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Pinkner, J.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Moller, C.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Ahern, W.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Mendoza, J.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Kang, A.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Nguyen, H.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Joyce, E.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Bera, A.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Hultgren, S. J.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Sokurenko, E.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Crispin, M.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Baker, D.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "King, N. P.",
+            "affiliations": [
+              "University of Washington"
+            ],
+            "orcid": null
+          }
+        ],
+        "abstract": "N-linked glycans are ubiquitous post-translational modifications that mediate diverse biological processes, including cell signaling and adhesion, molecular recognition, and host-pathogen interactions. Despite their importance, N-linked glycans have largely remained beyond the reach of biomolecular design due to a lack of methods capable of jointly modeling glycans and protein structure. Here, we develop a general all-atom computational pipeline for creating de novo glycoproteins in which the amino acid sequence encodes both the location and composition of N-linked glycans. The method uses three-dimensional protein structure to tune glycan accessibility to processing enzymes in the eukaryotic secretory pathway. Systematic increases in steric restriction progressively reduced processing, shifting glycans from heterogeneous complex-type structures toward increasingly underprocessed oligomannose-type species resembling those found on many viral glycoproteins. Despite this programmed restriction, the resulting oligomannose glycans remained accessible for biological recognition, inhibiting uropathogenic Escherichia coli adhesion to human bladder cells and binding mannose-binding lectin. These results establish steric control of N-glycan processing as a genetically encodable design principle and extend computational protein design to functional glycoproteins with programmed composition.",
+        "date": "2026-10-08",
+        "url": "https://doi.org/10.64898/2026.10.07.757460",
+        "doi": "10.64898/2026.10.07.757460",
+        "status": "preprint",
+        "journal": "",
+        "version": "1",
+        "publication_date": "",
+        "identifiers": [],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "Baker, D.",
+              "method": "rejected",
+              "affiliations": [],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
     "pubmed:20435674": {
       "first_seen": "2026-10-04T05:50:26Z",
       "record": {

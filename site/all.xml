@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-10-07T13:20:37Z</updated>
+  <updated>2026-10-08T18:50:24Z</updated>
   <entry>
     <id>urn:uuid:1210dab8-49b9-5c6a-8fac-bdabb9db617e</id>
     <title>Complex enzyme active site scaffolding by iteratively detuned catalytic guidance</title>
@@ -858,7 +858,7 @@
     <id>urn:uuid:99e297c2-3b43-524f-8b34-b2b5eda5995f</id>
     <title>De novo design of autocatalytically forming intra- and intermolecular isopeptide bonds to construct rigid covalent protein assemblies</title>
     <published>2026-08-18T00:00:00Z</published>
-    <updated>2026-09-11T17:54:26Z</updated>
+    <updated>2026-10-08T18:50:24Z</updated>
     <link href="https://doi.org/10.64898/2026.08.13.744004" rel="alternate" />
     <category term="preprint" />
     <author>
@@ -890,11 +890,12 @@
     </author>
     <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Authors: Milles, L. F.; Huddy, E. B.; Carr, A.; Hsia, Y.; Li, X.; Kang, A.; Sankaran, B.; Bera, A. K.; Baker, D.&lt;/p&gt;
-&lt;p&gt;Sources: biorxiv&lt;/p&gt;
+&lt;p&gt;Sources: biorxiv, pubmed&lt;/p&gt;
 &lt;p&gt;Preprint date: 2026-08-18&lt;/p&gt;
 &lt;p&gt;Isopeptide bonds are amide bonds between amino acid side chains that can form autocatalytically, notably in the pili of Gram-positive bacteria. Here, we design de novo proteins that form both intramolecular and intermolecular isopeptide bonds entirely autocatalytically. We report over 50 designs that form isopeptide bonds, validated by mass spectrometry and 5 crystal structures. We redesign these constructs as split proteins that form a covalent intermolecular isopeptide crosslink when combined. These split designs are orthogonal to the existing isopeptide-based SpyTag/Catcher system, and their formation can be regulated by temperature, providing control over the timing of crosslinking in protein assemblies. We extend these designs to create rigid domain crosslinks that enable the construction of large well ordered symmetric rings of up to 215 kDa that are irreversibly covalently crosslinked by multiple isopeptide bonds into a single molecule. Our results provide insight into the determinants of isopeptide bond formation, considerably expand the set of isopeptide bond crosslinking systems, and establish a framework to construct fully covalent rigid protein assemblies.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.08.13.744004"&gt;biorxiv (preprint) — DOI: 10.64898/2026.08.13.744004&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.08.13.744004"&gt;pubmed (preprint) — DOI: 10.64898/2026.08.13.744004&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
