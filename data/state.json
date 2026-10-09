@@ -2,19 +2,19 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-10-09T01:12:58Z",
+      "last_success": "2026-10-09T10:31:03Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-10-09T01:12:58Z",
+      "last_success": "2026-10-09T10:31:03Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
-      "last_success": "2026-10-08T00:59:08Z",
+      "last_success": "2026-10-09T10:31:03Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-10-09T01:12:58Z",
+      "last_success": "2026-10-09T10:31:03Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -139,7 +139,8 @@
     "pubmed:41339547": "2026-10-07T13:20:37Z",
     "pubmed:40739343": "2026-10-07T13:20:37Z",
     "pubmed:39695226": "2026-10-07T13:20:37Z",
-    "pubmed:42845701": "2026-10-08T18:50:24Z"
+    "pubmed:42845701": "2026-10-08T18:50:24Z",
+    "biorxiv:10.1101/2025.08.03.668343": "2026-10-09T10:31:03Z"
   },
   "works": {
     "urn:uuid:7f477453-6c38-52e7-b591-accb9b0e6576": {
@@ -4697,7 +4698,7 @@
     "urn:uuid:9e11f059-34f7-52d4-9d37-3f2dcc3185cc": {
       "id": "urn:uuid:9e11f059-34f7-52d4-9d37-3f2dcc3185cc",
       "first_seen": "2026-09-11T17:54:26Z",
-      "updated": "2026-09-11T17:54:26Z",
+      "updated": "2026-10-09T10:31:03Z",
       "records": {
         "pubmed:40950233": {
           "source": "pubmed",
@@ -5082,6 +5083,120 @@
               "evidence": "PubMed UpdateOf; target must be a preprint"
             }
           ]
+        },
+        "biorxiv:10.1101/2025.08.03.668343": {
+          "source": "biorxiv",
+          "source_id": "10.1101/2025.08.03.668343",
+          "title": "Design of Orthogonal Far-Red, Orange and Green Fluorophore-binding Proteins for Multiplex Imaging",
+          "authors": [
+            {
+              "name": "Tran, L.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Klein, S.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Sharma, S.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Juergens, D.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Decarreau, J.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Liu, B.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Wang, Y.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Bera, A. K.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Kang, A.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Woods, J.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Joyce, E.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Vafeados, D. K.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Roullier, N.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Chen, W.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Lee, G. R.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Lavis, L. D.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Mahamid, J.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "An, L.",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Baker, D.",
+              "affiliations": [
+                "University of Washington"
+              ],
+              "orcid": null
+            }
+          ],
+          "abstract": "Fluorescent proteins have transformed biological imaging, yet their limited photostability and brightness restrict their applications. We used deep learning-based de novo protein design methods to design binders to three bright, stable and cell-permeable dyes spanning the imaging spectrum: JF657 (far red), JF596 (orange-red) and JF494 (green). We obtain highly specific dye-binding proteins with low nanomolar affinities for the intended target; a crystal structure of one binder confirms close resemblance to the design model. Simultaneous labeling of mammalian cells expressing three dye-specific binders at different subcellular compartments demonstrates the utility in multiplex imaging. We further expand the functionality of the binder by incorporating an active site that carries out nucleophilic aromatic substitution to form a covalent linkage with the dye, and develop split versions which reconstitute fluorescence at subcellular locations where both halves are present towards monitoring in-cell protein interactions and chemically induced dimerization. Our designed high affinity and specificity dye binders open up new opportunities for multiplexed biological imaging.",
+          "date": "2026-10-09",
+          "url": "https://doi.org/10.1101/2025.08.03.668343",
+          "doi": "10.1101/2025.08.03.668343",
+          "status": "preprint",
+          "journal": "",
+          "version": "5",
+          "publication_date": "",
+          "identifiers": [],
+          "relations": []
         }
       },
       "matched_researchers": {
@@ -5109,6 +5224,14 @@
                 "orcid": "0000-0001-7896-6217"
               }
             ]
+          },
+          {
+            "record": "biorxiv:10.1101/2025.08.03.668343",
+            "matched": true,
+            "reason": "identity inherited through a strong work identifier",
+            "via_work": "urn:uuid:9e11f059-34f7-52d4-9d37-3f2dcc3185cc",
+            "via_record": "pubmed:40950233",
+            "method": "shared_identifier"
           }
         ]
       },
@@ -5129,6 +5252,15 @@
           "evidence": [
             "PubMed UpdateOf; target must be a preprint",
             "PubMed preprint UpdateIn"
+          ],
+          "matched_record": "pubmed:40950233"
+        },
+        {
+          "record": "biorxiv:10.1101/2025.08.03.668343",
+          "rank": 3,
+          "method": "shared_identifier",
+          "identifiers": [
+            "doi:10.1101/2025.08.03.668343"
           ],
           "matched_record": "pubmed:40950233"
         }
@@ -23541,6 +23673,428 @@
   },
   "aliases": {},
   "rejected": {
+    "arxiv:2610.11892": {
+      "first_seen": "2026-10-09T10:31:03Z",
+      "record": {
+        "source": "arxiv",
+        "source_id": "2610.11892",
+        "title": "Femtosecond Three-Dimensional Imaging of Single-Protein with Hard X-ray Laser",
+        "authors": [
+          {
+            "name": "Paul Lourdu Xavier",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Andrew J. Morgan",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Johan Bielecki",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Amit K. Samanta",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Simon Dold",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Chufeng Li",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Xinyue Gao",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Spencer K. Passmore",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Ruslan P. Kurta",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Tim B. Berberich",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Emiliano De Santis",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Wenhui Zhang",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Juncheng E",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Faisal H. M. Koua",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Romain Letrun",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Luca Gelisio",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Oleksii Turkot",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Egor Sobolev",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Lukas V. Haas",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Jannik Lübke",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Jingxuan He",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Madeline B. F. Memovich",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Kevin Janson",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Stefanie Lenzen",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Safi Rafie-Zinedine",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Mansi Butola",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Oleksandr Yefanov",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Fabian Trost",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Chan Kim",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Tomas Popelar",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Tokushi Sato",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Yevheniy Ovcharenko",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Rebecca Boll",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Sergey Usenko",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Thomas M. Baumann",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Alberto De Fanis",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Björn Senftleben",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Matteo Porro",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Andrea Castoldi",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Ibrahym Dourki",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Cyril Danilevski",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Ekaterina Round",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Christina Schmidt",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Huijong Han",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Roberto Alvarez",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Erin C. Yang",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Shunzhi Wang",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Marcos C. Miranda",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Hao Shen",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Alexis Courbet",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Nathan M. Ennist",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Ervin Chia",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Cornelia Cazey",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Carolin Seuring",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Ruojie Sha",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Maia Azubel",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "David A. Bushnell",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Sébastien Boutet",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Sergey Ovchinnikov",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Adrian P. Mancuso",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Michael Meyer",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Richard Bean",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Anton Barty",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Filipe R. N. C. Maia",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Richard A. Kirian",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Thomas D. Grant",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "N. Duane Loh",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Carl Caleman",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Erik G. Marklund",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Nadia Zatsepin",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Andrew V. Martin",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Saša Bajt",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Roger D. Kornberg",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "David Baker",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Jochen Küpper",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Henry N. Chapman",
+            "affiliations": [],
+            "orcid": null
+          }
+        ],
+        "abstract": "The extremely intense pulses of X-ray free-electron lasers (XFELs) have enabled imaging of radiation-sensitive samples, such as macromolecular microcrystals, beyond radiation damage limits. These sources have the potential to deliver biomolecular single-particle imaging, similar to cryo-electron microscopy but without the need for cryo-fixation and with temporal resolution from femtoseconds to milliseconds. While this possibility was recognized before XFELs were built, the biological single-particle imaging work-flow has previously only been demonstrated on large virus particles. Based on decades of improvements in X-ray beam focusing, particle delivery, diffraction detection, and advanced analysis, here we demonstrate imaging of a single molecular complex, the giant-hemoglobin erythrocruorin (Ery) with X-ray laser pulses. Two-dimensional classes of diffraction patterns could be reconstructed to 15 Angstrom resolution, and 3D images to approximately 20 Angstrom, while the 3D merged intensity in reciprocal space extended beyond 20 Angstrom. The resolution discrepancy is likely due to heterogeneity caused by gas-phase compaction of the complexes. With increased throughput, this approach could be used to reveal in-situ structural details during mass spectrometry studies of biomolecules, while improvements in sample delivery may provide ultrafast snapshot imaging of biological single-particles in their native-state beyond the limitations of radiation damage.",
+        "date": "2026-10-08",
+        "url": "https://arxiv.org/abs/2610.11892",
+        "doi": null,
+        "status": "preprint",
+        "journal": "",
+        "version": "1",
+        "publication_date": "",
+        "identifiers": [],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "David Baker",
+              "method": "rejected",
+              "affiliations": [],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
     "biorxiv:10.64898/2026.10.07.757460": {
       "first_seen": "2026-10-08T18:50:24Z",
       "record": {

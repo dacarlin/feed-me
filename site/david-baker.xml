@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-10-08T18:50:24Z</updated>
+  <updated>2026-10-09T10:31:03Z</updated>
   <entry>
     <id>urn:uuid:1210dab8-49b9-5c6a-8fac-bdabb9db617e</id>
     <title>Complex enzyme active site scaffolding by iteratively detuned catalytic guidance</title>
@@ -980,8 +980,9 @@
     <id>urn:uuid:9e11f059-34f7-52d4-9d37-3f2dcc3185cc</id>
     <title>De novo design of orthogonal far-red, orange, and green fluorophore-binding proteins for multiplexed imaging.</title>
     <published>2025-09-30T00:00:00Z</published>
-    <updated>2026-09-11T17:54:26Z</updated>
+    <updated>2026-10-09T10:31:03Z</updated>
     <link href="https://doi.org/10.1126/science.aeb0822" rel="alternate" />
+    <link href="https://doi.org/10.1101/2025.08.03.668343" rel="related" title="biorxiv" />
     <link href="https://doi.org/10.1101/2025.08.03.668343" rel="related" title="pubmed" />
     <category term="published" />
     <author>
@@ -1061,11 +1062,12 @@
     </author>
     <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Authors: Long Tran; Steffen Klein; David Juergens; Shajesh Sharma; Justin Decarreau; Gyu Rie Lee; Yujia Wang; Wei Chen; Asim K Bera; Alex Kang; Jon Woods; Emily Joyce; Dionne K Vafeados; Nicole Roullier; Xinting Li; Bingxu Liu; Yang Bo; Edin Muratspahić; Tim A Brown; Jonathan B Grimm; Ronak Patel; Luke D Lavis; Julia Mahamid; Linna An; David Baker&lt;/p&gt;
-&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Sources: biorxiv, pubmed&lt;/p&gt;
 &lt;p&gt;Publication date: 2026-07-16&lt;/p&gt;
 &lt;p&gt;Journal: Science (New York, N.Y.)&lt;/p&gt;
 &lt;p&gt;Fluorescent proteins and small-molecule dyes offer complementary advantages for biological imaging: Proteins are amenable to genetic tagging, whereas dyes provide superior brightness and photostability. To combine these strengths, we used de novo protein design to generate small, nanomolar-affinity, high-selectivity binders (NovoTags) for three cell-permeable dyes spanning the visible spectrum. We show that the NovoTag fluorescent lifetimes can be tuned and demonstrate their application in lifetime- and wavelength-based multiplexed fluorescence imaging. We also designed a two-chain version (NovoSplit) that functions as a chemically induced dimerization system with fluorescent readout in living cells or as a minimally perturbing proximity probe in fixed cells. Our approach combines the advantages of fluorescent proteins and small-molecule dyes, thus expanding the toolkit for cellular imaging.&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1101/2025.08.03.668343"&gt;biorxiv (preprint) — DOI: 10.1101/2025.08.03.668343&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1101/2025.08.03.668343"&gt;pubmed (preprint) — DOI: 10.1101/2025.08.03.668343&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1126/science.aeb0822"&gt;pubmed (published) — DOI: 10.1126/science.aeb0822&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1126/science.aeb0822"&gt;Published version — DOI: 10.1126/science.aeb0822&lt;/a&gt;&lt;/li&gt;
