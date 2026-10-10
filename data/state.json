@@ -2,19 +2,19 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-10-09T18:20:41Z",
+      "last_success": "2026-10-10T00:49:19Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-10-09T18:20:41Z",
+      "last_success": "2026-10-10T00:49:19Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
-      "last_success": "2026-10-09T10:31:03Z",
+      "last_success": "2026-10-10T00:49:19Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-10-09T18:20:41Z",
+      "last_success": "2026-10-10T00:49:19Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -133,8 +133,8 @@
     "pubmed:34622888": "2026-10-04T05:50:26Z",
     "pubmed:36397834": "2026-10-06T06:18:38Z",
     "pubmed:36108048": "2026-10-07T05:59:17Z",
-    "pubmed:42523218": "2026-10-03T11:37:59Z",
-    "pubmed:40940539": "2026-10-03T11:37:59Z",
+    "pubmed:42523218": "2026-10-10T00:49:19Z",
+    "pubmed:40940539": "2026-10-10T00:49:19Z",
     "biorxiv:10.64898/2026.10.02.756307": "2026-10-06T15:56:04Z",
     "pubmed:41339547": "2026-10-07T13:20:37Z",
     "pubmed:40739343": "2026-10-07T13:20:37Z",
@@ -23673,6 +23673,143 @@
   },
   "aliases": {},
   "rejected": {
+    "pubmed:38653401": {
+      "first_seen": "2026-10-10T00:49:19Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "38653401",
+        "title": "Stimulating intestinal GIP release reduces food intake and body weight in mice.",
+        "authors": [
+          {
+            "name": "Jo E Lewis",
+            "affiliations": [
+              "Institute of Metabolic Science-Metabolic Research Laboratories & MRC-Metabolic Diseases Unit, University of Cambridge, Cambridge, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Danae Nuzzaci",
+            "affiliations": [
+              "Institute of Metabolic Science-Metabolic Research Laboratories & MRC-Metabolic Diseases Unit, University of Cambridge, Cambridge, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Paula-Peace James-Okoro",
+            "affiliations": [
+              "Institute of Metabolic Science-Metabolic Research Laboratories & MRC-Metabolic Diseases Unit, University of Cambridge, Cambridge, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Mireia Montaner",
+            "affiliations": [
+              "Institute of Metabolic Science-Metabolic Research Laboratories & MRC-Metabolic Diseases Unit, University of Cambridge, Cambridge, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Elisabeth O'Flaherty",
+            "affiliations": [
+              "Institute of Metabolic Science-Metabolic Research Laboratories & MRC-Metabolic Diseases Unit, University of Cambridge, Cambridge, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Tamana Darwish",
+            "affiliations": [
+              "Institute of Metabolic Science-Metabolic Research Laboratories & MRC-Metabolic Diseases Unit, University of Cambridge, Cambridge, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Marito Hayashi",
+            "affiliations": [
+              "Howard Hughes Medical Institute, Department of Cell Biology, Harvard Medical School, Boston, MA, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Stephen D Liberles",
+            "affiliations": [
+              "Howard Hughes Medical Institute, Department of Cell Biology, Harvard Medical School, Boston, MA, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "David Hornigold",
+            "affiliations": [
+              "Cardiovascular, Renal and Metabolic Diseases, BioPharmaceuticals R&D, AstraZeneca, Cambridge, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Jacqueline Naylor",
+            "affiliations": [
+              "Cardiovascular, Renal and Metabolic Diseases, BioPharmaceuticals R&D, AstraZeneca, Gothenburg, Sweden."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "David Baker",
+            "affiliations": [
+              "Cardiovascular, Renal and Metabolic Diseases, BioPharmaceuticals R&D, AstraZeneca, Cambridge, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Fiona M Gribble",
+            "affiliations": [
+              "Institute of Metabolic Science-Metabolic Research Laboratories & MRC-Metabolic Diseases Unit, University of Cambridge, Cambridge, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Frank Reimann",
+            "affiliations": [
+              "Institute of Metabolic Science-Metabolic Research Laboratories & MRC-Metabolic Diseases Unit, University of Cambridge, Cambridge, UK. Electronic address: fr222@cam.ac.uk."
+            ],
+            "orcid": null
+          }
+        ],
+        "abstract": "OBJECTIVE: Glucose dependent insulinotropic polypeptide (GIP) is well established as an incretin hormone, boosting glucose-dependent insulin secretion. However, whilst anorectic actions of its sister-incretin glucagon-like peptide-1 (GLP-1) are well established, a physiological role for GIP in appetite regulation is controversial, despite the superior weight loss seen in preclinical models and humans with GLP-1/GIP dual receptor agonists compared with GLP-1R agonism alone.\n\nMETHODS: We generated a mouse model in which GIP expressing K-cells can be activated through hM3Dq Designer Receptor Activated by Designer Drugs (DREADD, GIP-Dq) to explore physiological actions of intestinally-released GIP.\n\nRESULTS: In lean mice, Dq-stimulation of GIP expressing cells increased plasma GIP to levels similar to those found postprandially. The increase in GIP was associated with improved glucose tolerance, as expected, but also triggered an unexpected robust inhibition of food intake. Validating that this represented a response to intestinally-released GIP, the suppression of food intake was prevented by injecting mice peripherally or centrally with antagonistic GIPR-antibodies, and was reproduced in an intersectional model utilising Gip-Cre/Villin-Flp to limit Dq transgene expression to K-cells in the intestinal epithelium. The effects of GIP cell activation were maintained in diet induced obese mice, in which chronic K-cell activation reduced food intake and attenuated body weight gain.\n\nCONCLUSIONS: These studies establish a physiological gut-brain GIP-axis regulating food intake in mice, adding to the multi-faceted metabolic effects of GIP which need to be taken into account when developing GIPR-targeted therapies for obesity and diabetes.",
+        "date": "2024-04-21",
+        "url": "https://doi.org/10.1016/j.molmet.2024.101945",
+        "doi": "10.1016/j.molmet.2024.101945",
+        "status": "published",
+        "journal": "Molecular metabolism",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [
+          "pmc:PMC11070708"
+        ],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "David Baker",
+              "method": "rejected",
+              "affiliations": [
+                "Cardiovascular, Renal and Metabolic Diseases, BioPharmaceuticals R&D, AstraZeneca, Cambridge, UK."
+              ],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
     "arxiv:2610.11892": {
       "first_seen": "2026-10-09T10:31:03Z",
       "record": {
