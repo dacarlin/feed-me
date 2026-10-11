@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-10-09T10:31:03Z</updated>
+  <updated>2026-10-11T12:47:23Z</updated>
   <entry>
     <id>urn:uuid:1210dab8-49b9-5c6a-8fac-bdabb9db617e</id>
     <title>Complex enzyme active site scaffolding by iteratively detuned catalytic guidance</title>
@@ -79,6 +79,47 @@
 &lt;p&gt;De novo enzyme design requires sequences whose structures reproduce prescribed catalytic geometries. This remains challenging for active sites that couple multiple catalytic residues, cofactors and substrates. Here we introduce the Catalytic Guidance Engine (CaGE), which optimizes designed sequences to satisfy complex sets of functional constraints by alternating constraint guided structure prediction trajectories with sequence design, gradually fading the strength of the constraint information over cycles to nudge the designed sequence towards satisfying all the constraints. We train RF3 to accept atom-pair distances and other design conditions, and use classifier-free guidance to fade their influence over multiple design cycles. We also develop training-free motif guidance protocols which operate at inference time by directly adjusting selected atoms towards the design target geometry during diffusion sampling. CaGE improves catalytic-motif geometry across a diverse enzyme benchmark and yields sequences that recover complex target active sites in independent AF3 predictions. We experimentally demonstrate the power of CaGE by designing active enzymes with complex catalytic sites: a nonheme-iron design positions four active-site residues around an iron centre and a transition-state ligand, and a PLP-dependent design positions four catalytic residues around a PLP cofactor with multiple functional groups. Active site substitutions and a 2.7[A] crystal structure support the designed mechanisms and structures. Thus, CaGE provides a route to functional de novo enzymes with complex active sites.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.10.02.756307"&gt;biorxiv (preprint) — DOI: 10.64898/2026.10.02.756307&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:ee0ccf91-5246-58b4-a4f9-1e4914540b9a</id>
+    <title>A scalable recombinant pipeline for disulphide-stapled peptides.</title>
+    <published>2026-09-30T00:00:00Z</published>
+    <updated>2026-10-11T12:47:23Z</updated>
+    <link href="https://doi.org/10.64898/2026.09.29.755317" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Yensi Flores Bueso</name>
+    </author>
+    <author>
+      <name>Gizem Gökçe-Alpkılıç</name>
+    </author>
+    <author>
+      <name>Jihun Jeung</name>
+    </author>
+    <author>
+      <name>Stephen Rettie</name>
+    </author>
+    <author>
+      <name>Xinting Li</name>
+    </author>
+    <author>
+      <name>Mark Tangney</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Gaurav Bhardwaj</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Yensi Flores Bueso; Gizem Gökçe-Alpkılıç; Jihun Jeung; Stephen Rettie; Xinting Li; Mark Tangney; David Baker; Gaurav Bhardwaj&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Preprint date: 2026-09-30&lt;/p&gt;
+&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
+&lt;p&gt;Constrained macrocyclic peptides can engage protein surfaces that resist both small molecules and biologics but producing them at library scale still depends on chemical synthesis and macrocyclisation workflows that are slow, specialised and hard to parallelise. We describe a recombinant pipeline for disulphide-stapled cyclic peptides, compatible with 96 well plates, that lowers this barrier. Peptide-encoding sequences are introduced by extension PCR and in vivo assembly (IVA) cloning at about $2 per variant, expressed as small ubiquitin-like modifier (SUMO) fusions secreted to the oxidising periplasm, where the intramolecular disulphide forms spontaneously, and purified by immobilised metal-affinity chromatography (IMAC) with analytical size-exclusion chromatography (SEC). The route from a list of designs to characterised material takes about one week, much of it unattended. Applied to a 60-design library across nine protein targets, the pipeline gave purified products for all 60 designs, at a median total soluble yield of approximately 135 micrograms per 6 mL culture (range 9 to 261) that varied by target. Ellman&amp;#x27;s assay across 38 designs showed disulphide-formation failure to be sequence-driven and uncorrelated with yield, detecting a failure mode invisible to chromatography. Surface plasmon resonance confirmed target binding and showed that the recombinant SUMO fusion constructs retained affinities comparable to their corresponding peptide-only forms. Complementary to general-purpose recombinant platforms, the pipeline enables higher-throughput disulphide macrocycle screening and is amenable to partially or fully automated workflows.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.09.29.755317"&gt;pubmed (preprint) — DOI: 10.64898/2026.09.29.755317&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
@@ -2115,6 +2156,96 @@
 &lt;p&gt;Computational protein engineering provides a powerful approach to address longstanding clinical challenges. Severe insulin resistance syndromes caused by mutations in the insulin receptor (IR) are life-threatening disorders for which effective long-term therapies remain lacking. Here, we define the in vivo activity and therapeutic potential of RF-409, a de novo-designed IR agonist that activates the receptor through a mechanism distinct from insulin. RF-409 exhibits markedly prolonged circulation compared to insulin and produces sustained improvements in glucose homeostasis without detectable adverse effects on body composition or liver function. In a patient-derived IR D707A mouse model of severe insulin resistance, RF-409-but not insulin-activates the mutant receptor, restoring glucose regulation and ameliorating hyperglycemia, hyperinsulinemia, lipoatrophy, and pancreatic atrophy. Mechanistically, RF-409 engages the IR through a noncanonical binding geometry while stabilizing an active conformation resembling that induced by insulin. Phosphoproteomic profiling shows that RF-409 elicits broadly insulin-like signaling with distinct temporal features in receptor-proximal regulation. Together, these findings establish a framework for reactivating dysfunctional receptors and suggest broader applications beyond rare receptoropathies, including diabetes and liver disease.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.05.04.722722"&gt;pubmed (preprint) — DOI: 10.64898/2026.05.04.722722&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:3f5ec745-67e5-53ca-ac2e-77e7c7a74ad5</id>
+    <title>The past, present and future of de novo protein design.</title>
+    <published>2026-04-29T00:00:00Z</published>
+    <updated>2026-10-11T12:47:23Z</updated>
+    <link href="https://doi.org/10.1038/s41586-026-10328-7" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Wei Yang</name>
+    </author>
+    <author>
+      <name>Shunzhi Wang</name>
+    </author>
+    <author>
+      <name>Gyu Rie Lee</name>
+    </author>
+    <author>
+      <name>Jason Z Zhang</name>
+    </author>
+    <author>
+      <name>Alexis Courbet</name>
+    </author>
+    <author>
+      <name>David Juergens</name>
+    </author>
+    <author>
+      <name>Xinru Wang</name>
+    </author>
+    <author>
+      <name>Thomas Schlichthaerle</name>
+    </author>
+    <author>
+      <name>Mohamad Abedi</name>
+    </author>
+    <author>
+      <name>Robert Ragotte</name>
+    </author>
+    <author>
+      <name>Linna An</name>
+    </author>
+    <author>
+      <name>Indrek Kalvet</name>
+    </author>
+    <author>
+      <name>Sam Pellock</name>
+    </author>
+    <author>
+      <name>Ljubica Mihaljevic</name>
+    </author>
+    <author>
+      <name>Cameron Glasscock</name>
+    </author>
+    <author>
+      <name>Arvind Pillai</name>
+    </author>
+    <author>
+      <name>Adam Broerman</name>
+    </author>
+    <author>
+      <name>Nathan Ennist</name>
+    </author>
+    <author>
+      <name>Ella Haefner</name>
+    </author>
+    <author>
+      <name>Nora McNamara-Bordewick</name>
+    </author>
+    <author>
+      <name>Ian Haydon</name>
+    </author>
+    <author>
+      <name>Lance Stewart</name>
+    </author>
+    <author>
+      <name>Gaurav Bhardwaj</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Wei Yang; Shunzhi Wang; Gyu Rie Lee; Jason Z Zhang; Alexis Courbet; David Juergens; Xinru Wang; Thomas Schlichthaerle; Mohamad Abedi; Robert Ragotte; Linna An; Indrek Kalvet; Sam Pellock; Ljubica Mihaljevic; Cameron Glasscock; Arvind Pillai; Adam Broerman; Nathan Ennist; Ella Haefner; Nora McNamara-Bordewick; Ian Haydon; Lance Stewart; Gaurav Bhardwaj; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2026-04-29&lt;/p&gt;
+&lt;p&gt;Journal: Nature&lt;/p&gt;
+&lt;p&gt;With deep-learning-powered advances in protein design methods, there is an ongoing paradigm shift in protein engineering from random selection to intentional computational design methods. Here we describe the current state of de novo protein design. While there is still room for improvement in success rates and activities, the long-standing challenges of designing new protein structures, assemblies and protein binders are close to being solved. The key current questions in these areas are not how to design, but what to design, and open-source design methodology such as RFdiffusion and ProteinMPNN together with protein structure prediction tools enable biochemists and molecular biologists to broadly explore possible applications. There has also been considerable progress in the de novo design of small-molecule target binders, enzymes and multistate protein systems. Current challenges for methods development include design of catalysts for reactions with high energy barriers and, more generally, design of switches and nanomachines that integrate binding, conformational change and catalysis. Over the next five to ten years, we anticipate the design of sophisticated protein nanomachines and materials with functionality ranging far beyond that generated during natural evolution for a wide range of applications in medicine, technology and sustainability.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-026-10328-7"&gt;pubmed (published) — DOI: 10.1038/s41586-026-10328-7&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-026-10328-7"&gt;Published version — DOI: 10.1038/s41586-026-10328-7&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
@@ -6493,6 +6624,60 @@
 &lt;/ul&gt;</content>
   </entry>
   <entry>
+    <id>urn:uuid:192baf55-5fad-575b-b298-72568e428e39</id>
+    <title>Formation, chemical evolution and solidification of the dense liquid phase of calcium (bi)carbonate.</title>
+    <published>2024-10-24T00:00:00Z</published>
+    <updated>2026-10-11T12:47:23Z</updated>
+    <link href="https://doi.org/10.1038/s41563-024-02025-5" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Biao Jin</name>
+    </author>
+    <author>
+      <name>Ying Chen</name>
+    </author>
+    <author>
+      <name>Harley Pyles</name>
+    </author>
+    <author>
+      <name>Marcel D Baer</name>
+    </author>
+    <author>
+      <name>Benjamin A Legg</name>
+    </author>
+    <author>
+      <name>Zheming Wang</name>
+    </author>
+    <author>
+      <name>Nancy M Washton</name>
+    </author>
+    <author>
+      <name>Karl T Mueller</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Gregory K Schenter</name>
+    </author>
+    <author>
+      <name>Christopher J Mundy</name>
+    </author>
+    <author>
+      <name>James J De Yoreo</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Biao Jin; Ying Chen; Harley Pyles; Marcel D Baer; Benjamin A Legg; Zheming Wang; Nancy M Washton; Karl T Mueller; David Baker; Gregory K Schenter; Christopher J Mundy; James J De Yoreo&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2024-10-24&lt;/p&gt;
+&lt;p&gt;Journal: Nature materials&lt;/p&gt;
+&lt;p&gt;Metal carbonates, which are ubiquitous in the near-surface mineral record, are a major product of biomineralizing organisms and serve as important targets for capturing anthropogenic CO2 emissions. However, pathways of carbonate mineralization typically diverge from classical predictions due to the involvement of disordered precursors, such as the dense liquid phase (DLP), yet little is known about DLP formation or solidification processes. Using in situ methods we report that a highly hydrated bicarbonate DLP forms via liquid-liquid phase separation and transforms into hollow hydrated amorphous CaCO3 particles. Acidic proteins and polymers extend DLP lifetimes while leaving the pathway and chemistry unchanged. Molecular simulations suggest that the DLP forms via direct condensation of solvated Ca²+⋅(HCO3-)2 complexes that react due to proximity effects in the confined DLP droplets. Our findings provide insight into CaCO3 nucleation that is mediated by liquid-liquid phase separation, advancing the ability to direct carbonate mineralization and elucidating an often-proposed complex pathway of biomineralization.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41563-024-02025-5"&gt;pubmed (published) — DOI: 10.1038/s41563-024-02025-5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41563-024-02025-5"&gt;Published version — DOI: 10.1038/s41563-024-02025-5&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
     <id>urn:uuid:7fa47f9b-26b7-5730-bffb-04395ef8b9ea</id>
     <title>Multistate and functional protein design using RoseTTAFold sequence space diffusion.</title>
     <published>2024-09-25T00:00:00Z</published>
@@ -7573,6 +7758,45 @@
 &lt;/ul&gt;</content>
   </entry>
   <entry>
+    <id>urn:uuid:d98fc887-ef58-51f2-ba01-46460c61ecab</id>
+    <title>The road to fully programmable protein catalysis.</title>
+    <published>2022-06-01T00:00:00Z</published>
+    <updated>2026-10-11T12:47:23Z</updated>
+    <link href="https://doi.org/10.1038/s41586-022-04456-z" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Sarah L Lovelock</name>
+    </author>
+    <author>
+      <name>Rebecca Crawshaw</name>
+    </author>
+    <author>
+      <name>Sophie Basler</name>
+    </author>
+    <author>
+      <name>Colin Levy</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Donald Hilvert</name>
+    </author>
+    <author>
+      <name>Anthony P Green</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Sarah L Lovelock; Rebecca Crawshaw; Sophie Basler; Colin Levy; David Baker; Donald Hilvert; Anthony P Green&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2022-06-01&lt;/p&gt;
+&lt;p&gt;Journal: Nature&lt;/p&gt;
+&lt;p&gt;The ability to design efficient enzymes from scratch would have a profound effect on chemistry, biotechnology and medicine. Rapid progress in protein engineering over the past decade makes us optimistic that this ambition is within reach. The development of artificial enzymes containing metal cofactors and noncanonical organocatalytic groups shows how protein structure can be optimized to harness the reactivity of nonproteinogenic elements. In parallel, computational methods have been used to design protein catalysts for diverse reactions on the basis of fundamental principles of transition state stabilization. Although the activities of designed catalysts have been quite low, extensive laboratory evolution has been used to generate efficient enzymes. Structural analysis of these systems has revealed the high degree of precision that will be needed to design catalysts with greater activity. To this end, emerging protein design methods, including deep learning, hold particular promise for improving model accuracy. Here we take stock of key developments in the field and highlight new opportunities for innovation that should allow us to transition beyond the current state of the art and enable the robust design of biocatalysts to address societal needs.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-022-04456-z"&gt;pubmed (published) — DOI: 10.1038/s41586-022-04456-z&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-022-04456-z"&gt;Published version — DOI: 10.1038/s41586-022-04456-z&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
     <id>urn:uuid:8d648655-8d36-58df-b098-075d93d5b6b8</id>
     <title>Generation of Potent and Stable GLP-1 Analogues Via "Serine Ligation".</title>
     <published>2022-03-23T00:00:00Z</published>
@@ -7636,6 +7860,164 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1021/acschembio.2c00075"&gt;pubmed (published) — DOI: 10.1021/acschembio.2c00075&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1021/acschembio.2c00075"&gt;Published version — DOI: 10.1021/acschembio.2c00075&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:9d020716-fde2-59b6-b217-8a67dff0bf24</id>
+    <title>Deep learning and protein structure modeling.</title>
+    <published>2022-01-01T00:00:00Z</published>
+    <updated>2026-10-11T12:47:23Z</updated>
+    <link href="https://doi.org/10.1038/s41592-021-01360-8" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Minkyung Baek</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Minkyung Baek; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2022-01&lt;/p&gt;
+&lt;p&gt;Journal: Nature methods&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41592-021-01360-8"&gt;pubmed (published) — DOI: 10.1038/s41592-021-01360-8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41592-021-01360-8"&gt;Published version — DOI: 10.1038/s41592-021-01360-8&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:b2c9ade1-07fd-5861-964b-696149761ac6</id>
+    <title>The trRosetta server for fast and accurate protein structure prediction.</title>
+    <published>2021-11-10T00:00:00Z</published>
+    <updated>2026-10-11T12:47:23Z</updated>
+    <link href="https://doi.org/10.1038/s41596-021-00628-9" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Zongyang Du</name>
+    </author>
+    <author>
+      <name>Hong Su</name>
+    </author>
+    <author>
+      <name>Wenkai Wang</name>
+    </author>
+    <author>
+      <name>Lisha Ye</name>
+    </author>
+    <author>
+      <name>Hong Wei</name>
+    </author>
+    <author>
+      <name>Zhenling Peng</name>
+    </author>
+    <author>
+      <name>Ivan Anishchenko</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Jianyi Yang</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Zongyang Du; Hong Su; Wenkai Wang; Lisha Ye; Hong Wei; Zhenling Peng; Ivan Anishchenko; David Baker; Jianyi Yang&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2021-11-10&lt;/p&gt;
+&lt;p&gt;Journal: Nature protocols&lt;/p&gt;
+&lt;p&gt;The trRosetta (transform-restrained Rosetta) server is a web-based platform for fast and accurate protein structure prediction, powered by deep learning and Rosetta. With the input of a protein&amp;#x27;s amino acid sequence, a deep neural network is first used to predict the inter-residue geometries, including distance and orientations. The predicted geometries are then transformed as restraints to guide the structure prediction on the basis of direct energy minimization, which is implemented under the framework of Rosetta. The trRosetta server distinguishes itself from other similar structure prediction servers in terms of rapid and accurate de novo structure prediction. As an illustration, trRosetta was applied to two Pfam families with unknown structures, for which the predicted de novo models were estimated to have high accuracy. Nevertheless, to take advantage of homology modeling, homologous templates are used as additional inputs to the network automatically. In general, it takes ~1 h to predict the final structure for a typical protein with ~300 amino acids, using a maximum of 10 CPU cores in parallel in our cluster system. To enable large-scale structure modeling, a downloadable package of trRosetta with open-source codes is available as well. A detailed guidance for using the package is also available in this protocol. The server and the package are available at https://yanglab.nankai.edu.cn/trRosetta/ and https://yanglab.nankai.edu.cn/trRosetta/download/ , respectively.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41596-021-00628-9"&gt;pubmed (published) — DOI: 10.1038/s41596-021-00628-9&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41596-021-00628-9"&gt;Published version — DOI: 10.1038/s41596-021-00628-9&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:bcc7240e-3551-5c76-bb2b-b962b0cdb020</id>
+    <title>Modular and tunable biological feedback control using a de novo protein switch.</title>
+    <published>2019-07-24T00:00:00Z</published>
+    <updated>2026-10-11T12:47:23Z</updated>
+    <link href="https://doi.org/10.1038/s41586-019-1425-7" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Andrew H Ng</name>
+    </author>
+    <author>
+      <name>Taylor H Nguyen</name>
+    </author>
+    <author>
+      <name>Mariana Gómez-Schiavon</name>
+    </author>
+    <author>
+      <name>Galen Dods</name>
+    </author>
+    <author>
+      <name>Robert A Langan</name>
+    </author>
+    <author>
+      <name>Scott E Boyken</name>
+    </author>
+    <author>
+      <name>Jennifer A Samson</name>
+    </author>
+    <author>
+      <name>Lucas M Waldburger</name>
+    </author>
+    <author>
+      <name>John E Dueber</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Hana El-Samad</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Andrew H Ng; Taylor H Nguyen; Mariana Gómez-Schiavon; Galen Dods; Robert A Langan; Scott E Boyken; Jennifer A Samson; Lucas M Waldburger; John E Dueber; David Baker; Hana El-Samad&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2019-07-24&lt;/p&gt;
+&lt;p&gt;Journal: Nature&lt;/p&gt;
+&lt;p&gt;De novo-designed proteins1-3 hold great promise as building blocks for synthetic circuits, and can complement the use of engineered variants of natural proteins4-7. One such designer protein-degronLOCKR, which is based on &amp;#x27;latching orthogonal cage-key proteins&amp;#x27; (LOCKR) technology8-is a switch that degrades a protein of interest in vivo upon induction by a genetically encoded small peptide. Here we leverage the plug-and-play nature of degronLOCKR to implement feedback control of endogenous signalling pathways and synthetic gene circuits. We first generate synthetic negative and positive feedback in the yeast mating pathway by fusing degronLOCKR to endogenous signalling molecules, illustrating the ease with which this strategy can be used to rewire complex endogenous pathways. We next evaluate feedback control mediated by degronLOCKR on a synthetic gene circuit9, to quantify the feedback capabilities and operational range of the feedback control circuit. The designed nature of degronLOCKR proteins enables simple and rational modifications to tune feedback behaviour in both the synthetic circuit and the mating pathway. The ability to engineer feedback control into living cells represents an important milestone in achieving the full potential of synthetic biology10,11,12. More broadly, this work demonstrates the large and untapped potential of de novo design of proteins for generating tools that implement complex synthetic functionalities in cells for biotechnological and therapeutic applications.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-019-1425-7"&gt;pubmed (published) — DOI: 10.1038/s41586-019-1425-7&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-019-1425-7"&gt;Published version — DOI: 10.1038/s41586-019-1425-7&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:fbfd341f-93d3-562b-b231-b291ed8a97ab</id>
+    <title>Emergence of a catalytic tetrad during evolution of a highly active artificial aldolase.</title>
+    <published>2016-08-29T00:00:00Z</published>
+    <updated>2026-10-11T12:47:23Z</updated>
+    <link href="https://doi.org/10.1038/nchem.2596" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Richard Obexer</name>
+    </author>
+    <author>
+      <name>Alexei Godina</name>
+    </author>
+    <author>
+      <name>Xavier Garrabou</name>
+    </author>
+    <author>
+      <name>Peer R E Mittl</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Andrew D Griffiths</name>
+    </author>
+    <author>
+      <name>Donald Hilvert</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Richard Obexer; Alexei Godina; Xavier Garrabou; Peer R E Mittl; David Baker; Andrew D Griffiths; Donald Hilvert&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2016-08-29&lt;/p&gt;
+&lt;p&gt;Journal: Nature chemistry&lt;/p&gt;
+&lt;p&gt;Designing catalysts that achieve the rates and selectivities of natural enzymes is a long-standing goal in protein chemistry. Here, we show that an ultrahigh-throughput droplet-based microfluidic screening platform can be used to improve a previously optimized artificial aldolase by an additional factor of 30 to give a &amp;gt;109 rate enhancement that rivals the efficiency of class I aldolases. The resulting enzyme catalyses a reversible aldol reaction with high stereoselectivity and tolerates a broad range of substrates. Biochemical and structural studies show that catalysis depends on a Lys-Tyr-Asn-Tyr tetrad that emerged adjacent to a computationally designed hydrophobic pocket during directed evolution. This constellation of residues is poised to activate the substrate by Schiff base formation, promote mechanistically important proton transfers and stabilize multiple transition states along a complex reaction coordinate. The emergence of such a sophisticated catalytic centre shows that there is nothing magical about the catalytic activities or mechanisms of naturally occurring enzymes, or the evolutionary process that gave rise to them.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/nchem.2596"&gt;pubmed (published) — DOI: 10.1038/nchem.2596&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/nchem.2596"&gt;Published version — DOI: 10.1038/nchem.2596&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
 </feed>

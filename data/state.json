@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-10-11T05:44:31Z",
+      "last_success": "2026-10-11T12:47:23Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-10-11T05:44:31Z",
+      "last_success": "2026-10-11T12:47:23Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-10-11T05:44:31Z",
+      "last_success": "2026-10-11T12:47:23Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -140,7 +140,15 @@
     "pubmed:40739343": "2026-10-07T13:20:37Z",
     "pubmed:39695226": "2026-10-07T13:20:37Z",
     "pubmed:42845701": "2026-10-08T18:50:24Z",
-    "biorxiv:10.1101/2025.08.03.668343": "2026-10-09T10:31:03Z"
+    "biorxiv:10.1101/2025.08.03.668343": "2026-10-09T10:31:03Z",
+    "pubmed:42856427": "2026-10-11T12:47:23Z",
+    "pubmed:42056544": "2026-10-11T12:47:23Z",
+    "pubmed:39448841": "2026-10-11T12:47:23Z",
+    "pubmed:35650353": "2026-10-11T12:47:23Z",
+    "pubmed:35017724": "2026-10-11T12:47:23Z",
+    "pubmed:34759384": "2026-10-11T12:47:23Z",
+    "pubmed:31341280": "2026-10-11T12:47:23Z",
+    "pubmed:27995916": "2026-10-11T12:47:23Z"
   },
   "works": {
     "urn:uuid:7f477453-6c38-52e7-b591-accb9b0e6576": {
@@ -23669,10 +23677,1737 @@
         }
       ],
       "published": "2025-12-03T00:00:00Z"
+    },
+    "urn:uuid:fbfd341f-93d3-562b-b231-b291ed8a97ab": {
+      "id": "urn:uuid:fbfd341f-93d3-562b-b231-b291ed8a97ab",
+      "first_seen": "2026-10-11T12:47:23Z",
+      "updated": "2026-10-11T12:47:23Z",
+      "records": {
+        "pubmed:27995916": {
+          "source": "pubmed",
+          "source_id": "27995916",
+          "title": "Emergence of a catalytic tetrad during evolution of a highly active artificial aldolase.",
+          "authors": [
+            {
+              "name": "Richard Obexer",
+              "affiliations": [
+                "Laboratory of Organic Chemistry, ETH Zürich, 8093 Zürich, Switzerland."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Alexei Godina",
+              "affiliations": [
+                "Laboratory of Organic Chemistry, ETH Zürich, 8093 Zürich, Switzerland.",
+                "Laboratory of Biochemistry, École Supérieure de Physique et de Chimie Industrielles de la Ville de Paris (ESPCI Paris), CNRS UMR 8231, 10, rue Vauquelin, 75231 Paris Cedex 05, France."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Xavier Garrabou",
+              "affiliations": [
+                "Laboratory of Organic Chemistry, ETH Zürich, 8093 Zürich, Switzerland."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Peer R E Mittl",
+              "affiliations": [
+                "Department of Biochemistry, University of Zürich, 8057 Zürich, Switzerland."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, Washington 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Andrew D Griffiths",
+              "affiliations": [
+                "Laboratory of Biochemistry, École Supérieure de Physique et de Chimie Industrielles de la Ville de Paris (ESPCI Paris), CNRS UMR 8231, 10, rue Vauquelin, 75231 Paris Cedex 05, France."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Donald Hilvert",
+              "affiliations": [
+                "Laboratory of Organic Chemistry, ETH Zürich, 8093 Zürich, Switzerland."
+              ],
+              "orcid": null
+            }
+          ],
+          "abstract": "Designing catalysts that achieve the rates and selectivities of natural enzymes is a long-standing goal in protein chemistry. Here, we show that an ultrahigh-throughput droplet-based microfluidic screening platform can be used to improve a previously optimized artificial aldolase by an additional factor of 30 to give a >109 rate enhancement that rivals the efficiency of class I aldolases. The resulting enzyme catalyses a reversible aldol reaction with high stereoselectivity and tolerates a broad range of substrates. Biochemical and structural studies show that catalysis depends on a Lys-Tyr-Asn-Tyr tetrad that emerged adjacent to a computationally designed hydrophobic pocket during directed evolution. This constellation of residues is poised to activate the substrate by Schiff base formation, promote mechanistically important proton transfers and stabilize multiple transition states along a complex reaction coordinate. The emergence of such a sophisticated catalytic centre shows that there is nothing magical about the catalytic activities or mechanisms of naturally occurring enzymes, or the evolutionary process that gave rise to them.",
+          "date": "2016-08-29",
+          "url": "https://doi.org/10.1038/nchem.2596",
+          "doi": "10.1038/nchem.2596",
+          "status": "published",
+          "journal": "Nature chemistry",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:27995916",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "name_and_affiliations",
+                "affiliations": [
+                  "Department of Biochemistry, University of Washington, Seattle, Washington 98195, USA."
+                ],
+                "matched_affiliations": [
+                  "University of Washington",
+                  "Department of Biochemistry"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:27995916",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2016-08-29T00:00:00Z"
+    },
+    "urn:uuid:bcc7240e-3551-5c76-bb2b-b962b0cdb020": {
+      "id": "urn:uuid:bcc7240e-3551-5c76-bb2b-b962b0cdb020",
+      "first_seen": "2026-10-11T12:47:23Z",
+      "updated": "2026-10-11T12:47:23Z",
+      "records": {
+        "pubmed:31341280": {
+          "source": "pubmed",
+          "source_id": "31341280",
+          "title": "Modular and tunable biological feedback control using a de novo protein switch.",
+          "authors": [
+            {
+              "name": "Andrew H Ng",
+              "affiliations": [
+                "Department of Biochemistry and Biophysics, University of California, San Francisco, San Francisco, CA, USA.",
+                "Department of Bioengineering, University of California, Berkeley, Berkeley, CA, USA.",
+                "The UC Berkeley-UCSF Graduate Program in Bioengineering, UC Berkeley, Berkeley, CA, USA.",
+                "Cell Design Initiative, University of California, San Francisco, CA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Taylor H Nguyen",
+              "affiliations": [
+                "Department of Biochemistry and Biophysics, University of California, San Francisco, San Francisco, CA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Mariana Gómez-Schiavon",
+              "affiliations": [
+                "Department of Biochemistry and Biophysics, University of California, San Francisco, San Francisco, CA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Galen Dods",
+              "affiliations": [
+                "Department of Biochemistry and Biophysics, University of California, San Francisco, San Francisco, CA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Robert A Langan",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Graduate Program in Biological Physics, Structure, and Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Scott E Boyken",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Jennifer A Samson",
+              "affiliations": [
+                "Department of Bioengineering, University of California, Berkeley, Berkeley, CA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Lucas M Waldburger",
+              "affiliations": [
+                "Department of Bioengineering, University of California, Berkeley, Berkeley, CA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "John E Dueber",
+              "affiliations": [
+                "Department of Bioengineering, University of California, Berkeley, Berkeley, CA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Hana El-Samad",
+              "affiliations": [
+                "Department of Biochemistry and Biophysics, University of California, San Francisco, San Francisco, CA, USA. hana.el-samad@ucsf.edu.",
+                "Cell Design Initiative, University of California, San Francisco, CA, USA. hana.el-samad@ucsf.edu.",
+                "Chan-Zuckerberg Biohub, San Francisco, CA, USA. hana.el-samad@ucsf.edu."
+              ],
+              "orcid": null
+            }
+          ],
+          "abstract": "De novo-designed proteins1-3 hold great promise as building blocks for synthetic circuits, and can complement the use of engineered variants of natural proteins4-7. One such designer protein-degronLOCKR, which is based on 'latching orthogonal cage-key proteins' (LOCKR) technology8-is a switch that degrades a protein of interest in vivo upon induction by a genetically encoded small peptide. Here we leverage the plug-and-play nature of degronLOCKR to implement feedback control of endogenous signalling pathways and synthetic gene circuits. We first generate synthetic negative and positive feedback in the yeast mating pathway by fusing degronLOCKR to endogenous signalling molecules, illustrating the ease with which this strategy can be used to rewire complex endogenous pathways. We next evaluate feedback control mediated by degronLOCKR on a synthetic gene circuit9, to quantify the feedback capabilities and operational range of the feedback control circuit. The designed nature of degronLOCKR proteins enables simple and rational modifications to tune feedback behaviour in both the synthetic circuit and the mating pathway. The ability to engineer feedback control into living cells represents an important milestone in achieving the full potential of synthetic biology10,11,12. More broadly, this work demonstrates the large and untapped potential of de novo design of proteins for generating tools that implement complex synthetic functionalities in cells for biotechnological and therapeutic applications.",
+          "date": "2019-07-24",
+          "url": "https://doi.org/10.1038/s41586-019-1425-7",
+          "doi": "10.1038/s41586-019-1425-7",
+          "status": "published",
+          "journal": "Nature",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:31341280",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "name_and_affiliations",
+                "affiliations": [
+                  "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                  "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                  "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+                ],
+                "matched_affiliations": [
+                  "Institute for Protein Design",
+                  "University of Washington",
+                  "Department of Biochemistry"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:31341280",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2019-07-24T00:00:00Z"
+    },
+    "urn:uuid:b2c9ade1-07fd-5861-964b-696149761ac6": {
+      "id": "urn:uuid:b2c9ade1-07fd-5861-964b-696149761ac6",
+      "first_seen": "2026-10-11T12:47:23Z",
+      "updated": "2026-10-11T12:47:23Z",
+      "records": {
+        "pubmed:34759384": {
+          "source": "pubmed",
+          "source_id": "34759384",
+          "title": "The trRosetta server for fast and accurate protein structure prediction.",
+          "authors": [
+            {
+              "name": "Zongyang Du",
+              "affiliations": [
+                "School of Mathematical Sciences, Nankai University, Tianjin, China."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Hong Su",
+              "affiliations": [
+                "School of Mathematical Sciences, Nankai University, Tianjin, China."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Wenkai Wang",
+              "affiliations": [
+                "School of Mathematical Sciences, Nankai University, Tianjin, China."
+              ],
+              "orcid": "0000-0001-8603-8250"
+            },
+            {
+              "name": "Lisha Ye",
+              "affiliations": [
+                "School of Mathematical Sciences, Nankai University, Tianjin, China."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Hong Wei",
+              "affiliations": [
+                "School of Mathematical Sciences, Nankai University, Tianjin, China."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Zhenling Peng",
+              "affiliations": [
+                "Research Center for Mathematics and Interdisciplinary Sciences, Shandong University, Qingdao, China."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Ivan Anishchenko",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0003-3645-2044"
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Jianyi Yang",
+              "affiliations": [
+                "Research Center for Mathematics and Interdisciplinary Sciences, Shandong University, Qingdao, China. yangjy@sdu.edu.cn."
+              ],
+              "orcid": "0000-0003-2912-7737"
+            }
+          ],
+          "abstract": "The trRosetta (transform-restrained Rosetta) server is a web-based platform for fast and accurate protein structure prediction, powered by deep learning and Rosetta. With the input of a protein's amino acid sequence, a deep neural network is first used to predict the inter-residue geometries, including distance and orientations. The predicted geometries are then transformed as restraints to guide the structure prediction on the basis of direct energy minimization, which is implemented under the framework of Rosetta. The trRosetta server distinguishes itself from other similar structure prediction servers in terms of rapid and accurate de novo structure prediction. As an illustration, trRosetta was applied to two Pfam families with unknown structures, for which the predicted de novo models were estimated to have high accuracy. Nevertheless, to take advantage of homology modeling, homologous templates are used as additional inputs to the network automatically. In general, it takes ~1 h to predict the final structure for a typical protein with ~300 amino acids, using a maximum of 10 CPU cores in parallel in our cluster system. To enable large-scale structure modeling, a downloadable package of trRosetta with open-source codes is available as well. A detailed guidance for using the package is also available in this protocol. The server and the package are available at https://yanglab.nankai.edu.cn/trRosetta/ and https://yanglab.nankai.edu.cn/trRosetta/download/ , respectively.",
+          "date": "2021-11-10",
+          "url": "https://doi.org/10.1038/s41596-021-00628-9",
+          "doi": "10.1038/s41596-021-00628-9",
+          "status": "published",
+          "journal": "Nature protocols",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:34759384",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "name_and_affiliations",
+                "affiliations": [
+                  "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                  "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                  "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+                ],
+                "matched_affiliations": [
+                  "Institute for Protein Design",
+                  "University of Washington",
+                  "Department of Biochemistry"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:34759384",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2021-11-10T00:00:00Z"
+    },
+    "urn:uuid:9d020716-fde2-59b6-b217-8a67dff0bf24": {
+      "id": "urn:uuid:9d020716-fde2-59b6-b217-8a67dff0bf24",
+      "first_seen": "2026-10-11T12:47:23Z",
+      "updated": "2026-10-11T12:47:23Z",
+      "records": {
+        "pubmed:35017724": {
+          "source": "pubmed",
+          "source_id": "35017724",
+          "title": "Deep learning and protein structure modeling.",
+          "authors": [
+            {
+              "name": "Minkyung Baek",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA. dabaker@uw.edu.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA. dabaker@uw.edu.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA. dabaker@uw.edu."
+              ],
+              "orcid": "0000-0001-7896-6217"
+            }
+          ],
+          "abstract": "",
+          "date": "2022-01",
+          "url": "https://doi.org/10.1038/s41592-021-01360-8",
+          "doi": "10.1038/s41592-021-01360-8",
+          "status": "published",
+          "journal": "Nature methods",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:35017724",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:35017724",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2022-01-01T00:00:00Z"
+    },
+    "urn:uuid:d98fc887-ef58-51f2-ba01-46460c61ecab": {
+      "id": "urn:uuid:d98fc887-ef58-51f2-ba01-46460c61ecab",
+      "first_seen": "2026-10-11T12:47:23Z",
+      "updated": "2026-10-11T12:47:23Z",
+      "records": {
+        "pubmed:35650353": {
+          "source": "pubmed",
+          "source_id": "35650353",
+          "title": "The road to fully programmable protein catalysis.",
+          "authors": [
+            {
+              "name": "Sarah L Lovelock",
+              "affiliations": [
+                "Manchester Institute of Biotechnology, School of Chemistry, University of Manchester, Manchester, UK."
+              ],
+              "orcid": "0000-0002-4584-3189"
+            },
+            {
+              "name": "Rebecca Crawshaw",
+              "affiliations": [
+                "Manchester Institute of Biotechnology, School of Chemistry, University of Manchester, Manchester, UK."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Sophie Basler",
+              "affiliations": [
+                "Laboratory of Organic Chemistry, ETH Zürich, Zürich, Switzerland."
+              ],
+              "orcid": "0000-0002-4594-2670"
+            },
+            {
+              "name": "Colin Levy",
+              "affiliations": [
+                "Manchester Institute of Biotechnology, School of Chemistry, University of Manchester, Manchester, UK."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA. dabaker@uw.edu.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA. dabaker@uw.edu.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA. dabaker@uw.edu."
+              ],
+              "orcid": "0000-0001-7896-6217"
+            },
+            {
+              "name": "Donald Hilvert",
+              "affiliations": [
+                "Laboratory of Organic Chemistry, ETH Zürich, Zürich, Switzerland. donald.hilvert@org.chem.ethz.ch."
+              ],
+              "orcid": "0000-0002-3941-621X"
+            },
+            {
+              "name": "Anthony P Green",
+              "affiliations": [
+                "Manchester Institute of Biotechnology, School of Chemistry, University of Manchester, Manchester, UK. anthony.green@manchester.ac.uk."
+              ],
+              "orcid": "0000-0003-0454-1798"
+            }
+          ],
+          "abstract": "The ability to design efficient enzymes from scratch would have a profound effect on chemistry, biotechnology and medicine. Rapid progress in protein engineering over the past decade makes us optimistic that this ambition is within reach. The development of artificial enzymes containing metal cofactors and noncanonical organocatalytic groups shows how protein structure can be optimized to harness the reactivity of nonproteinogenic elements. In parallel, computational methods have been used to design protein catalysts for diverse reactions on the basis of fundamental principles of transition state stabilization. Although the activities of designed catalysts have been quite low, extensive laboratory evolution has been used to generate efficient enzymes. Structural analysis of these systems has revealed the high degree of precision that will be needed to design catalysts with greater activity. To this end, emerging protein design methods, including deep learning, hold particular promise for improving model accuracy. Here we take stock of key developments in the field and highlight new opportunities for innovation that should allow us to transition beyond the current state of the art and enable the robust design of biocatalysts to address societal needs.",
+          "date": "2022-06-01",
+          "url": "https://doi.org/10.1038/s41586-022-04456-z",
+          "doi": "10.1038/s41586-022-04456-z",
+          "status": "published",
+          "journal": "Nature",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:35650353",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:35650353",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2022-06-01T00:00:00Z"
+    },
+    "urn:uuid:192baf55-5fad-575b-b298-72568e428e39": {
+      "id": "urn:uuid:192baf55-5fad-575b-b298-72568e428e39",
+      "first_seen": "2026-10-11T12:47:23Z",
+      "updated": "2026-10-11T12:47:23Z",
+      "records": {
+        "pubmed:39448841": {
+          "source": "pubmed",
+          "source_id": "39448841",
+          "title": "Formation, chemical evolution and solidification of the dense liquid phase of calcium (bi)carbonate.",
+          "authors": [
+            {
+              "name": "Biao Jin",
+              "affiliations": [
+                "Physical and Computational Sciences, Pacific Northwest National Laboratory, Richland, WA, USA.",
+                "School of Sustainable Energy and Resources, Nanjing University, Suzhou, People's Republic of China."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Ying Chen",
+              "affiliations": [
+                "Physical and Computational Sciences, Pacific Northwest National Laboratory, Richland, WA, USA."
+              ],
+              "orcid": "0000-0001-7417-0991"
+            },
+            {
+              "name": "Harley Pyles",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Marcel D Baer",
+              "affiliations": [
+                "Physical and Computational Sciences, Pacific Northwest National Laboratory, Richland, WA, USA."
+              ],
+              "orcid": "0000-0001-5223-0447"
+            },
+            {
+              "name": "Benjamin A Legg",
+              "affiliations": [
+                "Physical and Computational Sciences, Pacific Northwest National Laboratory, Richland, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Zheming Wang",
+              "affiliations": [
+                "Physical and Computational Sciences, Pacific Northwest National Laboratory, Richland, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Nancy M Washton",
+              "affiliations": [
+                "Physical and Computational Sciences, Pacific Northwest National Laboratory, Richland, WA, USA."
+              ],
+              "orcid": "0000-0002-9643-6794"
+            },
+            {
+              "name": "Karl T Mueller",
+              "affiliations": [
+                "Physical and Computational Sciences, Pacific Northwest National Laboratory, Richland, WA, USA."
+              ],
+              "orcid": "0000-0001-9609-9516"
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-7896-6217"
+            },
+            {
+              "name": "Gregory K Schenter",
+              "affiliations": [
+                "Physical and Computational Sciences, Pacific Northwest National Laboratory, Richland, WA, USA."
+              ],
+              "orcid": "0000-0001-5444-5484"
+            },
+            {
+              "name": "Christopher J Mundy",
+              "affiliations": [
+                "Physical and Computational Sciences, Pacific Northwest National Laboratory, Richland, WA, USA. chris.mundy@pnnl.gov.",
+                "Department of Chemical Engineering, University of Washington, Seattle, WA, USA. chris.mundy@pnnl.gov."
+              ],
+              "orcid": "0000-0003-1378-5241"
+            },
+            {
+              "name": "James J De Yoreo",
+              "affiliations": [
+                "Physical and Computational Sciences, Pacific Northwest National Laboratory, Richland, WA, USA. James.DeYoreo@pnnl.gov.",
+                "Department of Materials Science and Engineering, University of Washington, Seattle, WA, USA. James.DeYoreo@pnnl.gov."
+              ],
+              "orcid": "0000-0002-9541-733X"
+            }
+          ],
+          "abstract": "Metal carbonates, which are ubiquitous in the near-surface mineral record, are a major product of biomineralizing organisms and serve as important targets for capturing anthropogenic CO2 emissions. However, pathways of carbonate mineralization typically diverge from classical predictions due to the involvement of disordered precursors, such as the dense liquid phase (DLP), yet little is known about DLP formation or solidification processes. Using in situ methods we report that a highly hydrated bicarbonate DLP forms via liquid-liquid phase separation and transforms into hollow hydrated amorphous CaCO3 particles. Acidic proteins and polymers extend DLP lifetimes while leaving the pathway and chemistry unchanged. Molecular simulations suggest that the DLP forms via direct condensation of solvated Ca²+⋅(HCO3-)2 complexes that react due to proximity effects in the confined DLP droplets. Our findings provide insight into CaCO3 nucleation that is mediated by liquid-liquid phase separation, advancing the ability to direct carbonate mineralization and elucidating an often-proposed complex pathway of biomineralization.",
+          "date": "2024-10-24",
+          "url": "https://doi.org/10.1038/s41563-024-02025-5",
+          "doi": "10.1038/s41563-024-02025-5",
+          "status": "published",
+          "journal": "Nature materials",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:39448841",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:39448841",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2024-10-24T00:00:00Z"
+    },
+    "urn:uuid:3f5ec745-67e5-53ca-ac2e-77e7c7a74ad5": {
+      "id": "urn:uuid:3f5ec745-67e5-53ca-ac2e-77e7c7a74ad5",
+      "first_seen": "2026-10-11T12:47:23Z",
+      "updated": "2026-10-11T12:47:23Z",
+      "records": {
+        "pubmed:42056544": {
+          "source": "pubmed",
+          "source_id": "42056544",
+          "title": "The past, present and future of de novo protein design.",
+          "authors": [
+            {
+              "name": "Wei Yang",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Institute of Bio-Architecture and Bio-Interactions (IBABI), Shenzhen Medical Academy of Research and Translation (SMART), Shenzhen, China."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Shunzhi Wang",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA.",
+                "Institute for Systems Genetics, NYU Langone Health, New York, NY, USA."
+              ],
+              "orcid": "0000-0001-5033-7478"
+            },
+            {
+              "name": "Gyu Rie Lee",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA.",
+                "Department of Biological Sciences, Korea Advanced Institute of Science and Technology, Daejeon, Korea."
+              ],
+              "orcid": "0000-0002-9119-5303"
+            },
+            {
+              "name": "Jason Z Zhang",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA.",
+                "Department of Bioengineering, University of California Los Angeles, Los Angeles, CA, USA."
+              ],
+              "orcid": "0000-0003-0091-6273"
+            },
+            {
+              "name": "Alexis Courbet",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0003-0539-7011"
+            },
+            {
+              "name": "David Juergens",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-6425-8391"
+            },
+            {
+              "name": "Xinru Wang",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Center for Drug Discovery, Northeastern University, Boston, MA, USA.",
+                "Department of Pharmaceutical Sciences, Northeastern University, Boston, MA, USA."
+              ],
+              "orcid": "0000-0001-5994-707X"
+            },
+            {
+              "name": "Thomas Schlichthaerle",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "TUM School of Natural Sciences, Technical University of Munich, Munich, Germany."
+              ],
+              "orcid": "0000-0003-4444-2575"
+            },
+            {
+              "name": "Mohamad Abedi",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA.",
+                "Department of Bioengineering, University of California Los Angeles, Los Angeles, CA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Robert Ragotte",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Linna An",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Indrek Kalvet",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-6610-2857"
+            },
+            {
+              "name": "Sam Pellock",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-7557-7985"
+            },
+            {
+              "name": "Ljubica Mihaljevic",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Cameron Glasscock",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Department of BioSciences, Rice University, Houston, TX, USA."
+              ],
+              "orcid": "0000-0001-5223-6339"
+            },
+            {
+              "name": "Arvind Pillai",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-5012-1199"
+            },
+            {
+              "name": "Adam Broerman",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-6878-1769"
+            },
+            {
+              "name": "Nathan Ennist",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Department of Structural and Molecular Biochemistry, North Carolina State University, Raleigh, NC, USA.",
+                "Department of Physics, North Carolina State University, Raleigh, NC, USA."
+              ],
+              "orcid": "0000-0002-4823-9497"
+            },
+            {
+              "name": "Ella Haefner",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-3837-6797"
+            },
+            {
+              "name": "Nora McNamara-Bordewick",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0003-4747-0627"
+            },
+            {
+              "name": "Ian Haydon",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Lance Stewart",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0003-4264-5125"
+            },
+            {
+              "name": "Gaurav Bhardwaj",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Department of Medicinal Chemistry, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-6554-2335"
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA. dabaker@uw.edu.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA. dabaker@uw.edu.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA. dabaker@uw.edu."
+              ],
+              "orcid": "0000-0001-7896-6217"
+            }
+          ],
+          "abstract": "With deep-learning-powered advances in protein design methods, there is an ongoing paradigm shift in protein engineering from random selection to intentional computational design methods. Here we describe the current state of de novo protein design. While there is still room for improvement in success rates and activities, the long-standing challenges of designing new protein structures, assemblies and protein binders are close to being solved. The key current questions in these areas are not how to design, but what to design, and open-source design methodology such as RFdiffusion and ProteinMPNN together with protein structure prediction tools enable biochemists and molecular biologists to broadly explore possible applications. There has also been considerable progress in the de novo design of small-molecule target binders, enzymes and multistate protein systems. Current challenges for methods development include design of catalysts for reactions with high energy barriers and, more generally, design of switches and nanomachines that integrate binding, conformational change and catalysis. Over the next five to ten years, we anticipate the design of sophisticated protein nanomachines and materials with functionality ranging far beyond that generated during natural evolution for a wide range of applications in medicine, technology and sustainability.",
+          "date": "2026-04-29",
+          "url": "https://doi.org/10.1038/s41586-026-10328-7",
+          "doi": "10.1038/s41586-026-10328-7",
+          "status": "published",
+          "journal": "Nature",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:42056544",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:42056544",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2026-04-29T00:00:00Z"
+    },
+    "urn:uuid:ee0ccf91-5246-58b4-a4f9-1e4914540b9a": {
+      "id": "urn:uuid:ee0ccf91-5246-58b4-a4f9-1e4914540b9a",
+      "first_seen": "2026-10-11T12:47:23Z",
+      "updated": "2026-10-11T12:47:23Z",
+      "records": {
+        "pubmed:42856427": {
+          "source": "pubmed",
+          "source_id": "42856427",
+          "title": "A scalable recombinant pipeline for disulphide-stapled peptides.",
+          "authors": [
+            {
+              "name": "Yensi Flores Bueso",
+              "affiliations": [],
+              "orcid": "0000-0002-2118-2195"
+            },
+            {
+              "name": "Gizem Gökçe-Alpkılıç",
+              "affiliations": [],
+              "orcid": "0000-0001-5009-4429"
+            },
+            {
+              "name": "Jihun Jeung",
+              "affiliations": [],
+              "orcid": "0009-0004-8604-908X"
+            },
+            {
+              "name": "Stephen Rettie",
+              "affiliations": [],
+              "orcid": "0000-0001-9797-6939"
+            },
+            {
+              "name": "Xinting Li",
+              "affiliations": [],
+              "orcid": "0000-0001-5559-7578"
+            },
+            {
+              "name": "Mark Tangney",
+              "affiliations": [],
+              "orcid": "0000-0002-6314-1260"
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [],
+              "orcid": "0000-0001-7896-6217"
+            },
+            {
+              "name": "Gaurav Bhardwaj",
+              "affiliations": [],
+              "orcid": "0009-0004-7925-9126"
+            }
+          ],
+          "abstract": "Constrained macrocyclic peptides can engage protein surfaces that resist both small molecules and biologics but producing them at library scale still depends on chemical synthesis and macrocyclisation workflows that are slow, specialised and hard to parallelise. We describe a recombinant pipeline for disulphide-stapled cyclic peptides, compatible with 96 well plates, that lowers this barrier. Peptide-encoding sequences are introduced by extension PCR and in vivo assembly (IVA) cloning at about $2 per variant, expressed as small ubiquitin-like modifier (SUMO) fusions secreted to the oxidising periplasm, where the intramolecular disulphide forms spontaneously, and purified by immobilised metal-affinity chromatography (IMAC) with analytical size-exclusion chromatography (SEC). The route from a list of designs to characterised material takes about one week, much of it unattended. Applied to a 60-design library across nine protein targets, the pipeline gave purified products for all 60 designs, at a median total soluble yield of approximately 135 micrograms per 6 mL culture (range 9 to 261) that varied by target. Ellman's assay across 38 designs showed disulphide-formation failure to be sequence-driven and uncorrelated with yield, detecting a failure mode invisible to chromatography. Surface plasmon resonance confirmed target binding and showed that the recombinant SUMO fusion constructs retained affinities comparable to their corresponding peptide-only forms. Complementary to general-purpose recombinant platforms, the pipeline enables higher-throughput disulphide macrocycle screening and is amenable to partially or fully automated workflows.",
+          "date": "2026-09-30",
+          "url": "https://doi.org/10.64898/2026.09.29.755317",
+          "doi": "10.64898/2026.09.29.755317",
+          "status": "preprint",
+          "journal": "bioRxiv : the preprint server for biology",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC13648605"
+          ],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:42856427",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:42856427",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2026-09-30T00:00:00Z"
     }
   },
   "aliases": {},
   "rejected": {
+    "pubmed:38236402": {
+      "first_seen": "2026-10-11T12:47:23Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "38236402",
+        "title": "Cardiac point-of-care ultrasound: Practical integration in the pediatric and neonatal intensive care settings.",
+        "authors": [
+          {
+            "name": "Thomas W Conlon",
+            "affiliations": [
+              "The Department of Anesthesiology and Critical Care Medicine, The Children's Hospital of Philadelphia, 3401 Civic Center Blvd., Philadelphia, PA, 19104, USA. conlont@chop.edu."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "David Baker",
+            "affiliations": [
+              "The Department of Anesthesiology and Critical Care Medicine, The Children's Hospital of Philadelphia, 3401 Civic Center Blvd., Philadelphia, PA, 19104, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Shazia Bhombal",
+            "affiliations": [
+              "Division of Neonatology, Department of Pediatrics, Children's Healthcare of Atlanta, Atlanta, GA, USA."
+            ],
+            "orcid": null
+          }
+        ],
+        "abstract": "Cardiac point-of-care ultrasound (POCUS) is a technology increasingly leveraged at the bedside by pediatric critical care and neonatology providers to identify real-time hemodynamic pathophysiology. We present a framework for (1) identifying the scope of cardiac POCUS within the clinical practice setting, (2) standardizing views for protocolized hemodynamic assessment relevant to pediatric critical illness and (3) integrating POCUS findings for therapeutic guidance. Within the review, we also discuss practical strengths and limitations to image acquisition and interpretation within the varied cardiac POCUS views. Finally, we explore unique considerations within the neonatal population. Conclusion: Cardiac POCUS is a technology and tool that reveals important real-time information at the bedside of the critically ill child and infant. Understanding strengths and limitations of cardiac POCUS views and protocolizing an approach to answer focused clinical questions provides a framework for training and translation to clinical care. What is Known: • Ultrasound technology is now ubiquitous among pediatric critical care and neonatology settings, and growing literature supports an expanded role in not only procedural but also diagnostic applications. • Cardiac POCUS influences provider perception of pathophysiology and changes clinical management. What is New: • Effective cardiac POCUS training and subsequent translation to clinical practice should improve when clinical questions and protocolized approaches to image acquisition are standardized within a specialty. • Cardiac POCUS views have strengths and limitations which must be recognized when assessing the hemodynamic profile of a child or neonate.",
+        "date": "2024-01-18",
+        "url": "https://doi.org/10.1007/s00431-023-05409-y",
+        "doi": "10.1007/s00431-023-05409-y",
+        "status": "published",
+        "journal": "European journal of pediatrics",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "David Baker",
+              "method": "rejected",
+              "affiliations": [
+                "The Department of Anesthesiology and Critical Care Medicine, The Children's Hospital of Philadelphia, 3401 Civic Center Blvd., Philadelphia, PA, 19104, USA."
+              ],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
+    "pubmed:34099923": {
+      "first_seen": "2026-10-11T12:47:23Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "34099923",
+        "title": "HIV is associated with an increased risk of age-related clonal hematopoiesis among older adults.",
+        "authors": [
+          {
+            "name": "Nila J Dharan",
+            "affiliations": [
+              "Kirby Institute, University of New South Wales Sydney, Sydney, New South Wales, Australia."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Paul Yeh",
+            "affiliations": [
+              "Peter MacCallum Cancer Centre, Melbourne, Victoria, Australia.",
+              "Sir Peter MacCallum Department of Oncology, University of Melbourne, Melbourne, Victoria, Australia."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Mark Bloch",
+            "affiliations": [
+              "Holdsworth House Medical Practice, Sydney, New South Wales, Australia."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Miriam M Yeung",
+            "affiliations": [
+              "Peter MacCallum Cancer Centre, Melbourne, Victoria, Australia.",
+              "Sir Peter MacCallum Department of Oncology, University of Melbourne, Melbourne, Victoria, Australia."
+            ],
+            "orcid": "0000-0002-9455-1887"
+          },
+          {
+            "name": "David Baker",
+            "affiliations": [
+              "East Sydney Doctors, Darlinghurst, New South Wales, Australia."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Jerick Guinto",
+            "affiliations": [
+              "Peter MacCallum Cancer Centre, Melbourne, Victoria, Australia."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Norman Roth",
+            "affiliations": [
+              "Prahran Market Clinic, Melbourne, Victoria, Australia."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Sarah Ftouni",
+            "affiliations": [
+              "Peter MacCallum Cancer Centre, Melbourne, Victoria, Australia."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Katherine Ognenovska",
+            "affiliations": [
+              "Kirby Institute, University of New South Wales Sydney, Sydney, New South Wales, Australia."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Don Smith",
+            "affiliations": [
+              "Albion Centre, South Eastern Sydney Local Hospital Network, Sydney, New South Wales, Australia.",
+              "School of Public Health and Community Medicine, University of New South Wales Sydney, Sydney, New South Wales, Australia."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Jennifer F Hoy",
+            "affiliations": [
+              "Department of Infectious Diseases, Alfred Hospital and Monash University, Melbourne, Victoria, Australia."
+            ],
+            "orcid": "0000-0002-6948-7086"
+          },
+          {
+            "name": "Ian Woolley",
+            "affiliations": [
+              "Monash Infectious Diseases, Monash Health, Clayton, Victoria, Australia.",
+              "Centre for Inflammatory Diseases, Monash University, Clayton, Victoria, Australia."
+            ],
+            "orcid": "0000-0003-2928-1291"
+          },
+          {
+            "name": "Catherine Pell",
+            "affiliations": [
+              "Taylor Square Private Clinic, Darlinghurst, New South Wales, Australia."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "David J Templeton",
+            "affiliations": [
+              "Kirby Institute, University of New South Wales Sydney, Sydney, New South Wales, Australia.",
+              "Department of Sexual Health Medicine and Sexual Assault Medical Service, Sydney Local Health District, Sydney, New South Wales, Australia.",
+              "Discipline of Medicine, Central Clinical School, Faculty of Medicine and Health, The University of Sydney, Sydney, New South Wales, Australia."
+            ],
+            "orcid": "0000-0003-2157-9587"
+          },
+          {
+            "name": "Neil Fraser",
+            "affiliations": [
+              "Positive Life, Sydney, New South Wales, Australia."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Nectarios Rose",
+            "affiliations": [
+              "Kirby Institute, University of New South Wales Sydney, Sydney, New South Wales, Australia."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Jolie Hutchinson",
+            "affiliations": [
+              "Kirby Institute, University of New South Wales Sydney, Sydney, New South Wales, Australia."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Kathy Petoumenos",
+            "affiliations": [
+              "Kirby Institute, University of New South Wales Sydney, Sydney, New South Wales, Australia. kpetoumenos@kirby.unsw.edu.au."
+            ],
+            "orcid": "0000-0001-7534-7154"
+          },
+          {
+            "name": "Sarah-Jane Dawson",
+            "affiliations": [
+              "Peter MacCallum Cancer Centre, Melbourne, Victoria, Australia. sarah-jane.dawson@petermac.org.",
+              "Sir Peter MacCallum Department of Oncology, University of Melbourne, Melbourne, Victoria, Australia. sarah-jane.dawson@petermac.org.",
+              "Centre for Cancer Research, University of Melbourne, Melbourne, Victoria, Australia. sarah-jane.dawson@petermac.org."
+            ],
+            "orcid": "0000-0002-8276-0374"
+          },
+          {
+            "name": "Mark N Polizzotto",
+            "affiliations": [
+              "Kirby Institute, University of New South Wales Sydney, Sydney, New South Wales, Australia. mpolizzotto@kirby.unsw.edu.au.",
+              "St Vincent's Hospital, Darlinghurst, New South Wales, Australia. mpolizzotto@kirby.unsw.edu.au."
+            ],
+            "orcid": "0000-0002-6446-183X"
+          },
+          {
+            "name": "Mark A Dawson",
+            "affiliations": [
+              "Peter MacCallum Cancer Centre, Melbourne, Victoria, Australia. mark.dawson@petermac.org.",
+              "Sir Peter MacCallum Department of Oncology, University of Melbourne, Melbourne, Victoria, Australia. mark.dawson@petermac.org.",
+              "Centre for Cancer Research, University of Melbourne, Melbourne, Victoria, Australia. mark.dawson@petermac.org."
+            ],
+            "orcid": "0000-0002-5464-5029"
+          },
+          {
+            "name": "ARCHIVE Study Group",
+            "affiliations": [],
+            "orcid": null
+          }
+        ],
+        "abstract": "People with human immunodeficiency virus (HIV) have higher rates of certain comorbidities, particularly cardiovascular disease and cancer, than people without HIV1-5. In view of observations that somatic mutations associated with age-related clonal hematopoiesis (CH) are linked to similar comorbidities in the general population6-10, we hypothesized that CH may be more prevalent in people with HIV. To address this issue, we established a prospective cohort study, the ARCHIVE study (NCT04641013), in which 220 HIV-positive and 226 HIV-negative participants aged 55 years or older were recruited in Australia. Demographic characteristics, clinical data and peripheral blood were collected to assess the presence of CH mutations and to identify potential risk factors for and clinical sequelae of CH. In total, 135 CH mutations were identified in 100 (22.4%) of 446 participants. CH was more prevalent in HIV-positive participants than in HIV-negative participants (28.2% versus 16.8%, P = 0.004), overall and across all age groups; the adjusted odds ratio for having CH in those with HIV was 2.16 (95% confidence interval 1.34-3.48, P = 0.002). The most common genes mutated overall were DNMT3A (47.4%), TET2 (20.0%) and ASXL1 (13.3%). CH and HIV infection were independently associated with increases in blood parameters and biomarkers associated with inflammation. These data suggest a selective advantage for the emergence of CH in the context of chronic infection and inflammation related to HIV infection.",
+        "date": "2021-06-07",
+        "url": "https://doi.org/10.1038/s41591-021-01357-y",
+        "doi": "10.1038/s41591-021-01357-y",
+        "status": "published",
+        "journal": "Nature medicine",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "David Baker",
+              "method": "rejected",
+              "affiliations": [
+                "East Sydney Doctors, Darlinghurst, New South Wales, Australia."
+              ],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
+    "pubmed:18806837": {
+      "first_seen": "2026-10-11T12:47:23Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "18806837",
+        "title": "Outcome following unrelated cord blood transplant in 136 patients with malignant and non-malignant diseases: a report from the Australian and New Zealand children's haematology and oncology group.",
+        "authors": [
+          {
+            "name": "T E Petterson",
+            "affiliations": [
+              "Centre for Children's Cancer & Blood Disorders, Sydney Children's Hospital, Sydney, New South Wales, Australia."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "M Gabriel",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "K Tiedemann",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "L Teague",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "P J Shaw",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "D Baker",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "R Bolton-Jones",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "H Tapp",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "C Oswald",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "M R Vowels",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "T A O'Brien",
+            "affiliations": [],
+            "orcid": null
+          }
+        ],
+        "abstract": "Unrelated umbilical cord blood (UCB) is an alternative stem cell source for paediatric patients lacking a matched related or unrelated marrow donor. We report the results of all paediatric unrelated UCB transplants performed in Australia and New Zealand over a 10-year period. A total of 135 patients were transplanted, 100 for malignant disease (74%) and 35 for non-malignant disorders. The majority (88%) of patients received an HLA-mismatched graft. The median infused total nucleated cell dose was 4.7 x 10(7)/kg and CD34+ count 1.9 x 10(5)/kg. Neutrophil engraftment occurred in 83% of patients by day 42 (median 23 days) and platelet engraftment in 55% by day 60 (median 56 days). Grades II-IV and III-IV acute GVHD occurred in 41 and 18% of patients, respectively. TRM and overall survival 1-year post transplant were 32 and 61%, respectively. A higher probability of neutrophil recovery (P=0.004) and faster time to recovery (median 18 days vs 26 days, P=0.008) were observed in recipients of a cord unit with a CD34 cell dose >or=1.7 x 10(5)/kg. Our results support selection of cord units with CD34 cell doses >or=1.7 x 10(5)/kg to promote faster engraftment, improve survival and lower TRM.",
+        "date": "2008-09-22",
+        "url": "https://doi.org/10.1038/bmt.2008.314",
+        "doi": "10.1038/bmt.2008.314",
+        "status": "published",
+        "journal": "Bone marrow transplantation",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "D Baker",
+              "method": "rejected",
+              "affiliations": [],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
+    "pubmed:1784333": {
+      "first_seen": "2026-10-11T12:47:23Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "1784333",
+        "title": "Mechanisms of immune-mediated demyelinating disease of the central nervous system.",
+        "authors": [
+          {
+            "name": "D Baker",
+            "affiliations": [
+              "Department of Pathology, Royal College of Surgeons of England, Lincoln's Inn Fields, London, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "A N Davison",
+            "affiliations": [],
+            "orcid": null
+          }
+        ],
+        "abstract": "",
+        "date": "1991-09",
+        "url": "https://doi.org/10.1007/bf00965852",
+        "doi": "10.1007/bf00965852",
+        "status": "published",
+        "journal": "Neurochemical research",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "D Baker",
+              "method": "rejected",
+              "affiliations": [
+                "Department of Pathology, Royal College of Surgeons of England, Lincoln's Inn Fields, London, United Kingdom."
+              ],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
+    "pubmed:16625200": {
+      "first_seen": "2026-10-11T12:47:23Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "16625200",
+        "title": "Pharmaco-metabonomic phenotyping and personalized drug treatment.",
+        "authors": [
+          {
+            "name": "T Andrew Clayton",
+            "affiliations": [
+              "Biological Chemistry, Biomedical Sciences Division, Faculty of Natural Sciences, Sir Alexander Fleming Building, Imperial College London, South Kensington, London SW7 2AZ, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "John C Lindon",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Olivier Cloarec",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Henrik Antti",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Claude Charuel",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Gilles Hanton",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Jean-Pierre Provost",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Jean-Loïc Le Net",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "David Baker",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Rosalind J Walley",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Jeremy R Everett",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Jeremy K Nicholson",
+            "affiliations": [],
+            "orcid": null
+          }
+        ],
+        "abstract": "There is a clear case for drug treatments to be selected according to the characteristics of an individual patient, in order to improve efficacy and reduce the number and severity of adverse drug reactions. However, such personalization of drug treatments requires the ability to predict how different individuals will respond to a particular drug/dose combination. After initial optimism, there is increasing recognition of the limitations of the pharmacogenomic approach, which does not take account of important environmental influences on drug absorption, distribution, metabolism and excretion. For instance, a major factor underlying inter-individual variation in drug effects is variation in metabolic phenotype, which is influenced not only by genotype but also by environmental factors such as nutritional status, the gut microbiota, age, disease and the co- or pre-administration of other drugs. Thus, although genetic variation is clearly important, it seems unlikely that personalized drug therapy will be enabled for a wide range of major diseases using genomic knowledge alone. Here we describe an alternative and conceptually new 'pharmaco-metabonomic' approach to personalizing drug treatment, which uses a combination of pre-dose metabolite profiling and chemometrics to model and predict the responses of individual subjects. We provide proof-of-principle for this new approach, which is sensitive to both genetic and environmental influences, with a study of paracetamol (acetaminophen) administered to rats. We show pre-dose prediction of an aspect of the urinary drug metabolite profile and an association between pre-dose urinary composition and the extent of liver damage sustained after paracetamol administration.",
+        "date": "2006-04-20",
+        "url": "https://doi.org/10.1038/nature04648",
+        "doi": "10.1038/nature04648",
+        "status": "published",
+        "journal": "Nature",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "David Baker",
+              "method": "rejected",
+              "affiliations": [],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
+    "pubmed:12732870": {
+      "first_seen": "2026-10-11T12:47:23Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "12732870",
+        "title": "Gene therapy in autoimmune, demyelinating disease of the central nervous system.",
+        "authors": [
+          {
+            "name": "David Baker",
+            "affiliations": [
+              "Institute of Neurology, University College London, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "D J R Hankey",
+            "affiliations": [],
+            "orcid": null
+          }
+        ],
+        "abstract": "Multiple sclerosis (MS) is an immune-mediated disease of the central nervous system (CNS), where suspected autoimmune attack causes nerve demyelination and progressive neurodegeneration and should benefit from both anti-inflammatory and neuroprotective strategies. Although neuroprotection strategies are relatively unexplored in MS, systemic delivery of anti-inflammatory agents to people with MS has so far been relatively disappointing. This is most probably because of the limited capacity of these molecules to enter the target tissue, because of exclusion by the blood-brain barrier. The complex natural history of MS also means that any therapeutic agents will have to be administered long-term. Gene therapy offers the possibility of site-directed, long-term expression, and is currently being preclinically investigated in experimental autoimmune encephalomyelitis (EAE), an animal model of MS. While some immune effects may be targeted in the periphery using DNA vaccination, strategies both viral and nonviral are being developed to target agents into the CNS either via direct delivery or using the trafficking properties of cell-carrier systems. Targeting of leucocyte activation, cytokines and nerve growth factors have shown some promising benefit in animal EAE systems, the challenge will be their application in clinical use.",
+        "date": "2003-05",
+        "url": "https://doi.org/10.1038/sj.gt.3302025",
+        "doi": "10.1038/sj.gt.3302025",
+        "status": "published",
+        "journal": "Gene therapy",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "David Baker",
+              "method": "rejected",
+              "affiliations": [
+                "Institute of Neurology, University College London, UK."
+              ],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
+    "pubmed:10918425": {
+      "first_seen": "2026-10-11T12:47:23Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "10918425",
+        "title": "High-dose carmustine, thiotepa and etoposide followed by autologous bone marrow rescue for the treatment of high risk central nervous system tumors.",
+        "authors": [
+          {
+            "name": "V Papadakis",
+            "affiliations": [
+              "Department of Pediatrics, Memorial Sloan-Kettering Cancer Center, New York, NY, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "I J Dunkel",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "L D Cramer",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "E Kramer",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "E Papadopoulos",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "S Goldman",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "R J Packer",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "M Willoughby",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "D Baker",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "J Garvin",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "S Strandjord",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "P Coccia",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "A M Kaplan",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "M Klemperer",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "J L Finlay",
+            "affiliations": [],
+            "orcid": null
+          }
+        ],
+        "abstract": "Forty-two patients (29 newly diagnosed) with high grade gliomas (n = 37), medulloblastoma (n = 2) or non-biopsied tumors (n = 3) with supratentorial (n = 24), brain stem (n = 11), posterior fossa (n = 5) or spinal (n = 2) location were eligible for this study with adequate organ function and no bone marrow tumor infiltration. Median patient age was 12.2 years (range, 0.7-46.8). A total of 600 mg/m2 BCNU, 900 mg/m2 thiotepa and 1500 or 750 mg/m2 etoposide (VP-16) was administered followed by autologous bone marrow reinfusion (ABMR). Twenty-one newly diagnosed patients received local irradiation (RT) post ABMR. Nine early deaths were observed (21%), as well as one secondary graft failure. Half of the patients aged 18 years or older experienced toxic deaths, whereas only 15% of patients younger than 18 years experienced toxic death (P = 0.05). Of 25 evaluable newly diagnosed patients, 20% achieved complete remission (CR) and 4% partial remission (PR), while 28% remained in continuing complete remission (CCR) and 44% remained with stable disease prior to RT. Of eight evaluable patients with recurrent disease, one achieved CR and two PR, while one remained in CCR and four with stable disease for 1 to 110.2 months. Overall survival was 36%, 24% and 17% at 1, 2 and 3 years following ABMR, with three newly diagnosed patients and one patient treated for recurrent disease being alive, without disease progression 64.4, 67.0, 86.3 and 110.2 months after ABMR, respectively. The combination of high-dose BCNU/ thiotepa/VP-16 has substantial toxicity but definite activity for high risk CNS tumors. Similar protocols with lower toxicity merit further evaluation in both newly diagnosed and recurrent CNS tumors.",
+        "date": "2000-07",
+        "url": "https://doi.org/10.1038/sj.bmt.1702475",
+        "doi": "10.1038/sj.bmt.1702475",
+        "status": "published",
+        "journal": "Bone marrow transplantation",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "D Baker",
+              "method": "rejected",
+              "affiliations": [],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
     "pubmed:38653401": {
       "first_seen": "2026-10-10T00:49:19Z",
       "record": {
