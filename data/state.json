@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-10-11T12:47:23Z",
+      "last_success": "2026-10-11T19:33:06Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-10-11T12:47:23Z",
+      "last_success": "2026-10-11T19:33:06Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-10-11T12:47:23Z",
+      "last_success": "2026-10-11T19:33:06Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -24702,6 +24702,354 @@
   },
   "aliases": {},
   "rejected": {
+    "pubmed:9467685": {
+      "first_seen": "2026-10-11T19:33:06Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "9467685",
+        "title": "Gene therapy for rheumatoid arthritis. Theoretical considerations.",
+        "authors": [
+          {
+            "name": "Y Chernajovsky",
+            "affiliations": [
+              "Molecular Biology Laboratory, Kennedy Institute of Rheumatology, London, England. ychernaj@hgmp.mrc.ac.uk"
+            ],
+            "orcid": null
+          },
+          {
+            "name": "A Annenkov",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "C Herman",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "K Triantaphyllopoulos",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "D Gould",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "H Dreja",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "S P Moyes",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "J L Croxford",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "R A Mageed",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "O L Podhajcer",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "D Baker",
+            "affiliations": [],
+            "orcid": null
+          }
+        ],
+        "abstract": "Current understanding of the pathogenesis of rheumatoid arthritis has provided evidence that therapeutic benefit can be achieved by using antagonists targeted to the inflammatory cytokines involved, mainly tumour necrosis factor-alpha and interleukin-1. Gene delivery of antagonists, which can inhibit the production or action of these cytokines and other mediators, has been achieved in experimental animal models. This new method of delivery can produce therapeutic effects at lower concentrations and in a local environment, overcoming the adverse effects that often accompany protein therapy. However, several technological and biological restraints preclude the immediate adaptation of this method to human treatment. Based on the experimental evidence, possible target therapeutic genes, cell types and vector systems that could be used are discussed in this article.",
+        "date": "1998-01",
+        "url": "https://doi.org/10.2165/00002512-199812010-00004",
+        "doi": "10.2165/00002512-199812010-00004",
+        "status": "published",
+        "journal": "Drugs & aging",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "D Baker",
+              "method": "rejected",
+              "affiliations": [],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
+    "pubmed:22699623": {
+      "first_seen": "2026-10-11T19:33:06Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "22699623",
+        "title": "Atomic model of the type III secretion system needle.",
+        "authors": [
+          {
+            "name": "Antoine Loquet",
+            "affiliations": [
+              "Department of NMR-based Structural Biology, Max Planck Institute for Biophysical Chemistry, 37077 Göttingen, Germany."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Nikolaos G Sgourakis",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Rashmi Gupta",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Karin Giller",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Dietmar Riedel",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Christian Goosmann",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Christian Griesinger",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Michael Kolbe",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "David Baker",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Stefan Becker",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Adam Lange",
+            "affiliations": [],
+            "orcid": null
+          }
+        ],
+        "abstract": "Pathogenic bacteria using a type III secretion system (T3SS) to manipulate host cells cause many different infections including Shigella dysentery, typhoid fever, enterohaemorrhagic colitis and bubonic plague. An essential part of the T3SS is a hollow needle-like protein filament through which effector proteins are injected into eukaryotic host cells. Currently, the three-dimensional structure of the needle is unknown because it is not amenable to X-ray crystallography and solution NMR, as a result of its inherent non-crystallinity and insolubility. Cryo-electron microscopy combined with crystal or solution NMR subunit structures has recently provided a powerful hybrid approach for studying supramolecular assemblies, resulting in low-resolution and medium-resolution models. However, such approaches cannot deliver atomic details, especially of the crucial subunit-subunit interfaces, because of the limited cryo-electron microscopic resolution obtained in these studies. Here we report an alternative approach combining recombinant wild-type needle production, solid-state NMR, electron microscopy and Rosetta modelling to reveal the supramolecular interfaces and ultimately the complete atomic structure of the Salmonella typhimurium T3SS needle. We show that the 80-residue subunits form a right-handed helical assembly with roughly 11 subunits per two turns, similar to that of the flagellar filament of S. typhimurium. In contrast to established models of the needle in which the amino terminus of the protein subunit was assumed to be α-helical and positioned inside the needle, our model reveals an extended amino-terminal domain that is positioned on the surface of the needle, while the highly conserved carboxy terminus points towards the lumen.",
+        "date": "2012-05-20",
+        "url": "https://doi.org/10.1038/nature11079",
+        "doi": "10.1038/nature11079",
+        "status": "published",
+        "journal": "Nature",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [
+          "pmc:PMC3598588"
+        ],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "David Baker",
+              "method": "rejected",
+              "affiliations": [],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
+    "pubmed:15744604": {
+      "first_seen": "2026-10-11T19:33:06Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "15744604",
+        "title": "Dynamic creep and mechanical characteristics of SmartSet GHV bone cement.",
+        "authors": [
+          {
+            "name": "C Z Liu",
+            "affiliations": [
+              "Northern Ireland Bioengineering Centre, University of Ulster, Newtownabbey, BT37 0QB, Northern Ireland, UK. DES6CL@yahoo.com"
+            ],
+            "orcid": null
+          },
+          {
+            "name": "S M Green",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "N D Watkins",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "D Baker",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "A W McCaskie",
+            "affiliations": [],
+            "orcid": null
+          }
+        ],
+        "abstract": "The restrained dynamic creep behaviour and mechanical properties of SmartSet GHV bone cement have been investigated at both room temperature and body temperature. It was found that the bone cement behaves significant differently at room temperature from that at body temperature. The test temperature had a strong effect on the creep performance of the bone cements with a higher creep rate observed at body temperature at each loading cycle. For both temperatures, two stages of creep were identified with a higher creep rate during early cycling followed by a steady state creep rate. The relationship between creep deformation and loading cycle can be expressed by a Hyperb 1 model. As a visco-elastic material, the sensitivity of bone cement to the temperature change was evident during mechanical testing. Compared to the mechanical strength at room temperature, a decreased value was demonstrated at body temperature. The bending modulus was very sensitive to the change in testing temperature, where a reduction of 52% was recorded. A significant reduction in compressive and bending strength, 31 and 23% were recorded respectively. The effect of temperature on bending strength was less apparent, where only 13% reduction was exhibited at body temperature compared to room temperature.",
+        "date": "2005-02",
+        "url": "https://doi.org/10.1007/s10856-005-5893-y",
+        "doi": "10.1007/s10856-005-5893-y",
+        "status": "published",
+        "journal": "Journal of materials science. Materials in medicine",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "D Baker",
+              "method": "rejected",
+              "affiliations": [],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
+    "pubmed:15545001": {
+      "first_seen": "2026-10-11T19:33:06Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "15545001",
+        "title": "Taurine inhibition of metal-stimulated catecholamine oxidation.",
+        "authors": [
+          {
+            "name": "R Dawson",
+            "affiliations": [
+              "Department of Pharmacodynamics, College of Pharmacy, JHMHC Box 100487, University of Florida, Gainesville, FL 32610, USA. dawson@cop.ufl.edu"
+            ],
+            "orcid": null
+          },
+          {
+            "name": "D Baker",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "B Eppler",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "E Tang",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "D Shih",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "H Hern",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "M Hu",
+            "affiliations": [],
+            "orcid": null
+          }
+        ],
+        "abstract": "Taurine is an abundant amino acid found in mammalian tissues and it has been suggested to have cytoprotective functions. The aim of the present study was to determine if taurine had the potential to reduce oxidative stress associated with metal-stimulated catecholamine oxidation. Taurine and structural analogs of taurine were tested for their ability to inhibit metal-stimulated quinone formation from dopamine or L-dopa. Oxidative damage to proteins and lipids were also assessed in vitro and the effects of taurine were determined. Taurine (20 mM) was found to decrease significantly ferric iron (50-500 microM)- and manganese (10 microM)-stimulated L-dopa or dopamine oxidation. Taurine had no effect on zinc-induced dopamine oxidation and slightly potentiated copper- and NaIO(4)-stimulated quinone formation. Ferric iron-stimulated lipid peroxidation was not affected by taurine (1-20 mM). Protein carbonyl formation induced by ferric iron (500 microM) and L-dopa (500 microM) was significantly reduced by 10 mM taurine. The cytotoxicity of L-dopa (250 microM) and ferric chloride (75 microM) to LLC-PK(1) cells was attenuated by 10 mM taurine or hypotaurine. Homotaurine alone stimulated L-dopa oxidation and potentiated the cytotoxic effects of ferric iron. Homotaurine was found to be cytotoxic when combined with L-dopa or L-dopa/iron. In contrast, hypotaurine inhibited quinone formation and protected LLC-PK(1) cells. These studies suggest that taurine may exhibit cytoprotective effects against the oxidation products of catecholamines by acting as a scavenger for free radicals and cytotoxic quinones.",
+        "date": "2000",
+        "url": "https://doi.org/10.1007/bf03033322",
+        "doi": "10.1007/bf03033322",
+        "status": "published",
+        "journal": "Neurotoxicity research",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "D Baker",
+              "method": "rejected",
+              "affiliations": [],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
     "pubmed:38236402": {
       "first_seen": "2026-10-11T12:47:23Z",
       "record": {
