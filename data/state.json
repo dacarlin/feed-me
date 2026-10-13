@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-10-13T10:33:07Z",
+      "last_success": "2026-10-13T19:15:46Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-10-13T10:33:07Z",
+      "last_success": "2026-10-13T19:15:46Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-10-13T10:33:07Z",
+      "last_success": "2026-10-13T19:15:46Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -24702,6 +24702,65 @@
   },
   "aliases": {},
   "rejected": {
+    "pubmed:11200525": {
+      "first_seen": "2026-10-13T19:15:46Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "11200525",
+        "title": "De novo protein structure determination using sparse NMR data.",
+        "authors": [
+          {
+            "name": "P M Bowers",
+            "affiliations": [
+              "Department of Biochemistry, University of Washington School of Medicine, Seattle 98195, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "C E Strauss",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "D Baker",
+            "affiliations": [],
+            "orcid": null
+          }
+        ],
+        "abstract": "We describe a method for generating moderate to high-resolution protein structures using limited NMR data combined with the ab initio protein structure prediction method Rosetta. Peptide fragments are selected from proteins of known structure based on sequence similarity and consistency with chemical shift and NOE data. Models are built from these fragments by minimizing an energy function that favors hydrophobic burial, strand pairing, and satisfaction of NOE constraints. Models generated using this procedure with approximately 1 NOE constraint per residue are in some cases closer to the corresponding X-ray structures than the published NMR solution structures. The method requires only the sparse constraints available during initial stages of NMR structure determination, and thus holds promise for increasing the speed with which protein solution structures can be determined.",
+        "date": "2000-12",
+        "url": "https://doi.org/10.1023/a:1026744431105",
+        "doi": "10.1023/a:1026744431105",
+        "status": "published",
+        "journal": "Journal of biomolecular NMR",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "D Baker",
+              "method": "rejected",
+              "affiliations": [],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
     "pubmed:9467685": {
       "first_seen": "2026-10-11T19:33:06Z",
       "record": {
