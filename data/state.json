@@ -2,19 +2,19 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-10-14T21:39:52Z",
+      "last_success": "2026-10-15T04:36:10Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-10-14T21:39:52Z",
+      "last_success": "2026-10-15T04:36:10Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
-      "last_success": "2026-10-14T00:17:04Z",
+      "last_success": "2026-10-15T04:36:10Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-10-14T21:39:52Z",
+      "last_success": "2026-10-15T04:36:10Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -84,15 +84,15 @@
     "pubmed:39322662": "2026-10-14T00:17:04Z",
     "pubmed:39922190": "2026-10-14T00:17:04Z",
     "pubmed:37781598": "2026-10-14T00:17:04Z",
-    "pubmed:39868203": "2026-10-08T00:59:08Z",
-    "pubmed:41193805": "2026-10-08T00:59:08Z",
-    "pubmed:39375454": "2026-10-08T00:59:08Z",
-    "pubmed:39322764": "2026-10-08T00:59:08Z",
-    "pubmed:40196579": "2026-10-08T00:59:08Z",
-    "pubmed:39386615": "2026-10-08T00:59:08Z",
-    "pubmed:39345553": "2026-10-08T00:59:08Z",
-    "pubmed:38502697": "2026-10-08T00:59:08Z",
-    "pubmed:37577478": "2026-10-08T00:59:08Z",
+    "pubmed:39868203": "2026-10-15T04:36:10Z",
+    "pubmed:41193805": "2026-10-15T04:36:10Z",
+    "pubmed:39375454": "2026-10-15T04:36:10Z",
+    "pubmed:39322764": "2026-10-15T04:36:10Z",
+    "pubmed:40196579": "2026-10-15T04:36:10Z",
+    "pubmed:39386615": "2026-10-15T04:36:10Z",
+    "pubmed:39345553": "2026-10-15T04:36:10Z",
+    "pubmed:38502697": "2026-10-15T04:36:10Z",
+    "pubmed:37577478": "2026-10-15T04:36:10Z",
     "pubmed:42754580": "2026-10-09T01:12:58Z",
     "pubmed:42758048": "2026-10-09T01:12:58Z",
     "pubmed:41292956": "2026-10-09T01:12:58Z",
@@ -121,11 +121,11 @@
     "pubmed:39695145": "2026-10-14T00:17:04Z",
     "pubmed:39024436": "2026-10-14T00:17:04Z",
     "pubmed:38861993": "2026-10-14T00:17:04Z",
-    "pubmed:42777708": "2026-10-08T00:59:08Z",
-    "pubmed:42779973": "2026-10-08T00:59:08Z",
-    "pubmed:40489613": "2026-10-08T00:59:08Z",
-    "pubmed:39394803": "2026-10-08T00:59:08Z",
-    "pubmed:39091726": "2026-10-08T00:59:08Z",
+    "pubmed:42777708": "2026-10-15T04:36:10Z",
+    "pubmed:42779973": "2026-10-15T04:36:10Z",
+    "pubmed:40489613": "2026-10-15T04:36:10Z",
+    "pubmed:39394803": "2026-10-15T04:36:10Z",
+    "pubmed:39091726": "2026-10-15T04:36:10Z",
     "pubmed:41519838": "2026-10-09T01:12:58Z",
     "pubmed:40953261": "2026-10-09T01:12:58Z",
     "pubmed:40450691": "2026-10-09T01:12:58Z",
@@ -139,7 +139,7 @@
     "pubmed:41339547": "2026-10-14T00:17:04Z",
     "pubmed:40739343": "2026-10-14T00:17:04Z",
     "pubmed:39695226": "2026-10-14T00:17:04Z",
-    "pubmed:42845701": "2026-10-08T18:50:24Z",
+    "pubmed:42845701": "2026-10-15T04:36:10Z",
     "biorxiv:10.1101/2025.08.03.668343": "2026-10-09T10:31:03Z",
     "pubmed:42856427": "2026-10-11T12:47:23Z",
     "pubmed:42056544": "2026-10-11T12:47:23Z",
@@ -24702,6 +24702,98 @@
   },
   "aliases": {},
   "rejected": {
+    "arxiv:2610.13917": {
+      "first_seen": "2026-10-15T04:36:10Z",
+      "record": {
+        "source": "arxiv",
+        "source_id": "2610.13917",
+        "title": "Designing Protein Structures from Natural Language",
+        "authors": [
+          {
+            "name": "Joseph Lee",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Yanjing Li",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Bo Qiang",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Gregory Lau",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Allyson Ettinger",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Noah A. Smith",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Rory Donovan-Maiye",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "David Baker",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Hanna Hajishirzi",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Pang Wei Koh",
+            "affiliations": [],
+            "orcid": null
+          }
+        ],
+        "abstract": "A central challenge in de novo protein design is generating proteins with desired structural and functional properties. Existing design models typically require a dedicated input representation for each property, limiting the design objectives they support. We develop Prompteina, the first all-atom structure generation model that supports new and broader design objectives specified in natural language, analogous to text-to-image generation. To train Prompteina, we construct Prompteina-Data, a paired text--protein structure dataset of 1.8M structures and 50M+ captions describing global and residue-specific structural and functional properties. We adapt Proteina-Complexa, a pretrained structure generation model, through text-conditioned pretraining and finetuning that aligns residues with their corresponding text. Prompteina outperforms baselines on 15 of 18 structural properties and generates proteins that more closely match descriptions of their intended functions. In binder design, it leads baselines on at least 13 of 20 targets and improves interface confidence by 14% over the strongest baseline. With iterative in silico feedback, Prompteina's gain over non-iterative generation is 57% larger than the next-best baseline on the hardest targets. Finally, we experimentally validate Prompteina designs against GM2A, a target with no reported de novo binders. We identify nine binders, with the strongest at an apparent $K_{\\mathrm{D}}$ of 107 nM. These results establish natural language as an effective and powerful conditioning interface for protein structure generation.",
+        "date": "2026-10-09",
+        "url": "https://arxiv.org/abs/2610.13917",
+        "doi": null,
+        "status": "preprint",
+        "journal": "",
+        "version": "2",
+        "publication_date": "",
+        "identifiers": [],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "David Baker",
+              "method": "rejected",
+              "affiliations": [],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
     "pubmed:11200525": {
       "first_seen": "2026-10-13T19:15:46Z",
       "record": {
