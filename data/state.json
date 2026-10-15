@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-10-15T04:36:10Z",
+      "last_success": "2026-10-15T11:26:40Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-10-15T04:36:10Z",
+      "last_success": "2026-10-15T11:26:40Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-10-15T04:36:10Z",
+      "last_success": "2026-10-15T11:26:40Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -148,7 +148,9 @@
     "pubmed:35017724": "2026-10-11T12:47:23Z",
     "pubmed:34759384": "2026-10-11T12:47:23Z",
     "pubmed:31341280": "2026-10-11T12:47:23Z",
-    "pubmed:27995916": "2026-10-11T12:47:23Z"
+    "pubmed:27995916": "2026-10-11T12:47:23Z",
+    "pubmed:42875488": "2026-10-15T11:26:40Z",
+    "pubmed:42875487": "2026-10-15T11:26:40Z"
   },
   "works": {
     "urn:uuid:7f477453-6c38-52e7-b591-accb9b0e6576": {
@@ -24698,6 +24700,519 @@
         }
       ],
       "published": "2026-09-30T00:00:00Z"
+    },
+    "urn:uuid:4b3d262c-d759-5ebd-a82d-a7a91bd68fad": {
+      "id": "urn:uuid:4b3d262c-d759-5ebd-a82d-a7a91bd68fad",
+      "first_seen": "2026-10-15T11:26:40Z",
+      "updated": "2026-10-15T11:26:40Z",
+      "records": {
+        "pubmed:42875487": {
+          "source": "pubmed",
+          "source_id": "42875487",
+          "title": "Computational design of metalloproteases.",
+          "authors": [
+            {
+              "name": "Anqi Chen",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-9857-0594"
+            },
+            {
+              "name": "Kejia Wu",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA. kejiawu@uw.edu.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA. kejiawu@uw.edu."
+              ],
+              "orcid": "0000-0002-4532-4290"
+            },
+            {
+              "name": "Hojae Choi",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Graduate Program in Biological Physics, Structure and Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0009-0004-8035-1552"
+            },
+            {
+              "name": "Preetham Venkatesh",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Graduate Program in Biological Physics, Structure and Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Samuel J Pellock",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-7557-7985"
+            },
+            {
+              "name": "Nikita Hanikel",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Hojeong Shin",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Declan Evans",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Kieran Didi",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Department of Computer Science, University of Oxford, Oxford, UK.",
+                "NVIDIA Corp, Santa Clara, CA, USA."
+              ],
+              "orcid": "0000-0001-6839-3320"
+            },
+            {
+              "name": "Lars L Schaaf",
+              "affiliations": [
+                "Cavendish Laboratory, Department of Physics, University of Cambridge, Cambridge, UK.",
+                "Department of Materials, Imperial College London, London, UK."
+              ],
+              "orcid": "0000-0002-1935-236X"
+            },
+            {
+              "name": "Cristina Díaz-Perlas",
+              "affiliations": [
+                "Institut Químic de Sarrià, Universitat Ramon Llull, Barcelona, Spain."
+              ],
+              "orcid": "0000-0002-9552-3896"
+            },
+            {
+              "name": "Brian Coventry",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-6910-6255"
+            },
+            {
+              "name": "Donghyo Kim",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-8097-3675"
+            },
+            {
+              "name": "Seth M Woodbury",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Graduate Program in Biological Physics, Structure and Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0003-0510-8240"
+            },
+            {
+              "name": "Pengfei Ji",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Department of Chemistry, Zhejiang University, Hangzhou, China."
+              ],
+              "orcid": "0000-0002-8109-7929"
+            },
+            {
+              "name": "Shingo Honda",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-9403-6631"
+            },
+            {
+              "name": "Asim K Bera",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-9473-2912"
+            },
+            {
+              "name": "Hannah Nguyen",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-9696-4004"
+            },
+            {
+              "name": "Alex Kang",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-5487-0499"
+            },
+            {
+              "name": "Yanqing Wang",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0009-0000-2223-2687"
+            },
+            {
+              "name": "Xinting Li",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Stacey Gerben",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0003-0313-6248"
+            },
+            {
+              "name": "Lemuel Chang",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Xiao Yan",
+              "affiliations": [
+                "Max Planck Institute of Molecular Cell Biology and Genetics, Dresden, Germany."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Benjamí Oller-Salvia",
+              "affiliations": [
+                "Institut Químic de Sarrià, Universitat Ramon Llull, Barcelona, Spain."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Anthony A Hyman",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0003-0851-704X"
+            },
+            {
+              "name": "Donald Hilvert",
+              "affiliations": [
+                "Laboratory of Organic Chemistry, ETH Zurich, Zurich, Switzerland. hilvert@ethz.ch."
+              ],
+              "orcid": "0000-0002-3941-621X"
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA. dabaker@uw.edu.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA. dabaker@uw.edu.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA. dabaker@uw.edu."
+              ],
+              "orcid": "0000-0001-7896-6217"
+            }
+          ],
+          "abstract": "De novo design of enzymes that cleave amide bonds represents a major challenge1,2. Here we use RFdiffusion methods3,4 to de novo design proteins with water-activating zinc-based active sites adjacent to a peptide substrate binding pocket. Of 135 designs tested, 36% catalyse cleavage of their cognate peptide substrates at the targeted scissile bond. The best design accelerates peptide-bond hydrolysis by more than 108-fold relative to the uncatalysed reaction; four substitutions increase this acceleration to more than 1010-fold by improving active-site preorganization5. We use this approach to design metalloproteases that selectively cleave the human disease-associated proteins TDP-43, amyloid-β and serum amyloid A, with rate enhancements of up to 109-fold. We further design caged cytokines and receptor antagonists that are selectively activated by the designed proteases, enabling bioorthogonal control of cell state. Thus, de novo design can yield highly active, programmable proteases with applications in therapeutics, biotechnology and bioremediation.",
+          "date": "2026-10-14",
+          "url": "https://doi.org/10.1038/s41586-026-11167-2",
+          "doi": "10.1038/s41586-026-11167-2",
+          "status": "published",
+          "journal": "Nature",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:42875487",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:42875487",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2026-10-14T00:00:00Z"
+    },
+    "urn:uuid:fe693d6e-655c-5071-8ff1-64950eb0b453": {
+      "id": "urn:uuid:fe693d6e-655c-5071-8ff1-64950eb0b453",
+      "first_seen": "2026-10-15T11:26:40Z",
+      "updated": "2026-10-15T11:26:40Z",
+      "records": {
+        "pubmed:42875488": {
+          "source": "pubmed",
+          "source_id": "42875488",
+          "title": "De novo design of cysteine proteases.",
+          "authors": [
+            {
+              "name": "Hojae Choi",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Graduate Program in Biological Physics, Structure and Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0009-0004-8035-1552"
+            },
+            {
+              "name": "Magnus S Bauer",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0003-1357-2852"
+            },
+            {
+              "name": "Brian Coventry",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-6910-6255"
+            },
+            {
+              "name": "Preetham Venkatesh",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Graduate Program in Biological Physics, Structure and Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Anqi Chen",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-9857-0594"
+            },
+            {
+              "name": "Donghyo Kim",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-8097-3675"
+            },
+            {
+              "name": "Asim K Bera",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-9473-2912"
+            },
+            {
+              "name": "Alex Kang",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-5487-0499"
+            },
+            {
+              "name": "Hannah Nguyen",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-9696-4004"
+            },
+            {
+              "name": "Shayan Sadre",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Molecular and Cellular Biology Program, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Justin Decarreau",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Emily Joyce",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Bhanumathi Shankaran",
+              "affiliations": [
+                "Molecular Biophysics and Integrated Bioimaging, Lawrence Berkeley National Laboratory, Berkeley, CA, USA."
+              ],
+              "orcid": "0000-0002-3266-8131"
+            },
+            {
+              "name": "Tuscan Rock Thompson",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Graduate Program in Biological Physics, Structure and Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Gabriel Greenstein",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Department of Materials Science & Engineering, Stanford University, Stanford, CA, USA."
+              ],
+              "orcid": "0000-0001-7218-4708"
+            },
+            {
+              "name": "Kieran Didi",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Department of Computer Science, University of Oxford, Oxford, UK.",
+                "NVIDIA, Santa Clara, CA, USA."
+              ],
+              "orcid": "0000-0001-6839-3320"
+            },
+            {
+              "name": "Lars L Schaaf",
+              "affiliations": [
+                "Cavendish Laboratory, Department of Physics, University of Cambridge, Cambridge, UK.",
+                "Department of Materials, Imperial College London, London, UK."
+              ],
+              "orcid": "0000-0002-1935-236X"
+            },
+            {
+              "name": "Jacob Merle Gershon",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Department of Molecular Engineering, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Alexander F Shida",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Department of Molecular Engineering, University of Washington, Seattle, WA, USA.",
+                "Medical Scientist Training Program, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0003-4140-6085"
+            },
+            {
+              "name": "Gyu Rie Lee",
+              "affiliations": [
+                "Department of Biological Sciences, Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea."
+              ],
+              "orcid": "0000-0002-9119-5303"
+            },
+            {
+              "name": "Donald Hilvert",
+              "affiliations": [
+                "Laboratory of Organic Chemistry, ETH Zurich, Zurich, Switzerland. hilvert@ethz.ch."
+              ],
+              "orcid": "0000-0002-3941-621X"
+            },
+            {
+              "name": "Samuel J Pellock",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA. spellock@uw.edu.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA. spellock@uw.edu."
+              ],
+              "orcid": "0000-0002-7557-7985"
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA. dabaker@uw.edu.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA. dabaker@uw.edu.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA. dabaker@uw.edu."
+              ],
+              "orcid": "0000-0001-7896-6217"
+            }
+          ],
+          "abstract": "Despite advances in de novo enzyme design, success has been largely limited to low-energy-barrier model reactions. Amide bonds such as those linking amino acids along the peptide backbone are stable for hundreds of years in neutral aqueous solution because of the high energy barrier to hydrolysis1. Here we describe the de novo design of enzymes that use an activated cysteine nucleophile to hydrolyse the polypeptide backbone in a sequence-dependent manner, with a success rate of 13/69 = 19% and rate enhancements over the background reaction (kcat/kuncat) of up to 3 × 107. The designed proteases have folds that are very different from proteases in nature (TM score < 0.50), and six crystal structures are very close to the design models (Cα root mean squared deviation of <1.2 Å), highlighting the capacity for generalization and the accuracy of the design methodology. Experimental and computational analyses suggest that the remaining gap in activity to the most active native cysteine proteases arises from imperfections in active-site preorganization and substrate positioning. The designed proteases efficiently cleave their targets in mammalian cells, opening the door to a wide range of synthetic biology applications.",
+          "date": "2026-10-14",
+          "url": "https://doi.org/10.1038/s41586-026-11143-w",
+          "doi": "10.1038/s41586-026-11143-w",
+          "status": "published",
+          "journal": "Nature",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:42875488",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:42875488",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2026-10-14T00:00:00Z"
     }
   },
   "aliases": {},

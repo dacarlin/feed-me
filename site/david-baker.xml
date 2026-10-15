@@ -7,7 +7,196 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-10-11T12:47:23Z</updated>
+  <updated>2026-10-15T11:26:40Z</updated>
+  <entry>
+    <id>urn:uuid:fe693d6e-655c-5071-8ff1-64950eb0b453</id>
+    <title>De novo design of cysteine proteases.</title>
+    <published>2026-10-14T00:00:00Z</published>
+    <updated>2026-10-15T11:26:40Z</updated>
+    <link href="https://doi.org/10.1038/s41586-026-11143-w" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Hojae Choi</name>
+    </author>
+    <author>
+      <name>Magnus S Bauer</name>
+    </author>
+    <author>
+      <name>Brian Coventry</name>
+    </author>
+    <author>
+      <name>Preetham Venkatesh</name>
+    </author>
+    <author>
+      <name>Anqi Chen</name>
+    </author>
+    <author>
+      <name>Donghyo Kim</name>
+    </author>
+    <author>
+      <name>Asim K Bera</name>
+    </author>
+    <author>
+      <name>Alex Kang</name>
+    </author>
+    <author>
+      <name>Hannah Nguyen</name>
+    </author>
+    <author>
+      <name>Shayan Sadre</name>
+    </author>
+    <author>
+      <name>Justin Decarreau</name>
+    </author>
+    <author>
+      <name>Emily Joyce</name>
+    </author>
+    <author>
+      <name>Bhanumathi Shankaran</name>
+    </author>
+    <author>
+      <name>Tuscan Rock Thompson</name>
+    </author>
+    <author>
+      <name>Gabriel Greenstein</name>
+    </author>
+    <author>
+      <name>Kieran Didi</name>
+    </author>
+    <author>
+      <name>Lars L Schaaf</name>
+    </author>
+    <author>
+      <name>Jacob Merle Gershon</name>
+    </author>
+    <author>
+      <name>Alexander F Shida</name>
+    </author>
+    <author>
+      <name>Gyu Rie Lee</name>
+    </author>
+    <author>
+      <name>Donald Hilvert</name>
+    </author>
+    <author>
+      <name>Samuel J Pellock</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Hojae Choi; Magnus S Bauer; Brian Coventry; Preetham Venkatesh; Anqi Chen; Donghyo Kim; Asim K Bera; Alex Kang; Hannah Nguyen; Shayan Sadre; Justin Decarreau; Emily Joyce; Bhanumathi Shankaran; Tuscan Rock Thompson; Gabriel Greenstein; Kieran Didi; Lars L Schaaf; Jacob Merle Gershon; Alexander F Shida; Gyu Rie Lee; Donald Hilvert; Samuel J Pellock; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2026-10-14&lt;/p&gt;
+&lt;p&gt;Journal: Nature&lt;/p&gt;
+&lt;p&gt;Despite advances in de novo enzyme design, success has been largely limited to low-energy-barrier model reactions. Amide bonds such as those linking amino acids along the peptide backbone are stable for hundreds of years in neutral aqueous solution because of the high energy barrier to hydrolysis1. Here we describe the de novo design of enzymes that use an activated cysteine nucleophile to hydrolyse the polypeptide backbone in a sequence-dependent manner, with a success rate of 13/69 = 19% and rate enhancements over the background reaction (kcat/kuncat) of up to 3 × 107. The designed proteases have folds that are very different from proteases in nature (TM score &amp;lt; 0.50), and six crystal structures are very close to the design models (Cα root mean squared deviation of &amp;lt;1.2 Å), highlighting the capacity for generalization and the accuracy of the design methodology. Experimental and computational analyses suggest that the remaining gap in activity to the most active native cysteine proteases arises from imperfections in active-site preorganization and substrate positioning. The designed proteases efficiently cleave their targets in mammalian cells, opening the door to a wide range of synthetic biology applications.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-026-11143-w"&gt;pubmed (published) — DOI: 10.1038/s41586-026-11143-w&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-026-11143-w"&gt;Published version — DOI: 10.1038/s41586-026-11143-w&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:4b3d262c-d759-5ebd-a82d-a7a91bd68fad</id>
+    <title>Computational design of metalloproteases.</title>
+    <published>2026-10-14T00:00:00Z</published>
+    <updated>2026-10-15T11:26:40Z</updated>
+    <link href="https://doi.org/10.1038/s41586-026-11167-2" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Anqi Chen</name>
+    </author>
+    <author>
+      <name>Kejia Wu</name>
+    </author>
+    <author>
+      <name>Hojae Choi</name>
+    </author>
+    <author>
+      <name>Preetham Venkatesh</name>
+    </author>
+    <author>
+      <name>Samuel J Pellock</name>
+    </author>
+    <author>
+      <name>Nikita Hanikel</name>
+    </author>
+    <author>
+      <name>Hojeong Shin</name>
+    </author>
+    <author>
+      <name>Declan Evans</name>
+    </author>
+    <author>
+      <name>Kieran Didi</name>
+    </author>
+    <author>
+      <name>Lars L Schaaf</name>
+    </author>
+    <author>
+      <name>Cristina Díaz-Perlas</name>
+    </author>
+    <author>
+      <name>Brian Coventry</name>
+    </author>
+    <author>
+      <name>Donghyo Kim</name>
+    </author>
+    <author>
+      <name>Seth M Woodbury</name>
+    </author>
+    <author>
+      <name>Pengfei Ji</name>
+    </author>
+    <author>
+      <name>Shingo Honda</name>
+    </author>
+    <author>
+      <name>Asim K Bera</name>
+    </author>
+    <author>
+      <name>Hannah Nguyen</name>
+    </author>
+    <author>
+      <name>Alex Kang</name>
+    </author>
+    <author>
+      <name>Yanqing Wang</name>
+    </author>
+    <author>
+      <name>Xinting Li</name>
+    </author>
+    <author>
+      <name>Stacey Gerben</name>
+    </author>
+    <author>
+      <name>Lemuel Chang</name>
+    </author>
+    <author>
+      <name>Xiao Yan</name>
+    </author>
+    <author>
+      <name>Benjamí Oller-Salvia</name>
+    </author>
+    <author>
+      <name>Anthony A Hyman</name>
+    </author>
+    <author>
+      <name>Donald Hilvert</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Anqi Chen; Kejia Wu; Hojae Choi; Preetham Venkatesh; Samuel J Pellock; Nikita Hanikel; Hojeong Shin; Declan Evans; Kieran Didi; Lars L Schaaf; Cristina Díaz-Perlas; Brian Coventry; Donghyo Kim; Seth M Woodbury; Pengfei Ji; Shingo Honda; Asim K Bera; Hannah Nguyen; Alex Kang; Yanqing Wang; Xinting Li; Stacey Gerben; Lemuel Chang; Xiao Yan; Benjamí Oller-Salvia; Anthony A Hyman; Donald Hilvert; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2026-10-14&lt;/p&gt;
+&lt;p&gt;Journal: Nature&lt;/p&gt;
+&lt;p&gt;De novo design of enzymes that cleave amide bonds represents a major challenge1,2. Here we use RFdiffusion methods3,4 to de novo design proteins with water-activating zinc-based active sites adjacent to a peptide substrate binding pocket. Of 135 designs tested, 36% catalyse cleavage of their cognate peptide substrates at the targeted scissile bond. The best design accelerates peptide-bond hydrolysis by more than 108-fold relative to the uncatalysed reaction; four substitutions increase this acceleration to more than 1010-fold by improving active-site preorganization5. We use this approach to design metalloproteases that selectively cleave the human disease-associated proteins TDP-43, amyloid-β and serum amyloid A, with rate enhancements of up to 109-fold. We further design caged cytokines and receptor antagonists that are selectively activated by the designed proteases, enabling bioorthogonal control of cell state. Thus, de novo design can yield highly active, programmable proteases with applications in therapeutics, biotechnology and bioremediation.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-026-11167-2"&gt;pubmed (published) — DOI: 10.1038/s41586-026-11167-2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-026-11167-2"&gt;Published version — DOI: 10.1038/s41586-026-11167-2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
   <entry>
     <id>urn:uuid:1210dab8-49b9-5c6a-8fac-bdabb9db617e</id>
     <title>Complex enzyme active site scaffolding by iteratively detuned catalytic guidance</title>
