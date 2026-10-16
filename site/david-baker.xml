@@ -7,7 +7,80 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-10-16T11:21:24Z</updated>
+  <updated>2026-10-16T16:37:25Z</updated>
+  <entry>
+    <id>urn:uuid:1210dab8-49b9-5c6a-8fac-bdabb9db617e</id>
+    <title>Complex enzyme active site scaffolding by iteratively detuned catalytic guidance</title>
+    <published>2026-10-06T00:00:00Z</published>
+    <updated>2026-10-16T16:37:25Z</updated>
+    <link href="https://doi.org/10.64898/2026.10.02.756307" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Qian, T.</name>
+    </author>
+    <author>
+      <name>Wang, W.</name>
+    </author>
+    <author>
+      <name>Gao, S.</name>
+    </author>
+    <author>
+      <name>Muraishi, A.</name>
+    </author>
+    <author>
+      <name>Zhao, B.</name>
+    </author>
+    <author>
+      <name>An, D. N.</name>
+    </author>
+    <author>
+      <name>Xue, F.</name>
+    </author>
+    <author>
+      <name>Kazman, M.</name>
+    </author>
+    <author>
+      <name>Mendoza, J.</name>
+    </author>
+    <author>
+      <name>Nguyen, H.</name>
+    </author>
+    <author>
+      <name>Bera, A.</name>
+    </author>
+    <author>
+      <name>Kang, A.</name>
+    </author>
+    <author>
+      <name>Yang, A.</name>
+    </author>
+    <author>
+      <name>Dai, W.</name>
+    </author>
+    <author>
+      <name>Liang, J.</name>
+    </author>
+    <author>
+      <name>Wang, Y.</name>
+    </author>
+    <author>
+      <name>Huang, X.</name>
+    </author>
+    <author>
+      <name>DiMaio, F.</name>
+    </author>
+    <author>
+      <name>Baker, D.</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Qian, T.; Wang, W.; Gao, S.; Muraishi, A.; Zhao, B.; An, D. N.; Xue, F.; Kazman, M.; Mendoza, J.; Nguyen, H.; Bera, A.; Kang, A.; Yang, A.; Dai, W.; Liang, J.; Wang, Y.; Huang, X.; DiMaio, F.; Baker, D.&lt;/p&gt;
+&lt;p&gt;Sources: biorxiv&lt;/p&gt;
+&lt;p&gt;Preprint date: 2026-10-16&lt;/p&gt;
+&lt;p&gt;De novo enzyme design requires sequences whose structures reproduce prescribed catalytic geometries. This remains challenging for active sites that couple multiple catalytic residues, cofactors and substrates. Here we introduce the Catalytic Guidance Engine (CaGE), which optimizes designed sequences to satisfy complex sets of functional constraints by alternating constraint guided structure prediction trajectories with sequence design, gradually fading the strength of the constraint information over cycles to nudge the designed sequence towards satisfying all the constraints. We train RF3 to accept atom-pair distances and other design conditions, and use classifier-free guidance to fade their influence over multiple design cycles. We also develop training-free motif guidance protocols which operate at inference time by directly adjusting selected atoms towards the design target geometry during diffusion sampling. CaGE improves catalytic-motif geometry across a diverse enzyme benchmark and yields sequences that recover complex target active sites in independent AF3 predictions. We experimentally demonstrate the power of CaGE by designing active enzymes with complex catalytic sites: a nonheme-iron design positions four active-site residues around an iron centre and a transition-state ligand, and a PLP-dependent design positions four catalytic residues around a PLP cofactor with multiple functional groups. Active site substitutions and a 2.7[A] crystal structure support the designed mechanisms and structures. Thus, CaGE provides a route to functional de novo enzymes with complex active sites.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.10.02.756307"&gt;biorxiv (preprint) — DOI: 10.64898/2026.10.02.756307&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
   <entry>
     <id>urn:uuid:7a38650e-4605-58b7-8107-a471c067f01c</id>
     <title>Atomic functional site scaffolding in biopolymers with RFdiffusion3.</title>
@@ -312,79 +385,6 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-026-11167-2"&gt;pubmed (published) — DOI: 10.1038/s41586-026-11167-2&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-026-11167-2"&gt;Published version — DOI: 10.1038/s41586-026-11167-2&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <id>urn:uuid:1210dab8-49b9-5c6a-8fac-bdabb9db617e</id>
-    <title>Complex enzyme active site scaffolding by iteratively detuned catalytic guidance</title>
-    <published>2026-10-06T00:00:00Z</published>
-    <updated>2026-10-06T15:56:04Z</updated>
-    <link href="https://doi.org/10.64898/2026.10.02.756307" rel="alternate" />
-    <category term="preprint" />
-    <author>
-      <name>Qian, T.</name>
-    </author>
-    <author>
-      <name>Wang, W.</name>
-    </author>
-    <author>
-      <name>Gao, S.</name>
-    </author>
-    <author>
-      <name>Muraishi, A.</name>
-    </author>
-    <author>
-      <name>Zhao, B.</name>
-    </author>
-    <author>
-      <name>An, D. N.</name>
-    </author>
-    <author>
-      <name>Xue, F.</name>
-    </author>
-    <author>
-      <name>Kazman, M.</name>
-    </author>
-    <author>
-      <name>Mendoza, J.</name>
-    </author>
-    <author>
-      <name>Nguyen, H.</name>
-    </author>
-    <author>
-      <name>Bera, A.</name>
-    </author>
-    <author>
-      <name>Kang, A.</name>
-    </author>
-    <author>
-      <name>Yang, A.</name>
-    </author>
-    <author>
-      <name>Dai, W.</name>
-    </author>
-    <author>
-      <name>Liang, J.</name>
-    </author>
-    <author>
-      <name>Wang, Y.</name>
-    </author>
-    <author>
-      <name>Huang, X.</name>
-    </author>
-    <author>
-      <name>DiMaio, F.</name>
-    </author>
-    <author>
-      <name>Baker, D.</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Authors: Qian, T.; Wang, W.; Gao, S.; Muraishi, A.; Zhao, B.; An, D. N.; Xue, F.; Kazman, M.; Mendoza, J.; Nguyen, H.; Bera, A.; Kang, A.; Yang, A.; Dai, W.; Liang, J.; Wang, Y.; Huang, X.; DiMaio, F.; Baker, D.&lt;/p&gt;
-&lt;p&gt;Sources: biorxiv&lt;/p&gt;
-&lt;p&gt;Preprint date: 2026-10-06&lt;/p&gt;
-&lt;p&gt;De novo enzyme design requires sequences whose structures reproduce prescribed catalytic geometries. This remains challenging for active sites that couple multiple catalytic residues, cofactors and substrates. Here we introduce the Catalytic Guidance Engine (CaGE), which optimizes designed sequences to satisfy complex sets of functional constraints by alternating constraint guided structure prediction trajectories with sequence design, gradually fading the strength of the constraint information over cycles to nudge the designed sequence towards satisfying all the constraints. We train RF3 to accept atom-pair distances and other design conditions, and use classifier-free guidance to fade their influence over multiple design cycles. We also develop training-free motif guidance protocols which operate at inference time by directly adjusting selected atoms towards the design target geometry during diffusion sampling. CaGE improves catalytic-motif geometry across a diverse enzyme benchmark and yields sequences that recover complex target active sites in independent AF3 predictions. We experimentally demonstrate the power of CaGE by designing active enzymes with complex catalytic sites: a nonheme-iron design positions four active-site residues around an iron centre and a transition-state ligand, and a PLP-dependent design positions four catalytic residues around a PLP cofactor with multiple functional groups. Active site substitutions and a 2.7[A] crystal structure support the designed mechanisms and structures. Thus, CaGE provides a route to functional de novo enzymes with complex active sites.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.10.02.756307"&gt;biorxiv (preprint) — DOI: 10.64898/2026.10.02.756307&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
@@ -6536,6 +6536,48 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1002/jbm.a.37897"&gt;pubmed (published) — DOI: 10.1002/jbm.a.37897&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1002/jbm.a.37897"&gt;Published version — DOI: 10.1002/jbm.a.37897&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:4e06a0d8-3fff-5ea2-bb3d-9c0e43097ae3</id>
+    <title>Intracellular delivery of proteins for live cell imaging.</title>
+    <published>2025-03-20T00:00:00Z</published>
+    <updated>2026-10-16T16:37:25Z</updated>
+    <link href="https://doi.org/10.1016/j.jconrel.2025.113651" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Ban-Seok Jeong</name>
+    </author>
+    <author>
+      <name>Hwanhee C Kim</name>
+    </author>
+    <author>
+      <name>Catherine M Sniezek</name>
+    </author>
+    <author>
+      <name>Stephanie Berger</name>
+    </author>
+    <author>
+      <name>Justin M Kollman</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Joshua C Vaughan</name>
+    </author>
+    <author>
+      <name>Xiaohu Gao</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Ban-Seok Jeong; Hwanhee C Kim; Catherine M Sniezek; Stephanie Berger; Justin M Kollman; David Baker; Joshua C Vaughan; Xiaohu Gao&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2025-03-20&lt;/p&gt;
+&lt;p&gt;Journal: Journal of controlled release : official journal of the Controlled Release Society&lt;/p&gt;
+&lt;p&gt;The majority of cellular functions are regulated by intracellular proteins, and regulating their interactions can unlock fundamental insights in biology and open new avenues for drug discovery. Because the vast majority of intracellular targets remain undruggable, there is significant current interest in developing protein-based agents especially monoclonal antibodies due to their specificity, availability, and established screening/engineering methods. However, efficient delivery of proteins into the cytoplasm has been a major challenge in biological engineering and drug discovery. We previously reported a platform technology based on a Coomassie blue-cholesterol conjugate (CB-tag) capable of delivering small proteins directly into the cytoplasm. Here, we report a new generation of CB-tag that can bring proteins with a wide size range into the cytoplasm, bypassing endosomal sequestration. Remarkably, intracellular targets with distinct structures were visualized. Overall, the new CB-tag demonstrated a robust ability in protein delivery with broad applications ranging from live-cell immunofluorescence to protein-based therapeutic development.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1016/j.jconrel.2025.113651"&gt;pubmed (published) — DOI: 10.1016/j.jconrel.2025.113651&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1016/j.jconrel.2025.113651"&gt;Published version — DOI: 10.1016/j.jconrel.2025.113651&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
