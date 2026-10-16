@@ -7,7 +7,124 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-10-15T11:26:40Z</updated>
+  <updated>2026-10-16T04:30:07Z</updated>
+  <entry>
+    <id>urn:uuid:7a38650e-4605-58b7-8107-a471c067f01c</id>
+    <title>Atomic functional site scaffolding in biopolymers with RFdiffusion3.</title>
+    <published>2026-10-15T00:00:00Z</published>
+    <updated>2026-10-16T04:30:07Z</updated>
+    <link href="https://doi.org/10.1126/science.aeh2982" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Jasper Butcher</name>
+    </author>
+    <author>
+      <name>Rohith Krishna</name>
+    </author>
+    <author>
+      <name>Raktim Mitra</name>
+    </author>
+    <author>
+      <name>Seth M Woodbury</name>
+    </author>
+    <author>
+      <name>Donghyo Kim</name>
+    </author>
+    <author>
+      <name>Rafael I Brent</name>
+    </author>
+    <author>
+      <name>Yanjing Li</name>
+    </author>
+    <author>
+      <name>Nathaniel Corley</name>
+    </author>
+    <author>
+      <name>Andrew Favor</name>
+    </author>
+    <author>
+      <name>Anqi Chen</name>
+    </author>
+    <author>
+      <name>Paul T Kim</name>
+    </author>
+    <author>
+      <name>Jonathan Funk</name>
+    </author>
+    <author>
+      <name>Gabriela Bastidas Reinoso</name>
+    </author>
+    <author>
+      <name>Kejia Wu</name>
+    </author>
+    <author>
+      <name>Aiko Muraishi</name>
+    </author>
+    <author>
+      <name>Helen E Eisenach</name>
+    </author>
+    <author>
+      <name>Saman Salike</name>
+    </author>
+    <author>
+      <name>Simon Mathis</name>
+    </author>
+    <author>
+      <name>Tuscan Rock Thompson</name>
+    </author>
+    <author>
+      <name>Antonia Ruder</name>
+    </author>
+    <author>
+      <name>Enisha Sehgal</name>
+    </author>
+    <author>
+      <name>Andrew Kubaney</name>
+    </author>
+    <author>
+      <name>Jie Chen</name>
+    </author>
+    <author>
+      <name>Yuliya Politanska</name>
+    </author>
+    <author>
+      <name>Brian Coventry</name>
+    </author>
+    <author>
+      <name>Odin Zhang</name>
+    </author>
+    <author>
+      <name>Florence J Hardy</name>
+    </author>
+    <author>
+      <name>Bo Qiang</name>
+    </author>
+    <author>
+      <name>Kieran Didi</name>
+    </author>
+    <author>
+      <name>Maxwell Kazman</name>
+    </author>
+    <author>
+      <name>Lars L Schaaf</name>
+    </author>
+    <author>
+      <name>Frank DiMaio</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Jasper Butcher; Rohith Krishna; Raktim Mitra; Seth M Woodbury; Donghyo Kim; Rafael I Brent; Yanjing Li; Nathaniel Corley; Andrew Favor; Anqi Chen; Paul T Kim; Jonathan Funk; Gabriela Bastidas Reinoso; Kejia Wu; Aiko Muraishi; Helen E Eisenach; Saman Salike; Simon Mathis; Tuscan Rock Thompson; Antonia Ruder; Enisha Sehgal; Andrew Kubaney; Jie Chen; Yuliya Politanska; Brian Coventry; Odin Zhang; Florence J Hardy; Bo Qiang; Kieran Didi; Maxwell Kazman; Lars L Schaaf; Frank DiMaio; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2026-10-15&lt;/p&gt;
+&lt;p&gt;Journal: Science (New York, N.Y.)&lt;/p&gt;
+&lt;p&gt;The catalytic and other sophisticated functions of biomolecules arise from the placement of many atoms in three-dimensional space. Here, we describe a generative artificial intelligence method for biopolymers, RFdiffusion3 (RFD3), which employs free atom diffusion to satisfy complex sets of atomic constraints more rapidly and accurately than previous methods across several challenges from enzyme design to RNA structure design. We demonstrate experimentally the power of the RFD3 pipeline for enzyme design by designing de novo phosphotriesterases with a complex active site architecture incorporating a carbamylated lysine coordinating two metal ions and zinc proteases specific for the transthyretin protein involved in amyloid diseases; in both cases we obtain active catalysts in zero shot 96 construct design campaigns.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1126/science.aeh2982"&gt;pubmed (published) — DOI: 10.1126/science.aeh2982&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1126/science.aeh2982"&gt;Published version — DOI: 10.1126/science.aeh2982&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
   <entry>
     <id>urn:uuid:fe693d6e-655c-5071-8ff1-64950eb0b453</id>
     <title>De novo design of cysteine proteases.</title>
