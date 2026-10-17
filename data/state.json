@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-10-16T23:34:32Z",
+      "last_success": "2026-10-17T04:23:21Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-10-16T23:34:32Z",
+      "last_success": "2026-10-17T04:23:21Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-10-16T23:34:32Z",
+      "last_success": "2026-10-17T04:23:21Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -133,8 +133,8 @@
     "pubmed:34622888": "2026-10-11T05:44:31Z",
     "pubmed:36397834": "2026-10-13T02:35:43Z",
     "pubmed:36108048": "2026-10-14T00:17:04Z",
-    "pubmed:42523218": "2026-10-10T00:49:19Z",
-    "pubmed:40940539": "2026-10-10T00:49:19Z",
+    "pubmed:42523218": "2026-10-17T04:23:21Z",
+    "pubmed:40940539": "2026-10-17T04:23:21Z",
     "biorxiv:10.64898/2026.10.02.756307": "2026-10-13T02:35:43Z",
     "pubmed:41339547": "2026-10-14T00:17:04Z",
     "pubmed:40739343": "2026-10-14T00:17:04Z",
@@ -25829,6 +25829,168 @@
   },
   "aliases": {},
   "rejected": {
+    "biorxiv:10.64898/2026.10.15.758618": {
+      "first_seen": "2026-10-17T04:23:21Z",
+      "record": {
+        "source": "biorxiv",
+        "source_id": "10.64898/2026.10.15.758618",
+        "title": "MYC targeted de novo binders impair tumor growth",
+        "authors": [
+          {
+            "name": "McNamara-Bordewick, N. K.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Wu, K.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Su, Y.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "ElSheikh, A.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Wang, X.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Cunningham, M.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Daniel, C.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Sears, R. C.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Eisenman, R. N.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Baker, D.",
+            "affiliations": [
+              "University of Washington"
+            ],
+            "orcid": null
+          }
+        ],
+        "abstract": "MYC is one of the most frequently dysregulated oncogenic drivers across many cancers, yet direct therapeutic targeting has remained difficult because its function is mediated by disordered regions and transient protein-protein interactions. Here we design proteins that bind epitopes within regions of MYC whose sequence is conserved between human and mouse, including intrinsically disordered motifs required for oncogenic activity. In vitro, the designs bind MYC with nanomolar affinity and in cells they engage MYC, disrupt interactions with MAX, and remodel MYC-associated protein complexes. Expression of the binders decreases cell proliferation across diverse MYC-dependent hematopoietic, liver, pancreatic, and patient-derived tumor models, and in an orthotopic pancreatic cancer model, binder-expressing tumor cells were selectively depleted. This work establishes de novo protein design as a generalizable strategy to therapeutically target intrinsically disordered transcription factors.",
+        "date": "2026-10-16",
+        "url": "https://doi.org/10.64898/2026.10.15.758618",
+        "doi": "10.64898/2026.10.15.758618",
+        "status": "preprint",
+        "journal": "",
+        "version": "1",
+        "publication_date": "",
+        "identifiers": [],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "Baker, D.",
+              "method": "rejected",
+              "affiliations": [
+                "University of Washington"
+              ],
+              "matched_affiliations": [
+                "University of Washington"
+              ],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
+    "biorxiv:10.64898/2026.10.10.758213": {
+      "first_seen": "2026-10-17T04:23:21Z",
+      "record": {
+        "source": "biorxiv",
+        "source_id": "10.64898/2026.10.10.758213",
+        "title": "Binding of a Macrocyclic Nonapeptide Inhibitor to Histone Deacetylase 6",
+        "authors": [
+          {
+            "name": "Eafa, A.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Hosseinzadeh, P.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Baker, D.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Christianson, D. W.",
+            "affiliations": [
+              "University of Pennsylvania"
+            ],
+            "orcid": null
+          }
+        ],
+        "abstract": "Histone deacetylase 6 (HDAC6) plays an essential role in the regulation of post-translational lysine acetylation. Myriad biological processes depend on the precise regulation of lysine acetylation-deacetylation cycles, and their dysregulation is linked to human pathologies such as cancer and neurodegeneration. Broad-specificity HDAC inhibitors are efficacious in treating disease, but the inhibitors currently approved for clinical use often cause deleterious side effects due to inhibition of multiple HDAC isozymes as well as other zinc enzymes. Cyclic peptides comprise novel platforms that, in principle, can be tailored for affinity and selectivity. A key advantage of cyclic peptide design is the ability to incorporate both canonical and noncanonical amino acids. As part of our program focusing on cyclic peptide HDAC inhibitors, we now report the 1.9-[A] resolution crystal structure of HDAC6 CD2 complexed with macrocyclic nonapeptide 1. The structure reveals zinc coordination by a noncanonical thiolate-containing amino acid, plus direct and water-mediated enzyme-inhibitor hydrogen bonds that contribute to nanomolar inhibitory potency. Structural comparisons with previously reported HDAC6 CD2 complexes with tetrapeptide and octapeptide macrocycles reveal similar networks of direct and water-mediated interactions. Given the surge of interest in cyclic peptide inhibitors, fueled in part by advances in computational design approaches, the crystal structure of the HDAC6 CD2-1 complex sets an important foundation for further development of macrocyclic peptide inhibitors.",
+        "date": "2026-10-16",
+        "url": "https://doi.org/10.64898/2026.10.10.758213",
+        "doi": "10.64898/2026.10.10.758213",
+        "status": "preprint",
+        "journal": "",
+        "version": "1",
+        "publication_date": "",
+        "identifiers": [],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "Baker, D.",
+              "method": "rejected",
+              "affiliations": [],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
     "arxiv:2610.13917": {
       "first_seen": "2026-10-15T04:36:10Z",
       "record": {
