@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-10-16T16:37:25Z</updated>
+  <updated>2026-10-18T04:30:11Z</updated>
   <entry>
     <id>urn:uuid:1210dab8-49b9-5c6a-8fac-bdabb9db617e</id>
     <title>Complex enzyme active site scaffolding by iteratively detuned catalytic guidance</title>
@@ -391,7 +391,7 @@
     <id>urn:uuid:ee0ccf91-5246-58b4-a4f9-1e4914540b9a</id>
     <title>A scalable recombinant pipeline for disulphide-stapled peptides.</title>
     <published>2026-09-30T00:00:00Z</published>
-    <updated>2026-10-11T12:47:23Z</updated>
+    <updated>2026-10-18T04:30:11Z</updated>
     <link href="https://doi.org/10.64898/2026.09.29.755317" rel="alternate" />
     <category term="preprint" />
     <author>
@@ -8171,6 +8171,108 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1126/science.adg7731"&gt;pubmed (published) — DOI: 10.1126/science.adg7731&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1126/science.adg7731"&gt;Published version — DOI: 10.1126/science.adg7731&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:34d678d3-1a1d-502e-8260-5308fe7d9b4c</id>
+    <title>De novo design of protein structure and function with RFdiffusion.</title>
+    <published>2023-07-11T00:00:00Z</published>
+    <updated>2026-10-18T04:30:11Z</updated>
+    <link href="https://doi.org/10.1038/s41586-023-06415-8" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Joseph L Watson</name>
+    </author>
+    <author>
+      <name>David Juergens</name>
+    </author>
+    <author>
+      <name>Nathaniel R Bennett</name>
+    </author>
+    <author>
+      <name>Brian L Trippe</name>
+    </author>
+    <author>
+      <name>Jason Yim</name>
+    </author>
+    <author>
+      <name>Helen E Eisenach</name>
+    </author>
+    <author>
+      <name>Woody Ahern</name>
+    </author>
+    <author>
+      <name>Andrew J Borst</name>
+    </author>
+    <author>
+      <name>Robert J Ragotte</name>
+    </author>
+    <author>
+      <name>Lukas F Milles</name>
+    </author>
+    <author>
+      <name>Basile I M Wicky</name>
+    </author>
+    <author>
+      <name>Nikita Hanikel</name>
+    </author>
+    <author>
+      <name>Samuel J Pellock</name>
+    </author>
+    <author>
+      <name>Alexis Courbet</name>
+    </author>
+    <author>
+      <name>William Sheffler</name>
+    </author>
+    <author>
+      <name>Jue Wang</name>
+    </author>
+    <author>
+      <name>Preetham Venkatesh</name>
+    </author>
+    <author>
+      <name>Isaac Sappington</name>
+    </author>
+    <author>
+      <name>Susana Vázquez Torres</name>
+    </author>
+    <author>
+      <name>Anna Lauko</name>
+    </author>
+    <author>
+      <name>Valentin De Bortoli</name>
+    </author>
+    <author>
+      <name>Emile Mathieu</name>
+    </author>
+    <author>
+      <name>Sergey Ovchinnikov</name>
+    </author>
+    <author>
+      <name>Regina Barzilay</name>
+    </author>
+    <author>
+      <name>Tommi S Jaakkola</name>
+    </author>
+    <author>
+      <name>Frank DiMaio</name>
+    </author>
+    <author>
+      <name>Minkyung Baek</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Joseph L Watson; David Juergens; Nathaniel R Bennett; Brian L Trippe; Jason Yim; Helen E Eisenach; Woody Ahern; Andrew J Borst; Robert J Ragotte; Lukas F Milles; Basile I M Wicky; Nikita Hanikel; Samuel J Pellock; Alexis Courbet; William Sheffler; Jue Wang; Preetham Venkatesh; Isaac Sappington; Susana Vázquez Torres; Anna Lauko; Valentin De Bortoli; Emile Mathieu; Sergey Ovchinnikov; Regina Barzilay; Tommi S Jaakkola; Frank DiMaio; Minkyung Baek; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2023-07-11&lt;/p&gt;
+&lt;p&gt;Journal: Nature&lt;/p&gt;
+&lt;p&gt;There has been considerable recent progress in designing new proteins using deep-learning methods1-9. Despite this progress, a general deep-learning framework for protein design that enables solution of a wide range of design challenges, including de novo binder design and design of higher-order symmetric architectures, has yet to be described. Diffusion models10,11 have had considerable success in image and language generative modelling but limited success when applied to protein modelling, probably due to the complexity of protein backbone geometry and sequence-structure relationships. Here we show that by fine-tuning the RoseTTAFold structure prediction network on protein structure denoising tasks, we obtain a generative model of protein backbones that achieves outstanding performance on unconditional and topology-constrained protein monomer design, protein binder design, symmetric oligomer design, enzyme active site scaffolding and symmetric motif scaffolding for therapeutic and metal-binding protein design. We demonstrate the power and generality of the method, called RoseTTAFold diffusion (RFdiffusion), by experimentally characterizing the structures and functions of hundreds of designed symmetric assemblies, metal-binding proteins and protein binders. The accuracy of RFdiffusion is confirmed by the cryogenic electron microscopy structure of a designed binder in complex with influenza haemagglutinin that is nearly identical to the design model. In a manner analogous to networks that produce images from user-specified inputs, RFdiffusion enables the design of diverse functional proteins from simple molecular specifications.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-023-06415-8"&gt;pubmed (published) — DOI: 10.1038/s41586-023-06415-8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-023-06415-8"&gt;Published version — DOI: 10.1038/s41586-023-06415-8&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
