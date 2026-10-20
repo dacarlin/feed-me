@@ -7,7 +7,65 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-10-18T04:30:11Z</updated>
+  <updated>2026-10-20T23:51:52Z</updated>
+  <entry>
+    <id>urn:uuid:b08a6f85-149d-5811-be27-70dd417daf1c</id>
+    <title>Design of synthetic activators for programmable gene expression</title>
+    <published>2026-10-20T00:00:00Z</published>
+    <updated>2026-10-20T23:51:52Z</updated>
+    <link href="https://doi.org/10.64898/2026.10.19.760300" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Chen, W.</name>
+    </author>
+    <author>
+      <name>Jiao, R.</name>
+    </author>
+    <author>
+      <name>Coventry, B.</name>
+    </author>
+    <author>
+      <name>Qu, X.</name>
+    </author>
+    <author>
+      <name>Bauer, M.</name>
+    </author>
+    <author>
+      <name>Tran, L.</name>
+    </author>
+    <author>
+      <name>Tcheau, T.</name>
+    </author>
+    <author>
+      <name>Wu, K.</name>
+    </author>
+    <author>
+      <name>Song, Z.</name>
+    </author>
+    <author>
+      <name>Roullier, N.</name>
+    </author>
+    <author>
+      <name>Li, X.</name>
+    </author>
+    <author>
+      <name>Glasscock, C.</name>
+    </author>
+    <author>
+      <name>Hilton, I. B.</name>
+    </author>
+    <author>
+      <name>Baker, D.</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Chen, W.; Jiao, R.; Coventry, B.; Qu, X.; Bauer, M.; Tran, L.; Tcheau, T.; Wu, K.; Song, Z.; Roullier, N.; Li, X.; Glasscock, C.; Hilton, I. B.; Baker, D.&lt;/p&gt;
+&lt;p&gt;Sources: biorxiv&lt;/p&gt;
+&lt;p&gt;Preprint date: 2026-10-20&lt;/p&gt;
+&lt;p&gt;Transcription factors control gene expression by recruiting transcriptional coactivators through intrinsically disordered transcriptional activation domains (TADs), whose weak and promiscuous interactions make it difficult to establish quantitative relationships between coactivator recruitment and transcriptional output, and to precisely modulate gene expression. To overcome this limitation, we set out to design coactivator-recruiting proteins using AlphaFold3-predicted TAD-coactivator interactions as a guide. We developed a high-throughput functional screening platform in mammalian cells and identified over 300 well folded nanomolar affinity binders to the transcription coactivators Mediator (multiple subunits), BRD4, NCOA, and p300; targeted interface mutations enabled systematic tuning of their binding affinities. Using a panel of p300 binders spanning nanomolar to micromolar affinities, we found an ultrasensitive relationship between coactivator-binding affinity and transcriptional output, with a sharp transcriptional activation threshold at ~500 nM. Incorporating p300 binder designs into CRISPRa yielded compact synthetic effectors that drove stronger activation than VPR across multiple genomic loci with minimal detectable cytotoxicity. Combining p300- and Mediator-specific binders further enhanced transcription, revealing functional synergy between these coactivators. Together, our work establishes a quantitative framework linking coactivator-binding affinity to transcriptional output and provides compact synthetic effectors for programmable gene activation.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.10.19.760300"&gt;biorxiv (preprint) — DOI: 10.64898/2026.10.19.760300&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
   <entry>
     <id>urn:uuid:1210dab8-49b9-5c6a-8fac-bdabb9db617e</id>
     <title>Complex enzyme active site scaffolding by iteratively detuned catalytic guidance</title>
