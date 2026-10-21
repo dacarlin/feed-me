@@ -7,7 +7,77 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-10-20T23:51:52Z</updated>
+  <updated>2026-10-21T04:43:51Z</updated>
+  <entry>
+    <id>urn:uuid:0f656df5-d24e-544f-b9f7-2a94c8fb47d8</id>
+    <title>Reliable and Efficient Agentic Protein Design with Toolset Harnessing</title>
+    <published>2026-10-20T00:00:00Z</published>
+    <updated>2026-10-21T04:43:51Z</updated>
+    <link href="https://doi.org/10.64898/2026.10.19.759896" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Butcher, J.</name>
+    </author>
+    <author>
+      <name>Chen, J.</name>
+    </author>
+    <author>
+      <name>Hunt, A.</name>
+    </author>
+    <author>
+      <name>Haas, C. M.</name>
+    </author>
+    <author>
+      <name>Dai, W.</name>
+    </author>
+    <author>
+      <name>Sharma, S.</name>
+    </author>
+    <author>
+      <name>Mitra, R.</name>
+    </author>
+    <author>
+      <name>Salike, S.</name>
+    </author>
+    <author>
+      <name>Koob, J.</name>
+    </author>
+    <author>
+      <name>Muraishi, A.</name>
+    </author>
+    <author>
+      <name>Li, Z.</name>
+    </author>
+    <author>
+      <name>Pyles, H.</name>
+    </author>
+    <author>
+      <name>Tyka, M. D.</name>
+    </author>
+    <author>
+      <name>Bauer, M. S.</name>
+    </author>
+    <author>
+      <name>Brent, R. I.</name>
+    </author>
+    <author>
+      <name>Mittal, A.</name>
+    </author>
+    <author>
+      <name>King, N. P.</name>
+    </author>
+    <author>
+      <name>Baker, D.</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Butcher, J.; Chen, J.; Hunt, A.; Haas, C. M.; Dai, W.; Sharma, S.; Mitra, R.; Salike, S.; Koob, J.; Muraishi, A.; Li, Z.; Pyles, H.; Tyka, M. D.; Bauer, M. S.; Brent, R. I.; Mittal, A.; King, N. P.; Baker, D.&lt;/p&gt;
+&lt;p&gt;Sources: biorxiv&lt;/p&gt;
+&lt;p&gt;Preprint date: 2026-10-20&lt;/p&gt;
+&lt;p&gt;Computational protein design workflows require the orchestration of multiple tools, data formats, and analysis steps that are often fragmented. Here, we introduce Chaperone, a lightweight and customizable framework that enables seamless integration of RFdiffusion3 (RFD3) with downstream sequence design, structure prediction, and evaluation tools, including ProteinMPNN, AlphaFold3 (AF3), and more than 50 other protein design tools. By combining a programmable agent-friendly interface with parallelized execution on high-performance computing systems, Chaperone as a harness enables rapid iteration and scalable exploration of complex protein design workflows. Across an evaluation of nine biomolecular design tasks, we find using Chaperone reduces total token usage relative to baseline agents by 86% and GPU costs by 64%, while increasing the overall computational design pass rate. We demonstrate Chaperones utility for large-scale design-space exploration through a two-week end-to-end small-molecule binder design campaign, yielding low nanomolar binders to cortisol zero shot. We further demonstrate its versatility across distinct design challenges, including the design of a symmetric 12-subunit self-assembly nanoparticle and a linker that mediates interactions between C2- and D3-symmetric protein complexes to form crystalline assemblies. Together, these results demonstrate how agent harnesses built around standardized tool interfaces can substantially improve the efficiency and success of complex, long-horizon agentic design workflows in biology. We make Chaperone freely available to the community on GitHub: https://github.com/RosettaCommons/chaperone.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.10.19.759896"&gt;biorxiv (preprint) — DOI: 10.64898/2026.10.19.759896&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
   <entry>
     <id>urn:uuid:b08a6f85-149d-5811-be27-70dd417daf1c</id>
     <title>Design of synthetic activators for programmable gene expression</title>
