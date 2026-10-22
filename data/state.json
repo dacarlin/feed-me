@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-10-22T11:49:27Z",
+      "last_success": "2026-10-22T17:09:14Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-10-22T11:49:27Z",
+      "last_success": "2026-10-22T17:09:14Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-10-22T11:49:27Z",
+      "last_success": "2026-10-22T17:09:14Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -26917,12 +26917,12 @@
           }
         ],
         "abstract": "MYC is one of the most frequently dysregulated oncogenic drivers across many cancers, yet direct therapeutic targeting has remained difficult because its function is mediated by disordered regions and transient protein-protein interactions. Here we design proteins that bind epitopes within regions of MYC whose sequence is conserved between human and mouse, including intrinsically disordered motifs required for oncogenic activity. In vitro, the designs bind MYC with nanomolar affinity and in cells they engage MYC, disrupt interactions with MAX, and remodel MYC-associated protein complexes. Expression of the binders decreases cell proliferation across diverse MYC-dependent hematopoietic, liver, pancreatic, and patient-derived tumor models, and in an orthotopic pancreatic cancer model, binder-expressing tumor cells were selectively depleted. This work establishes de novo protein design as a generalizable strategy to therapeutically target intrinsically disordered transcription factors.",
-        "date": "2026-10-16",
+        "date": "2026-10-22",
         "url": "https://doi.org/10.64898/2026.10.15.758618",
         "doi": "10.64898/2026.10.15.758618",
         "status": "preprint",
         "journal": "",
-        "version": "1",
+        "version": "2",
         "publication_date": "",
         "identifiers": [],
         "relations": []
