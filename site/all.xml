@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-10-21T04:43:51Z</updated>
+  <updated>2026-10-22T21:34:07Z</updated>
   <entry>
     <id>urn:uuid:0f656df5-d24e-544f-b9f7-2a94c8fb47d8</id>
     <title>Reliable and Efficient Agentic Protein Design with Toolset Harnessing</title>
@@ -7900,6 +7900,57 @@
 &lt;/ul&gt;</content>
   </entry>
   <entry>
+    <id>urn:uuid:00cf225e-4838-5f53-9b9e-13782b4f3fff</id>
+    <title>Expansive discovery of chemically diverse structured macrocyclic oligoamides.</title>
+    <published>2024-04-25T00:00:00Z</published>
+    <updated>2026-10-22T21:34:07Z</updated>
+    <link href="https://doi.org/10.1126/science.adk1687" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Patrick J Salveson</name>
+    </author>
+    <author>
+      <name>Adam P Moyer</name>
+    </author>
+    <author>
+      <name>Meerit Y Said</name>
+    </author>
+    <author>
+      <name>Gizem Gӧkçe</name>
+    </author>
+    <author>
+      <name>Xinting Li</name>
+    </author>
+    <author>
+      <name>Alex Kang</name>
+    </author>
+    <author>
+      <name>Hannah Nguyen</name>
+    </author>
+    <author>
+      <name>Asim K Bera</name>
+    </author>
+    <author>
+      <name>Paul M Levine</name>
+    </author>
+    <author>
+      <name>Gaurav Bhardwaj</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Patrick J Salveson; Adam P Moyer; Meerit Y Said; Gizem Gӧkçe; Xinting Li; Alex Kang; Hannah Nguyen; Asim K Bera; Paul M Levine; Gaurav Bhardwaj; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2024-04-25&lt;/p&gt;
+&lt;p&gt;Journal: Science (New York, N.Y.)&lt;/p&gt;
+&lt;p&gt;Small macrocycles with four or fewer amino acids are among the most potent natural products known, but there is currently no way to systematically generate such compounds. We describe a computational method for identifying ordered macrocycles composed of alpha, beta, gamma, and 17 other amino acid backbone chemistries, which we used to predict 14.9 million closed cycles composed of &amp;gt;42,000 monomer combinations. We chemically synthesized 18 macrocycles predicted to adopt single low-energy states and determined their x-ray or nuclear magnetic resonance structures; 15 of these were very close to the design models. We illustrate the therapeutic potential of these macrocycle designs by developing selective inhibitors of three protein targets of current interest. By opening up a vast space of readily synthesizable drug-like macrocycles, our results should considerably enhance structure-based drug design.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1126/science.adk1687"&gt;pubmed (published) — DOI: 10.1126/science.adk1687&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1126/science.adk1687"&gt;Published version — DOI: 10.1126/science.adk1687&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
     <id>urn:uuid:ade27771-2136-535b-aeb7-af45c8c7ef1c</id>
     <title>Rapid and automated design of two-component protein nanomaterials using ProteinMPNN.</title>
     <published>2023-08-04T00:00:00Z</published>
@@ -8859,6 +8910,60 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/nchembio.1997"&gt;pubmed (published) — DOI: 10.1038/nchembio.1997&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/nchembio.1997"&gt;Published version — DOI: 10.1038/nchembio.1997&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:b2c5d465-e7f9-5c5c-afdd-1d102a19363f</id>
+    <title>Forced protein unfolding leads to highly elastic and tough protein hydrogels.</title>
+    <published>2013-01-01T00:00:00Z</published>
+    <updated>2026-10-22T21:34:07Z</updated>
+    <link href="https://doi.org/10.1038/ncomms3974" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Jie Fang</name>
+    </author>
+    <author>
+      <name>Alexander Mehlich</name>
+    </author>
+    <author>
+      <name>Nobuyasu Koga</name>
+    </author>
+    <author>
+      <name>Jiqing Huang</name>
+    </author>
+    <author>
+      <name>Rie Koga</name>
+    </author>
+    <author>
+      <name>Xiaoye Gao</name>
+    </author>
+    <author>
+      <name>Chunguang Hu</name>
+    </author>
+    <author>
+      <name>Chi Jin</name>
+    </author>
+    <author>
+      <name>Matthias Rief</name>
+    </author>
+    <author>
+      <name>Juergen Kast</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Hongbin Li</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Jie Fang; Alexander Mehlich; Nobuyasu Koga; Jiqing Huang; Rie Koga; Xiaoye Gao; Chunguang Hu; Chi Jin; Matthias Rief; Juergen Kast; David Baker; Hongbin Li&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2013&lt;/p&gt;
+&lt;p&gt;Journal: Nature communications&lt;/p&gt;
+&lt;p&gt;Protein-based hydrogels usually do not exhibit high stretchability or toughness, significantly limiting the scope of their potential biomedical applications. Here we report the engineering of a chemically cross-linked, highly elastic and tough protein hydrogel using a mechanically extremely labile, de novo-designed protein that assumes the classical ferredoxin-like fold structure. Due to the low mechanical stability of the ferredoxin-like fold structure, swelling of hydrogels causes a significant fraction of the folded domains to unfold. Subsequent collapse and aggregation of unfolded ferredoxin-like domains leads to intertwining of physically and chemically cross-linked networks, entailing hydrogels with unusual physical and mechanical properties: a negative swelling ratio, high stretchability and toughness. These hydrogels can withstand an average strain of 450% before breaking and show massive energy dissipation. Upon relaxation, refolding of the ferredoxin-like domains enables the hydrogel to recover its massive hysteresis. This novel biomaterial may expand the scope of hydrogel applications in tissue engineering.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/ncomms3974"&gt;pubmed (published) — DOI: 10.1038/ncomms3974&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/ncomms3974"&gt;Published version — DOI: 10.1038/ncomms3974&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
 </feed>
