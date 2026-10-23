@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-10-23T11:36:19Z",
+      "last_success": "2026-10-23T17:04:57Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-10-23T11:36:19Z",
+      "last_success": "2026-10-23T17:04:57Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-10-23T11:36:19Z",
+      "last_success": "2026-10-23T17:04:57Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -31923,11 +31923,6 @@
             "orcid": null
           },
           {
-            "name": "Interlandi, G.",
-            "affiliations": [],
-            "orcid": null
-          },
-          {
             "name": "Cartwright, M. J.",
             "affiliations": [],
             "orcid": null
@@ -31971,15 +31966,21 @@
           }
         ],
         "abstract": "The rise of multidrug-resistant bacterial infections necessitates the discovery of novel antimicrobial strategies. Here, we show that protein design provides a generalizable means of generating new antimicrobials by neutralizing the function of bacterial adhesins, which are virulence factors critical in host-pathogen interactions. We de novo designed high-affinity miniprotein binders to FimH and Abp chaperone usher pili adhesins from uropathogenic Escherichia coli and Acinetobacter baumannii, respectively, which are implicated in mediating both uncomplicated and catheter-associated urinary tract infections (UTI) responsible for significant morbidity worldwide. The designed antagonists have high specificity and stability, disrupt bacterial recognition of host receptors, block biofilm formation, and are effective in treating and preventing murine models of uncomplicated and catheter- associated UTIs in vivo.",
-        "date": "2026-09-16",
+        "date": "2025-08-18",
         "url": "https://doi.org/10.1101/2025.08.18.670751",
         "doi": "10.1101/2025.08.18.670751",
         "status": "preprint",
-        "journal": "",
-        "version": "2",
-        "publication_date": "",
+        "journal": "Nature Communications",
+        "version": "",
+        "publication_date": "2026-10-09",
         "identifiers": [],
-        "relations": []
+        "relations": [
+          {
+            "kind": "is_preprint_of",
+            "target": "doi:10.1038/s41467-026-78123-6",
+            "evidence": "bioRxiv published-version metadata"
+          }
+        ]
       },
       "identity": {
         "david-baker": {
