@@ -7,7 +7,52 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-10-22T21:34:07Z</updated>
+  <updated>2026-10-23T04:46:49Z</updated>
+  <entry>
+    <id>urn:uuid:46daedc3-0ce3-5958-8d9f-704cb18ff6b8</id>
+    <title>De novo design of enantioselective artificial metalloenzyme photocatalysts.</title>
+    <published>2026-10-21T00:00:00Z</published>
+    <updated>2026-10-23T04:46:49Z</updated>
+    <link href="https://doi.org/10.1038/s41586-026-11317-6" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Sandip Mishra</name>
+    </author>
+    <author>
+      <name>Payal</name>
+    </author>
+    <author>
+      <name>Declan Evans</name>
+    </author>
+    <author>
+      <name>Kingsley Bortey</name>
+    </author>
+    <author>
+      <name>Husayn Bootwala</name>
+    </author>
+    <author>
+      <name>Giovanni Gonzalez-Gutierrez</name>
+    </author>
+    <author>
+      <name>Ricardo Javier Vázquez</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Jared C Lewis</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Sandip Mishra; Payal; Declan Evans; Kingsley Bortey; Husayn Bootwala; Giovanni Gonzalez-Gutierrez; Ricardo Javier Vázquez; David Baker; Jared C Lewis&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2026-10-21&lt;/p&gt;
+&lt;p&gt;Journal: Nature&lt;/p&gt;
+&lt;p&gt;The ability to create protein scaffolds that impart enantioselectivity to simple, readily available metal catalysts could redefine the landscape of asymmetric catalysis. Artificial metalloenzymes (ArMs), hybrid catalysts that combine a synthetic metal cofactor with a protein scaffold, offer a potential means to achieve this goal, but scaffold discovery has remained constrained by trial-and-error approaches and the functional limits of extant proteins.1-5 This challenge is acute for metal polypyridine photocatalysts, which are widely used in visible-light chemistry but have not enabled highly enantioselective photocatalysis within protein scaffolds. In this study, we show that generative protein design6-8 can create de novo scaffolds that selectively bind these photocatalysts and that directed evolution converts the resulting artificial metalloenzymes into efficient, highly enantioselective photocatalysts9. The evolved proteins support diverse light-driven reactions, high catalyst turnover and catalyst recycling, and can function with commercially available racemic metal complexes. Spectroscopic studies show that the protein environment extends the photocatalyst excited-state lifetime and organizes substrate near the cofactor, altering energy transfer and controlling stereoselectivity. These findings establish de novo protein design as a route to functional scaffolds for synthetic metal complexes that lack natural protein partners and provide a strategy for combining protein design and evolution to control non-natural catalytic chemistry.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-026-11317-6"&gt;pubmed (published) — DOI: 10.1038/s41586-026-11317-6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-026-11317-6"&gt;Published version — DOI: 10.1038/s41586-026-11317-6&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
   <entry>
     <id>urn:uuid:0f656df5-d24e-544f-b9f7-2a94c8fb47d8</id>
     <title>Reliable and Efficient Agentic Protein Design with Toolset Harnessing</title>
@@ -888,6 +933,57 @@
 &lt;/ul&gt;</content>
   </entry>
   <entry>
+    <id>urn:uuid:e4de15d1-86f3-568a-8658-65ab79de508d</id>
+    <title>Enhancing De Novo Designed Peptides and Proteins via Irreversible Covalent Isoquinolinium Capture.</title>
+    <published>2026-08-26T00:00:00Z</published>
+    <updated>2026-10-23T04:46:49Z</updated>
+    <link href="https://doi.org/10.1021/acschembio.6c00584" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Paul M Levine</name>
+    </author>
+    <author>
+      <name>Patrick W Erickson</name>
+    </author>
+    <author>
+      <name>Timothy W Craven</name>
+    </author>
+    <author>
+      <name>Aaron T Balana</name>
+    </author>
+    <author>
+      <name>Derrick R Hicks</name>
+    </author>
+    <author>
+      <name>Green Ahn</name>
+    </author>
+    <author>
+      <name>Chan J Kim</name>
+    </author>
+    <author>
+      <name>Lisa S Brandenburg</name>
+    </author>
+    <author>
+      <name>Wei Yang</name>
+    </author>
+    <author>
+      <name>Danielle P Johnson Erickson</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Paul M Levine; Patrick W Erickson; Timothy W Craven; Aaron T Balana; Derrick R Hicks; Green Ahn; Chan J Kim; Lisa S Brandenburg; Wei Yang; Danielle P Johnson Erickson; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2026-09-18&lt;/p&gt;
+&lt;p&gt;Journal: ACS chemical biology&lt;/p&gt;
+&lt;p&gt;Irreversible covalent inhibitors have garnered significant attention in recent years. Despite encouraging progress, the vast majority contain electrophiles that target the least abundant amino acid, cysteine, substantially limiting target inhibitor design for therapeutic intervention. Here, we generalize 2-ethynylbenzaldehyde as a proximity-induced electrophile for generating irreversible covalent peptide and protein inhibitors that specifically target native lysine residues. Leveraging this warhead, we designed a covalent de novo peptide that potently engages MCL1 to block its interaction with Bak. We show it is faster, more site-selective, and increases potency by 61-fold for MCL1 relative to a sulfonyl fluoride warhead. Additionally, with the guide of a computational script to predict &amp;quot;reactive hotspots&amp;quot; at the protein level, we developed a minibinder that labels PD-L1 in vitro and in live cells, displays a slower off-rate, and potently blocks the native PD-1 and PD-L1. These results establish isoquinolinium capture as a promising strategy to inhibit protein-protein interactions and for the development of novel covalent peptide and protein therapeutics.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1021/acschembio.6c00584"&gt;pubmed (published) — DOI: 10.1021/acschembio.6c00584&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1021/acschembio.6c00584"&gt;Published version — DOI: 10.1021/acschembio.6c00584&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
     <id>urn:uuid:93153e5d-5606-5268-a8b1-21a9ec67b74f</id>
     <title>Computational design of potent, broadly neutralizing anti-Nipah virus and Hendra virus miniproteins.</title>
     <published>2026-09-17T00:00:00Z</published>
@@ -1221,57 +1317,6 @@
 &lt;li&gt;&lt;a href="https://doi.org/10.1126/science.aeg6829"&gt;pubmed (published) — DOI: 10.1126/science.aeg6829&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1126/science.aeg6829"&gt;Published version — DOI: 10.1126/science.aeg6829&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://pubmed.ncbi.nlm.nih.gov/42658941/"&gt;Published version&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <id>urn:uuid:e4de15d1-86f3-568a-8658-65ab79de508d</id>
-    <title>Enhancing De Novo Designed Peptides and Proteins via Irreversible Covalent Isoquinolinium Capture.</title>
-    <published>2026-08-26T00:00:00Z</published>
-    <updated>2026-10-03T05:16:52Z</updated>
-    <link href="https://doi.org/10.1021/acschembio.6c00584" rel="alternate" />
-    <category term="published" />
-    <author>
-      <name>Paul M Levine</name>
-    </author>
-    <author>
-      <name>Patrick W Erickson</name>
-    </author>
-    <author>
-      <name>Timothy W Craven</name>
-    </author>
-    <author>
-      <name>Aaron T Balana</name>
-    </author>
-    <author>
-      <name>Derrick R Hicks</name>
-    </author>
-    <author>
-      <name>Green Ahn</name>
-    </author>
-    <author>
-      <name>Chan J Kim</name>
-    </author>
-    <author>
-      <name>Lisa S Brandenburg</name>
-    </author>
-    <author>
-      <name>Wei Yang</name>
-    </author>
-    <author>
-      <name>Danielle P Johnson Erickson</name>
-    </author>
-    <author>
-      <name>David Baker</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Authors: Paul M Levine; Patrick W Erickson; Timothy W Craven; Aaron T Balana; Derrick R Hicks; Green Ahn; Chan J Kim; Lisa S Brandenburg; Wei Yang; Danielle P Johnson Erickson; David Baker&lt;/p&gt;
-&lt;p&gt;Sources: pubmed&lt;/p&gt;
-&lt;p&gt;Publication date: 2026-08-26&lt;/p&gt;
-&lt;p&gt;Journal: ACS chemical biology&lt;/p&gt;
-&lt;p&gt;Irreversible covalent inhibitors have garnered significant attention in recent years. Despite encouraging progress, the vast majority contain electrophiles that target the least abundant amino acid, cysteine, substantially limiting target inhibitor design for therapeutic intervention. Here, we generalize 2-ethynylbenzaldehyde as a proximity-induced electrophile for generating irreversible covalent peptide and protein inhibitors that specifically target native lysine residues. Leveraging this warhead, we designed a covalent de novo peptide that potently engages MCL1 to block its interaction with Bak. We show it is faster, more site-selective, and increases potency by 61-fold for MCL1 relative to a sulfonyl fluoride warhead. Additionally, with the guide of a computational script to predict &amp;quot;reactive hotspots&amp;quot; at the protein level, we developed a minibinder that labels PD-L1 in vitro and in live cells, displays a slower off-rate, and potently blocks the native PD-1 and PD-L1. These results establish isoquinolinium capture as a promising strategy to inhibit protein-protein interactions and for the development of novel covalent peptide and protein therapeutics.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://doi.org/10.1021/acschembio.6c00584"&gt;pubmed (published) — DOI: 10.1021/acschembio.6c00584&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://doi.org/10.1021/acschembio.6c00584"&gt;Published version — DOI: 10.1021/acschembio.6c00584&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>

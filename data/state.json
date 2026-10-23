@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-10-22T21:34:07Z",
+      "last_success": "2026-10-23T04:46:49Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-10-22T21:34:07Z",
+      "last_success": "2026-10-23T04:46:49Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,69 +14,69 @@
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-10-22T21:34:07Z",
+      "last_success": "2026-10-23T04:46:49Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
   "refresh": {
-    "pubmed:42702625": "2026-10-16T04:30:07Z",
-    "pubmed:42696459": "2026-10-16T04:30:07Z",
-    "pubmed:42162421": "2026-10-16T04:30:07Z",
-    "pubmed:41284265": "2026-10-16T04:30:07Z",
-    "pubmed:39574666": "2026-10-16T04:30:07Z",
+    "pubmed:42702625": "2026-10-23T04:46:49Z",
+    "pubmed:42696459": "2026-10-23T04:46:49Z",
+    "pubmed:42162421": "2026-10-23T04:46:49Z",
+    "pubmed:41284265": "2026-10-23T04:46:49Z",
+    "pubmed:39574666": "2026-10-23T04:46:49Z",
     "biorxiv:10.64898/2026.08.13.744004": "2026-10-18T04:30:11Z",
     "biorxiv:10.64898/2026.09.08.750245": "2026-10-18T04:30:11Z",
-    "pubmed:42677469": "2026-10-16T04:30:07Z",
-    "pubmed:42658941": "2026-10-16T04:30:07Z",
-    "pubmed:42461986": "2026-10-16T04:30:07Z",
-    "pubmed:42425911": "2026-10-16T04:30:07Z",
-    "pubmed:42391386": "2026-10-16T04:30:07Z",
-    "pubmed:42298100": "2026-10-16T04:30:07Z",
-    "pubmed:42295740": "2026-10-16T04:30:07Z",
-    "pubmed:42282680": "2026-10-16T04:30:07Z",
-    "pubmed:42282627": "2026-10-16T04:30:07Z",
-    "pubmed:42239184": "2026-10-16T04:30:07Z",
-    "pubmed:42227562": "2026-10-16T04:30:07Z",
-    "pubmed:42168559": "2026-10-16T04:30:07Z",
-    "pubmed:42162430": "2026-10-16T04:30:07Z",
-    "pubmed:42151133": "2026-10-16T04:30:07Z",
-    "pubmed:42146344": "2026-10-16T04:30:07Z",
-    "pubmed:42094432": "2026-10-16T04:30:07Z",
-    "pubmed:42079119": "2026-10-16T04:30:07Z",
-    "pubmed:42018576": "2026-10-16T04:30:07Z",
-    "pubmed:41994174": "2026-10-16T04:30:07Z",
-    "pubmed:41909827": "2026-10-16T04:30:07Z",
-    "pubmed:41904144": "2026-10-16T04:30:07Z",
-    "pubmed:41847033": "2026-10-16T04:30:07Z",
-    "pubmed:41826298": "2026-10-16T04:30:07Z",
-    "pubmed:41819089": "2026-10-16T04:30:07Z",
-    "pubmed:41775935": "2026-10-16T04:30:07Z",
-    "pubmed:41765949": "2026-10-16T04:30:07Z",
-    "pubmed:41757106": "2026-10-16T04:30:07Z",
-    "pubmed:41565823": "2026-10-16T04:30:07Z",
-    "pubmed:41481462": "2026-10-16T04:30:07Z",
-    "pubmed:41350440": "2026-10-16T04:30:07Z",
-    "pubmed:41289379": "2026-10-16T04:30:07Z",
-    "pubmed:41187076": "2026-10-16T04:30:07Z",
-    "pubmed:41125887": "2026-10-16T04:30:07Z",
-    "pubmed:41004565": "2026-10-16T04:30:07Z",
-    "pubmed:40997207": "2026-10-16T04:30:07Z",
-    "pubmed:40950233": "2026-10-16T04:30:07Z",
-    "pubmed:40911686": "2026-10-16T04:30:07Z",
-    "pubmed:40745093": "2026-10-16T04:30:07Z",
-    "pubmed:40720516": "2026-10-16T04:30:07Z",
-    "pubmed:40705892": "2026-10-16T04:30:07Z",
-    "pubmed:40674483": "2026-10-16T04:30:07Z",
-    "pubmed:40295764": "2026-10-16T04:30:07Z",
-    "pubmed:40011747": "2026-10-16T04:30:07Z",
-    "pubmed:39946508": "2026-10-16T04:30:07Z",
-    "pubmed:39651227": "2026-10-16T04:30:07Z",
-    "pubmed:39636970": "2026-10-16T04:30:07Z",
-    "pubmed:39071356": "2026-10-16T04:30:07Z",
-    "pubmed:38965227": "2026-10-16T04:30:07Z",
-    "pubmed:38052802": "2026-10-16T04:30:07Z",
-    "pubmed:37845322": "2026-10-16T04:30:07Z",
-    "pubmed:35319882": "2026-10-16T04:30:07Z",
+    "pubmed:42677469": "2026-10-23T04:46:49Z",
+    "pubmed:42658941": "2026-10-23T04:46:49Z",
+    "pubmed:42461986": "2026-10-23T04:46:49Z",
+    "pubmed:42425911": "2026-10-23T04:46:49Z",
+    "pubmed:42391386": "2026-10-23T04:46:49Z",
+    "pubmed:42298100": "2026-10-23T04:46:49Z",
+    "pubmed:42295740": "2026-10-23T04:46:49Z",
+    "pubmed:42282680": "2026-10-23T04:46:49Z",
+    "pubmed:42282627": "2026-10-23T04:46:49Z",
+    "pubmed:42239184": "2026-10-23T04:46:49Z",
+    "pubmed:42227562": "2026-10-23T04:46:49Z",
+    "pubmed:42168559": "2026-10-23T04:46:49Z",
+    "pubmed:42162430": "2026-10-23T04:46:49Z",
+    "pubmed:42151133": "2026-10-23T04:46:49Z",
+    "pubmed:42146344": "2026-10-23T04:46:49Z",
+    "pubmed:42094432": "2026-10-23T04:46:49Z",
+    "pubmed:42079119": "2026-10-23T04:46:49Z",
+    "pubmed:42018576": "2026-10-23T04:46:49Z",
+    "pubmed:41994174": "2026-10-23T04:46:49Z",
+    "pubmed:41909827": "2026-10-23T04:46:49Z",
+    "pubmed:41904144": "2026-10-23T04:46:49Z",
+    "pubmed:41847033": "2026-10-23T04:46:49Z",
+    "pubmed:41826298": "2026-10-23T04:46:49Z",
+    "pubmed:41819089": "2026-10-23T04:46:49Z",
+    "pubmed:41775935": "2026-10-23T04:46:49Z",
+    "pubmed:41765949": "2026-10-23T04:46:49Z",
+    "pubmed:41757106": "2026-10-23T04:46:49Z",
+    "pubmed:41565823": "2026-10-23T04:46:49Z",
+    "pubmed:41481462": "2026-10-23T04:46:49Z",
+    "pubmed:41350440": "2026-10-23T04:46:49Z",
+    "pubmed:41289379": "2026-10-23T04:46:49Z",
+    "pubmed:41187076": "2026-10-23T04:46:49Z",
+    "pubmed:41125887": "2026-10-23T04:46:49Z",
+    "pubmed:41004565": "2026-10-23T04:46:49Z",
+    "pubmed:40997207": "2026-10-23T04:46:49Z",
+    "pubmed:40950233": "2026-10-23T04:46:49Z",
+    "pubmed:40911686": "2026-10-23T04:46:49Z",
+    "pubmed:40745093": "2026-10-23T04:46:49Z",
+    "pubmed:40720516": "2026-10-23T04:46:49Z",
+    "pubmed:40705892": "2026-10-23T04:46:49Z",
+    "pubmed:40674483": "2026-10-23T04:46:49Z",
+    "pubmed:40295764": "2026-10-23T04:46:49Z",
+    "pubmed:40011747": "2026-10-23T04:46:49Z",
+    "pubmed:39946508": "2026-10-23T04:46:49Z",
+    "pubmed:39651227": "2026-10-23T04:46:49Z",
+    "pubmed:39636970": "2026-10-23T04:46:49Z",
+    "pubmed:39071356": "2026-10-23T04:46:49Z",
+    "pubmed:38965227": "2026-10-23T04:46:49Z",
+    "pubmed:38052802": "2026-10-23T04:46:49Z",
+    "pubmed:37845322": "2026-10-23T04:46:49Z",
+    "pubmed:35319882": "2026-10-23T04:46:49Z",
     "pubmed:42526427": "2026-10-18T04:30:11Z",
     "pubmed:42523424": "2026-10-18T04:30:11Z",
     "pubmed:26727239": "2026-10-18T04:30:11Z",
@@ -93,19 +93,19 @@
     "pubmed:39345553": "2026-10-22T04:41:38Z",
     "pubmed:38502697": "2026-10-22T04:41:38Z",
     "pubmed:37577478": "2026-10-22T04:41:38Z",
-    "pubmed:42754580": "2026-10-16T04:30:07Z",
-    "pubmed:42758048": "2026-10-16T04:30:07Z",
-    "pubmed:41292956": "2026-10-16T04:30:07Z",
-    "pubmed:41282098": "2026-10-16T04:30:07Z",
-    "pubmed:41279593": "2026-10-16T04:30:07Z",
-    "pubmed:41279583": "2026-10-16T04:30:07Z",
-    "pubmed:41279570": "2026-10-16T04:30:07Z",
-    "pubmed:41279521": "2026-10-16T04:30:07Z",
-    "pubmed:41256668": "2026-10-16T04:30:07Z",
-    "pubmed:41256494": "2026-10-16T04:30:07Z",
-    "pubmed:41256432": "2026-10-16T04:30:07Z",
-    "pubmed:41256377": "2026-10-16T04:30:07Z",
-    "pubmed:41000976": "2026-10-16T04:30:07Z",
+    "pubmed:42754580": "2026-10-23T04:46:49Z",
+    "pubmed:42758048": "2026-10-23T04:46:49Z",
+    "pubmed:41292956": "2026-10-23T04:46:49Z",
+    "pubmed:41282098": "2026-10-23T04:46:49Z",
+    "pubmed:41279593": "2026-10-23T04:46:49Z",
+    "pubmed:41279583": "2026-10-23T04:46:49Z",
+    "pubmed:41279570": "2026-10-23T04:46:49Z",
+    "pubmed:41279521": "2026-10-23T04:46:49Z",
+    "pubmed:41256668": "2026-10-23T04:46:49Z",
+    "pubmed:41256494": "2026-10-23T04:46:49Z",
+    "pubmed:41256432": "2026-10-23T04:46:49Z",
+    "pubmed:41256377": "2026-10-23T04:46:49Z",
+    "pubmed:41000976": "2026-10-23T04:46:49Z",
     "pubmed:41509375": "2026-10-18T04:30:11Z",
     "pubmed:41332769": "2026-10-18T04:30:11Z",
     "pubmed:41332722": "2026-10-18T04:30:11Z",
@@ -126,10 +126,10 @@
     "pubmed:40489613": "2026-10-22T04:41:38Z",
     "pubmed:39394803": "2026-10-22T04:41:38Z",
     "pubmed:39091726": "2026-10-22T04:41:38Z",
-    "pubmed:41519838": "2026-10-16T04:30:07Z",
-    "pubmed:40953261": "2026-10-16T04:30:07Z",
-    "pubmed:40450691": "2026-10-16T04:30:07Z",
-    "pubmed:40145385": "2026-10-16T04:30:07Z",
+    "pubmed:41519838": "2026-10-23T04:46:49Z",
+    "pubmed:40953261": "2026-10-23T04:46:49Z",
+    "pubmed:40450691": "2026-10-23T04:46:49Z",
+    "pubmed:40145385": "2026-10-23T04:46:49Z",
     "pubmed:34622888": "2026-10-18T04:30:11Z",
     "pubmed:36397834": "2026-10-20T00:18:55Z",
     "pubmed:36108048": "2026-10-21T04:43:51Z",
@@ -140,7 +140,7 @@
     "pubmed:40739343": "2026-10-21T04:43:51Z",
     "pubmed:39695226": "2026-10-21T04:43:51Z",
     "pubmed:42845701": "2026-10-22T04:41:38Z",
-    "biorxiv:10.1101/2025.08.03.668343": "2026-10-16T04:30:07Z",
+    "biorxiv:10.1101/2025.08.03.668343": "2026-10-23T04:46:49Z",
     "pubmed:42856427": "2026-10-18T04:30:11Z",
     "pubmed:42056544": "2026-10-18T04:30:11Z",
     "pubmed:39448841": "2026-10-18T04:30:11Z",
@@ -151,14 +151,15 @@
     "pubmed:27995916": "2026-10-18T04:30:11Z",
     "pubmed:42875488": "2026-10-22T04:41:38Z",
     "pubmed:42875487": "2026-10-22T04:41:38Z",
-    "pubmed:42879533": "2026-10-16T04:30:07Z",
-    "pubmed:42818144": "2026-10-16T11:21:24Z",
-    "pubmed:40120690": "2026-10-16T16:37:25Z",
+    "pubmed:42879533": "2026-10-23T04:46:49Z",
+    "pubmed:42818144": "2026-10-23T04:46:49Z",
+    "pubmed:40120690": "2026-10-23T04:46:49Z",
     "pubmed:37433327": "2026-10-18T04:30:11Z",
     "biorxiv:10.64898/2026.10.19.760300": "2026-10-20T23:51:52Z",
     "biorxiv:10.64898/2026.10.19.759896": "2026-10-21T04:43:51Z",
     "pubmed:38662830": "2026-10-22T21:34:07Z",
-    "pubmed:24352111": "2026-10-22T21:34:07Z"
+    "pubmed:24352111": "2026-10-22T21:34:07Z",
+    "pubmed:42906913": "2026-10-23T04:46:49Z"
   },
   "works": {
     "urn:uuid:7f477453-6c38-52e7-b591-accb9b0e6576": {
@@ -11950,7 +11951,7 @@
     "urn:uuid:e4de15d1-86f3-568a-8658-65ab79de508d": {
       "id": "urn:uuid:e4de15d1-86f3-568a-8658-65ab79de508d",
       "first_seen": "2026-09-11T17:54:26Z",
-      "updated": "2026-10-03T05:16:52Z",
+      "updated": "2026-10-23T04:46:49Z",
       "records": {
         "pubmed:42677469": {
           "source": "pubmed",
@@ -12037,7 +12038,7 @@
             }
           ],
           "abstract": "Irreversible covalent inhibitors have garnered significant attention in recent years. Despite encouraging progress, the vast majority contain electrophiles that target the least abundant amino acid, cysteine, substantially limiting target inhibitor design for therapeutic intervention. Here, we generalize 2-ethynylbenzaldehyde as a proximity-induced electrophile for generating irreversible covalent peptide and protein inhibitors that specifically target native lysine residues. Leveraging this warhead, we designed a covalent de novo peptide that potently engages MCL1 to block its interaction with Bak. We show it is faster, more site-selective, and increases potency by 61-fold for MCL1 relative to a sulfonyl fluoride warhead. Additionally, with the guide of a computational script to predict \"reactive hotspots\" at the protein level, we developed a minibinder that labels PD-L1 in vitro and in live cells, displays a slower off-rate, and potently blocks the native PD-1 and PD-L1. These results establish isoquinolinium capture as a promising strategy to inhibit protein-protein interactions and for the development of novel covalent peptide and protein therapeutics.",
-          "date": "2026-08-26",
+          "date": "2026-09-18",
           "url": "https://doi.org/10.1021/acschembio.6c00584",
           "doi": "10.1021/acschembio.6c00584",
           "status": "published",
@@ -12086,6 +12087,17 @@
           "method": "shared_identifier",
           "identifiers": [
             "doi:10.1021/acschembio.6c00584",
+            "pubmed:42677469"
+          ],
+          "matched_record": "pubmed:42677469"
+        },
+        {
+          "record": "pubmed:42677469",
+          "rank": 3,
+          "method": "shared_identifier",
+          "identifiers": [
+            "doi:10.1021/acschembio.6c00584",
+            "pmc:PMC13630340",
             "pubmed:42677469"
           ],
           "matched_record": "pubmed:42677469"
@@ -26689,6 +26701,120 @@
         }
       ],
       "published": "2024-04-25T00:00:00Z"
+    },
+    "urn:uuid:46daedc3-0ce3-5958-8d9f-704cb18ff6b8": {
+      "id": "urn:uuid:46daedc3-0ce3-5958-8d9f-704cb18ff6b8",
+      "first_seen": "2026-10-23T04:46:49Z",
+      "updated": "2026-10-23T04:46:49Z",
+      "records": {
+        "pubmed:42906913": {
+          "source": "pubmed",
+          "source_id": "42906913",
+          "title": "De novo design of enantioselective artificial metalloenzyme photocatalysts.",
+          "authors": [
+            {
+              "name": "Sandip Mishra",
+              "affiliations": [
+                "Department of Chemistry, Indiana University, Bloomington, IN, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Payal",
+              "affiliations": [
+                "Department of Chemistry, Indiana University, Bloomington, IN, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Declan Evans",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Kingsley Bortey",
+              "affiliations": [
+                "Department of Chemistry, Indiana University, Bloomington, IN, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Husayn Bootwala",
+              "affiliations": [
+                "Department of Chemistry, Indiana University, Bloomington, IN, USA."
+              ],
+              "orcid": "0009-0009-3207-5043"
+            },
+            {
+              "name": "Giovanni Gonzalez-Gutierrez",
+              "affiliations": [
+                "Department of Molecular and Cellular Biochemistry, Indiana University, Bloomington, IN, USA."
+              ],
+              "orcid": "0000-0002-1044-943X"
+            },
+            {
+              "name": "Ricardo Javier Vázquez",
+              "affiliations": [
+                "Department of Chemistry, Indiana University, Bloomington, IN, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-7896-6217"
+            },
+            {
+              "name": "Jared C Lewis",
+              "affiliations": [
+                "Department of Chemistry, Indiana University, Bloomington, IN, USA. jcl3@iu.edu."
+              ],
+              "orcid": "0000-0003-2800-8330"
+            }
+          ],
+          "abstract": "The ability to create protein scaffolds that impart enantioselectivity to simple, readily available metal catalysts could redefine the landscape of asymmetric catalysis. Artificial metalloenzymes (ArMs), hybrid catalysts that combine a synthetic metal cofactor with a protein scaffold, offer a potential means to achieve this goal, but scaffold discovery has remained constrained by trial-and-error approaches and the functional limits of extant proteins.1-5 This challenge is acute for metal polypyridine photocatalysts, which are widely used in visible-light chemistry but have not enabled highly enantioselective photocatalysis within protein scaffolds. In this study, we show that generative protein design6-8 can create de novo scaffolds that selectively bind these photocatalysts and that directed evolution converts the resulting artificial metalloenzymes into efficient, highly enantioselective photocatalysts9. The evolved proteins support diverse light-driven reactions, high catalyst turnover and catalyst recycling, and can function with commercially available racemic metal complexes. Spectroscopic studies show that the protein environment extends the photocatalyst excited-state lifetime and organizes substrate near the cofactor, altering energy transfer and controlling stereoselectivity. These findings establish de novo protein design as a route to functional scaffolds for synthetic metal complexes that lack natural protein partners and provide a strategy for combining protein design and evolution to control non-natural catalytic chemistry.",
+          "date": "2026-10-21",
+          "url": "https://doi.org/10.1038/s41586-026-11317-6",
+          "doi": "10.1038/s41586-026-11317-6",
+          "status": "published",
+          "journal": "Nature",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:42906913",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:42906913",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2026-10-21T00:00:00Z"
     }
   },
   "aliases": {},
