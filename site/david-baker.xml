@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-10-23T04:46:49Z</updated>
+  <updated>2026-10-24T04:34:08Z</updated>
   <entry>
     <id>urn:uuid:46daedc3-0ce3-5958-8d9f-704cb18ff6b8</id>
     <title>De novo design of enantioselective artificial metalloenzyme photocatalysts.</title>
@@ -7918,6 +7918,69 @@
 &lt;li&gt;&lt;a href="https://doi.org/10.1073/pnas.2314646121"&gt;pubmed (published) — DOI: 10.1073/pnas.2314646121&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1073/pnas.2314646121"&gt;Published version — DOI: 10.1073/pnas.2314646121&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://pubmed.ncbi.nlm.nih.gov/38502697/"&gt;Published version&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:dc3091e5-af0c-50eb-a29c-633821285cc7</id>
+    <title>De novo design of modular protein hydrogels with programmable intra- and extracellular viscoelasticity.</title>
+    <published>2023-06-03T00:00:00Z</published>
+    <updated>2026-10-24T04:34:08Z</updated>
+    <link href="https://doi.org/10.1073/pnas.2309457121" rel="alternate" />
+    <link href="https://doi.org/10.1101/2023.06.02.543449" rel="related" title="pubmed" />
+    <category term="published" />
+    <author>
+      <name>Rubul Mout</name>
+    </author>
+    <author>
+      <name>Ross C Bretherton</name>
+    </author>
+    <author>
+      <name>Justin Decarreau</name>
+    </author>
+    <author>
+      <name>Sangmin Lee</name>
+    </author>
+    <author>
+      <name>Nicole Gregorio</name>
+    </author>
+    <author>
+      <name>Natasha I Edman</name>
+    </author>
+    <author>
+      <name>Maggie Ahlrichs</name>
+    </author>
+    <author>
+      <name>Yang Hsia</name>
+    </author>
+    <author>
+      <name>Danny D Sahtoe</name>
+    </author>
+    <author>
+      <name>George Ueda</name>
+    </author>
+    <author>
+      <name>Alee Sharma</name>
+    </author>
+    <author>
+      <name>Rebecca Schulman</name>
+    </author>
+    <author>
+      <name>Cole A DeForest</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Rubul Mout; Ross C Bretherton; Justin Decarreau; Sangmin Lee; Nicole Gregorio; Natasha I Edman; Maggie Ahlrichs; Yang Hsia; Danny D Sahtoe; George Ueda; Alee Sharma; Rebecca Schulman; Cole A DeForest; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2024-01-30&lt;/p&gt;
+&lt;p&gt;Journal: Proceedings of the National Academy of Sciences of the United States of America&lt;/p&gt;
+&lt;p&gt;Relating the macroscopic properties of protein-based materials to their underlying component microstructure is an outstanding challenge. Here, we exploit computational design to specify the size, flexibility, and valency of de novo protein building blocks, as well as the interaction dynamics between them, to investigate how molecular parameters govern the macroscopic viscoelasticity of the resultant protein hydrogels. We construct gel systems from pairs of symmetric protein homo-oligomers, each comprising 2, 5, 24, or 120 individual protein components, that are crosslinked either physically or covalently into idealized step-growth biopolymer networks. Through rheological assessment, we find that the covalent linkage of multifunctional precursors yields hydrogels whose viscoelasticity depends on the crosslink length between the constituent building blocks. In contrast, reversibly crosslinking the homo-oligomeric components with a computationally designed heterodimer results in viscoelastic biomaterials exhibiting fluid-like properties under rest and low shear, but solid-like behavior at higher frequencies. Exploiting the unique genetic encodability of these materials, we demonstrate the assembly of protein networks within living mammalian cells and show via fluorescence recovery after photobleaching (FRAP) that mechanical properties can be tuned intracellularly in a manner similar to formulations formed extracellularly. We anticipate that the ability to modularly construct and systematically program the viscoelastic properties of designer protein-based materials could have broad utility in biomedicine, with applications in tissue engineering, therapeutic delivery, and synthetic biology.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1101/2023.06.02.543449"&gt;pubmed (preprint) — DOI: 10.1101/2023.06.02.543449&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1073/pnas.2309457121"&gt;pubmed (published) — DOI: 10.1073/pnas.2309457121&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1073/pnas.2309457121"&gt;Published version — DOI: 10.1073/pnas.2309457121&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pubmed.ncbi.nlm.nih.gov/38289949/"&gt;Published version&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
