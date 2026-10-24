@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-10-24T04:34:08Z</updated>
+  <updated>2026-10-24T10:56:47Z</updated>
   <entry>
     <id>urn:uuid:46daedc3-0ce3-5958-8d9f-704cb18ff6b8</id>
     <title>De novo design of enantioselective artificial metalloenzyme photocatalysts.</title>
@@ -1784,7 +1784,7 @@
     <id>urn:uuid:1b3b0a3b-2c8f-58e0-bed4-8ccac45c1837</id>
     <title>De novo design of selective kinase modulators.</title>
     <published>2026-07-13T00:00:00Z</published>
-    <updated>2026-10-03T11:37:59Z</updated>
+    <updated>2026-10-24T10:56:47Z</updated>
     <link href="https://doi.org/10.64898/2026.07.10.737808" rel="alternate" />
     <category term="preprint" />
     <author>
@@ -1861,7 +1861,7 @@
 &lt;p&gt;Sources: pubmed&lt;/p&gt;
 &lt;p&gt;Preprint date: 2026-07-13&lt;/p&gt;
 &lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
-&lt;p&gt;Protein kinases are critical regulators of cellular signaling, but precise modulation of their activity remains challenging due to their high structural conservation. Here, we present de novo designed genetically encoded miniproteins capable of activating or inhibiting focal adhesion kinase (FAK) by directly targeting the kinase domain itself. Among 96 binders designed to stabilize distinct conformational states of FAK, 33 modulated kinase activity. Biochemical characterization of the four most potent modulators revealed that two designs inhibit FAK with low-nanomolar IC 50 values while the remaining two potentiated FAK activity by more than two-fold. When expressed in cells, the modulators preserved the same inhibitory and activating effects observed in vitro, establishing that designed conformational binders can directly tune FAK signaling in living cells. Taking advantage of the high similarity between kinases, we redesigned the FAK inhibitors to inhibit Src kinase. Our approach establishes a versatile platform for selective and genetically encoded kinase control as a way to rewire cell signaling and as a starting point for the discovery of novel modulatory sites of kinases.&lt;/p&gt;
+&lt;p&gt;Protein kinases are critical regulators of cellular signaling, but precise modulation of their activity remains challenging due to their high structural conservation. Here, we present de novo designed genetically encoded miniproteins capable of activating or inhibiting focal adhesion kinase (FAK) by directly targeting the kinase domain itself. Among 96 binders designed to stabilize distinct conformational states of FAK, 33 modulated kinase activity. Biochemical characterization of the four most potent modulators revealed that two designs inhibit FAK with low-nanomolar IC50 values while the remaining two potentiated FAK activity by more than two-fold. When expressed in cells, the modulators preserved the same inhibitory and activating effects observed in vitro, establishing that designed conformational binders can directly tune FAK signaling in living cells. Taking advantage of the high similarity between kinases, we redesigned the FAK inhibitors to inhibit Src kinase. Our approach establishes a versatile platform for selective and genetically encoded kinase control as a way to rewire cell signaling and as a starting point for the discovery of novel modulatory sites of kinases.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.07.10.737808"&gt;pubmed (preprint) — DOI: 10.64898/2026.07.10.737808&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
