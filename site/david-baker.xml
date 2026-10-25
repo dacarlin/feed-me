@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-10-24T10:56:47Z</updated>
+  <updated>2026-10-25T11:24:45Z</updated>
   <entry>
     <id>urn:uuid:46daedc3-0ce3-5958-8d9f-704cb18ff6b8</id>
     <title>De novo design of enantioselective artificial metalloenzyme photocatalysts.</title>
@@ -183,75 +183,77 @@
   </entry>
   <entry>
     <id>urn:uuid:1210dab8-49b9-5c6a-8fac-bdabb9db617e</id>
-    <title>Complex enzyme active site scaffolding by iteratively detuned catalytic guidance</title>
+    <title>Complex enzyme active site scaffolding by iteratively detuned catalytic guidance.</title>
     <published>2026-10-06T00:00:00Z</published>
-    <updated>2026-10-16T16:37:25Z</updated>
+    <updated>2026-10-25T11:24:45Z</updated>
     <link href="https://doi.org/10.64898/2026.10.02.756307" rel="alternate" />
     <category term="preprint" />
     <author>
-      <name>Qian, T.</name>
+      <name>Tingli Qian</name>
     </author>
     <author>
-      <name>Wang, W.</name>
+      <name>Weijin Wang</name>
     </author>
     <author>
-      <name>Gao, S.</name>
+      <name>Shilong Gao</name>
     </author>
     <author>
-      <name>Muraishi, A.</name>
+      <name>Aiko Muraishi</name>
     </author>
     <author>
-      <name>Zhao, B.</name>
+      <name>Beibei Zhao</name>
     </author>
     <author>
-      <name>An, D. N.</name>
+      <name>Davi Nakajima An</name>
     </author>
     <author>
-      <name>Xue, F.</name>
+      <name>Fanglei Xue</name>
     </author>
     <author>
-      <name>Kazman, M.</name>
+      <name>Max Kazman</name>
     </author>
     <author>
-      <name>Mendoza, J.</name>
+      <name>Johnny Mendoza</name>
     </author>
     <author>
-      <name>Nguyen, H.</name>
+      <name>Hannah Nguyen</name>
     </author>
     <author>
-      <name>Bera, A.</name>
+      <name>Asim Bera</name>
     </author>
     <author>
-      <name>Kang, A.</name>
+      <name>Alex Kang</name>
     </author>
     <author>
-      <name>Yang, A.</name>
+      <name>Avery Yang</name>
     </author>
     <author>
-      <name>Dai, W.</name>
+      <name>Wenzhao Dai</name>
     </author>
     <author>
-      <name>Liang, J.</name>
+      <name>Jia Liang</name>
     </author>
     <author>
-      <name>Wang, Y.</name>
+      <name>Yujia Wang</name>
     </author>
     <author>
-      <name>Huang, X.</name>
+      <name>Xiongyi Huang</name>
     </author>
     <author>
-      <name>DiMaio, F.</name>
+      <name>Frank DiMaio</name>
     </author>
     <author>
-      <name>Baker, D.</name>
+      <name>David Baker</name>
     </author>
     <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Authors: Qian, T.; Wang, W.; Gao, S.; Muraishi, A.; Zhao, B.; An, D. N.; Xue, F.; Kazman, M.; Mendoza, J.; Nguyen, H.; Bera, A.; Kang, A.; Yang, A.; Dai, W.; Liang, J.; Wang, Y.; Huang, X.; DiMaio, F.; Baker, D.&lt;/p&gt;
-&lt;p&gt;Sources: biorxiv&lt;/p&gt;
+&lt;p&gt;Authors: Tingli Qian; Weijin Wang; Shilong Gao; Aiko Muraishi; Beibei Zhao; Davi Nakajima An; Fanglei Xue; Max Kazman; Johnny Mendoza; Hannah Nguyen; Asim Bera; Alex Kang; Avery Yang; Wenzhao Dai; Jia Liang; Yujia Wang; Xiongyi Huang; Frank DiMaio; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: biorxiv, pubmed&lt;/p&gt;
 &lt;p&gt;Preprint date: 2026-10-16&lt;/p&gt;
-&lt;p&gt;De novo enzyme design requires sequences whose structures reproduce prescribed catalytic geometries. This remains challenging for active sites that couple multiple catalytic residues, cofactors and substrates. Here we introduce the Catalytic Guidance Engine (CaGE), which optimizes designed sequences to satisfy complex sets of functional constraints by alternating constraint guided structure prediction trajectories with sequence design, gradually fading the strength of the constraint information over cycles to nudge the designed sequence towards satisfying all the constraints. We train RF3 to accept atom-pair distances and other design conditions, and use classifier-free guidance to fade their influence over multiple design cycles. We also develop training-free motif guidance protocols which operate at inference time by directly adjusting selected atoms towards the design target geometry during diffusion sampling. CaGE improves catalytic-motif geometry across a diverse enzyme benchmark and yields sequences that recover complex target active sites in independent AF3 predictions. We experimentally demonstrate the power of CaGE by designing active enzymes with complex catalytic sites: a nonheme-iron design positions four active-site residues around an iron centre and a transition-state ligand, and a PLP-dependent design positions four catalytic residues around a PLP cofactor with multiple functional groups. Active site substitutions and a 2.7[A] crystal structure support the designed mechanisms and structures. Thus, CaGE provides a route to functional de novo enzymes with complex active sites.&lt;/p&gt;
+&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
+&lt;p&gt;De novo enzyme design requires sequences whose structures reproduce prescribed catalytic geometries. This remains challenging for active sites that couple multiple catalytic residues, cofactors and substrates. Here we introduce the Catalytic Guidance Engine (CaGE), which optimizes designed sequences to satisfy complex sets of functional constraints by alternating constraint guided structure prediction trajectories with sequence design, gradually fading the strength of the constraint information over cycles to nudge the designed sequence towards satisfying all the constraints. We train RF3 to accept atom-pair distances and other design conditions, and use classifier-free guidance to fade their influence over multiple design cycles. We also develop training-free motif guidance protocols which operate at inference time by directly adjusting selected atoms towards the design target geometry during diffusion sampling. CaGE improves catalytic-motif geometry across a diverse enzyme benchmark and yields sequences that recover complex target active sites in independent AF3 predictions. We experimentally demonstrate the power of CaGE by designing active enzymes with complex catalytic sites: a nonheme-iron design positions four active-site residues around an iron centre and a transition-state ligand, and a PLP-dependent design positions four catalytic residues around a PLP cofactor with multiple functional groups. Active site substitutions and a 2.7Å crystal structure support the designed mechanisms and structures. Thus, CaGE provides a route to functional de novo enzymes with complex active sites.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.10.02.756307"&gt;biorxiv (preprint) — DOI: 10.64898/2026.10.02.756307&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.10.02.756307"&gt;pubmed (preprint) — DOI: 10.64898/2026.10.02.756307&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
@@ -2194,7 +2196,7 @@
     <id>urn:uuid:b4d914f5-7be9-589c-bd7b-7de03178249f</id>
     <title>De novo design of miniproteins targeting GPCRs.</title>
     <published>2026-05-21T00:00:00Z</published>
-    <updated>2026-09-11T17:54:26Z</updated>
+    <updated>2026-10-25T11:24:45Z</updated>
     <link href="https://doi.org/10.1038/s41586-026-10656-8" rel="alternate" />
     <category term="published" />
     <author>

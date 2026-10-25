@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-10-25T04:38:40Z",
+      "last_success": "2026-10-25T11:24:45Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-10-25T04:38:40Z",
+      "last_success": "2026-10-25T11:24:45Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-10-25T04:38:40Z",
+      "last_success": "2026-10-25T11:24:45Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -161,7 +161,8 @@
     "pubmed:24352111": "2026-10-22T21:34:07Z",
     "pubmed:42906913": "2026-10-23T04:46:49Z",
     "pubmed:38289949": "2026-10-24T04:34:08Z",
-    "pubmed:37398067": "2026-10-24T04:34:08Z"
+    "pubmed:37398067": "2026-10-24T04:34:08Z",
+    "pubmed:42926493": "2026-10-25T11:24:45Z"
   },
   "works": {
     "urn:uuid:7f477453-6c38-52e7-b591-accb9b0e6576": {
@@ -9531,7 +9532,7 @@
     "urn:uuid:b4d914f5-7be9-589c-bd7b-7de03178249f": {
       "id": "urn:uuid:b4d914f5-7be9-589c-bd7b-7de03178249f",
       "first_seen": "2026-09-11T17:54:26Z",
-      "updated": "2026-09-11T17:54:26Z",
+      "updated": "2026-10-25T11:24:45Z",
       "records": {
         "pubmed:42168559": {
           "source": "pubmed",
@@ -10099,7 +10100,9 @@
           "journal": "Nature",
           "version": "",
           "publication_date": "",
-          "identifiers": [],
+          "identifiers": [
+            "pmc:PMC13692778"
+          ],
           "relations": []
         }
       },
@@ -10124,6 +10127,16 @@
           "record": "pubmed:42168559",
           "method": "new_work",
           "reason": "no existing work"
+        },
+        {
+          "record": "pubmed:42168559",
+          "rank": 3,
+          "method": "shared_identifier",
+          "identifiers": [
+            "doi:10.1038/s41586-026-10656-8",
+            "pubmed:42168559"
+          ],
+          "matched_record": "pubmed:42168559"
         }
       ],
       "published": "2026-05-21T00:00:00Z"
@@ -22989,7 +23002,7 @@
     "urn:uuid:1210dab8-49b9-5c6a-8fac-bdabb9db617e": {
       "id": "urn:uuid:1210dab8-49b9-5c6a-8fac-bdabb9db617e",
       "first_seen": "2026-10-06T15:56:04Z",
-      "updated": "2026-10-16T16:37:25Z",
+      "updated": "2026-10-25T11:24:45Z",
       "records": {
         "biorxiv:10.64898/2026.10.02.756307": {
           "source": "biorxiv",
@@ -23104,6 +23117,120 @@
           "publication_date": "",
           "identifiers": [],
           "relations": []
+        },
+        "pubmed:42926493": {
+          "source": "pubmed",
+          "source_id": "42926493",
+          "title": "Complex enzyme active site scaffolding by iteratively detuned catalytic guidance.",
+          "authors": [
+            {
+              "name": "Tingli Qian",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Weijin Wang",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Shilong Gao",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Aiko Muraishi",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Beibei Zhao",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Davi Nakajima An",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Fanglei Xue",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Max Kazman",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Johnny Mendoza",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Hannah Nguyen",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Asim Bera",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Alex Kang",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Avery Yang",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Wenzhao Dai",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Jia Liang",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Yujia Wang",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Xiongyi Huang",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Frank DiMaio",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [],
+              "orcid": null
+            }
+          ],
+          "abstract": "De novo enzyme design requires sequences whose structures reproduce prescribed catalytic geometries. This remains challenging for active sites that couple multiple catalytic residues, cofactors and substrates. Here we introduce the Catalytic Guidance Engine (CaGE), which optimizes designed sequences to satisfy complex sets of functional constraints by alternating constraint guided structure prediction trajectories with sequence design, gradually fading the strength of the constraint information over cycles to nudge the designed sequence towards satisfying all the constraints. We train RF3 to accept atom-pair distances and other design conditions, and use classifier-free guidance to fade their influence over multiple design cycles. We also develop training-free motif guidance protocols which operate at inference time by directly adjusting selected atoms towards the design target geometry during diffusion sampling. CaGE improves catalytic-motif geometry across a diverse enzyme benchmark and yields sequences that recover complex target active sites in independent AF3 predictions. We experimentally demonstrate the power of CaGE by designing active enzymes with complex catalytic sites: a nonheme-iron design positions four active-site residues around an iron centre and a transition-state ligand, and a PLP-dependent design positions four catalytic residues around a PLP cofactor with multiple functional groups. Active site substitutions and a 2.7Å crystal structure support the designed mechanisms and structures. Thus, CaGE provides a route to functional de novo enzymes with complex active sites.",
+          "date": "2026-10-16",
+          "url": "https://doi.org/10.64898/2026.10.02.756307",
+          "doi": "10.64898/2026.10.02.756307",
+          "status": "preprint",
+          "journal": "bioRxiv : the preprint server for biology",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC13692022"
+          ],
+          "relations": []
         }
       },
       "matched_researchers": {
@@ -23125,6 +23252,14 @@
                 ]
               }
             ]
+          },
+          {
+            "record": "pubmed:42926493",
+            "matched": true,
+            "reason": "identity inherited through a strong work identifier",
+            "via_work": "urn:uuid:1210dab8-49b9-5c6a-8fac-bdabb9db617e",
+            "via_record": "biorxiv:10.64898/2026.10.02.756307",
+            "method": "shared_identifier"
           }
         ]
       },
@@ -23140,6 +23275,15 @@
           "method": "shared_identifier",
           "identifiers": [
             "biorxiv:10.64898/2026.10.02.756307",
+            "doi:10.64898/2026.10.02.756307"
+          ],
+          "matched_record": "biorxiv:10.64898/2026.10.02.756307"
+        },
+        {
+          "record": "pubmed:42926493",
+          "rank": 3,
+          "method": "shared_identifier",
+          "identifiers": [
             "doi:10.64898/2026.10.02.756307"
           ],
           "matched_record": "biorxiv:10.64898/2026.10.02.756307"
@@ -27246,6 +27390,145 @@
   },
   "aliases": {},
   "rejected": {
+    "pubmed:42926814": {
+      "first_seen": "2026-10-25T11:24:45Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "42926814",
+        "title": "Programming N-linked glycan composition through de novo protein design.",
+        "authors": [
+          {
+            "name": "Margaret C Lunn-Halbert",
+            "affiliations": [],
+            "orcid": "0000-0003-0527-5575"
+          },
+          {
+            "name": "Joel D Allen",
+            "affiliations": [],
+            "orcid": "0000-0003-2547-968X"
+          },
+          {
+            "name": "Rohith Krishna",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Anna Manchenko",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Xinting Li",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Edward D Lopatto",
+            "affiliations": [],
+            "orcid": "0000-0002-6625-6143"
+          },
+          {
+            "name": "Jerome Pinkner",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Carolina Moller",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Woody Ahern",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Johnny Mendoza",
+            "affiliations": [],
+            "orcid": "0000-0003-1573-4202"
+          },
+          {
+            "name": "Alex Kang",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Hannah Nguyen",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Emily Joyce",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Asim Bera",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Scott J Hultgren",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Evgeni Sokurenko",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Max Crispin",
+            "affiliations": [],
+            "orcid": "0000-0002-1072-2694"
+          },
+          {
+            "name": "David Baker",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Neil P King",
+            "affiliations": [],
+            "orcid": null
+          }
+        ],
+        "abstract": "N-linked glycans are ubiquitous post-translational modifications that mediate diverse biological processes, including cell signaling and adhesion, molecular recognition, and host-pathogen interactions. Despite their importance, N-linked glycans have largely remained beyond the reach of biomolecular design due to a lack of methods capable of jointly modeling glycans and protein structure. Here, we develop a general all-atom computational pipeline for creating de novo glycoproteins in which the amino acid sequence encodes both the location and composition of N-linked glycans. The method uses three-dimensional protein structure to tune glycan accessibility to processing enzymes in the eukaryotic secretory pathway. Systematic increases in steric restriction progressively reduced processing, shifting glycans from heterogeneous complex-type structures toward increasingly underprocessed oligomannose-type species resembling those found on many viral glycoproteins. Despite this programmed restriction, the resulting oligomannose glycans remained accessible for biological recognition, inhibiting uropathogenic Escherichia coli adhesion to human bladder cells and binding mannose-binding lectin. These results establish steric control of N-glycan processing as a genetically encodable design principle and extend computational protein design to functional glycoproteins with programmed composition.",
+        "date": "2026-10-08",
+        "url": "https://doi.org/10.64898/2026.10.07.757460",
+        "doi": "10.64898/2026.10.07.757460",
+        "status": "preprint",
+        "journal": "bioRxiv : the preprint server for biology",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [
+          "pmc:PMC13692304"
+        ],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "David Baker",
+              "method": "rejected",
+              "affiliations": [],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
     "biorxiv:10.64898/2026.10.20.760520": {
       "first_seen": "2026-10-22T04:41:38Z",
       "record": {
