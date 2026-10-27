@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-10-27T08:57:28Z",
+      "last_success": "2026-10-27T15:20:32Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-10-27T08:57:28Z",
+      "last_success": "2026-10-27T15:20:32Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-10-27T08:57:28Z",
+      "last_success": "2026-10-27T15:20:32Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -17168,7 +17168,7 @@
     "urn:uuid:bcda4bc3-56e6-5d49-b580-58d9b32c9d15": {
       "id": "urn:uuid:bcda4bc3-56e6-5d49-b580-58d9b32c9d15",
       "first_seen": "2026-09-18T20:53:28Z",
-      "updated": "2026-09-18T20:53:28Z",
+      "updated": "2026-10-27T15:20:32Z",
       "records": {
         "pubmed:42758048": {
           "source": "pubmed",
@@ -17238,7 +17238,9 @@
           "journal": "Angewandte Chemie (International ed. in English)",
           "version": "",
           "publication_date": "",
-          "identifiers": [],
+          "identifiers": [
+            "pmc:PMC13703803"
+          ],
           "relations": []
         }
       },
@@ -17263,6 +17265,16 @@
           "record": "pubmed:42758048",
           "method": "new_work",
           "reason": "no existing work"
+        },
+        {
+          "record": "pubmed:42758048",
+          "rank": 3,
+          "method": "shared_identifier",
+          "identifiers": [
+            "doi:10.1002/anie.5852828",
+            "pubmed:42758048"
+          ],
+          "matched_record": "pubmed:42758048"
         }
       ],
       "published": "2026-09-18T00:00:00Z"
@@ -27402,6 +27414,80 @@
   },
   "aliases": {},
   "rejected": {
+    "biorxiv:10.64898/2026.10.24.761497": {
+      "first_seen": "2026-10-27T15:20:32Z",
+      "record": {
+        "source": "biorxiv",
+        "source_id": "10.64898/2026.10.24.761497",
+        "title": "Function-preserving CD8⁺ T Cell Immunogenicity minimization through protein design",
+        "authors": [
+          {
+            "name": "Liu, B.",
+            "affiliations": [
+              "University of Washington"
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Mao, T.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Witwer, M. H.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Morell, O.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Hacohen, N.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Baker, D.",
+            "affiliations": [],
+            "orcid": null
+          }
+        ],
+        "abstract": "Rapid advances in protein design enable new approaches in adoptive cell therapy, but foreign proteins can elicit cytotoxic T cell responses, and hence there is considerable need for approaches which reduce immunogenicity without compromising protein function. Here, we develop a computational framework integrating structure-guided sequence design with MHC class I epitope prediction to efficiently tune protein immunogenicity while preserving function. Using a de novo-designed luciferase as a model, we demonstrate epitope elimination while preserving function across 5 common mouse alleles and extend our computational optimization to 25 common human MHC-I alleles. In mice immunized with mRNA-lipid nanoparticles, variants designed to have few MHC-I epitopes elicited little detectable CD8 T cell response, whereas variants designed to include multiple epitopes induced robust responses. Together, these results demonstrate that the CD8 T cell immunogenicity of designed proteins can be tuned while preserving function, opening the door to incorporation of designed proteins in a next generation of adoptive cell therapies.",
+        "date": "2026-10-27",
+        "url": "https://doi.org/10.64898/2026.10.24.761497",
+        "doi": "10.64898/2026.10.24.761497",
+        "status": "preprint",
+        "journal": "",
+        "version": "1",
+        "publication_date": "",
+        "identifiers": [],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "Baker, D.",
+              "method": "rejected",
+              "affiliations": [],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
     "pubmed:42926814": {
       "first_seen": "2026-10-25T11:24:45Z",
       "record": {
