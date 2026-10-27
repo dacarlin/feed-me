@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-10-27T00:24:58Z",
+      "last_success": "2026-10-27T08:57:28Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-10-27T00:24:58Z",
+      "last_success": "2026-10-27T08:57:28Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-10-27T00:24:58Z",
+      "last_success": "2026-10-27T08:57:28Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -20688,7 +20688,7 @@
     "urn:uuid:f0e2e76d-1158-50c5-aac7-cb15806c3f19": {
       "id": "urn:uuid:f0e2e76d-1158-50c5-aac7-cb15806c3f19",
       "first_seen": "2026-09-24T04:48:28Z",
-      "updated": "2026-09-24T04:48:28Z",
+      "updated": "2026-10-27T08:57:28Z",
       "records": {
         "pubmed:42777708": {
           "source": "pubmed",
@@ -20977,7 +20977,9 @@
           "journal": "Cell",
           "version": "",
           "publication_date": "",
-          "identifiers": [],
+          "identifiers": [
+            "pmc:PMC13695992"
+          ],
           "relations": []
         }
       },
@@ -21009,6 +21011,16 @@
           "record": "pubmed:42777708",
           "method": "new_work",
           "reason": "no existing work"
+        },
+        {
+          "record": "pubmed:42777708",
+          "rank": 3,
+          "method": "shared_identifier",
+          "identifiers": [
+            "doi:10.1016/j.cell.2026.08.045",
+            "pubmed:42777708"
+          ],
+          "matched_record": "pubmed:42777708"
         }
       ],
       "published": "2026-09-23T00:00:00Z"
