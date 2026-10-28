@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-10-28T05:39:39Z",
+      "last_success": "2026-10-28T12:51:52Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-10-28T05:39:39Z",
+      "last_success": "2026-10-28T12:51:52Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-10-28T05:39:39Z",
+      "last_success": "2026-10-28T12:51:52Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -27611,6 +27611,115 @@
     "urn:uuid:4b3d262c-d759-5ebd-a82d-a7a91bd68fad": "urn:uuid:9e012682-4c6a-50a3-b187-e8ed207714b5"
   },
   "rejected": {
+    "biorxiv:10.64898/2026.10.26.761864": {
+      "first_seen": "2026-10-28T12:51:52Z",
+      "record": {
+        "source": "biorxiv",
+        "source_id": "10.64898/2026.10.26.761864",
+        "title": "Verifiable Agentic Science on Public Infrastructure",
+        "authors": [
+          {
+            "name": "Baker, D.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Cain, S.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "van den Beek, M.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Chilton, J.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Callan, D.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Weaver, S.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Coraor, N.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Beavers, K.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Goecks, J.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Schatz, M. C.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Gruening, B.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Kosakovsky Pond, S. L.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Nekrutenko, A.",
+            "affiliations": [
+              "Penn State"
+            ],
+            "orcid": null
+          }
+        ],
+        "abstract": "Autonomous artificial intelligence agents are transforming the practice of science. Across every discipline, researchers are handing data analysis to coding agents that can design and execute complex studies from a single prompt. Yet this revolution carries a threat. When agents improvise in local environments, they leave no verifiable record, ultimately risking a wave of irreproducible science. Solving this crisis requires moving agentic science onto public infrastructure where every action leaves an examinable trail. Here we connect autonomous coding agents to shared computing resources, turning ephemeral prompts into auditable scientific records. After showing that 30 unguided local agents splinter into 18 incompatible pipelines on the same dataset, we conduct an agentic reproduction and discovery study on a large scale---reproducing a large, diverse array of studies with every workflow, history, and intermediate dataset publicly accessible. This complete provenance trail exposes unstated modeling choices, reference mismatches, and subsampled tutorial inputs in published studies, and establishes a new foundation where human scientists can understand, steer, and trust AI-driven discovery.",
+        "date": "2026-10-28",
+        "url": "https://doi.org/10.64898/2026.10.26.761864",
+        "doi": "10.64898/2026.10.26.761864",
+        "status": "preprint",
+        "journal": "",
+        "version": "1",
+        "publication_date": "",
+        "identifiers": [],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "Baker, D.",
+              "method": "rejected",
+              "affiliations": [],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
     "biorxiv:10.64898/2026.10.24.761497": {
       "first_seen": "2026-10-27T15:20:32Z",
       "record": {
