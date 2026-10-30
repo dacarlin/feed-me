@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-10-30T09:58:56Z",
+      "last_success": "2026-10-30T17:59:31Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-10-30T09:58:56Z",
+      "last_success": "2026-10-30T17:59:31Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-10-30T09:58:56Z",
+      "last_success": "2026-10-30T17:59:31Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -163,7 +163,11 @@
     "pubmed:38289949": "2026-10-24T04:34:08Z",
     "pubmed:37398067": "2026-10-24T04:34:08Z",
     "pubmed:42926493": "2026-10-25T11:24:45Z",
-    "pubmed:41332739": "2026-10-27T22:12:15Z"
+    "pubmed:41332739": "2026-10-27T22:12:15Z",
+    "pubmed:40631088": "2026-10-30T17:59:31Z",
+    "pubmed:37695922": "2026-10-30T17:59:31Z",
+    "pubmed:37632837": "2026-10-30T17:59:31Z",
+    "pubmed:25389263": "2026-10-30T17:59:31Z"
   },
   "works": {
     "urn:uuid:7f477453-6c38-52e7-b591-accb9b0e6576": {
@@ -27687,6 +27691,565 @@
         }
       ],
       "published": "2023-06-03T00:00:00Z"
+    },
+    "urn:uuid:ae748f30-a510-566c-8cdf-5b52d80c1fb2": {
+      "id": "urn:uuid:ae748f30-a510-566c-8cdf-5b52d80c1fb2",
+      "first_seen": "2026-10-30T17:59:31Z",
+      "updated": "2026-10-30T17:59:31Z",
+      "records": {
+        "pubmed:25389263": {
+          "source": "pubmed",
+          "source_id": "25389263",
+          "title": "Massively parallel determination and modeling of endonuclease substrate specificity.",
+          "authors": [
+            {
+              "name": "Summer B Thyme",
+              "affiliations": [
+                "Harvard University, 16 Divinity Avenue, Cambridge, MA 02138, USA sthyme@gmail.com."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Yifan Song",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "T J Brunette",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Mindy D Szeto",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Lara Kusak",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Philip Bradley",
+              "affiliations": [
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA Division of Public Health Sciences, Fred Hutchinson Cancer Research Center, 1100 Fairview Avenue, Seattle, WA 98109, USA dabaker@u.washington.edu."
+              ],
+              "orcid": null
+            }
+          ],
+          "abstract": "We describe the identification and characterization of novel homing endonucleases using genome database mining to identify putative target sites, followed by high throughput activity screening in a bacterial selection system. We characterized the substrate specificity and kinetics of these endonucleases by monitoring DNA cleavage events with deep sequencing. The endonuclease specificities revealed by these experiments can be partially recapitulated using 3D structure-based computational models. Analysis of these models together with genome sequence data provide insights into how alternative endonuclease specificities were generated during natural evolution.",
+          "date": "2014-11-11",
+          "url": "https://doi.org/10.1093/nar/gku1096",
+          "doi": "10.1093/nar/gku1096",
+          "status": "published",
+          "journal": "Nucleic acids research",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC4267613"
+          ],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:25389263",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "name_and_affiliations",
+                "affiliations": [
+                  "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA Division of Public Health Sciences, Fred Hutchinson Cancer Research Center, 1100 Fairview Avenue, Seattle, WA 98109, USA dabaker@u.washington.edu."
+                ],
+                "matched_affiliations": [
+                  "University of Washington",
+                  "Department of Biochemistry"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:25389263",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2014-11-11T00:00:00Z"
+    },
+    "urn:uuid:7d36376e-64df-5b5a-9d67-915e28ff30ec": {
+      "id": "urn:uuid:7d36376e-64df-5b5a-9d67-915e28ff30ec",
+      "first_seen": "2026-10-30T17:59:31Z",
+      "updated": "2026-10-30T17:59:31Z",
+      "records": {
+        "pubmed:37632837": {
+          "source": "pubmed",
+          "source_id": "37632837",
+          "title": "De novo design of monomeric helical bundles for pH-controlled membrane lysis.",
+          "authors": [
+            {
+              "name": "Nicolas Goldbach",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, Washington, USA.",
+                "Molecular Life Sciences, Technical University of Munich, Munich, Germany."
+              ],
+              "orcid": "0000-0001-5401-3892"
+            },
+            {
+              "name": "Issa Benna",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, Washington, USA.",
+                "Department of Bioengineering, University of Washington, Seattle, Washington, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Basile I M Wicky",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, Washington, USA.",
+                "Department of Biochemistry, University of Washington, Seattle, Washington, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Jacob T Croft",
+              "affiliations": [
+                "Department of Medicinal Chemistry, University of Washington, Seattle, Washington, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Lauren Carter",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, Washington, USA.",
+                "Department of Biochemistry, University of Washington, Seattle, Washington, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Asim K Bera",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, Washington, USA.",
+                "Department of Biochemistry, University of Washington, Seattle, Washington, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Hannah Nguyen",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, Washington, USA.",
+                "Department of Biochemistry, University of Washington, Seattle, Washington, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Alex Kang",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, Washington, USA.",
+                "Department of Biochemistry, University of Washington, Seattle, Washington, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Banumathi Sankaran",
+              "affiliations": [
+                "Molecular Biophysics and Integrated Bioimaging, Lawrence Berkeley National Laboratory, Berkeley, California, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Erin C Yang",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, Washington, USA.",
+                "Department of Biochemistry, University of Washington, Seattle, Washington, USA.",
+                "Biological Physics, Structure and Design Graduate Program, University of Washington, Seattle, Washington, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Kelly K Lee",
+              "affiliations": [
+                "Department of Medicinal Chemistry, University of Washington, Seattle, Washington, USA.",
+                "Biological Physics, Structure and Design Graduate Program, University of Washington, Seattle, Washington, USA.",
+                "Department of Microbiology, University of Washington, Seattle, Washington, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, Washington, USA.",
+                "Department of Biochemistry, University of Washington, Seattle, Washington, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, Washington, USA."
+              ],
+              "orcid": "0000-0001-7896-6217"
+            }
+          ],
+          "abstract": "Targeted intracellular delivery via receptor-mediated endocytosis requires the delivered cargo to escape the endosome to prevent lysosomal degradation. This can in principle be achieved by membrane lysis tightly restricted to endosomal membranes upon internalization to avoid general membrane insertion and lysis. Here, we describe the design of small monomeric proteins with buried histidine containing pH-responsive hydrogen bond networks and membrane permeating amphipathic helices. Of the 30 designs that were experimentally tested, all expressed in Escherichia coli, 13 were monomeric with the expected secondary structure, and 4 designs disrupted artificial liposomes in a pH-dependent manner. Mutational analysis showed that the buried histidine hydrogen bond networks mediate pH-responsiveness and control lysis of model membranes within a very narrow range of pH (6.0-5.5) with almost no lysis occurring at neutral pH. These tightly controlled lytic monomers could help mediate endosomal escape in designed targeted delivery platforms.",
+          "date": "2023-11",
+          "url": "https://doi.org/10.1002/pro.4769",
+          "doi": "10.1002/pro.4769",
+          "status": "published",
+          "journal": "Protein science : a publication of the Protein Society",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC10578055"
+          ],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:37632837",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:37632837",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2023-11-01T00:00:00Z"
+    },
+    "urn:uuid:5daeea76-4aa9-514a-a7c3-a4927765156b": {
+      "id": "urn:uuid:5daeea76-4aa9-514a-a7c3-a4927765156b",
+      "first_seen": "2026-10-30T17:59:31Z",
+      "updated": "2026-10-30T17:59:31Z",
+      "records": {
+        "pubmed:37695922": {
+          "source": "pubmed",
+          "source_id": "37695922",
+          "title": "Zero-shot mutation effect prediction on protein stability and function using RoseTTAFold.",
+          "authors": [
+            {
+              "name": "Sanaa Mansoor",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, Washington, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, Washington, WA, USA.",
+                "Molecular Engineering Graduate Program, University of Washington, Seattle, Washington, WA, USA."
+              ],
+              "orcid": "0009-0004-5992-060X"
+            },
+            {
+              "name": "Minkyung Baek",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, Washington, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, Washington, WA, USA.",
+                "School of Biological Sciences, Seoul National University, Seoul, Republic of Korea."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David Juergens",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, Washington, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, Washington, WA, USA.",
+                "Molecular Engineering Graduate Program, University of Washington, Seattle, Washington, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Joseph L Watson",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, Washington, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, Washington, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, Washington, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, Washington, WA, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, Washington, WA, USA."
+              ],
+              "orcid": "0000-0001-7896-6217"
+            }
+          ],
+          "abstract": "Predicting the effects of mutations on protein function and stability is an outstanding challenge. Here, we assess the performance of a variant of RoseTTAFold jointly trained for sequence and structure recovery, RFjoint , for mutation effect prediction. Without any further training, we achieve comparable accuracy in predicting mutation effects for a diverse set of protein families using RFjoint to both another zero-shot model (MSA Transformer) and a model that requires specific training on a particular protein family for mutation effect prediction (DeepSequence). Thus, although the architecture of RFjoint was developed to address the protein design problem of scaffolding functional motifs, RFjoint acquired an understanding of the mutational landscapes of proteins during model training that is equivalent to that of recently developed large protein language models. The ability to simultaneously reason over protein structure and sequence could enable even more precise mutation effect predictions following supervised training on the task. These results suggest that RFjoint has a quite broad understanding of protein sequence-structure landscapes, and can be viewed as a joint model for protein sequence and structure which could be broadly useful for protein modeling.",
+          "date": "2023-11",
+          "url": "https://doi.org/10.1002/pro.4780",
+          "doi": "10.1002/pro.4780",
+          "status": "published",
+          "journal": "Protein science : a publication of the Protein Society",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC10578109"
+          ],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:37695922",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:37695922",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2023-11-01T00:00:00Z"
+    },
+    "urn:uuid:a047f863-69dc-5a10-834b-216d7348bd97": {
+      "id": "urn:uuid:a047f863-69dc-5a10-834b-216d7348bd97",
+      "first_seen": "2026-10-30T17:59:31Z",
+      "updated": "2026-10-30T17:59:31Z",
+      "records": {
+        "pubmed:40631088": {
+          "source": "pubmed",
+          "source_id": "40631088",
+          "title": "De novo design of high-affinity miniprotein binders targeting Francisella tularensis virulence factor.",
+          "authors": [
+            {
+              "name": "Gizem Gokce-Alpkilic",
+              "affiliations": [
+                "Molecular Engineering and Sciences Institute, University of Washington, Seattle, WA, USA.",
+                "Department of Medicinal Chemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-5009-4429"
+            },
+            {
+              "name": "Buwei Huang",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Department of Bioengineering, University of Washington, Seattle, WA, USA.",
+                "Current address: Xaira Therapeutics, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Andi Liu",
+              "affiliations": [
+                "Department of Microbiology, University of Washington, Seattle, WA, USA.",
+                "Current address: Sound Biologics, Bothell, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Lieselotte S M Kreuk",
+              "affiliations": [
+                "Department of Microbiology, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Yaxi Wang",
+              "affiliations": [
+                "Department of Microbiology, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Victor Adebomi",
+              "affiliations": [
+                "Department of Medicinal Chemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Yensi Flores Bueso",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Cancer Research @UCC, University College Cork, Cork, Ireland."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Asim K Bera",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Alex Kang",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Stacey R Gerben",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Stephen Rettie",
+              "affiliations": [
+                "Department of Medicinal Chemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Molecular and Cellular Biology Program, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Dionne K Vafeados",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Nicole Roullier",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Inna Goreshnik",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Xinting Li",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Joshua J Woodward",
+              "affiliations": [
+                "Department of Microbiology, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Joseph D Mougous",
+              "affiliations": [
+                "Department of Microbiology, University of Washington, Seattle, WA, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Gaurav Bhardwaj",
+              "affiliations": [
+                "Molecular Engineering and Sciences Institute, University of Washington, Seattle, WA, USA.",
+                "Department of Medicinal Chemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            }
+          ],
+          "abstract": "Francisella tularensis poses considerable public health risk due to its high infectivity and potential for bioterrorism. Francisella-like lipoprotein (Flpp3), a key virulence factor unique to Francisella, plays critical roles in infection and immune evasion, making it a promising target for therapeutic development. However, the lack of well-defined binding pockets and structural information on native interactions has hindered structure-guided ligand discovery against Flpp3. Here, we used a combination of physics-based and deep-learning methods to design high-affinity miniprotein binders targeting two distinct sites on Flpp3. We identified four binders for site I with binding affinities ranging between 24-110 nM. For the second site, an initial binder showed a dissociation constant (K D ) of 81 nM, and subsequent site saturation mutagenesis yielded variants with sub-nanomolar affinities. Circular dichroism confirmed the topology of designed miniproteins. The X-ray crystal structure of Flpp3 in complex with a site I binder is nearly identical to the design model (Cα root-mean-square deviation: 0.9 Å). These designed miniproteins provide research tools to explore the roles of Flpp3 in tularemia and should enable the development of new therapeutic candidates.",
+          "date": "2025-07-05",
+          "url": "https://doi.org/10.1101/2025.07.02.662053",
+          "doi": "10.1101/2025.07.02.662053",
+          "status": "preprint",
+          "journal": "bioRxiv : the preprint server for biology",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC12236611"
+          ],
+          "relations": [
+            {
+              "kind": "is_preprint_of",
+              "target": "pubmed:41117072",
+              "evidence": "PubMed preprint UpdateIn"
+            }
+          ]
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:40631088",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "name_and_affiliations",
+                "affiliations": [
+                  "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                  "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                  "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+                ],
+                "matched_affiliations": [
+                  "Institute for Protein Design",
+                  "University of Washington",
+                  "Department of Biochemistry"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:40631088",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2025-07-05T00:00:00Z"
     }
   },
   "aliases": {

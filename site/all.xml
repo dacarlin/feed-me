@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-10-30T09:58:56Z</updated>
+  <updated>2026-10-30T17:59:31Z</updated>
   <entry>
     <id>urn:uuid:46daedc3-0ce3-5958-8d9f-704cb18ff6b8</id>
     <title>De novo design of enantioselective artificial metalloenzyme photocatalysts.</title>
@@ -6417,6 +6417,83 @@
 &lt;/ul&gt;</content>
   </entry>
   <entry>
+    <id>urn:uuid:a047f863-69dc-5a10-834b-216d7348bd97</id>
+    <title>De novo design of high-affinity miniprotein binders targeting Francisella tularensis virulence factor.</title>
+    <published>2025-07-05T00:00:00Z</published>
+    <updated>2026-10-30T17:59:31Z</updated>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/41117072/" rel="alternate" />
+    <link href="https://doi.org/10.1101/2025.07.02.662053" rel="related" title="pubmed" />
+    <category term="published" />
+    <author>
+      <name>Gizem Gokce-Alpkilic</name>
+    </author>
+    <author>
+      <name>Buwei Huang</name>
+    </author>
+    <author>
+      <name>Andi Liu</name>
+    </author>
+    <author>
+      <name>Lieselotte S M Kreuk</name>
+    </author>
+    <author>
+      <name>Yaxi Wang</name>
+    </author>
+    <author>
+      <name>Victor Adebomi</name>
+    </author>
+    <author>
+      <name>Yensi Flores Bueso</name>
+    </author>
+    <author>
+      <name>Asim K Bera</name>
+    </author>
+    <author>
+      <name>Alex Kang</name>
+    </author>
+    <author>
+      <name>Stacey R Gerben</name>
+    </author>
+    <author>
+      <name>Stephen Rettie</name>
+    </author>
+    <author>
+      <name>Dionne K Vafeados</name>
+    </author>
+    <author>
+      <name>Nicole Roullier</name>
+    </author>
+    <author>
+      <name>Inna Goreshnik</name>
+    </author>
+    <author>
+      <name>Xinting Li</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Joshua J Woodward</name>
+    </author>
+    <author>
+      <name>Joseph D Mougous</name>
+    </author>
+    <author>
+      <name>Gaurav Bhardwaj</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Gizem Gokce-Alpkilic; Buwei Huang; Andi Liu; Lieselotte S M Kreuk; Yaxi Wang; Victor Adebomi; Yensi Flores Bueso; Asim K Bera; Alex Kang; Stacey R Gerben; Stephen Rettie; Dionne K Vafeados; Nicole Roullier; Inna Goreshnik; Xinting Li; David Baker; Joshua J Woodward; Joseph D Mougous; Gaurav Bhardwaj&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Preprint date: 2025-07-05&lt;/p&gt;
+&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
+&lt;p&gt;A published version is linked below. Title, authors and abstract are from the preprint.&lt;/p&gt;
+&lt;p&gt;Francisella tularensis poses considerable public health risk due to its high infectivity and potential for bioterrorism. Francisella-like lipoprotein (Flpp3), a key virulence factor unique to Francisella, plays critical roles in infection and immune evasion, making it a promising target for therapeutic development. However, the lack of well-defined binding pockets and structural information on native interactions has hindered structure-guided ligand discovery against Flpp3. Here, we used a combination of physics-based and deep-learning methods to design high-affinity miniprotein binders targeting two distinct sites on Flpp3. We identified four binders for site I with binding affinities ranging between 24-110 nM. For the second site, an initial binder showed a dissociation constant (K D ) of 81 nM, and subsequent site saturation mutagenesis yielded variants with sub-nanomolar affinities. Circular dichroism confirmed the topology of designed miniproteins. The X-ray crystal structure of Flpp3 in complex with a site I binder is nearly identical to the design model (Cα root-mean-square deviation: 0.9 Å). These designed miniproteins provide research tools to explore the roles of Flpp3 in tularemia and should enable the development of new therapeutic candidates.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1101/2025.07.02.662053"&gt;pubmed (preprint) — DOI: 10.1101/2025.07.02.662053&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pubmed.ncbi.nlm.nih.gov/41117072/"&gt;Published version&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
     <id>urn:uuid:192d1fe0-ac40-5236-84f9-4281545eb9e9</id>
     <title>Solution mapping of MHC-I:TCR interactions using a minimalistic protein system.</title>
     <published>2025-06-09T00:00:00Z</published>
@@ -8172,6 +8249,93 @@
 &lt;/ul&gt;</content>
   </entry>
   <entry>
+    <id>urn:uuid:7d36376e-64df-5b5a-9d67-915e28ff30ec</id>
+    <title>De novo design of monomeric helical bundles for pH-controlled membrane lysis.</title>
+    <published>2023-11-01T00:00:00Z</published>
+    <updated>2026-10-30T17:59:31Z</updated>
+    <link href="https://doi.org/10.1002/pro.4769" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Nicolas Goldbach</name>
+    </author>
+    <author>
+      <name>Issa Benna</name>
+    </author>
+    <author>
+      <name>Basile I M Wicky</name>
+    </author>
+    <author>
+      <name>Jacob T Croft</name>
+    </author>
+    <author>
+      <name>Lauren Carter</name>
+    </author>
+    <author>
+      <name>Asim K Bera</name>
+    </author>
+    <author>
+      <name>Hannah Nguyen</name>
+    </author>
+    <author>
+      <name>Alex Kang</name>
+    </author>
+    <author>
+      <name>Banumathi Sankaran</name>
+    </author>
+    <author>
+      <name>Erin C Yang</name>
+    </author>
+    <author>
+      <name>Kelly K Lee</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Nicolas Goldbach; Issa Benna; Basile I M Wicky; Jacob T Croft; Lauren Carter; Asim K Bera; Hannah Nguyen; Alex Kang; Banumathi Sankaran; Erin C Yang; Kelly K Lee; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2023-11&lt;/p&gt;
+&lt;p&gt;Journal: Protein science : a publication of the Protein Society&lt;/p&gt;
+&lt;p&gt;Targeted intracellular delivery via receptor-mediated endocytosis requires the delivered cargo to escape the endosome to prevent lysosomal degradation. This can in principle be achieved by membrane lysis tightly restricted to endosomal membranes upon internalization to avoid general membrane insertion and lysis. Here, we describe the design of small monomeric proteins with buried histidine containing pH-responsive hydrogen bond networks and membrane permeating amphipathic helices. Of the 30 designs that were experimentally tested, all expressed in Escherichia coli, 13 were monomeric with the expected secondary structure, and 4 designs disrupted artificial liposomes in a pH-dependent manner. Mutational analysis showed that the buried histidine hydrogen bond networks mediate pH-responsiveness and control lysis of model membranes within a very narrow range of pH (6.0-5.5) with almost no lysis occurring at neutral pH. These tightly controlled lytic monomers could help mediate endosomal escape in designed targeted delivery platforms.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1002/pro.4769"&gt;pubmed (published) — DOI: 10.1002/pro.4769&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1002/pro.4769"&gt;Published version — DOI: 10.1002/pro.4769&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:5daeea76-4aa9-514a-a7c3-a4927765156b</id>
+    <title>Zero-shot mutation effect prediction on protein stability and function using RoseTTAFold.</title>
+    <published>2023-11-01T00:00:00Z</published>
+    <updated>2026-10-30T17:59:31Z</updated>
+    <link href="https://doi.org/10.1002/pro.4780" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Sanaa Mansoor</name>
+    </author>
+    <author>
+      <name>Minkyung Baek</name>
+    </author>
+    <author>
+      <name>David Juergens</name>
+    </author>
+    <author>
+      <name>Joseph L Watson</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Sanaa Mansoor; Minkyung Baek; David Juergens; Joseph L Watson; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2023-11&lt;/p&gt;
+&lt;p&gt;Journal: Protein science : a publication of the Protein Society&lt;/p&gt;
+&lt;p&gt;Predicting the effects of mutations on protein function and stability is an outstanding challenge. Here, we assess the performance of a variant of RoseTTAFold jointly trained for sequence and structure recovery, RFjoint , for mutation effect prediction. Without any further training, we achieve comparable accuracy in predicting mutation effects for a diverse set of protein families using RFjoint to both another zero-shot model (MSA Transformer) and a model that requires specific training on a particular protein family for mutation effect prediction (DeepSequence). Thus, although the architecture of RFjoint was developed to address the protein design problem of scaffolding functional motifs, RFjoint acquired an understanding of the mutational landscapes of proteins during model training that is equivalent to that of recently developed large protein language models. The ability to simultaneously reason over protein structure and sequence could enable even more precise mutation effect predictions following supervised training on the task. These results suggest that RFjoint has a quite broad understanding of protein sequence-structure landscapes, and can be viewed as a joint model for protein sequence and structure which could be broadly useful for protein modeling.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1002/pro.4780"&gt;pubmed (published) — DOI: 10.1002/pro.4780&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1002/pro.4780"&gt;Published version — DOI: 10.1002/pro.4780&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
     <id>urn:uuid:30accd30-44b9-5e12-8a03-995963d1e1c4</id>
     <title>Accurate computational design of three-dimensional protein crystals.</title>
     <published>2023-10-16T00:00:00Z</published>
@@ -8927,6 +9091,45 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/nchembio.1997"&gt;pubmed (published) — DOI: 10.1038/nchembio.1997&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/nchembio.1997"&gt;Published version — DOI: 10.1038/nchembio.1997&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:ae748f30-a510-566c-8cdf-5b52d80c1fb2</id>
+    <title>Massively parallel determination and modeling of endonuclease substrate specificity.</title>
+    <published>2014-11-11T00:00:00Z</published>
+    <updated>2026-10-30T17:59:31Z</updated>
+    <link href="https://doi.org/10.1093/nar/gku1096" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Summer B Thyme</name>
+    </author>
+    <author>
+      <name>Yifan Song</name>
+    </author>
+    <author>
+      <name>T J Brunette</name>
+    </author>
+    <author>
+      <name>Mindy D Szeto</name>
+    </author>
+    <author>
+      <name>Lara Kusak</name>
+    </author>
+    <author>
+      <name>Philip Bradley</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Summer B Thyme; Yifan Song; T J Brunette; Mindy D Szeto; Lara Kusak; Philip Bradley; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2014-11-11&lt;/p&gt;
+&lt;p&gt;Journal: Nucleic acids research&lt;/p&gt;
+&lt;p&gt;We describe the identification and characterization of novel homing endonucleases using genome database mining to identify putative target sites, followed by high throughput activity screening in a bacterial selection system. We characterized the substrate specificity and kinetics of these endonucleases by monitoring DNA cleavage events with deep sequencing. The endonuclease specificities revealed by these experiments can be partially recapitulated using 3D structure-based computational models. Analysis of these models together with genome sequence data provide insights into how alternative endonuclease specificities were generated during natural evolution.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1093/nar/gku1096"&gt;pubmed (published) — DOI: 10.1093/nar/gku1096&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1093/nar/gku1096"&gt;Published version — DOI: 10.1093/nar/gku1096&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
