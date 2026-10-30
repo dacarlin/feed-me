@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-10-30T00:58:02Z",
+      "last_success": "2026-10-30T09:58:56Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-10-30T00:58:02Z",
+      "last_success": "2026-10-30T09:58:56Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-10-30T00:58:02Z",
+      "last_success": "2026-10-30T09:58:56Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -23340,7 +23340,7 @@
     "urn:uuid:1210dab8-49b9-5c6a-8fac-bdabb9db617e": {
       "id": "urn:uuid:1210dab8-49b9-5c6a-8fac-bdabb9db617e",
       "first_seen": "2026-10-06T15:56:04Z",
-      "updated": "2026-10-25T11:24:45Z",
+      "updated": "2026-10-30T09:58:56Z",
       "records": {
         "biorxiv:10.64898/2026.10.02.756307": {
           "source": "biorxiv",
@@ -23463,97 +23463,158 @@
           "authors": [
             {
               "name": "Tingli Qian",
-              "affiliations": [],
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA 98105, USA.",
+                "Department of Biochemistry, University of Washington, Seattle, WA 98105, USA.",
+                "Graduate Program in Molecular Engineering, University of Washington, Seattle, WA 98105, USA."
+              ],
               "orcid": null
             },
             {
               "name": "Weijin Wang",
-              "affiliations": [],
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA 98105, USA.",
+                "Department of Biochemistry, University of Washington, Seattle, WA 98105, USA."
+              ],
               "orcid": null
             },
             {
               "name": "Shilong Gao",
-              "affiliations": [],
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA 98105, USA.",
+                "Department of Biochemistry, University of Washington, Seattle, WA 98105, USA."
+              ],
               "orcid": null
             },
             {
               "name": "Aiko Muraishi",
-              "affiliations": [],
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA 98105, USA.",
+                "Department of Biochemistry, University of Washington, Seattle, WA 98105, USA.",
+                "Paul G. Allen School of Computer Science and Engineering, University of Washington, Seattle, WA 98105, USA."
+              ],
               "orcid": null
             },
             {
               "name": "Beibei Zhao",
-              "affiliations": [],
+              "affiliations": [
+                "Department of Chemistry, Johns Hopkins University, Baltimore, MD 21218, USA."
+              ],
               "orcid": null
             },
             {
               "name": "Davi Nakajima An",
-              "affiliations": [],
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA 98105, USA.",
+                "Department of Biochemistry, University of Washington, Seattle, WA 98105, USA.",
+                "Graduate Program in Molecular Engineering, University of Washington, Seattle, WA 98105, USA."
+              ],
               "orcid": null
             },
             {
               "name": "Fanglei Xue",
-              "affiliations": [],
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA 98105, USA."
+              ],
               "orcid": null
             },
             {
               "name": "Max Kazman",
-              "affiliations": [],
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA 98105, USA.",
+                "Department of Biochemistry, University of Washington, Seattle, WA 98105, USA.",
+                "Graduate Program in Biological Physics, Structure and Design, University of Washington, Seattle, WA 98105, USA."
+              ],
               "orcid": null
             },
             {
               "name": "Johnny Mendoza",
-              "affiliations": [],
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA 98105, USA.",
+                "Department of Biochemistry, University of Washington, Seattle, WA 98105, USA."
+              ],
               "orcid": null
             },
             {
               "name": "Hannah Nguyen",
-              "affiliations": [],
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA 98105, USA.",
+                "Department of Biochemistry, University of Washington, Seattle, WA 98105, USA."
+              ],
               "orcid": null
             },
             {
               "name": "Asim Bera",
-              "affiliations": [],
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA 98105, USA.",
+                "Department of Biochemistry, University of Washington, Seattle, WA 98105, USA."
+              ],
               "orcid": null
             },
             {
               "name": "Alex Kang",
-              "affiliations": [],
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA 98105, USA.",
+                "Department of Biochemistry, University of Washington, Seattle, WA 98105, USA."
+              ],
               "orcid": null
             },
             {
               "name": "Avery Yang",
-              "affiliations": [],
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA 98105, USA.",
+                "Department of Biochemistry, University of Washington, Seattle, WA 98105, USA.",
+                "Graduate Program in Molecular Engineering, University of Washington, Seattle, WA 98105, USA."
+              ],
               "orcid": null
             },
             {
               "name": "Wenzhao Dai",
-              "affiliations": [],
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA 98105, USA.",
+                "Department of Biochemistry, University of Washington, Seattle, WA 98105, USA."
+              ],
               "orcid": null
             },
             {
               "name": "Jia Liang",
-              "affiliations": [],
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA 98105, USA.",
+                "Department of Biochemistry, University of Washington, Seattle, WA 98105, USA.",
+                "Graduate Program in Bioengineering, University of Washington, Seattle, WA 98105, USA."
+              ],
               "orcid": null
             },
             {
               "name": "Yujia Wang",
-              "affiliations": [],
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA 98105, USA.",
+                "Department of Biochemistry, University of Washington, Seattle, WA 98105, USA."
+              ],
               "orcid": null
             },
             {
               "name": "Xiongyi Huang",
-              "affiliations": [],
+              "affiliations": [
+                "Department of Chemistry, Johns Hopkins University, Baltimore, MD 21218, USA."
+              ],
               "orcid": null
             },
             {
               "name": "Frank DiMaio",
-              "affiliations": [],
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA 98105, USA.",
+                "Department of Biochemistry, University of Washington, Seattle, WA 98105, USA."
+              ],
               "orcid": null
             },
             {
               "name": "David Baker",
-              "affiliations": [],
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA 98105, USA.",
+                "Department of Biochemistry, University of Washington, Seattle, WA 98105, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA 98105, USA."
+              ],
               "orcid": null
             }
           ],
@@ -23598,6 +23659,27 @@
             "via_work": "urn:uuid:1210dab8-49b9-5c6a-8fac-bdabb9db617e",
             "via_record": "biorxiv:10.64898/2026.10.02.756307",
             "method": "shared_identifier"
+          },
+          {
+            "record": "pubmed:42926493",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "name_and_affiliations",
+                "affiliations": [
+                  "Institute for Protein Design, University of Washington, Seattle, WA 98105, USA.",
+                  "Department of Biochemistry, University of Washington, Seattle, WA 98105, USA.",
+                  "Howard Hughes Medical Institute, University of Washington, Seattle, WA 98105, USA."
+                ],
+                "matched_affiliations": [
+                  "Institute for Protein Design",
+                  "University of Washington",
+                  "Department of Biochemistry"
+                ]
+              }
+            ]
           }
         ]
       },
