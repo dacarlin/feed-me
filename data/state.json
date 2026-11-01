@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-11-01T05:59:38Z",
+      "last_success": "2026-11-01T13:19:55Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-11-01T00:06:33Z",
+      "last_success": "2026-11-01T13:19:55Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-11-01T05:59:38Z",
+      "last_success": "2026-11-01T13:19:55Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -28256,6 +28256,1028 @@
     "urn:uuid:4b3d262c-d759-5ebd-a82d-a7a91bd68fad": "urn:uuid:9e012682-4c6a-50a3-b187-e8ed207714b5"
   },
   "rejected": {
+    "pubmed:35816953": {
+      "first_seen": "2026-11-01T13:19:55Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "35816953",
+        "title": "Did it hurt? COVID-19 vaccination experience in people with multiple sclerosis.",
+        "authors": [
+          {
+            "name": "K Allen-Philbey",
+            "affiliations": [
+              "The Blizard Institute, Centre for Neuroscience, Surgery & Trauma, Queen Mary University of London, Barts and The London School of Medicine & Dentistry, 4 Newark Street, London E1 2AT, UK; Clinical Board Medicine (Neuroscience), The Royal London Hospital, Barts Health NHS Trust, London, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "A Stennett",
+            "affiliations": [
+              "Clinical Board Medicine (Neuroscience), The Royal London Hospital, Barts Health NHS Trust, London, UK; Preventive Neurology Unit, Wolfson Institute of Population Health, Queen Mary University of London, Barts and The London School of Medicine & Dentistry, London, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "T Begum",
+            "affiliations": [
+              "Clinical Board Medicine (Neuroscience), The Royal London Hospital, Barts Health NHS Trust, London, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "A C Johnson",
+            "affiliations": [
+              "Clinical Board Medicine (Neuroscience), The Royal London Hospital, Barts Health NHS Trust, London, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "A MacDougall",
+            "affiliations": [
+              "Department of Medical Statistics, London School of Hygiene & Tropical Medicine, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "S Green",
+            "affiliations": [
+              "Clinical Board Medicine (Neuroscience), The Royal London Hospital, Barts Health NHS Trust, London, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "R Dobson",
+            "affiliations": [
+              "Clinical Board Medicine (Neuroscience), The Royal London Hospital, Barts Health NHS Trust, London, UK; Preventive Neurology Unit, Wolfson Institute of Population Health, Queen Mary University of London, Barts and The London School of Medicine & Dentistry, London, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "G Giovannoni",
+            "affiliations": [
+              "The Blizard Institute, Centre for Neuroscience, Surgery & Trauma, Queen Mary University of London, Barts and The London School of Medicine & Dentistry, 4 Newark Street, London E1 2AT, UK; Clinical Board Medicine (Neuroscience), The Royal London Hospital, Barts Health NHS Trust, London, UK; Preventive Neurology Unit, Wolfson Institute of Population Health, Queen Mary University of London, Barts and The London School of Medicine & Dentistry, London, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "S Gnanapavan",
+            "affiliations": [
+              "The Blizard Institute, Centre for Neuroscience, Surgery & Trauma, Queen Mary University of London, Barts and The London School of Medicine & Dentistry, 4 Newark Street, London E1 2AT, UK; Clinical Board Medicine (Neuroscience), The Royal London Hospital, Barts Health NHS Trust, London, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "M Marta",
+            "affiliations": [
+              "The Blizard Institute, Centre for Neuroscience, Surgery & Trauma, Queen Mary University of London, Barts and The London School of Medicine & Dentistry, 4 Newark Street, London E1 2AT, UK; Clinical Board Medicine (Neuroscience), The Royal London Hospital, Barts Health NHS Trust, London, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "I Smets",
+            "affiliations": [
+              "The Blizard Institute, Centre for Neuroscience, Surgery & Trauma, Queen Mary University of London, Barts and The London School of Medicine & Dentistry, 4 Newark Street, London E1 2AT, UK; Clinical Board Medicine (Neuroscience), The Royal London Hospital, Barts Health NHS Trust, London, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "B P Turner",
+            "affiliations": [
+              "The Blizard Institute, Centre for Neuroscience, Surgery & Trauma, Queen Mary University of London, Barts and The London School of Medicine & Dentistry, 4 Newark Street, London E1 2AT, UK; Clinical Board Medicine (Neuroscience), The Royal London Hospital, Barts Health NHS Trust, London, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "D Baker",
+            "affiliations": [
+              "The Blizard Institute, Centre for Neuroscience, Surgery & Trauma, Queen Mary University of London, Barts and The London School of Medicine & Dentistry, 4 Newark Street, London E1 2AT, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "J Mathews",
+            "affiliations": [
+              "Clinical Board Medicine (Neuroscience), The Royal London Hospital, Barts Health NHS Trust, London, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "K Schmierer",
+            "affiliations": [
+              "The Blizard Institute, Centre for Neuroscience, Surgery & Trauma, Queen Mary University of London, Barts and The London School of Medicine & Dentistry, 4 Newark Street, London E1 2AT, UK; Clinical Board Medicine (Neuroscience), The Royal London Hospital, Barts Health NHS Trust, London, UK. Electronic address: k.schmierer@qmul.ac.uk."
+            ],
+            "orcid": null
+          }
+        ],
+        "abstract": "BACKGROUND: Current guidelines recommend vaccination against SARS-CoV2 for people with multiple sclerosis (pwMS). The long-term review of the safety and effectiveness of COVID-19 vaccines in pwMS is limited.\n\nMETHODS: Service re-evaluation. PwMS using the MS service at Barts Health National Health Service Trust were sent questionnaires via email to report symptoms following first and second COVID-19 vaccinations (n = 570). A retrospective review of electronic health records was conducted for clinical and safety data post-vaccination(s); cut-off was end of September 2021. Separate logistic regressions were carried out for symptoms experienced at each vaccination. Two sets of regressions were fitted with covariates: (i) Disease-modifying therapy type and (ii) patient characteristics for symptoms experienced.\n\nRESULTS: 193/570 pwMS responded. 184 pwMS had both vaccinations. 144 received the AZD1222 and 49 the BNT162b2 vaccine. 87% and 75% of pwMS experienced any symptoms at first and second vaccinations, respectively. The majority of symptoms resolved within a short timeframe. No severe adverse effects were reported. Two pwMS subsequently died; one due to COVID-19 and one due to aspiration pneumonia. Males were at a reduced risk of reporting symptoms at first vaccination. There was evidence that pwMS in certain treatment groups were at reduced risk of reporting symptoms at second vaccination only.\n\nCONCLUSIONS: Findings are consistent with our preliminary data. Symptoms post-vaccination were similar to the non-MS population and were mostly temporary. It is important to inform the MS community of vaccine safety data.",
+        "date": "2022-07-03",
+        "url": "https://doi.org/10.1016/j.msard.2022.104022",
+        "doi": "10.1016/j.msard.2022.104022",
+        "status": "published",
+        "journal": "Multiple sclerosis and related disorders",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [
+          "pmc:PMC9250705"
+        ],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "D Baker",
+              "method": "rejected",
+              "affiliations": [
+                "The Blizard Institute, Centre for Neuroscience, Surgery & Trauma, Queen Mary University of London, Barts and The London School of Medicine & Dentistry, 4 Newark Street, London E1 2AT, UK."
+              ],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
+    "pubmed:35700625": {
+      "first_seen": "2026-11-01T13:19:55Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "35700625",
+        "title": "Response to COVID-19 booster vaccinations in seronegative people with multiple sclerosis.",
+        "authors": [
+          {
+            "name": "Emma C Tallantyre",
+            "affiliations": [
+              "Division of Psychological Medicine and Clinical Neuroscience, School of Medicine, Cardiff University, United Kingdom; Department of Neurology, University Hospital of Wales, Cardiff, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Martin J Scurr",
+            "affiliations": [
+              "Division of Infection and Immunity, School of Medicine, Cardiff University, United Kingdom; ImmunoServ Ltd, Cardiff CF15 7AB, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Nicola Vickaryous",
+            "affiliations": [
+              "Preventive Neurology Unit, Wolfson Institute of Population Health, Queen Mary University London, Charterhouse Square, EC1M 6BQ, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Aidan Richards",
+            "affiliations": [
+              "Division of Psychological Medicine and Clinical Neuroscience, School of Medicine, Cardiff University, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Valerie Anderson",
+            "affiliations": [
+              "Division of Psychological Medicine and Clinical Neuroscience, School of Medicine, Cardiff University, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "David Baker",
+            "affiliations": [
+              "Blizard Institute, Barts and the London School of Medicine and Dentistry, Queen Mary University of London, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Randy Chance",
+            "affiliations": [
+              "Blizard Institute, Barts and the London School of Medicine and Dentistry, Queen Mary University of London, United Kingdom; Centre for Oral Immunobiology and Regenerative Medicine, Barts and the London School of Medicine and Dentistry, Queen Mary University of London, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Nikos Evangelou",
+            "affiliations": [
+              "Department of Clinical Neurology, University of Nottingham, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Katila George",
+            "affiliations": [
+              "Preventive Neurology Unit, Wolfson Institute of Population Health, Queen Mary University London, Charterhouse Square, EC1M 6BQ, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Gavin Giovannoni",
+            "affiliations": [
+              "Preventive Neurology Unit, Wolfson Institute of Population Health, Queen Mary University London, Charterhouse Square, EC1M 6BQ, United Kingdom; Blizard Institute, Barts and the London School of Medicine and Dentistry, Queen Mary University of London, United Kingdom; Department of Neurology, Barts Health NHS Trust, London, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Katharine E Harding",
+            "affiliations": [
+              "Department of Neurology, Royal Gwent Hospital, Newport, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Aimee Hibbert",
+            "affiliations": [
+              "Department of Clinical Neurology, University of Nottingham, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Gillian Ingram",
+            "affiliations": [
+              "Department of Neurology, Morriston Hospital, Swansea, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Stephen Jolles",
+            "affiliations": [
+              "Division of Infection and Immunity, School of Medicine, Cardiff University, United Kingdom; Immunodeficiency Centre for Wales, University Hospital of Wales, Cardiff, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Meleri Jones",
+            "affiliations": [
+              "Blizard Institute, Barts and the London School of Medicine and Dentistry, Queen Mary University of London, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Angray S Kang",
+            "affiliations": [
+              "Blizard Institute, Barts and the London School of Medicine and Dentistry, Queen Mary University of London, United Kingdom; Centre for Oral Immunobiology and Regenerative Medicine, Barts and the London School of Medicine and Dentistry, Queen Mary University of London, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Samantha Loveless",
+            "affiliations": [
+              "Division of Psychological Medicine and Clinical Neuroscience, School of Medicine, Cardiff University, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Stuart J Moat",
+            "affiliations": [
+              "Wales Newborn Screening Laboratory, Department of Medical Biochemistry, Immunology and Toxicology, University Hospital of Wales, Cardiff, United Kingdom; School of Medicine, Cardiff University, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Neil P Robertson",
+            "affiliations": [
+              "Division of Psychological Medicine and Clinical Neuroscience, School of Medicine, Cardiff University, United Kingdom; Department of Neurology, University Hospital of Wales, Cardiff, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Francesca Rios",
+            "affiliations": [
+              "Preventive Neurology Unit, Wolfson Institute of Population Health, Queen Mary University London, Charterhouse Square, EC1M 6BQ, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Klaus Schmierer",
+            "affiliations": [
+              "Blizard Institute, Barts and the London School of Medicine and Dentistry, Queen Mary University of London, United Kingdom; Department of Neurology, Barts Health NHS Trust, London, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Mark Willis",
+            "affiliations": [
+              "Department of Neurology, University Hospital of Wales, Cardiff, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Andrew Godkin",
+            "affiliations": [
+              "Division of Infection and Immunity, School of Medicine, Cardiff University, United Kingdom; ImmunoServ Ltd, Cardiff CF15 7AB, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Ruth Dobson",
+            "affiliations": [
+              "Preventive Neurology Unit, Wolfson Institute of Population Health, Queen Mary University London, Charterhouse Square, EC1M 6BQ, United Kingdom; Department of Neurology, Barts Health NHS Trust, London, United Kingdom. Electronic address: Ruth.dobson@qmul.ac.uk."
+            ],
+            "orcid": null
+          }
+        ],
+        "abstract": "BACKGROUND: People with MS treated with anti-CD20 therapies and fingolimod often have attenuated responses to initial COVID-19 vaccination. However, uncertainties remain about the benefit of a 3rd (booster) COVID-19 vaccine in this group.\n\nMETHODS: PwMS without a detectable IgG response following COVID-19 vaccines 1&2 were invited to participate. Participants provided a dried blood spot +/- venous blood sample 2-12 weeks following COVID-19 vaccine 3. Humoral and T cell responses to SARS-CoV-2 spike protein and nucleocapsid antigen were measured.\n\nRESULTS: Of 81 participants, 79 provided a dried blood spot sample, of whom 38 also provided a whole blood sample; 2 provided only whole blood. Anti-SARS-CoV-2-spike IgG seroconversion post-COVID-19 vaccine 3 occurred in 26/79 (33%) participants; 26/40 (65%) had positive T-cell responses. Overall, 31/40 (78%) demonstrated either humoral or cellular immune response post-COVID-19 vaccine 3. There was no association between laboratory evidence of prior COVID-19 and seroconversion following vaccine 3.\n\nCONCLUSIONS: Approximately one third of pwMS who were seronegative after initial COVID-19 vaccination seroconverted after booster (third) vaccination, supporting the use of boosters in this group. Almost 8 out of 10 had a measurable immune response following 3rd COVID-19 vaccine.",
+        "date": "2022-06-04",
+        "url": "https://doi.org/10.1016/j.msard.2022.103937",
+        "doi": "10.1016/j.msard.2022.103937",
+        "status": "published",
+        "journal": "Multiple sclerosis and related disorders",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [
+          "pmc:PMC9166227"
+        ],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "David Baker",
+              "method": "rejected",
+              "affiliations": [
+                "Blizard Institute, Barts and the London School of Medicine and Dentistry, Queen Mary University of London, United Kingdom."
+              ],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
+    "pubmed:34902760": {
+      "first_seen": "2026-11-01T13:19:55Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "34902760",
+        "title": "CD19 B cell repopulation after ocrelizumab, alemtuzumab and cladribine: Implications for SARS-CoV-2 vaccinations in multiple sclerosis.",
+        "authors": [
+          {
+            "name": "David Baker",
+            "affiliations": [
+              "The Blizard Institute, Barts and The London School of Medicine & Dentistry, Queen Mary University of London, London, United Kingdom. Electronic address: david.baker@qmul.ac.uk."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Amy MacDougall",
+            "affiliations": [
+              "Medical Statistics, London School of Hygiene and Tropical Medicine, London, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Angray S Kang",
+            "affiliations": [
+              "The Blizard Institute, Barts and The London School of Medicine & Dentistry, Queen Mary University of London, London, United Kingdom; Centre for Oral Immunobiology and Regenerative Medicine, Dental Institute, Barts and the London School of Medicine and Dentistry, Queen Mary University of London, London, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Klaus Schmierer",
+            "affiliations": [
+              "The Blizard Institute, Barts and The London School of Medicine & Dentistry, Queen Mary University of London, London, United Kingdom; Clinical Board Medicine (Neuroscience), The Royal London Hospital, Barts Health NHS Trust, London, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Gavin Giovannoni",
+            "affiliations": [
+              "The Blizard Institute, Barts and The London School of Medicine & Dentistry, Queen Mary University of London, London, United Kingdom; Clinical Board Medicine (Neuroscience), The Royal London Hospital, Barts Health NHS Trust, London, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Ruth Dobson",
+            "affiliations": [
+              "Preventive Neurology Unit, Wolfson Institute of Population Medicine, Barts and The London School of Medicine & Dentistry, Queen Mary University of London, London, United Kingdom; Clinical Board Medicine (Neuroscience), The Royal London Hospital, Barts Health NHS Trust, London, United Kingdom. Electronic address: Ruth.Dobson@qmul.ac.uk."
+            ],
+            "orcid": null
+          }
+        ],
+        "abstract": "BACKGROUND: Ocrelizumab maintains B-cell depletion via six-monthly dosing. Whilst this controls relapsing multiple sclerosis, it also inhibits seroconversion following SARS-CoV-2 vaccination unlike that seen following alemtuzumab and cladribine treatment. Emerging reports suggest that 1-3% B-cell repopulation facilitates seroconversion after CD20-depletion.\n\nOBJECTIVE: To determine the frequency of B-cell repopulation levels during and after ocrelizumab treatment.\n\nMETHODS: Relapse data, lymphocyte and CD19 B-cell numbers were obtained following requests to clinical trial data-repositories. Information was extracted from the phase II ocrelizumab extension (NCT00676715) trial and the phase III cladribine tablet (NCT00213135) and alemtuzumab (NCT00530348/NCT00548405) trials obtained clinical trial data requests RESULTS: Only 3-5% of people with MS exhibit 1% B-cells at 6 months after the last infusion following 3-4 cycles of ocrelizumab, compared to 50-55% at 9 months, and 85-90% at 12 months. During this time relapses occurred at consistent disease-breakthrough rates compared to people during standard therapy. In contrast most people (90-100%) exhibited more than 1% B-cells during treatment with either cladribine or alemtuzumab.\n\nCONCLUSIONS: Most people demonstrate B cell repletion within 3 months of the last treatment of alemtuzumab and cladribine. However, few people repopulate peripheral B-cells with standard ocrelizumab dosing. Controlled studies are warranted to examine a view that delaying the dosing interval by 3-6 months may allow more people to potentially seroconvert after vaccination.",
+        "date": "2021-12-04",
+        "url": "https://doi.org/10.1016/j.msard.2021.103448",
+        "doi": "10.1016/j.msard.2021.103448",
+        "status": "published",
+        "journal": "Multiple sclerosis and related disorders",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [
+          "pmc:PMC8642825"
+        ],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "David Baker",
+              "method": "rejected",
+              "affiliations": [
+                "The Blizard Institute, Barts and The London School of Medicine & Dentistry, Queen Mary University of London, London, United Kingdom. Electronic address: david.baker@qmul.ac.uk."
+              ],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
+    "pubmed:34687063": {
+      "first_seen": "2026-11-01T13:19:55Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "34687063",
+        "title": "COVID-19 Vaccine Response in People with Multiple Sclerosis.",
+        "authors": [
+          {
+            "name": "Emma C Tallantyre",
+            "affiliations": [
+              "Division of Psychological Medicine and Clinical Neuroscience, School of Medicine, Cardiff University, Cardiff, UK.",
+              "Department of Neurology, University Hospital of Wales, Cardiff, UK."
+            ],
+            "orcid": "0000-0002-3760-6634"
+          },
+          {
+            "name": "Nicola Vickaryous",
+            "affiliations": [
+              "Preventive Neurology Unit, Wolfson Institute of Population Health, Queen Mary University London, London, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Valerie Anderson",
+            "affiliations": [
+              "Division of Psychological Medicine and Clinical Neuroscience, School of Medicine, Cardiff University, Cardiff, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Aliye Nazli Asardag",
+            "affiliations": [
+              "Blizard Institute, Barts and the London School of Medicine and Dentistry, Queen Mary University of London, London, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "David Baker",
+            "affiliations": [
+              "Blizard Institute, Barts and the London School of Medicine and Dentistry, Queen Mary University of London, London, UK."
+            ],
+            "orcid": "0000-0002-8872-8711"
+          },
+          {
+            "name": "Jonathan Bestwick",
+            "affiliations": [
+              "Preventive Neurology Unit, Wolfson Institute of Population Health, Queen Mary University London, London, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Kath Bramhall",
+            "affiliations": [
+              "Immunodeficiency Centre for Wales, University Hospital of Wales, Cardiff, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Randy Chance",
+            "affiliations": [
+              "Blizard Institute, Barts and the London School of Medicine and Dentistry, Queen Mary University of London, London, UK.",
+              "Centre for Oral Immunobiology and Regenerative Medicine, Barts and the London School of Medicine and Dentistry, Queen Mary University of London, London, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Nikos Evangelou",
+            "affiliations": [
+              "Department of Clinical Neurology, University of Nottingham, Nottingham, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Katila George",
+            "affiliations": [
+              "Preventive Neurology Unit, Wolfson Institute of Population Health, Queen Mary University London, London, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Gavin Giovannoni",
+            "affiliations": [
+              "Preventive Neurology Unit, Wolfson Institute of Population Health, Queen Mary University London, London, UK.",
+              "Blizard Institute, Barts and the London School of Medicine and Dentistry, Queen Mary University of London, London, UK.",
+              "Department of Neurology, Barts Health NHS Trust, London, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Andrew Godkin",
+            "affiliations": [
+              "Division of Infection and Immunity, School of Medicine, Cardiff University, Cardiff, UK.",
+              "Department of Gastroenterology and Hepatology, University Hospital of Wales, Cardiff, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Leanne Grant",
+            "affiliations": [
+              "Immunodeficiency Centre for Wales, University Hospital of Wales, Cardiff, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Katharine E Harding",
+            "affiliations": [
+              "Department of Neurology, Royal Gwent Hospital, Newport, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Aimee Hibbert",
+            "affiliations": [
+              "Department of Clinical Neurology, University of Nottingham, Nottingham, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Gillian Ingram",
+            "affiliations": [
+              "Department of Neurology, Morriston Hospital, Swansea, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Meleri Jones",
+            "affiliations": [
+              "Blizard Institute, Barts and the London School of Medicine and Dentistry, Queen Mary University of London, London, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Angray S Kang",
+            "affiliations": [
+              "Blizard Institute, Barts and the London School of Medicine and Dentistry, Queen Mary University of London, London, UK.",
+              "Centre for Oral Immunobiology and Regenerative Medicine, Barts and the London School of Medicine and Dentistry, Queen Mary University of London, London, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Samantha Loveless",
+            "affiliations": [
+              "Division of Psychological Medicine and Clinical Neuroscience, School of Medicine, Cardiff University, Cardiff, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Stuart J Moat",
+            "affiliations": [
+              "Wales Newborn Screening Laboratory, Department of Medical Biochemistry, Immunology and Toxicology, University Hospital of Wales, Cardiff, UK.",
+              "School of Medicine, Cardiff University, Cardiff, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Neil P Robertson",
+            "affiliations": [
+              "Division of Psychological Medicine and Clinical Neuroscience, School of Medicine, Cardiff University, Cardiff, UK.",
+              "Department of Neurology, University Hospital of Wales, Cardiff, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Klaus Schmierer",
+            "affiliations": [
+              "Blizard Institute, Barts and the London School of Medicine and Dentistry, Queen Mary University of London, London, UK.",
+              "Department of Neurology, Barts Health NHS Trust, London, UK."
+            ],
+            "orcid": "0000-0002-9293-8893"
+          },
+          {
+            "name": "Martin J Scurr",
+            "affiliations": [
+              "Division of Infection and Immunity, School of Medicine, Cardiff University, Cardiff, UK.",
+              "ImmunoServ Ltd., Cardiff, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Sita Navin Shah",
+            "affiliations": [
+              "Preventive Neurology Unit, Wolfson Institute of Population Health, Queen Mary University London, London, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Jessica Simmons",
+            "affiliations": [
+              "Division of Psychological Medicine and Clinical Neuroscience, School of Medicine, Cardiff University, Cardiff, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Matthew Upcott",
+            "affiliations": [
+              "Division of Psychological Medicine and Clinical Neuroscience, School of Medicine, Cardiff University, Cardiff, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Mark Willis",
+            "affiliations": [
+              "Department of Neurology, University Hospital of Wales, Cardiff, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Stephen Jolles",
+            "affiliations": [
+              "Immunodeficiency Centre for Wales, University Hospital of Wales, Cardiff, UK.",
+              "Division of Infection and Immunity, School of Medicine, Cardiff University, Cardiff, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Ruth Dobson",
+            "affiliations": [
+              "Preventive Neurology Unit, Wolfson Institute of Population Health, Queen Mary University London, London, UK.",
+              "Department of Neurology, Barts Health NHS Trust, London, UK."
+            ],
+            "orcid": "0000-0002-2993-585X"
+          }
+        ],
+        "abstract": "OBJECTIVE: The purpose of this study was to investigate the effect of disease modifying therapies on immune response to severe acute respiratory syndrome-coronavirus 2 (SARS-CoV-2) vaccines in people with multiple sclerosis (MS).\n\nMETHODS: Four hundred seventy-three people with MS provided one or more dried blood spot samples. Information about coronavirus disease 2019 (COVID-19) and vaccine history, medical, and drug history were extracted from questionnaires and medical records. Dried blood spots were eluted and tested for antibodies to SARS-CoV-2. Antibody titers were partitioned into tertiles with people on no disease modifying therapy as a reference. We calculated the odds ratio of seroconversion (univariate logistic regression) and compared quantitative vaccine response (Kruskal Wallis) following the SARS-CoV-2 vaccine according to disease modifying therapy. We used regression modeling to explore the effect of vaccine timing, treatment duration, age, vaccine type, and lymphocyte count on vaccine response.\n\nRESULTS: Compared to no disease modifying therapy, the use of anti-CD20 monoclonal antibodies (odds ratio = 0.03, 95% confidence interval [CI] = 0.01-0.06, p < 0.001) and fingolimod (odds ratio = 0.04; 95% CI = 0.01-0.12) were associated with lower seroconversion following the SARS-CoV-2 vaccine. All other drugs did not differ significantly from the untreated cohort. Both time since last anti-CD20 treatment and total time on treatment were significantly associated with the response to the vaccination. The vaccine type significantly predicted seroconversion, but not in those on anti-CD20 medications. Preliminary data on cellular T-cell immunity showed 40% of seronegative subjects had measurable anti-SARS-CoV-2 T cell responses.\n\nINTERPRETATION: Some disease modifying therapies convey risk of attenuated serological response to SARS-CoV-2 vaccination in people with MS. We provide recommendations for the practical management of this patient group. ANN NEUROL 20219999:n/a-n/a.",
+        "date": "2021-11-17",
+        "url": "https://doi.org/10.1002/ana.26251",
+        "doi": "10.1002/ana.26251",
+        "status": "published",
+        "journal": "Annals of neurology",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [
+          "pmc:PMC8652739"
+        ],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "David Baker",
+              "method": "rejected",
+              "reason": "conflicting ORCID",
+              "orcid": "0000-0002-8872-8711"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
+    "pubmed:34049216": {
+      "first_seen": "2026-11-01T13:19:55Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "34049216",
+        "title": "Experience with the COVID-19 AstraZeneca vaccination in people with multiple sclerosis.",
+        "authors": [
+          {
+            "name": "K Allen-Philbey",
+            "affiliations": [
+              "The Blizard Institute, Centre for Neuroscience, Surgery & Trauma, Queen Mary University of London, Barts and The London School of Medicine & Dentistry, London, United Kingdom; Clinical Board Medicine (Neuroscience), The Royal London Hospital, Barts Health NHS Trust, London, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "A Stennett",
+            "affiliations": [
+              "The Blizard Institute, Centre for Neuroscience, Surgery & Trauma, Queen Mary University of London, Barts and The London School of Medicine & Dentistry, London, United Kingdom; Clinical Board Medicine (Neuroscience), The Royal London Hospital, Barts Health NHS Trust, London, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "T Begum",
+            "affiliations": [
+              "Clinical Board Medicine (Neuroscience), The Royal London Hospital, Barts Health NHS Trust, London, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "A C Johnson",
+            "affiliations": [
+              "Clinical Board Medicine (Neuroscience), The Royal London Hospital, Barts Health NHS Trust, London, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "R Dobson",
+            "affiliations": [
+              "Clinical Board Medicine (Neuroscience), The Royal London Hospital, Barts Health NHS Trust, London, United Kingdom; Preventive Neurology Unit, Wolfson Institute of Preventive Medicine, Queen Mary University of London, Barts and The London School of Medicine & Dentistry, London, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "G Giovannoni",
+            "affiliations": [
+              "The Blizard Institute, Centre for Neuroscience, Surgery & Trauma, Queen Mary University of London, Barts and The London School of Medicine & Dentistry, London, United Kingdom; Clinical Board Medicine (Neuroscience), The Royal London Hospital, Barts Health NHS Trust, London, United Kingdom; Preventive Neurology Unit, Wolfson Institute of Preventive Medicine, Queen Mary University of London, Barts and The London School of Medicine & Dentistry, London, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "S Gnanapavan",
+            "affiliations": [
+              "The Blizard Institute, Centre for Neuroscience, Surgery & Trauma, Queen Mary University of London, Barts and The London School of Medicine & Dentistry, London, United Kingdom; Clinical Board Medicine (Neuroscience), The Royal London Hospital, Barts Health NHS Trust, London, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "M Marta",
+            "affiliations": [
+              "The Blizard Institute, Centre for Neuroscience, Surgery & Trauma, Queen Mary University of London, Barts and The London School of Medicine & Dentistry, London, United Kingdom; Clinical Board Medicine (Neuroscience), The Royal London Hospital, Barts Health NHS Trust, London, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "I Smets",
+            "affiliations": [
+              "The Blizard Institute, Centre for Neuroscience, Surgery & Trauma, Queen Mary University of London, Barts and The London School of Medicine & Dentistry, London, United Kingdom; Clinical Board Medicine (Neuroscience), The Royal London Hospital, Barts Health NHS Trust, London, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "B P Turner",
+            "affiliations": [
+              "The Blizard Institute, Centre for Neuroscience, Surgery & Trauma, Queen Mary University of London, Barts and The London School of Medicine & Dentistry, London, United Kingdom; Clinical Board Medicine (Neuroscience), The Royal London Hospital, Barts Health NHS Trust, London, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "D Baker",
+            "affiliations": [
+              "The Blizard Institute, Centre for Neuroscience, Surgery & Trauma, Queen Mary University of London, Barts and The London School of Medicine & Dentistry, London, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "J Mathews",
+            "affiliations": [
+              "Pharmacy, The Royal London Hospital, Barts Health NHS Trust, London, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "K Schmierer",
+            "affiliations": [
+              "The Blizard Institute, Centre for Neuroscience, Surgery & Trauma, Queen Mary University of London, Barts and The London School of Medicine & Dentistry, London, United Kingdom; Clinical Board Medicine (Neuroscience), The Royal London Hospital, Barts Health NHS Trust, London, United Kingdom. Electronic address: k.schmierer@qmul.ac.uk."
+            ],
+            "orcid": null
+          }
+        ],
+        "abstract": "BACKGROUND: Some people with multiple sclerosis (pwMS) are at increased risk of severe Coronavirus disease 19 (COVID-19) and should be rapidly vaccinated. However, vaccine supplies are limited, and there are concerns about side-effects, particularly with the ChAdOx1nCoV-19 (AstraZeneca) vaccine.\n\nOBJECTIVES: To report our first experience of pwMS receiving the AstraZeneca vaccine.\n\nMETHODS: Service evaluation. pwMS using the MS service at Barts Health NHS Trust were sent questionnaires to report symptoms following vaccination.\n\nRESULTS: Thirty-three responses were returned, 29/33 pwMS received a first dose of AstraZeneca vaccine, the remaining four received a first dose of BioNTech/Pfizer vaccine. All but two patients (94%) reported any symptoms including a sore arm (70%), flu-like symptoms (64%), fever (21%), fatigue (27%), and headache (21%). In more than 2/3 patients, symptoms lasted up to 48 hours, and with the exception of two pwMS reporting symptom duration of 10 and 12 days, respectively, symptoms in the remainder resolved within seven days. No severe adverse effects occurred.\n\nCONCLUSIONS: pwMS report transient symptoms following AstraZeneca vaccination, characteristics of which were similar to those reported in the non-MS population. Symptoms may be more pronounced in pwMS due to the temperature-dependent delay in impulse propagation (Uhthoff's phenomenon) due to demyelination.",
+        "date": "2021-05-18",
+        "url": "https://doi.org/10.1016/j.msard.2021.103028",
+        "doi": "10.1016/j.msard.2021.103028",
+        "status": "published",
+        "journal": "Multiple sclerosis and related disorders",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [
+          "pmc:PMC8129799"
+        ],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "D Baker",
+              "method": "rejected",
+              "affiliations": [
+                "The Blizard Institute, Centre for Neuroscience, Surgery & Trauma, Queen Mary University of London, Barts and The London School of Medicine & Dentistry, London, United Kingdom."
+              ],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
+    "pubmed:33220567": {
+      "first_seen": "2026-11-01T13:19:55Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "33220567",
+        "title": "Digesting science: Developing educational activities about multiple sclerosis, prevention and treatment to increase the confidence of affected families.",
+        "authors": [
+          {
+            "name": "Alison Thomson",
+            "affiliations": [
+              "Preventive Neurology Unit, Wolfson Institute of Preventive Medicine, Queen Mary University of London, London, UK. Electronic address: a.thomson@qmul.ac.uk."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Ruth Dobson",
+            "affiliations": [
+              "Preventive Neurology Unit, Wolfson Institute of Preventive Medicine, Queen Mary University of London, London, UK. Electronic address: ruth.dobson@qmul.ac.uk."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "David Baker",
+            "affiliations": [
+              "Neuroscience and Trauma, Blizard Institute, Barts and The London School of Medicine and Dentistry, Queen Mary University of London, London, UK. Electronic address: david.baker@qmul.ac.uk."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Gavin Giovannoni",
+            "affiliations": [
+              "Neuroscience and Trauma, Blizard Institute, Barts and The London School of Medicine and Dentistry, Queen Mary University of London, London, UK. Electronic address: g.giovannoni@qmul.ac.uk."
+            ],
+            "orcid": null
+          }
+        ],
+        "abstract": "BACKGROUND: The majority of information sources for children of people with multiple sclerosis (MS) are paper, or text, based and require high levels of literacy.\n\nOBJECTIVE: To develop educational activities to inform children who have a parent with MS about a number of aspects around MS and to improve the confidence levels of both parents and children to discuss MS.\n\nMETHODS: A structured interactive event, Digesting Science (DS), was developed. This covers the effect MS can have on: vision, bladder function, walking, the mechanisms of action of disease-modifying treatments, the potential importance of vitamin D supplementation, and risk factors for developing MS. Qualitative and semi-quantitative feedback and other data were collected from event questionnaires and a follow-up online survey.\n\nRESULTS: In total, 86 DS events have been delivered internationally, reaching approximately 345 families affected by MS. Confidence ratings around discussing MS improved in 57/77 families (74%; 95% CI: 62.6-83.1) following a DS event. 39/87 (45%) families who attended DS events reported taking vitamin D prior to the event, and 48/87 (55%) were not supplementing. Of those not taking vitamin D supplements, 71% now take vitamin D supplements, 6% have not changed their behaviour, and the remainder were unsure.\n\nCONCLUSION: Educational activities that explain complex neurological diseases to children can be developed and successfully implemented at an international level. These activities give families the confidence to discuss the impact of MS on their lives and also have the potential to change health-related behaviour.\n\nIMPLICATIONS FOR PRACTICE: Creative approaches to health behaviour communication can inform children of parents with MS and may affect their behaviour with the aim of potentially reducing their risk of developing MS in the future. Now more than ever, we need educational resources that can facilitate conversations within families that can respond to health information needs in a timely manner.",
+        "date": "2020-11-13",
+        "url": "https://doi.org/10.1016/j.msard.2020.102624",
+        "doi": "10.1016/j.msard.2020.102624",
+        "status": "published",
+        "journal": "Multiple sclerosis and related disorders",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "David Baker",
+              "method": "rejected",
+              "affiliations": [
+                "Neuroscience and Trauma, Blizard Institute, Barts and The London School of Medicine and Dentistry, Queen Mary University of London, London, UK. Electronic address: david.baker@qmul.ac.uk."
+              ],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
+    "pubmed:33005893": {
+      "first_seen": "2026-11-01T13:19:55Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "33005893",
+        "title": "Summary-data-based Mendelian randomization prioritizes potential druggable targets for multiple sclerosis.",
+        "authors": [
+          {
+            "name": "Benjamin M Jacobs",
+            "affiliations": [
+              "Preventive Neurology Unit, Wolfson Institute of Preventive Medicine, Queen Mary University of London, UK.",
+              "Royal London Hospital, Barts Health NHS Trust, UK."
+            ],
+            "orcid": "0000-0002-6023-6010"
+          },
+          {
+            "name": "Thomas Taylor",
+            "affiliations": [
+              "Preventive Neurology Unit, Wolfson Institute of Preventive Medicine, Queen Mary University of London, UK.",
+              "Royal London Hospital, Barts Health NHS Trust, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Amine Awad",
+            "affiliations": [
+              "Preventive Neurology Unit, Wolfson Institute of Preventive Medicine, Queen Mary University of London, UK.",
+              "Royal London Hospital, Barts Health NHS Trust, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "David Baker",
+            "affiliations": [
+              "BartsMS, Blizard Institute, Barts and the London School of Medicine and Dentistry, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Gavin Giovanonni",
+            "affiliations": [
+              "Preventive Neurology Unit, Wolfson Institute of Preventive Medicine, Queen Mary University of London, UK.",
+              "Royal London Hospital, Barts Health NHS Trust, UK.",
+              "BartsMS, Blizard Institute, Barts and the London School of Medicine and Dentistry, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Alastair J Noyce",
+            "affiliations": [
+              "Preventive Neurology Unit, Wolfson Institute of Preventive Medicine, Queen Mary University of London, UK.",
+              "Royal London Hospital, Barts Health NHS Trust, UK."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Ruth Dobson",
+            "affiliations": [
+              "Preventive Neurology Unit, Wolfson Institute of Preventive Medicine, Queen Mary University of London, UK.",
+              "Royal London Hospital, Barts Health NHS Trust, UK."
+            ],
+            "orcid": null
+          }
+        ],
+        "abstract": "Multiple sclerosis is a complex autoimmune disease caused by a combination of genetic and environmental factors. Translation of Genome-Wide Association Study findings into therapeutics and effective preventive strategies has been limited to date. We used summary-data-based Mendelian randomization to synthesize findings from public expression quantitative trait locus, methylation quantitative trait locus and Multiple Sclerosis Genome-Wide Association Study datasets. By correlating the effects of methylation on multiple sclerosis, methylation on expression and expression on multiple sclerosis susceptibility, we prioritize genetic loci with evidence of influencing multiple sclerosis susceptibility. We overlay these findings onto a list of 'druggable' genes, i.e. genes which are currently, or could theoretically, be targeted by therapeutic compounds. We use GeNets and search tool for the retrieval of interacting genes/proteins to identify protein-protein interactions and druggable pathways enriched in our results. We extend these findings to a model of Epstein-Barr virus-infected B cells, lymphoblastoid cell lines. We conducted a systematic review of prioritized genes using the Open Targets platform to identify completed and planned trials targeting prioritized genes in multiple sclerosis and related disease areas. Expression of 45 genes in peripheral blood was strongly associated with multiple sclerosis susceptibility (False discovery rate 0.05). Of these 45 genes, 20 encode a protein which is currently targeted by an existing therapeutic compound. These genes were enriched for Gene Ontology terms pertaining to immune system function and leucocyte signalling. We refined this prioritized gene list by restricting to loci where CpG site methylation was associated with multiple sclerosis susceptibility, with gene expression and where expression was associated with multiple sclerosis susceptibility. This approach yielded a list of 15 prioritized druggable target genes for which there was evidence of a pathway linking methylation, expression and multiple sclerosis. Five of these 15 genes are targeted by existing drugs and three were replicated in a smaller expression Quantitative Trait Loci dataset (CD40, MERTK and PARP1). In lymphoblastoid cell lines, this approach prioritized 7 druggable gene targets, of which only one was prioritized by the multi-omic approach in peripheral blood (FCRL3). Systematic review of Open Targets revealed multiple early-phase trials targeting 13/20 prioritized genes in disorders related to multiple sclerosis. We use public datasets and summary-data-based Mendelian randomization to identify a list of prioritized druggable genetic targets in multiple sclerosis. We hope our findings could be translated into a platform for developing targeted preventive therapies.",
+        "date": "2020-08-14",
+        "url": "https://doi.org/10.1093/braincomms/fcaa119",
+        "doi": "10.1093/braincomms/fcaa119",
+        "status": "published",
+        "journal": "Brain communications",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [
+          "pmc:PMC7519728"
+        ],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "David Baker",
+              "method": "rejected",
+              "affiliations": [
+                "BartsMS, Blizard Institute, Barts and the London School of Medicine and Dentistry, UK."
+              ],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
     "biorxiv:10.64898/2026.10.26.761864": {
       "first_seen": "2026-10-28T12:51:52Z",
       "record": {
