@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-09-27T16:57:09Z</updated>
+  <updated>2026-11-02T21:41:53Z</updated>
   <entry>
     <id>urn:uuid:549c333f-7164-59ed-aeac-18f2d08baa08</id>
     <title>Quantifying protein unfolding kinetics with a high-throughput microfluidic platform.</title>
@@ -213,6 +213,51 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/nchembio.1997"&gt;pubmed (published) — DOI: 10.1038/nchembio.1997&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/nchembio.1997"&gt;Published version — DOI: 10.1038/nchembio.1997&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:6e196952-f596-5202-8f1b-f667afe7c064</id>
+    <title>High-throughput analysis and protein engineering using microcapillary arrays.</title>
+    <published>2015-12-07T00:00:00Z</published>
+    <updated>2026-11-02T21:41:53Z</updated>
+    <link href="https://doi.org/10.1038/nchembio.1978" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Bob Chen</name>
+    </author>
+    <author>
+      <name>Sungwon Lim</name>
+    </author>
+    <author>
+      <name>Arvind Kannan</name>
+    </author>
+    <author>
+      <name>Spencer C Alford</name>
+    </author>
+    <author>
+      <name>Fanny Sunden</name>
+    </author>
+    <author>
+      <name>Daniel Herschlag</name>
+    </author>
+    <author>
+      <name>Ivan K Dimov</name>
+    </author>
+    <author>
+      <name>Thomas M Baer</name>
+    </author>
+    <author>
+      <name>Jennifer R Cochran</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Bob Chen; Sungwon Lim; Arvind Kannan; Spencer C Alford; Fanny Sunden; Daniel Herschlag; Ivan K Dimov; Thomas M Baer; Jennifer R Cochran&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2015-12-07&lt;/p&gt;
+&lt;p&gt;Journal: Nature chemical biology&lt;/p&gt;
+&lt;p&gt;We describe a multipurpose technology platform, termed μSCALE (microcapillary single-cell analysis and laser extraction), that enables massively parallel, quantitative biochemical and biophysical measurements on millions of protein variants expressed from yeast or bacteria. μSCALE spatially segregates single cells within a microcapillary array, enabling repeated imaging, cell growth and protein expression. We performed high-throughput analysis of cells and their protein products using a range of fluorescent assays, including binding-affinity measurements and dynamic enzymatic assays. A precise laser-based extraction method allows rapid recovery of live clones and their genetic material from microcapillaries for further study. With μSCALE, we discovered a new antibody against a clinical cancer target, evolved a fluorescent protein biosensor and engineered an enzyme to reduce its sensitivity to its inhibitor. These protein analysis and engineering applications each have unique assay requirements and different host organisms, highlighting the flexibility and technical capabilities of the μSCALE platform.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/nchembio.1978"&gt;pubmed (published) — DOI: 10.1038/nchembio.1978&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/nchembio.1978"&gt;Published version — DOI: 10.1038/nchembio.1978&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
 </feed>
