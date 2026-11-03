@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-11-02T21:41:53Z</updated>
+  <updated>2026-11-03T17:01:23Z</updated>
   <entry>
     <id>urn:uuid:46daedc3-0ce3-5958-8d9f-704cb18ff6b8</id>
     <title>De novo design of enantioselective artificial metalloenzyme photocatalysts.</title>
@@ -7558,6 +7558,66 @@
 &lt;/ul&gt;</content>
   </entry>
   <entry>
+    <id>urn:uuid:c4922973-f5c9-52be-bc6c-5eb53377a3cd</id>
+    <title>Water, Solute, and Ion Transport in De Novo-Designed Membrane Protein Channels.</title>
+    <published>2024-12-23T00:00:00Z</published>
+    <updated>2026-11-03T17:01:23Z</updated>
+    <link href="https://doi.org/10.1021/acsnano.4c11317" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Yuhao Li</name>
+    </author>
+    <author>
+      <name>Bradley S Harris</name>
+    </author>
+    <author>
+      <name>Zhongwu Li</name>
+    </author>
+    <author>
+      <name>Chenyang Shi</name>
+    </author>
+    <author>
+      <name>Jobaer Abdullah</name>
+    </author>
+    <author>
+      <name>Sagardip Majumder</name>
+    </author>
+    <author>
+      <name>Samuel Berhanu</name>
+    </author>
+    <author>
+      <name>Anastassia A Vorobieva</name>
+    </author>
+    <author>
+      <name>Sydney K Myers</name>
+    </author>
+    <author>
+      <name>Jeevapani Hettige</name>
+    </author>
+    <author>
+      <name>Marcel D Baer</name>
+    </author>
+    <author>
+      <name>James J De Yoreo</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Aleksandr Noy</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Yuhao Li; Bradley S Harris; Zhongwu Li; Chenyang Shi; Jobaer Abdullah; Sagardip Majumder; Samuel Berhanu; Anastassia A Vorobieva; Sydney K Myers; Jeevapani Hettige; Marcel D Baer; James J De Yoreo; David Baker; Aleksandr Noy&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2024-12-23&lt;/p&gt;
+&lt;p&gt;Journal: ACS nano&lt;/p&gt;
+&lt;p&gt;Biological organisms engineer peptide sequences to fold into membrane pore proteins capable of performing a wide variety of transport functions. Synthetic de novo-designed membrane pores can mimic this approach to achieve a potentially even larger set of functions. Here we explore water, solute, and ion transport in three de novo designed β-barrel membrane channels in the 5-10 Å pore size range. We show that these proteins form passive membrane pores with high water transport efficiencies and size rejection characteristics consistent with the pore size encoded in the protein structure. Ion conductance and ion selectivity measurements also show trends consistent with the pore size, with the two larger pores showing weak cation selectivity. MD simulations of water and ion transport and solute size exclusion are consistent with the experimental trends and provide further insights into structure-function correlations in these membrane pores.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1021/acsnano.4c11317"&gt;pubmed (published) — DOI: 10.1021/acsnano.4c11317&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1021/acsnano.4c11317"&gt;Published version — DOI: 10.1021/acsnano.4c11317&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
     <id>urn:uuid:4b213fea-b1a5-5e4f-9f6a-d62d42635e7e</id>
     <title>Hierarchical design of pseudosymmetric protein nanocages.</title>
     <published>2024-12-18T00:00:00Z</published>
@@ -10078,6 +10138,45 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-023-05696-3"&gt;pubmed (published) — DOI: 10.1038/s41586-023-05696-3&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-023-05696-3"&gt;Published version — DOI: 10.1038/s41586-023-05696-3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:15c32ea9-8356-50de-8f63-ca8187e1c217</id>
+    <title>Reshaping de Novo Protein Switches into Bioresponsive Materials for Biomarker, Toxin, and Viral Detection.</title>
+    <published>2023-01-13T00:00:00Z</published>
+    <updated>2026-11-03T17:01:23Z</updated>
+    <link href="https://doi.org/10.1002/adma.202208556" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Luciana d'Amone</name>
+    </author>
+    <author>
+      <name>Giusy Matzeu</name>
+    </author>
+    <author>
+      <name>Alfredo Quijano-Rubio</name>
+    </author>
+    <author>
+      <name>Gregory P Callahan</name>
+    </author>
+    <author>
+      <name>Bradley Napier</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Fiorenzo G Omenetto</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Luciana d&amp;#x27;Amone; Giusy Matzeu; Alfredo Quijano-Rubio; Gregory P Callahan; Bradley Napier; David Baker; Fiorenzo G Omenetto&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2023-01-13&lt;/p&gt;
+&lt;p&gt;Journal: Advanced materials (Deerfield Beach, Fla.)&lt;/p&gt;
+&lt;p&gt;De novo designed protein switches are powerful tools to specifically and sensitively detect diverse targets with simple chemiluminescent readouts. Finding an appropriate material host for de novo designed protein switches without altering their thermodynamics while preserving their intrinsic stability over time would enable the development of a variety of sensing formats to monitor exposure to pathogens, toxins, and for disease diagnosis. Here, a de novo protein-biopolymer hybrid that maintains the detection capabilities induced by the conformational change of the incorporated proteins in response to analytes of interest is generated in multiple, shelf-stable material formats without the need of refrigerated storage conditions. A set of functional demonstrator devices including personal protective equipment such as masks and laboratory gloves, free-standing films, air quality monitors, and wearable devices is presented to illustrate the versatility of the approach. Such formats are designed to be responsive to human epidermal growth factor receptor (HER2), anti-hepatitis B (HBV) antibodies, Botulinum neurotoxin B (BoNT/B), and severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). This combination of form and function offers wide opportunities for ubiquitous sensing in multiple environments by enabling a large class of bio-responsive interfaces of broad utility.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1002/adma.202208556"&gt;pubmed (published) — DOI: 10.1002/adma.202208556&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1002/adma.202208556"&gt;Published version — DOI: 10.1002/adma.202208556&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>

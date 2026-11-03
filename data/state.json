@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-11-03T06:44:52Z",
+      "last_success": "2026-11-03T17:01:23Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-11-03T06:44:52Z",
+      "last_success": "2026-11-03T17:01:23Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-11-03T06:44:52Z",
+      "last_success": "2026-11-03T17:01:23Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -214,7 +214,9 @@
     "pubmed:26675729": "2026-11-02T21:41:53Z",
     "pubmed:26641932": "2026-11-02T21:41:53Z",
     "pubmed:26598135": "2026-11-02T21:41:53Z",
-    "pubmed:25436519": "2026-11-02T21:41:53Z"
+    "pubmed:25436519": "2026-11-02T21:41:53Z",
+    "pubmed:39714958": "2026-11-03T17:01:23Z",
+    "pubmed:36493355": "2026-11-03T17:01:23Z"
   },
   "works": {
     "urn:uuid:7f477453-6c38-52e7-b591-accb9b0e6576": {
@@ -37804,6 +37806,282 @@
         }
       ],
       "published": "2025-12-03T00:00:00Z"
+    },
+    "urn:uuid:15c32ea9-8356-50de-8f63-ca8187e1c217": {
+      "id": "urn:uuid:15c32ea9-8356-50de-8f63-ca8187e1c217",
+      "first_seen": "2026-11-03T17:01:23Z",
+      "updated": "2026-11-03T17:01:23Z",
+      "records": {
+        "pubmed:36493355": {
+          "source": "pubmed",
+          "source_id": "36493355",
+          "title": "Reshaping de Novo Protein Switches into Bioresponsive Materials for Biomarker, Toxin, and Viral Detection.",
+          "authors": [
+            {
+              "name": "Luciana d'Amone",
+              "affiliations": [
+                "Department of Biomedical Engineering, Tufts University, Medford, MA, 02155, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Giusy Matzeu",
+              "affiliations": [
+                "Department of Biomedical Engineering, Tufts University, Medford, MA, 02155, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Alfredo Quijano-Rubio",
+              "affiliations": [
+                "Department of Biochemistry, Institute for Protein Design, University of Washington, Seattle, WA, 98195, USA.",
+                "Department of Bioengineering, University of Washington, Seattle, WA, 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Gregory P Callahan",
+              "affiliations": [
+                "Department of Biomedical Engineering, Tufts University, Medford, MA, 02155, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Bradley Napier",
+              "affiliations": [
+                "Department of Biomedical Engineering, Tufts University, Medford, MA, 02155, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, Institute for Protein Design, University of Washington, Seattle, WA, 98195, USA.",
+                "Department of Bioengineering, University of Washington, Seattle, WA, 98195, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Fiorenzo G Omenetto",
+              "affiliations": [
+                "Department of Biomedical Engineering, Tufts University, Medford, MA, 02155, USA.",
+                "Department of Physics, Tufts University, Medford, MA, 02155, USA.",
+                "Laboratory for Living Devices, Tufts University, Medford, MA, 02155, USA.",
+                "Department of Electrical and Computer Engineering, Tufts University, Medford, MA, 02155, USA."
+              ],
+              "orcid": "0000-0002-0327-853X"
+            }
+          ],
+          "abstract": "De novo designed protein switches are powerful tools to specifically and sensitively detect diverse targets with simple chemiluminescent readouts. Finding an appropriate material host for de novo designed protein switches without altering their thermodynamics while preserving their intrinsic stability over time would enable the development of a variety of sensing formats to monitor exposure to pathogens, toxins, and for disease diagnosis. Here, a de novo protein-biopolymer hybrid that maintains the detection capabilities induced by the conformational change of the incorporated proteins in response to analytes of interest is generated in multiple, shelf-stable material formats without the need of refrigerated storage conditions. A set of functional demonstrator devices including personal protective equipment such as masks and laboratory gloves, free-standing films, air quality monitors, and wearable devices is presented to illustrate the versatility of the approach. Such formats are designed to be responsive to human epidermal growth factor receptor (HER2), anti-hepatitis B (HBV) antibodies, Botulinum neurotoxin B (BoNT/B), and severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). This combination of form and function offers wide opportunities for ubiquitous sensing in multiple environments by enabling a large class of bio-responsive interfaces of broad utility.",
+          "date": "2023-01-13",
+          "url": "https://doi.org/10.1002/adma.202208556",
+          "doi": "10.1002/adma.202208556",
+          "status": "published",
+          "journal": "Advanced materials (Deerfield Beach, Fla.)",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:36493355",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "name_and_affiliations",
+                "affiliations": [
+                  "Department of Biochemistry, Institute for Protein Design, University of Washington, Seattle, WA, 98195, USA.",
+                  "Department of Bioengineering, University of Washington, Seattle, WA, 98195, USA.",
+                  "Howard Hughes Medical Institute, University of Washington, Seattle, WA, 98195, USA."
+                ],
+                "matched_affiliations": [
+                  "Institute for Protein Design",
+                  "University of Washington",
+                  "Department of Biochemistry"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:36493355",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2023-01-13T00:00:00Z"
+    },
+    "urn:uuid:c4922973-f5c9-52be-bc6c-5eb53377a3cd": {
+      "id": "urn:uuid:c4922973-f5c9-52be-bc6c-5eb53377a3cd",
+      "first_seen": "2026-11-03T17:01:23Z",
+      "updated": "2026-11-03T17:01:23Z",
+      "records": {
+        "pubmed:39714958": {
+          "source": "pubmed",
+          "source_id": "39714958",
+          "title": "Water, Solute, and Ion Transport in De Novo-Designed Membrane Protein Channels.",
+          "authors": [
+            {
+              "name": "Yuhao Li",
+              "affiliations": [
+                "Materials Science Division, Physical and Life Sciences Directorate, Lawrence Livermore National Laboratory, Livermore, California 94550, United States."
+              ],
+              "orcid": "0000-0003-1839-0900"
+            },
+            {
+              "name": "Bradley S Harris",
+              "affiliations": [
+                "Physical Science Division, Pacific Northwest National Laboratory, Richland, Washington 99354, United States."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Zhongwu Li",
+              "affiliations": [
+                "Materials Science Division, Physical and Life Sciences Directorate, Lawrence Livermore National Laboratory, Livermore, California 94550, United States."
+              ],
+              "orcid": "0000-0001-8825-6307"
+            },
+            {
+              "name": "Chenyang Shi",
+              "affiliations": [
+                "Physical Science Division, Pacific Northwest National Laboratory, Richland, Washington 99354, United States."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Jobaer Abdullah",
+              "affiliations": [
+                "Materials Science Division, Physical and Life Sciences Directorate, Lawrence Livermore National Laboratory, Livermore, California 94550, United States.",
+                "School of Natural Sciences, University of California Merced, Merced, California 95343, United States."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Sagardip Majumder",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, Washington 98195, United States.",
+                "Department of Biochemistry, University of Washington, Seattle, Washington 98195, United States."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Samuel Berhanu",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, Washington 98195, United States.",
+                "Department of Biochemistry, University of Washington, Seattle, Washington 98195, United States."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Anastassia A Vorobieva",
+              "affiliations": [
+                "Structural Biology Brussel, Vrije Universiteit Brussel, Brussels 1050, Belgium.",
+                "VUB-VIB Center for Structural Biology, Brussels 1050, Belgium."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Sydney K Myers",
+              "affiliations": [
+                "Materials Science Division, Physical and Life Sciences Directorate, Lawrence Livermore National Laboratory, Livermore, California 94550, United States."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Jeevapani Hettige",
+              "affiliations": [
+                "Physical Science Division, Pacific Northwest National Laboratory, Richland, Washington 99354, United States."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Marcel D Baer",
+              "affiliations": [
+                "Physical Science Division, Pacific Northwest National Laboratory, Richland, Washington 99354, United States."
+              ],
+              "orcid": "0000-0001-5223-0447"
+            },
+            {
+              "name": "James J De Yoreo",
+              "affiliations": [
+                "Physical Science Division, Pacific Northwest National Laboratory, Richland, Washington 99354, United States."
+              ],
+              "orcid": "0000-0002-9541-733X"
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, Washington 98195, United States.",
+                "Department of Biochemistry, University of Washington, Seattle, Washington 98195, United States.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, Washington 98195, United States."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Aleksandr Noy",
+              "affiliations": [
+                "Materials Science Division, Physical and Life Sciences Directorate, Lawrence Livermore National Laboratory, Livermore, California 94550, United States.",
+                "School of Natural Sciences, University of California Merced, Merced, California 95343, United States."
+              ],
+              "orcid": "0000-0003-4924-2652"
+            }
+          ],
+          "abstract": "Biological organisms engineer peptide sequences to fold into membrane pore proteins capable of performing a wide variety of transport functions. Synthetic de novo-designed membrane pores can mimic this approach to achieve a potentially even larger set of functions. Here we explore water, solute, and ion transport in three de novo designed β-barrel membrane channels in the 5-10 Å pore size range. We show that these proteins form passive membrane pores with high water transport efficiencies and size rejection characteristics consistent with the pore size encoded in the protein structure. Ion conductance and ion selectivity measurements also show trends consistent with the pore size, with the two larger pores showing weak cation selectivity. MD simulations of water and ion transport and solute size exclusion are consistent with the experimental trends and provide further insights into structure-function correlations in these membrane pores.",
+          "date": "2024-12-23",
+          "url": "https://doi.org/10.1021/acsnano.4c11317",
+          "doi": "10.1021/acsnano.4c11317",
+          "status": "published",
+          "journal": "ACS nano",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC13725935"
+          ],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:39714958",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "name_and_affiliations",
+                "affiliations": [
+                  "Institute for Protein Design, University of Washington, Seattle, Washington 98195, United States.",
+                  "Department of Biochemistry, University of Washington, Seattle, Washington 98195, United States.",
+                  "Howard Hughes Medical Institute, University of Washington, Seattle, Washington 98195, United States."
+                ],
+                "matched_affiliations": [
+                  "Institute for Protein Design",
+                  "University of Washington",
+                  "Department of Biochemistry"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:39714958",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2024-12-23T00:00:00Z"
     }
   },
   "aliases": {
@@ -40457,12 +40735,12 @@
           }
         ],
         "abstract": "Histone deacetylase 6 (HDAC6) plays an essential role in the regulation of post-translational lysine acetylation. Myriad biological processes depend on the precise regulation of lysine acetylation-deacetylation cycles, and their dysregulation is linked to human pathologies such as cancer and neurodegeneration. Broad-specificity HDAC inhibitors are efficacious in treating disease, but the inhibitors currently approved for clinical use often cause deleterious side effects due to inhibition of multiple HDAC isozymes as well as other zinc enzymes. Cyclic peptides comprise novel platforms that, in principle, can be tailored for affinity and selectivity. A key advantage of cyclic peptide design is the ability to incorporate both canonical and noncanonical amino acids. As part of our program focusing on cyclic peptide HDAC inhibitors, we now report the 1.9-[A] resolution crystal structure of HDAC6 CD2 complexed with macrocyclic nonapeptide 1. The structure reveals zinc coordination by a noncanonical thiolate-containing amino acid, plus direct and water-mediated enzyme-inhibitor hydrogen bonds that contribute to nanomolar inhibitory potency. Structural comparisons with previously reported HDAC6 CD2 complexes with tetrapeptide and octapeptide macrocycles reveal similar networks of direct and water-mediated interactions. Given the surge of interest in cyclic peptide inhibitors, fueled in part by advances in computational design approaches, the crystal structure of the HDAC6 CD2-1 complex sets an important foundation for further development of macrocyclic peptide inhibitors.",
-        "date": "2026-10-16",
+        "date": "2026-11-03",
         "url": "https://doi.org/10.64898/2026.10.10.758213",
         "doi": "10.64898/2026.10.10.758213",
         "status": "preprint",
         "journal": "",
-        "version": "1",
+        "version": "2",
         "publication_date": "",
         "identifiers": [],
         "relations": []
