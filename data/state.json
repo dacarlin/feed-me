@@ -2,19 +2,19 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-11-03T23:20:59Z",
+      "last_success": "2026-11-04T06:17:16Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-11-03T23:20:59Z",
+      "last_success": "2026-11-04T06:17:16Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
-      "last_success": "2026-11-03T06:44:52Z",
+      "last_success": "2026-11-04T06:17:16Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-11-03T23:20:59Z",
+      "last_success": "2026-11-04T06:17:16Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -80,10 +80,10 @@
     "pubmed:42526427": "2026-11-01T00:06:33Z",
     "pubmed:42523424": "2026-11-01T00:06:33Z",
     "pubmed:26727239": "2026-11-01T00:06:33Z",
-    "pubmed:39814879": "2026-10-28T05:39:39Z",
-    "pubmed:39322662": "2026-10-28T05:39:39Z",
-    "pubmed:39922190": "2026-10-28T05:39:39Z",
-    "pubmed:37781598": "2026-10-28T05:39:39Z",
+    "pubmed:39814879": "2026-11-04T06:17:16Z",
+    "pubmed:39322662": "2026-11-04T06:17:16Z",
+    "pubmed:39922190": "2026-11-04T06:17:16Z",
+    "pubmed:37781598": "2026-11-04T06:17:16Z",
     "pubmed:39868203": "2026-10-29T00:54:06Z",
     "pubmed:41193805": "2026-10-29T00:54:06Z",
     "pubmed:39375454": "2026-10-29T00:54:06Z",
@@ -118,9 +118,9 @@
     "pubmed:40745094": "2026-11-03T06:44:52Z",
     "pubmed:39143214": "2026-11-03T06:44:52Z",
     "pubmed:38187589": "2026-11-03T06:44:52Z",
-    "pubmed:39695145": "2026-10-28T05:39:39Z",
-    "pubmed:39024436": "2026-10-28T05:39:39Z",
-    "pubmed:38861993": "2026-10-28T05:39:39Z",
+    "pubmed:39695145": "2026-11-04T06:17:16Z",
+    "pubmed:39024436": "2026-11-04T06:17:16Z",
+    "pubmed:38861993": "2026-11-04T06:17:16Z",
     "pubmed:42777708": "2026-10-29T00:54:06Z",
     "pubmed:42779973": "2026-10-29T00:54:06Z",
     "pubmed:40489613": "2026-10-29T00:54:06Z",
@@ -132,13 +132,13 @@
     "pubmed:40145385": "2026-10-30T00:58:02Z",
     "pubmed:34622888": "2026-11-01T00:06:33Z",
     "pubmed:36397834": "2026-11-03T06:44:52Z",
-    "pubmed:36108048": "2026-10-28T05:39:39Z",
+    "pubmed:36108048": "2026-11-04T06:17:16Z",
     "pubmed:42523218": "2026-10-31T05:37:43Z",
     "pubmed:40940539": "2026-10-31T05:37:43Z",
     "biorxiv:10.64898/2026.10.02.756307": "2026-11-03T06:44:52Z",
-    "pubmed:41339547": "2026-10-28T05:39:39Z",
-    "pubmed:40739343": "2026-10-28T05:39:39Z",
-    "pubmed:39695226": "2026-10-28T05:39:39Z",
+    "pubmed:41339547": "2026-11-04T06:17:16Z",
+    "pubmed:40739343": "2026-11-04T06:17:16Z",
+    "pubmed:39695226": "2026-11-04T06:17:16Z",
     "pubmed:42845701": "2026-10-29T00:54:06Z",
     "biorxiv:10.1101/2025.08.03.668343": "2026-10-30T00:58:02Z",
     "pubmed:42856427": "2026-11-01T00:06:33Z",
@@ -156,7 +156,7 @@
     "pubmed:40120690": "2026-10-30T00:58:02Z",
     "pubmed:37433327": "2026-11-01T00:06:33Z",
     "biorxiv:10.64898/2026.10.19.760300": "2026-11-03T06:44:52Z",
-    "biorxiv:10.64898/2026.10.19.759896": "2026-10-28T05:39:39Z",
+    "biorxiv:10.64898/2026.10.19.759896": "2026-11-04T06:17:16Z",
     "pubmed:38662830": "2026-10-29T00:54:06Z",
     "pubmed:24352111": "2026-10-29T00:54:06Z",
     "pubmed:42906913": "2026-10-30T00:58:02Z",
@@ -37810,7 +37810,7 @@
     "urn:uuid:15c32ea9-8356-50de-8f63-ca8187e1c217": {
       "id": "urn:uuid:15c32ea9-8356-50de-8f63-ca8187e1c217",
       "first_seen": "2026-11-03T17:01:23Z",
-      "updated": "2026-11-03T17:01:23Z",
+      "updated": "2026-11-04T06:17:16Z",
       "records": {
         "pubmed:36493355": {
           "source": "pubmed",
@@ -37881,7 +37881,9 @@
           "journal": "Advanced materials (Deerfield Beach, Fla.)",
           "version": "",
           "publication_date": "",
-          "identifiers": [],
+          "identifiers": [
+            "pmc:PMC13727154"
+          ],
           "relations": []
         }
       },
@@ -37915,6 +37917,16 @@
           "record": "pubmed:36493355",
           "method": "new_work",
           "reason": "no existing work"
+        },
+        {
+          "record": "pubmed:36493355",
+          "rank": 3,
+          "method": "shared_identifier",
+          "identifiers": [
+            "doi:10.1002/adma.202208556",
+            "pubmed:36493355"
+          ],
+          "matched_record": "pubmed:36493355"
         }
       ],
       "published": "2023-01-13T00:00:00Z"
@@ -38088,6 +38100,243 @@
     "urn:uuid:4b3d262c-d759-5ebd-a82d-a7a91bd68fad": "urn:uuid:9e012682-4c6a-50a3-b187-e8ed207714b5"
   },
   "rejected": {
+    "arxiv:2611.03810": {
+      "first_seen": "2026-11-04T06:17:16Z",
+      "record": {
+        "source": "arxiv",
+        "source_id": "2611.03810",
+        "title": "The Hot Neptune Initiative (HONEI): IV. TOI-4129 b, an Adolescent Neptune in the Ridge",
+        "authors": [
+          {
+            "name": "Sureena Lakhanpal",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Shreyas Vissapragada",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Luca Naponiello",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Simone Filomeno",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Katia Biazzo",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Vincent Bourrier",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Tiziano Zingales",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Erik Friden",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Emily K. Pass",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Aldo S. Bonomo",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "David W. Latham",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Karen A. Collins",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "David R. Ciardi",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "David Baker",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Khalid Barkaoui",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Andrew Collier Cameron",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Patrick Eggenberger",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Akihiko Fukui",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Ancy Anna John",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Heather A. Knutson",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Mercedes López-Morales",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Jack Lubin",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Luigi Mancini",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Francesca Manni",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Giacomo Mantovan",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Annelies Mortier",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Felipe Murgas",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Norio Narita",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Belinda A. Nicholson",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Enric Palle",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Matteo Pinamonti",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Monica Rainer",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Carolina Rodriguez",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Pam Rowden",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Miquel Serra-Ricart",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Alessandro Sozzetti",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Ivan A. Strakhov",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Jhon Yana Galarza",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Samuel W. Yee",
+            "affiliations": [],
+            "orcid": null
+          }
+        ],
+        "abstract": "Recent exoplanet demographics studies have uncovered the Neptune ridge: an overdensity of intermediate-size planets at orbital periods between 3--6~d. The origin of this pile-up remains unclear, but it could be a consequence of high-eccentricity migration (HEM). Here, we confirm TOI-4129\\,b, a planet that may help to reveal the origin of the Neptune ridge. Using radial velocities from HARPS-N and transit photometry from TESS and four ground-based telescopes, we found that TOI-4129\\,b has a relatively low density ($R_p = 5.7 \\pm 0.2\\, R_\\oplus$, $M_p = 26\\pm 6 \\,M_\\oplus$, $ρ_p = 0.8 \\pm 0.2 ~\\textrm{g}~\\textrm{cm}^{-3}$) and orbits a $V = 12.9$ K dwarf star every 3.27~d, placing it at the inner edge of the Neptune ridge. We detect the stellar rotation period at 12.7~d in the photometry, implying a fairly young gyrochronal age of $1.20^{+0.16}_{-0.30}~$Gyr for the system. With a Transmission Spectroscopy Metric of $112\\pm 30$, this adolescent Neptune is a good target for atmospheric observations with \\textit{JWST} and \\textit{Ariel}, and we also find that it is amenable to future constraints on the (three-dimensional) stellar obliquity. TOI-4129\\,b will therefore be an important testing ground for the idea that planets in the Neptune ridge underwent HEM to arrive at their current locations.",
+        "date": "2026-11-02",
+        "url": "https://arxiv.org/abs/2611.03810",
+        "doi": null,
+        "status": "preprint",
+        "journal": "",
+        "version": "1",
+        "publication_date": "",
+        "identifiers": [],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "David Baker",
+              "method": "rejected",
+              "affiliations": [],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
     "pubmed:42970789": {
       "first_seen": "2026-11-03T06:44:52Z",
       "record": {
@@ -38153,7 +38402,9 @@
         "journal": "Journal of neurosurgery. Case lessons",
         "version": "",
         "publication_date": "",
-        "identifiers": [],
+        "identifiers": [
+          "pmc:PMC13726438"
+        ],
         "relations": []
       },
       "identity": {
