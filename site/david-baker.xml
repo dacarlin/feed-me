@@ -7,7 +7,96 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-11-05T17:22:24Z</updated>
+  <updated>2026-11-06T16:45:18Z</updated>
+  <entry>
+    <id>urn:uuid:e0bcf50d-9504-5d0f-8712-43761b15f37f</id>
+    <title>Programmed mineralization of metal-oxides by de novo designed protein templates</title>
+    <published>2025-11-01T00:00:00Z</published>
+    <updated>2026-11-06T16:45:18Z</updated>
+    <link href="https://doi.org/10.1101/2024.06.24.600095" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Saragovi, A.</name>
+    </author>
+    <author>
+      <name>Pyles, H.</name>
+    </author>
+    <author>
+      <name>Huddy, E. B.</name>
+    </author>
+    <author>
+      <name>Borst, A. J.</name>
+    </author>
+    <author>
+      <name>Hanikel, N.</name>
+    </author>
+    <author>
+      <name>Kwon, P.</name>
+    </author>
+    <author>
+      <name>Davila-Hernandez, F. A.</name>
+    </author>
+    <author>
+      <name>Li, X.</name>
+    </author>
+    <author>
+      <name>Courbet, A.</name>
+    </author>
+    <author>
+      <name>Kibler, R. D.</name>
+    </author>
+    <author>
+      <name>Dai, W.</name>
+    </author>
+    <author>
+      <name>Goldschmidt, L.</name>
+    </author>
+    <author>
+      <name>Vafeados, D. K.</name>
+    </author>
+    <author>
+      <name>Allen, A.</name>
+    </author>
+    <author>
+      <name>Carr, K. D.</name>
+    </author>
+    <author>
+      <name>Bera, A.</name>
+    </author>
+    <author>
+      <name>Kang, A.</name>
+    </author>
+    <author>
+      <name>Brackenbrough, E.</name>
+    </author>
+    <author>
+      <name>Schmid, S.</name>
+    </author>
+    <author>
+      <name>Bae, Y.</name>
+    </author>
+    <author>
+      <name>Stewart, L.</name>
+    </author>
+    <author>
+      <name>Zhang, S.</name>
+    </author>
+    <author>
+      <name>De Yoreo, J.</name>
+    </author>
+    <author>
+      <name>Baker, D.</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Saragovi, A.; Pyles, H.; Huddy, E. B.; Borst, A. J.; Hanikel, N.; Kwon, P.; Davila-Hernandez, F. A.; Li, X.; Courbet, A.; Kibler, R. D.; Dai, W.; Goldschmidt, L.; Vafeados, D. K.; Allen, A.; Carr, K. D.; Bera, A.; Kang, A.; Brackenbrough, E.; Schmid, S.; Bae, Y.; Stewart, L.; Zhang, S.; De Yoreo, J.; Baker, D.&lt;/p&gt;
+&lt;p&gt;Sources: biorxiv, pubmed&lt;/p&gt;
+&lt;p&gt;Preprint date: 2026-11-05&lt;/p&gt;
+&lt;p&gt;We describe a coupled de novo design and screening approach to identify protein interfaces which guide the mineralization of specific metal-oxides, including technologically relevant materials that are not found in biological systems. We identify two interfaces promoting hematite growth in conditions typically yielding magnetite, and three interfaces promoting heterogeneous ZnO nucleation under conditions where traditional ZnO-binding peptides and control proteins are ineffective. Cryo-electron microscopy analysis of a designed nanocage with ZnO nucleating interfaces lining interior cavities revealed atomic density, likely corresponding to growing ZnO, directly adjacent to the designed interfaces. Our findings suggest that designed proteins can template mineralization through modes beyond electrostatics, likely by ordering ions and water molecules, and provide a route to protein-metal-oxide hybrid materials with tunable structure and function.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1101/2024.06.24.600095"&gt;biorxiv (preprint) — DOI: 10.1101/2024.06.24.600095&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1101/2024.06.24.600095"&gt;pubmed (preprint) — DOI: 10.1101/2024.06.24.600095&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
   <entry>
     <id>urn:uuid:46daedc3-0ce3-5958-8d9f-704cb18ff6b8</id>
     <title>De novo design of enantioselective artificial metalloenzyme photocatalysts.</title>
@@ -4657,92 +4746,6 @@
 &lt;li&gt;&lt;a href="https://doi.org/10.1073/pnas.2427161122"&gt;pubmed (published) — DOI: 10.1073/pnas.2427161122&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1073/pnas.2427161122"&gt;Published version — DOI: 10.1073/pnas.2427161122&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://pubmed.ncbi.nlm.nih.gov/41187076/"&gt;Published version&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <id>urn:uuid:e0bcf50d-9504-5d0f-8712-43761b15f37f</id>
-    <title>De novo design of metal-oxide templating proteins.</title>
-    <published>2025-11-01T00:00:00Z</published>
-    <updated>2026-09-18T20:53:28Z</updated>
-    <link href="https://doi.org/10.1101/2024.06.24.600095" rel="alternate" />
-    <category term="preprint" />
-    <author>
-      <name>Amijai Saragovi</name>
-    </author>
-    <author>
-      <name>Harley Pyles</name>
-    </author>
-    <author>
-      <name>Timothy F Huddy</name>
-    </author>
-    <author>
-      <name>Wenzhao Dai</name>
-    </author>
-    <author>
-      <name>Xinqi Li</name>
-    </author>
-    <author>
-      <name>Andrew J Borst</name>
-    </author>
-    <author>
-      <name>Nikita Hanikel</name>
-    </author>
-    <author>
-      <name>Alexis Courbet</name>
-    </author>
-    <author>
-      <name>Paul Kwon</name>
-    </author>
-    <author>
-      <name>Fátima A Dávila-Hernández</name>
-    </author>
-    <author>
-      <name>Ryan Kibler</name>
-    </author>
-    <author>
-      <name>Dionne K Vafeados</name>
-    </author>
-    <author>
-      <name>Aza Allen</name>
-    </author>
-    <author>
-      <name>Kenneth D Carr</name>
-    </author>
-    <author>
-      <name>Asim K Bera</name>
-    </author>
-    <author>
-      <name>Alex Kang</name>
-    </author>
-    <author>
-      <name>Evans Brackenbrough</name>
-    </author>
-    <author>
-      <name>Sakshi Schmid</name>
-    </author>
-    <author>
-      <name>Yuna Bae</name>
-    </author>
-    <author>
-      <name>Lance Stewart</name>
-    </author>
-    <author>
-      <name>Shuai Zhang</name>
-    </author>
-    <author>
-      <name>James De Yoreo</name>
-    </author>
-    <author>
-      <name>David Baker</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Authors: Amijai Saragovi; Harley Pyles; Timothy F Huddy; Wenzhao Dai; Xinqi Li; Andrew J Borst; Nikita Hanikel; Alexis Courbet; Paul Kwon; Fátima A Dávila-Hernández; Ryan Kibler; Dionne K Vafeados; Aza Allen; Kenneth D Carr; Asim K Bera; Alex Kang; Evans Brackenbrough; Sakshi Schmid; Yuna Bae; Lance Stewart; Shuai Zhang; James De Yoreo; David Baker&lt;/p&gt;
-&lt;p&gt;Sources: pubmed&lt;/p&gt;
-&lt;p&gt;Preprint date: 2025-11-01&lt;/p&gt;
-&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
-&lt;p&gt;Protein design now enables the precise arrangement of atoms on the nanometer length scales of inorganic crystal nuclei, opening up the possibility of templating the growth of metal oxides including semiconductors. We designed proteins presenting regularly repeating interfaces containing functional groups that organize ions and water molecules, and characterized their ability to bind to and template metal oxides. Two interfaces promoted the growth of hematite under conditions that otherwise resulted in the formation of magnetite. Three interfaces promoted ZnO nucleation under conditions where traditional ZnO-binding peptides and control proteins were ineffective. Designed cyclic assemblies with these ZnO nucleating interfaces lining interior cavities promoted ZnO growth within the cavity. CryoEM analysis of a designed octahedral nanocage revealed atomic density likely corresponding to the growing ZnO directly adjacent to the designed nucleation promoting interfaces. These findings demonstrate that designed proteins can direct the formation of metal oxides not observed in biological systems, opening the door to protein-semiconductor hybrid materials.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://doi.org/10.1101/2024.06.24.600095"&gt;pubmed (preprint) — DOI: 10.1101/2024.06.24.600095&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
