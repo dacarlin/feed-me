@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-11-08T10:18:08Z</updated>
+  <updated>2026-11-08T17:55:09Z</updated>
   <entry>
     <id>urn:uuid:e0bcf50d-9504-5d0f-8712-43761b15f37f</id>
     <title>Programmed mineralization of metal-oxides by de novo designed protein templates</title>
@@ -12635,6 +12635,51 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1093/nar/gku1096"&gt;pubmed (published) — DOI: 10.1093/nar/gku1096&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1093/nar/gku1096"&gt;Published version — DOI: 10.1093/nar/gku1096&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:e5c878f0-1df3-532b-bd60-17c3e08c76d2</id>
+    <title>Progressive engineering of a homing endonuclease genome editing reagent for the murine X-linked immunodeficiency locus.</title>
+    <published>2014-03-25T00:00:00Z</published>
+    <updated>2026-11-08T17:55:09Z</updated>
+    <link href="https://doi.org/10.1093/nar/gku224" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Yupeng Wang</name>
+    </author>
+    <author>
+      <name>Iram F Khan</name>
+    </author>
+    <author>
+      <name>Sandrine Boissel</name>
+    </author>
+    <author>
+      <name>Jordan Jarjour</name>
+    </author>
+    <author>
+      <name>Joseph Pangallo</name>
+    </author>
+    <author>
+      <name>Summer Thyme</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Andrew M Scharenberg</name>
+    </author>
+    <author>
+      <name>David J Rawlings</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Yupeng Wang; Iram F Khan; Sandrine Boissel; Jordan Jarjour; Joseph Pangallo; Summer Thyme; David Baker; Andrew M Scharenberg; David J Rawlings&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2014-03-25&lt;/p&gt;
+&lt;p&gt;Journal: Nucleic acids research&lt;/p&gt;
+&lt;p&gt;LAGLIDADG homing endonucleases (LHEs) are compact endonucleases with 20-22 bp recognition sites, and thus are ideal scaffolds for engineering site-specific DNA cleavage enzymes for genome editing applications. Here, we describe a general approach to LHE engineering that combines rational design with directed evolution, using a yeast surface display high-throughput cleavage selection. This approach was employed to alter the binding and cleavage specificity of the I-Anil LHE to recognize a mutation in the mouse Bruton tyrosine kinase (Btk) gene causative for mouse X-linked immunodeficiency (XID)-a model of human X-linked agammaglobulinemia (XLA). The required re-targeting of I-AniI involved progressive resculpting of the DNA contact interface to accommodate nine base differences from the native cleavage sequence. The enzyme emerging from the progressive engineering process was specific for the XID mutant allele versus the wild-type (WT) allele, and exhibited activity equivalent to WT I-AniI in vitro and in cellulo reporter assays. Fusion of the enzyme to a site-specific DNA binding domain of transcription activator-like effector (TALE) resulted in a further enhancement of gene editing efficiency. These results illustrate the potential of LHE enzymes as specific and efficient tools for therapeutic genome engineering.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1093/nar/gku224"&gt;pubmed (published) — DOI: 10.1093/nar/gku224&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1093/nar/gku224"&gt;Published version — DOI: 10.1093/nar/gku224&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>

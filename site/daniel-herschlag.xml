@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-11-02T21:41:53Z</updated>
+  <updated>2026-11-08T17:55:09Z</updated>
   <entry>
     <id>urn:uuid:549c333f-7164-59ed-aeac-18f2d08baa08</id>
     <title>Quantifying protein unfolding kinetics with a high-throughput microfluidic platform.</title>
@@ -180,6 +180,81 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1039/d1cp01963e"&gt;pubmed (published) — DOI: 10.1039/d1cp01963e&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1039/d1cp01963e"&gt;Published version — DOI: 10.1039/d1cp01963e&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:fadd5c8e-771a-5887-9076-421d38c7d8ea</id>
+    <title>Increasing the length of poly-pyrimidine bulges broadens RNA conformational ensembles with minimal impact on stacking energetics.</title>
+    <published>2018-07-16T00:00:00Z</published>
+    <updated>2026-11-08T17:55:09Z</updated>
+    <link href="https://doi.org/10.1261/rna.066258.118" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Dawn K Merriman</name>
+    </author>
+    <author>
+      <name>Jiayi Yuan</name>
+    </author>
+    <author>
+      <name>Honglue Shi</name>
+    </author>
+    <author>
+      <name>Ananya Majumdar</name>
+    </author>
+    <author>
+      <name>Daniel Herschlag</name>
+    </author>
+    <author>
+      <name>Hashim M Al-Hashimi</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Dawn K Merriman; Jiayi Yuan; Honglue Shi; Ananya Majumdar; Daniel Herschlag; Hashim M Al-Hashimi&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2018-07-16&lt;/p&gt;
+&lt;p&gt;Journal: RNA (New York, N.Y.)&lt;/p&gt;
+&lt;p&gt;Helical elements separated by bulges frequently undergo transitions between unstacked and coaxially stacked conformations during the folding and function of noncoding RNAs. Here, we examine the dynamic properties of poly-pyrimidine bulges of varying length (n = 1-4, 7) across a range of Mg2+ concentrations using HIV-1 TAR RNA as a model system and solution NMR spectroscopy. In the absence of Mg2+, helices linked by bulges with n ≥ 3 residues adopt predominantly unstacked conformations (stacked population &amp;lt;15%), whereas one-bulge and two-bulge motifs adopt predominantly stacked conformations (stacked population &amp;gt;74%). In the presence of 3 mM Mg2+, the helices predominantly coaxially stack (stacked population &amp;gt;84%), regardless of bulge length, and the midpoint for the Mg2+-dependent stacking transition is within threefold regardless of bulge length. In the absence of Mg2+, the difference between free energy of interhelical coaxial stacking across the bulge variants is estimated to be ∼2.9 kcal/mol, based on an NMR chemical shift mapping with stacking being more energetically disfavored for the longer bulges. This difference decreases to ∼0.4 kcal/mol in the presence of Mg2+ NMR RDCs and resonance intensity data show increased dynamics in the stacked state with increasing bulge length in the presence of Mg2+ We propose that Mg2+ helps to neutralize the growing electrostatic repulsion in the stacked state with increasing bulge length thereby increasing the number of coaxial conformations that are sampled. Energetically compensated interhelical stacking dynamics may help to maximize the conformational adaptability of RNA and allow a wide range of conformations to be optimally stabilized by proteins and ligands.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1261/rna.066258.118"&gt;pubmed (published) — DOI: 10.1261/rna.066258.118&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1261/rna.066258.118"&gt;Published version — DOI: 10.1261/rna.066258.118&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:e0d12b2d-ea8d-5df8-b884-b3fa2f6dc559</id>
+    <title>Recording and Analyzing Nucleic Acid Distance Distributions with X-Ray Scattering Interferometry (XSI).</title>
+    <published>2018-06-07T00:00:00Z</published>
+    <updated>2026-11-08T17:55:09Z</updated>
+    <link href="https://doi.org/10.1002/cpnc.54" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Thomas Zettl</name>
+    </author>
+    <author>
+      <name>Rhiju Das</name>
+    </author>
+    <author>
+      <name>Pehr A B Harbury</name>
+    </author>
+    <author>
+      <name>Daniel Herschlag</name>
+    </author>
+    <author>
+      <name>Jan Lipfert</name>
+    </author>
+    <author>
+      <name>Rebecca S Mathew</name>
+    </author>
+    <author>
+      <name>Xuesong Shi</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Thomas Zettl; Rhiju Das; Pehr A B Harbury; Daniel Herschlag; Jan Lipfert; Rebecca S Mathew; Xuesong Shi&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2018-06-07&lt;/p&gt;
+&lt;p&gt;Journal: Current protocols in nucleic acid chemistry&lt;/p&gt;
+&lt;p&gt;Most structural techniques provide averaged information or information about a single predominant conformational state. However, biological macromolecules typically function through series of conformations. Therefore, a complete understanding of macromolecular structures requires knowledge of the ensembles that represent probabilities on a conformational free energy landscape. Here we describe an emerging approach, X-ray scattering interferometry (XSI), a method that provides instantaneous distance distributions for molecules in solution. XSI uses gold nanocrystal labels site-specifically attached to a macromolecule and measures the scattering interference from pairs of heavy metal labels. The recorded signal can directly be transformed into a distance distribution between the two probes. We describe the underlying concepts, present a detailed protocol for preparing samples and recording XSI data, and provide a custom-written graphical user interface to facilitate XSI data analysis. © 2018 by John Wiley &amp;amp; Sons, Inc.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1002/cpnc.54"&gt;pubmed (published) — DOI: 10.1002/cpnc.54&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1002/cpnc.54"&gt;Published version — DOI: 10.1002/cpnc.54&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>

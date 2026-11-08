@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-11-08T10:18:08Z",
+      "last_success": "2026-11-08T17:55:09Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-11-08T10:18:08Z",
+      "last_success": "2026-11-08T17:55:09Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-11-08T10:18:08Z",
+      "last_success": "2026-11-08T17:55:09Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -221,7 +221,10 @@
     "pubmed:42995993": "2026-11-08T10:18:08Z",
     "pubmed:42995956": "2026-11-08T10:18:08Z",
     "pubmed:42995874": "2026-11-08T10:18:08Z",
-    "pubmed:42990359": "2026-11-08T10:18:08Z"
+    "pubmed:42990359": "2026-11-08T10:18:08Z",
+    "pubmed:30012568": "2026-11-08T17:55:09Z",
+    "pubmed:29927110": "2026-11-08T17:55:09Z",
+    "pubmed:24682825": "2026-11-08T17:55:09Z"
   },
   "works": {
     "urn:uuid:7f477453-6c38-52e7-b591-accb9b0e6576": {
@@ -38752,12 +38755,1652 @@
         }
       ],
       "published": "2026-10-21T00:00:00Z"
+    },
+    "urn:uuid:e5c878f0-1df3-532b-bd60-17c3e08c76d2": {
+      "id": "urn:uuid:e5c878f0-1df3-532b-bd60-17c3e08c76d2",
+      "first_seen": "2026-11-08T17:55:09Z",
+      "updated": "2026-11-08T17:55:09Z",
+      "records": {
+        "pubmed:24682825": {
+          "source": "pubmed",
+          "source_id": "24682825",
+          "title": "Progressive engineering of a homing endonuclease genome editing reagent for the murine X-linked immunodeficiency locus.",
+          "authors": [
+            {
+              "name": "Yupeng Wang",
+              "affiliations": [
+                "Center for Immunity and Immunotherapies, Seattle Children's Research Institute, Seattle, WA 98101, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Iram F Khan",
+              "affiliations": [
+                "Center for Immunity and Immunotherapies, Seattle Children's Research Institute, Seattle, WA 98101, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Sandrine Boissel",
+              "affiliations": [
+                "Center for Immunity and Immunotherapies, Seattle Children's Research Institute, Seattle, WA 98101, USA Department of Biochemistry, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Jordan Jarjour",
+              "affiliations": [
+                "Pregenen Inc., Seattle, WA 98103, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Joseph Pangallo",
+              "affiliations": [
+                "Center for Immunity and Immunotherapies, Seattle Children's Research Institute, Seattle, WA 98101, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Summer Thyme",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Andrew M Scharenberg",
+              "affiliations": [
+                "Center for Immunity and Immunotherapies, Seattle Children's Research Institute, Seattle, WA 98101, USA Departments of Pediatrics and Immunology, University of Washington, Seattle, WA 98195, USA drawling@u.washington.edu."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David J Rawlings",
+              "affiliations": [
+                "Center for Immunity and Immunotherapies, Seattle Children's Research Institute, Seattle, WA 98101, USA Departments of Pediatrics and Immunology, University of Washington, Seattle, WA 98195, USA drawling@u.washington.edu."
+              ],
+              "orcid": null
+            }
+          ],
+          "abstract": "LAGLIDADG homing endonucleases (LHEs) are compact endonucleases with 20-22 bp recognition sites, and thus are ideal scaffolds for engineering site-specific DNA cleavage enzymes for genome editing applications. Here, we describe a general approach to LHE engineering that combines rational design with directed evolution, using a yeast surface display high-throughput cleavage selection. This approach was employed to alter the binding and cleavage specificity of the I-Anil LHE to recognize a mutation in the mouse Bruton tyrosine kinase (Btk) gene causative for mouse X-linked immunodeficiency (XID)-a model of human X-linked agammaglobulinemia (XLA). The required re-targeting of I-AniI involved progressive resculpting of the DNA contact interface to accommodate nine base differences from the native cleavage sequence. The enzyme emerging from the progressive engineering process was specific for the XID mutant allele versus the wild-type (WT) allele, and exhibited activity equivalent to WT I-AniI in vitro and in cellulo reporter assays. Fusion of the enzyme to a site-specific DNA binding domain of transcription activator-like effector (TALE) resulted in a further enhancement of gene editing efficiency. These results illustrate the potential of LHE enzymes as specific and efficient tools for therapeutic genome engineering.",
+          "date": "2014-03-25",
+          "url": "https://doi.org/10.1093/nar/gku224",
+          "doi": "10.1093/nar/gku224",
+          "status": "published",
+          "journal": "Nucleic acids research",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC4041414"
+          ],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:24682825",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "name_and_affiliations",
+                "affiliations": [
+                  "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA."
+                ],
+                "matched_affiliations": [
+                  "University of Washington",
+                  "Department of Biochemistry"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:24682825",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2014-03-25T00:00:00Z"
+    },
+    "urn:uuid:e0d12b2d-ea8d-5df8-b884-b3fa2f6dc559": {
+      "id": "urn:uuid:e0d12b2d-ea8d-5df8-b884-b3fa2f6dc559",
+      "first_seen": "2026-11-08T17:55:09Z",
+      "updated": "2026-11-08T17:55:09Z",
+      "records": {
+        "pubmed:29927110": {
+          "source": "pubmed",
+          "source_id": "29927110",
+          "title": "Recording and Analyzing Nucleic Acid Distance Distributions with X-Ray Scattering Interferometry (XSI).",
+          "authors": [
+            {
+              "name": "Thomas Zettl",
+              "affiliations": [
+                "Department of Physics, Nanosystems Initiative Munich, and Center for Nanoscience, LMU Munich, Munich, Germany.",
+                "Department of Biochemistry, Stanford University, Stanford, California."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Rhiju Das",
+              "affiliations": [
+                "Department of Biochemistry, Stanford University, Stanford, California.",
+                "Department of Physics, Stanford University, Stanford, California."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Pehr A B Harbury",
+              "affiliations": [
+                "Department of Biochemistry, Stanford University, Stanford, California."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Daniel Herschlag",
+              "affiliations": [
+                "Department of Biochemistry, Stanford University, Stanford, California.",
+                "Department of Chemical Engineering, Stanford University, Stanford, California."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Jan Lipfert",
+              "affiliations": [
+                "Department of Physics, Nanosystems Initiative Munich, and Center for Nanoscience, LMU Munich, Munich, Germany."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Rebecca S Mathew",
+              "affiliations": [
+                "Department of Cell Biology, Harvard Medical School, Harvard University, Boston, Massachusetts."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Xuesong Shi",
+              "affiliations": [
+                "Department of Biochemistry, Stanford University, Stanford, California."
+              ],
+              "orcid": null
+            }
+          ],
+          "abstract": "Most structural techniques provide averaged information or information about a single predominant conformational state. However, biological macromolecules typically function through series of conformations. Therefore, a complete understanding of macromolecular structures requires knowledge of the ensembles that represent probabilities on a conformational free energy landscape. Here we describe an emerging approach, X-ray scattering interferometry (XSI), a method that provides instantaneous distance distributions for molecules in solution. XSI uses gold nanocrystal labels site-specifically attached to a macromolecule and measures the scattering interference from pairs of heavy metal labels. The recorded signal can directly be transformed into a distance distribution between the two probes. We describe the underlying concepts, present a detailed protocol for preparing samples and recording XSI data, and provide a custom-written graphical user interface to facilitate XSI data analysis. © 2018 by John Wiley & Sons, Inc.",
+          "date": "2018-06-07",
+          "url": "https://doi.org/10.1002/cpnc.54",
+          "doi": "10.1002/cpnc.54",
+          "status": "published",
+          "journal": "Current protocols in nucleic acid chemistry",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC6082382"
+          ],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "daniel-herschlag": [
+          {
+            "record": "pubmed:29927110",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "Daniel Herschlag",
+                "method": "name_and_affiliations",
+                "affiliations": [
+                  "Department of Biochemistry, Stanford University, Stanford, California.",
+                  "Department of Chemical Engineering, Stanford University, Stanford, California."
+                ],
+                "matched_affiliations": [
+                  "Stanford University",
+                  "Department of Biochemistry",
+                  "Department of Chemical Engineering"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:29927110",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2018-06-07T00:00:00Z"
+    },
+    "urn:uuid:fadd5c8e-771a-5887-9076-421d38c7d8ea": {
+      "id": "urn:uuid:fadd5c8e-771a-5887-9076-421d38c7d8ea",
+      "first_seen": "2026-11-08T17:55:09Z",
+      "updated": "2026-11-08T17:55:09Z",
+      "records": {
+        "pubmed:30012568": {
+          "source": "pubmed",
+          "source_id": "30012568",
+          "title": "Increasing the length of poly-pyrimidine bulges broadens RNA conformational ensembles with minimal impact on stacking energetics.",
+          "authors": [
+            {
+              "name": "Dawn K Merriman",
+              "affiliations": [
+                "Department of Chemistry, Duke University, Durham, North Carolina 27708, USA."
+              ],
+              "orcid": "0000-0002-0333-5485"
+            },
+            {
+              "name": "Jiayi Yuan",
+              "affiliations": [
+                "Department of Chemistry, Duke University, Durham, North Carolina 27708, USA.",
+                "Department of Biology, Duke University, Durham, North Carolina 27708, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Honglue Shi",
+              "affiliations": [
+                "Department of Chemistry, Duke University, Durham, North Carolina 27708, USA."
+              ],
+              "orcid": "0000-0003-3847-1652"
+            },
+            {
+              "name": "Ananya Majumdar",
+              "affiliations": [
+                "Biomolecular NMR Facility, Johns Hopkins University, Baltimore, Maryland 21218, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Daniel Herschlag",
+              "affiliations": [
+                "Department of Biochemistry, Stanford University, Stanford, California 94305, USA."
+              ],
+              "orcid": "0000-0002-4685-1973"
+            },
+            {
+              "name": "Hashim M Al-Hashimi",
+              "affiliations": [
+                "Department of Chemistry, Duke University, Durham, North Carolina 27708, USA.",
+                "Department of Biochemistry, Duke University Medical Center, Durham, North Carolina 27710, USA."
+              ],
+              "orcid": null
+            }
+          ],
+          "abstract": "Helical elements separated by bulges frequently undergo transitions between unstacked and coaxially stacked conformations during the folding and function of noncoding RNAs. Here, we examine the dynamic properties of poly-pyrimidine bulges of varying length (n = 1-4, 7) across a range of Mg2+ concentrations using HIV-1 TAR RNA as a model system and solution NMR spectroscopy. In the absence of Mg2+, helices linked by bulges with n ≥ 3 residues adopt predominantly unstacked conformations (stacked population <15%), whereas one-bulge and two-bulge motifs adopt predominantly stacked conformations (stacked population >74%). In the presence of 3 mM Mg2+, the helices predominantly coaxially stack (stacked population >84%), regardless of bulge length, and the midpoint for the Mg2+-dependent stacking transition is within threefold regardless of bulge length. In the absence of Mg2+, the difference between free energy of interhelical coaxial stacking across the bulge variants is estimated to be ∼2.9 kcal/mol, based on an NMR chemical shift mapping with stacking being more energetically disfavored for the longer bulges. This difference decreases to ∼0.4 kcal/mol in the presence of Mg2+ NMR RDCs and resonance intensity data show increased dynamics in the stacked state with increasing bulge length in the presence of Mg2+ We propose that Mg2+ helps to neutralize the growing electrostatic repulsion in the stacked state with increasing bulge length thereby increasing the number of coaxial conformations that are sampled. Energetically compensated interhelical stacking dynamics may help to maximize the conformational adaptability of RNA and allow a wide range of conformations to be optimally stabilized by proteins and ligands.",
+          "date": "2018-07-16",
+          "url": "https://doi.org/10.1261/rna.066258.118",
+          "doi": "10.1261/rna.066258.118",
+          "status": "published",
+          "journal": "RNA (New York, N.Y.)",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC6140463"
+          ],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "daniel-herschlag": [
+          {
+            "record": "pubmed:30012568",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "Daniel Herschlag",
+                "method": "orcid",
+                "orcid": "0000-0002-4685-1973"
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:30012568",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2018-07-16T00:00:00Z"
     }
   },
   "aliases": {
     "urn:uuid:4b3d262c-d759-5ebd-a82d-a7a91bd68fad": "urn:uuid:9e012682-4c6a-50a3-b187-e8ed207714b5"
   },
   "rejected": {
+    "pubmed:41309003": {
+      "first_seen": "2026-11-08T17:55:09Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "41309003",
+        "title": "Tricuspid valve surgery in transposition of the great arteries with a systemic right ventricle.",
+        "authors": [
+          {
+            "name": "Rawan Amir",
+            "affiliations": [
+              "Johns Hopkins Hospital, Baltimore, MD, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Magalie Ladouceur",
+            "affiliations": [
+              "Department of Cardiology, Medical Department, Hôpitaux Universitaires de Genève, 1205 Genève, Switzerland; Centre de Recherche Cardiovasculaire de Paris, INSERM U970, Paris, France."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "David Danford",
+            "affiliations": [
+              "Johns Hopkins Hospital, Baltimore, MD, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Jamil Aboulhosn",
+            "affiliations": [
+              "UCLA Medical Center, Los Angeles, CA, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Petra Antonova",
+            "affiliations": [
+              "University Hospital Motol, Prague, Czech Republic."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "David Baker",
+            "affiliations": [
+              "University of Sydney and Royal Prince Alfred Hospital, Sydney, Australia."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Judith Bouchardy",
+            "affiliations": [
+              "Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland; Hôpitaux Universitaires de Genève, Genève, Switzerland."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Werner Budts",
+            "affiliations": [
+              "Center for Molecular and Vascular Biology, Department of Cardiovascular Sciences, KU Leuven, Leuven, Belgium; Congenital and Structural Cardiology, University Hospitals Leuven, Leuven, Belgium."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Luke J Burchill",
+            "affiliations": [
+              "Royal Melbourne Hospital, Department of Medicine, Melbourne, Australia."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "David S Celermajer",
+            "affiliations": [
+              "Boston Children's Hospital, and Department of Pediatrics, Harvard Medical School, Boston, MA, USA; Department of Medicine, Division of Cardiology, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Timothy Cotts",
+            "affiliations": [
+              "University of Michigan Medical Center, Ann Arbor, MI, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Jonathan Cramer",
+            "affiliations": [
+              "Children's Hospital, Omaha & University of Nebraska Medical Center, Omaha, NE, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Payam Dehghani",
+            "affiliations": [
+              "Regina General Hospital, Regina, SK, Canada."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Flavia Fusco",
+            "affiliations": [
+              "Monaldi Hospital, Napoli, Italy."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Mikael Dellborg",
+            "affiliations": [
+              "Institute of Medicine, Sahlgrenska Academy, University of Gothenburg, Gothenburg, Sweden."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Christopher DeZorzi",
+            "affiliations": [
+              "University of Missouri- Kansas City and Saint Luke's Hospital, Kansas City, MO, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Pastora Gallego",
+            "affiliations": [
+              "Hospital Universitario Virgen Del Rocio, Sevilla, Spain."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Michael Gatzoulis",
+            "affiliations": [
+              "Adult Congenital Heart Centre and National Centre for Pulmonary Hypertension, Royal Brompton and Harefield NHS Trust, London, United Kingdom; National Heart and Lung Institute, Imperial College London, London, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Salil Ginde",
+            "affiliations": [
+              "Children's Hospital of Wisconsin, Milwaukee, WI, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Jasmine Grewal",
+            "affiliations": [
+              "St.Paul's Hospital, Division of Cardiology, University of British Columbia, Vancouver, BC, Canada."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Tripti Gupta",
+            "affiliations": [
+              "Vanderbilt University Medical Center, Nashville, TN, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Frank Han",
+            "affiliations": [
+              "University of Mississippi Medical Center, Jackson, MS, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Susan M Jameson",
+            "affiliations": [
+              "Stanford University, School of Medicine, Departments of Pediatrics and Medicine, Palo Alto, CA, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Maria Jesus Del Cerro Marin",
+            "affiliations": [
+              "Pediatric Cardiology and ACHD Unit, Ramón y Cajal University Hospital, Madrid, Spain."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Anitha S John",
+            "affiliations": [
+              "Children's National Hospital, Washington, DC, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Robert M Kauling",
+            "affiliations": [
+              "Erasmus Medical Center, Rotterdam, the Netherlands; ERN-GUARD-Heart: European Reference Network for Rare and Low Prevalence Complex Diseases of the Heart, Amsterdam UMC, Meibergdreef 9, 1105 AZ Amsterdam, Netherlands."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "W Aaron Kay",
+            "affiliations": [
+              "Krannert Institute of Cardiology, Indianapolis, IN, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Joseph Kay",
+            "affiliations": [
+              "Colorado University School of Medicine, Denver, CO, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Paul Khairy",
+            "affiliations": [
+              "Montreal Heart Institute, University of Montreal, Montreal, QC, Canada."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Eric V Krieger",
+            "affiliations": [
+              "University of Washington Medical Center and Seattle Children's Hospital, Seattle, WA, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Marissa Kuo",
+            "affiliations": [
+              "Emory University Hospital, Atlanta, GA, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Fabien Labombarda",
+            "affiliations": [
+              "Department of Cardiology, CHU de Caen, Caen, France; Medical School, Université Caen Normandie, UNICAEN, CHU Caen, Caen, France."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Adam M Lubert",
+            "affiliations": [
+              "Cincinnati Children's Hospital Medical Center, Heart Institute, Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, OH, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Anthony Magalski",
+            "affiliations": [
+              "University of Missouri- Kansas City and Saint Luke's Hospital, Kansas City, MO, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Jeremy Nicolarsen",
+            "affiliations": [
+              "Providence Spokane, Spokane, WA, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Clare O'Donnell",
+            "affiliations": [
+              "Green Lane Paediatric and Congenital Cardiac Service, Auckland City Hospital, Auckland, New Zealand."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Alexander R Opotowsky",
+            "affiliations": [
+              "Cincinnati Children's Hospital Medical Center, Heart Institute, Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, OH, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Nejc Pavsic",
+            "affiliations": [
+              "Department of Cardiology, University Medical Center Ljubljana, Slovenia."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Katja Prokselj",
+            "affiliations": [
+              "Department of Cardiology, University Medical Center Ljubljana, Slovenia."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Stephen Pylypchuk",
+            "affiliations": [
+              "University of Alberta, Edmonton, AB, Canada."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Fred Rodriguez",
+            "affiliations": [
+              "Emory University Hospital, Atlanta, GA, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Carla P Rodriguez-Monserrate",
+            "affiliations": [
+              "Boston Children's Hospital, and Department of Pediatrics, Harvard Medical School, Boston, MA, USA; Department of Medicine, Division of Cardiology, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Jolien Roos-Hesselink",
+            "affiliations": [
+              "Erasmus Medical Center, Rotterdam, the Netherlands; ERN-GUARD-Heart: European Reference Network for Rare and Low Prevalence Complex Diseases of the Heart, Amsterdam UMC, Meibergdreef 9, 1105 AZ Amsterdam, Netherlands."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Tobias Rutz",
+            "affiliations": [
+              "Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Maria Alvarez Fuente",
+            "affiliations": [
+              "Pediatric Cardiology and ACHD Unit, Ramón y Cajal University Hospital, Madrid, Spain."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Berardo Sarubbi",
+            "affiliations": [
+              "Monaldi Hospital, Napoli, Italy."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Sangeeta Shah",
+            "affiliations": [
+              "Ochsner Medical Center, New Orleans, LA, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Alexander Van De Bruaene",
+            "affiliations": [
+              "Center for Molecular and Vascular Biology, Department of Cardiovascular Sciences, KU Leuven, Leuven, Belgium; Congenital and Structural Cardiology, University Hospitals Leuven, Leuven, Belgium."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Alexandra van Dissel",
+            "affiliations": [
+              "Amsterdam University Medical Center, Amsterdam, the Netherlands."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Maria Elvira Garrido-Lestache",
+            "affiliations": [
+              "Pediatric Cardiology and ACHD Unit, Ramón y Cajal University Hospital, Madrid, Spain."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Isabelle Vonder Muhll",
+            "affiliations": [
+              "University of Alberta, Edmonton, AB, Canada."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "William M Wilson",
+            "affiliations": [
+              "Royal Melbourne Hospital, Department of Medicine, Melbourne, Australia."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Tom Wong",
+            "affiliations": [
+              "Adult Congenital Heart Centre and National Centre for Pulmonary Hypertension, Royal Brompton and Harefield NHS Trust, London, United Kingdom."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Joshua Wong",
+            "affiliations": [
+              "Royal Melbourne Hospital, Department of Medicine, Melbourne, Australia."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Elizabeth Yeung",
+            "affiliations": [
+              "Colorado University School of Medicine, Denver, CO, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Shelby Kutty",
+            "affiliations": [
+              "Johns Hopkins Hospital, Baltimore, MD, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Craig S Broberg",
+            "affiliations": [
+              "Knight Cardiovascular Institute, Oregon Health and Science University, Portland, OR, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Ari Cedars",
+            "affiliations": [
+              "Johns Hopkins Hospital, Baltimore, MD, USA. Electronic address: acedars1@jhmi.edu."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "AARCC and MARES research groups",
+            "affiliations": [],
+            "orcid": null
+          }
+        ],
+        "abstract": "BACKGROUND: Adults with transposition of the great arteries (TGA) and systemic morphologic right ventricle (SRV) have a high prevalence of SRV failure with accompanying tricuspid valve regurgitation (TR). It is unknown if tricuspid valve surgery (TVS) impacts clinical outcomes in this setting.\n\nMETHODS: Data were gathered from an international cohort of patients with TGA and SRV. From this group, patients who had previously undergone tricuspid valve surgery (TVS) were propensity matched with patients who had not undergone surgery and followed for 10.5 ± 4.6 years. The impact of surgery on the probability of the combined endpoint of death/transplant/MCS was investigated. Variables associated with favorable outcomes were explored.\n\nRESULTS: Among 2562 patients with TGA and SRV, 140 patients with prior TVS were propensity matched to 140 controls without previous TVS. In the TVS group, primary end point was noted in 20 cases with 15 deaths (10.7 %), 3 transplant listings (2.1 %) and 5 MCS implants (3.6 %). Among controls, primary end point occurred in 23 patients (16.4 %) with 15 deaths (10.7 %), 7 transplant listings (5.0 %) and 2 MCS implants (1.4 %). There was no difference between groups in event free survival. Lower rates of combined endpoint were observed in TVS group with moderate-severe TR and mild-moderate SRV dysfunction. Sensitivity analyses to address potential immortal-time bias were performed in the subset who underwent surgery during the observation period and produced similar results. Among patients with severe SRV dysfunction there was no difference in primary outcome between groups. Similarly, no difference in outcomes was observed between congenitally corrected (ccTGA) and atrial corrected transposition of the great arteries (acTGA) patients.\n\nCONCLUSIONS: For acTGA and ccTGA patients with SRV and moderate-severe TR, surgical intervention prior to development of severe RV dysfunction is recommended. More data are required to determine those with severe SRV dysfunction who may benefit most.",
+        "date": "2025-11-25",
+        "url": "https://doi.org/10.1016/j.ijcard.2025.134055",
+        "doi": "10.1016/j.ijcard.2025.134055",
+        "status": "published",
+        "journal": "International journal of cardiology",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "David Baker",
+              "method": "rejected",
+              "affiliations": [
+                "University of Sydney and Royal Prince Alfred Hospital, Sydney, Australia."
+              ],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
+    "pubmed:25299936": {
+      "first_seen": "2026-11-08T17:55:09Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "25299936",
+        "title": "Probing the origins of catalytic discrimination between phosphate and sulfate monoester hydrolysis: comparative analysis of alkaline phosphatase and protein tyrosine phosphatases.",
+        "authors": [
+          {
+            "name": "Logan D Andrews",
+            "affiliations": [
+              "Department of Chemical and Systems Biology, ‡Department of Chemistry, and §Department of Biochemistry, Stanford University , Stanford, California 94305-5307, United States."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Jesse G Zalatan",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Daniel Herschlag",
+            "affiliations": [],
+            "orcid": null
+          }
+        ],
+        "abstract": "Catalytic promiscuity, the ability of enzymes to catalyze multiple reactions, provides an opportunity to gain a deeper understanding of the origins of catalysis and substrate specificity. Alkaline phosphatase (AP) catalyzes both phosphate and sulfate monoester hydrolysis reactions with a ∼10(10)-fold preference for phosphate monoester hydrolysis, despite the similarity between these reactions. The preponderance of formal positive charge in the AP active site, particularly from three divalent metal ions, was proposed to be responsible for this preference by providing stronger electrostatic interactions with the more negatively charged phosphoryl group versus the sulfuryl group. To test whether positively charged metal ions are required to achieve a high preference for the phosphate monoester hydrolysis reaction, the catalytic preference of three protein tyrosine phosphatases (PTPs), which do not contain metal ions, were measured. Their preferences ranged from 5 × 10(6) to 7 × 10(7), lower than that for AP but still substantial, indicating that metal ions and a high preponderance of formal positive charge within the active site are not required to achieve a strong catalytic preference for phosphate monoester over sulfate monoester hydrolysis. The observed ionic strength dependences of kcat/KM values for phosphate and sulfate monoester hydrolysis are steeper for the more highly charged phosphate ester with both AP and the PTP Stp1, following the dependence expected based on the charge difference of these two substrates. However, the dependences for AP were not greater than those of Stp1 and were rather shallow for both enzymes. These results suggest that overall electrostatics from formal positive charge within the active site is not the major driving force in distinguishing between these reactions and that substantial discrimination can be attained without metal ions. Thus, local properties of the active site, presumably including multiple positioned dipolar hydrogen bond donors within the active site, dominate in defining this reaction specificity.",
+        "date": "2014-10-23",
+        "url": "https://doi.org/10.1021/bi500765p",
+        "doi": "10.1021/bi500765p",
+        "status": "published",
+        "journal": "Biochemistry",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [
+          "pmc:PMC4222534"
+        ],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "Daniel Herschlag",
+              "method": "rejected",
+              "affiliations": [],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
+    "pubmed:24779441": {
+      "first_seen": "2026-11-08T17:55:09Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "24779441",
+        "title": "Assembly line polyketide synthases: mechanistic insights and unsolved problems.",
+        "authors": [
+          {
+            "name": "Chaitan Khosla",
+            "affiliations": [
+              "Departments of Chemical Engineering, Chemistry, and Biochemistry, Stanford University , Stanford, California 94305, United States."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Daniel Herschlag",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "David E Cane",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Christopher T Walsh",
+            "affiliations": [],
+            "orcid": null
+          }
+        ],
+        "abstract": "Two hallmarks of assembly line polyketide synthases have motivated an interest in these unusual multienzyme systems, their stereospecificity and their capacity for directional biosynthesis. In this review, we summarize the state of knowledge regarding the mechanistic origins of these two remarkable features, using the 6-deoxyerythronolide B synthase as a prototype. Of the 10 stereocenters in 6-deoxyerythronolide B, the stereochemistry of nine carbon atoms is directly set by ketoreductase domains, which catalyze epimerization and/or diastereospecific reduction reactions. The 10th stereocenter is established by the sequential action of three enzymatic domains. Thus, the problem has been reduced to a challenge in mainstream enzymology, where fundamental gaps remain in our understanding of the structural basis for this exquisite stereochemical control by relatively well-defined active sites. In contrast, testable mechanistic hypotheses for the phenomenon of vectorial biosynthesis are only just beginning to emerge. Starting from an elegant theoretical framework for understanding coupled vectorial processes in biology [Jencks, W. P. (1980) Adv. Enzymol. Relat. Areas Mol. Biol. 51, 75-106], we present a simple model that can explain assembly line polyketide biosynthesis as a coupled vectorial process. Our model, which highlights the important role of domain-domain interactions, not only is consistent with recent observations but also is amenable to further experimental verification and refinement. Ultimately, a definitive view of the coordinated motions within and between polyketide synthase modules will require a combination of structural, kinetic, spectroscopic, and computational tools and could be one of the most exciting frontiers in 21st Century enzymology.",
+        "date": "2014-05-01",
+        "url": "https://doi.org/10.1021/bi500290t",
+        "doi": "10.1021/bi500290t",
+        "status": "published",
+        "journal": "Biochemistry",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [
+          "pmc:PMC4020578"
+        ],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "Daniel Herschlag",
+              "method": "rejected",
+              "affiliations": [],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
+    "pubmed:24706812": {
+      "first_seen": "2026-11-08T17:55:09Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "24706812",
+        "title": "From a structural average to the conformational ensemble of a DNA bulge.",
+        "authors": [
+          {
+            "name": "Xuesong Shi",
+            "affiliations": [
+              "Department of Biochemistry and Biophysics Program, Stanford University, Stanford, CA 94305-5307."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Kyle A Beauchamp",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Pehr B Harbury",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Daniel Herschlag",
+            "affiliations": [],
+            "orcid": null
+          }
+        ],
+        "abstract": "Direct experimental measurements of conformational ensembles are critical for understanding macromolecular function, but traditional biophysical methods do not directly report the solution ensemble of a macromolecule. Small-angle X-ray scattering interferometry has the potential to overcome this limitation by providing the instantaneous distance distribution between pairs of gold-nanocrystal probes conjugated to a macromolecule in solution. Our X-ray interferometry experiments reveal an increasing bend angle of DNA duplexes with bulges of one, three, and five adenosine residues, consistent with previous FRET measurements, and further reveal an increasingly broad conformational ensemble with increasing bulge length. The distance distributions for the AAA bulge duplex (3A-DNA) with six different Au-Au pairs provide strong evidence against a simple elastic model in which fluctuations occur about a single conformational state. Instead, the measured distance distributions suggest a 3A-DNA ensemble with multiple conformational states predominantly across a region of conformational space with bend angles between 24 and 85 degrees and characteristic bend directions and helical twists and displacements. Additional X-ray interferometry experiments revealed perturbations to the ensemble from changes in ionic conditions and the bulge sequence, effects that can be understood in terms of electrostatic and stacking contributions to the ensemble and that demonstrate the sensitivity of X-ray interferometry. Combining X-ray interferometry ensemble data with molecular dynamics simulations gave atomic-level models of representative conformational states and of the molecular interactions that may shape the ensemble, and fluorescence measurements with 2-aminopurine-substituted 3A-DNA provided initial tests of these atomistic models. More generally, X-ray interferometry will provide powerful benchmarks for testing and developing computational methods.",
+        "date": "2014-03-31",
+        "url": "https://doi.org/10.1073/pnas.1317032111",
+        "doi": "10.1073/pnas.1317032111",
+        "status": "published",
+        "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [
+          "pmc:PMC3992658"
+        ],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "Daniel Herschlag",
+              "method": "rejected",
+              "affiliations": [],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
+    "pubmed:24597914": {
+      "first_seen": "2026-11-08T17:55:09Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "24597914",
+        "title": "Experimental and computational mutagenesis to investigate the positioning of a general base within an enzyme active site.",
+        "authors": [
+          {
+            "name": "Jason P Schwans",
+            "affiliations": [
+              "Department of Biochemistry, Stanford University , B400 Beckman Center, 279 Campus Drive, Stanford, California 94305, United States."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Philip Hanoian",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Benjamin J Lengerich",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Fanny Sunden",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Ana Gonzalez",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Yingssu Tsai",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Sharon Hammes-Schiffer",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Daniel Herschlag",
+            "affiliations": [],
+            "orcid": null
+          }
+        ],
+        "abstract": "The positioning of catalytic groups within proteins plays an important role in enzyme catalysis, and here we investigate the positioning of the general base in the enzyme ketosteroid isomerase (KSI). The oxygen atoms of Asp38, the general base in KSI, were previously shown to be involved in anion-aromatic interactions with two neighboring Phe residues. Here we ask whether those interactions are sufficient, within the overall protein architecture, to position Asp38 for catalysis or whether the side chains that pack against Asp38 and/or the residues of the structured loop that is capped by Asp38 are necessary to achieve optimal positioning for catalysis. To test positioning, we mutated each of the aforementioned residues, alone and in combinations, in a background with the native Asp general base and in a D38E mutant background, as Glu at position 38 was previously shown to be mispositioned for general base catalysis. These double-mutant cycles reveal positioning effects as large as 10(3)-fold, indicating that structural features in addition to the overall protein architecture and the Phe residues neighboring the carboxylate oxygen atoms play roles in positioning. X-ray crystallography and molecular dynamics simulations suggest that the functional effects arise from both restricting dynamic fluctuations and disfavoring potential mispositioned states. Whereas it may have been anticipated that multiple interactions would be necessary for optimal general base positioning, the energetic contributions from positioning and the nonadditive nature of these interactions are not revealed by structural inspection and require functional dissection. Recognizing the extent, type, and energetic interconnectivity of interactions that contribute to positioning catalytic groups has implications for enzyme evolution and may help reveal the nature and extent of interactions required to design enzymes that rival those found in biology.",
+        "date": "2014-04-09",
+        "url": "https://doi.org/10.1021/bi401671t",
+        "doi": "10.1021/bi401671t",
+        "status": "published",
+        "journal": "Biochemistry",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [
+          "pmc:PMC4004248"
+        ],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "Daniel Herschlag",
+              "method": "rejected",
+              "affiliations": [],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
+    "pubmed:24270794": {
+      "first_seen": "2026-11-08T17:55:09Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "24270794",
+        "title": "Reprogramming homing endonuclease specificity through computational design and directed evolution.",
+        "authors": [
+          {
+            "name": "Summer B Thyme",
+            "affiliations": [
+              "Department of Biochemistry, University of Washington, UW Box 357350, 1705 NE Pacific St., Seattle, WA 98195, USA, Graduate Program in Biomolecular Structure and Design, University of Washington, UW Box 357350, 1705 NE Pacific St., Seattle, WA 98195, USA, Graduate Program in Molecular and Cellular Biology, University of Washington, UW Box 357275, 1959 NE Pacific St., Seattle, WA 98195, USA, Department of Life Sciences, Sir Alexander Fleming Building, Imperial College London, Imperial College Road, London SW7 2AZ, UK, Department of Genetics, University of Cambridge, Downing Street, Cambridge CB1 3QA, UK, Institute for Systems Biology, 401 Terry Avenue N, Seattle, WA 98109, USA and Howard Hughes Medical Institute, University of Washington, UW Box 357350, 1705 NE Pacific St., Seattle, WA 98195, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Sandrine J S Boissel",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "S Arshiya Quadri",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Tony Nolan",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Dean A Baker",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Rachel U Park",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Lara Kusak",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Justin Ashworth",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "David Baker",
+            "affiliations": [],
+            "orcid": null
+          }
+        ],
+        "abstract": "Homing endonucleases (HEs) can be used to induce targeted genome modification to reduce the fitness of pathogen vectors such as the malaria-transmitting Anopheles gambiae and to correct deleterious mutations in genetic diseases. We describe the creation of an extensive set of HE variants with novel DNA cleavage specificities using an integrated experimental and computational approach. Using computational modeling and an improved selection strategy, which optimizes specificity in addition to activity, we engineered an endonuclease to cleave in a gene associated with Anopheles sterility and another to cleave near a mutation that causes pyruvate kinase deficiency. In the course of this work we observed unanticipated context-dependence between bases which will need to be mechanistically understood for reprogramming of specificity to succeed more generally.",
+        "date": "2013-11-21",
+        "url": "https://doi.org/10.1093/nar/gkt1212",
+        "doi": "10.1093/nar/gkt1212",
+        "status": "published",
+        "journal": "Nucleic acids research",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [
+          "pmc:PMC3936771"
+        ],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "David Baker",
+              "method": "rejected",
+              "affiliations": [],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
+    "pubmed:23576725": {
+      "first_seen": "2026-11-08T17:55:09Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "23576725",
+        "title": "Structural ensemble and microscopic elasticity of freely diffusing DNA by direct measurement of fluctuations.",
+        "authors": [
+          {
+            "name": "Xuesong Shi",
+            "affiliations": [
+              "Department of Biochemistry, Stanford University, Stanford, CA 94305, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Daniel Herschlag",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Pehr A B Harbury",
+            "affiliations": [],
+            "orcid": null
+          }
+        ],
+        "abstract": "Precisely measuring the ensemble of conformers that a macromolecule populates in solution is highly challenging. Thus, it has been difficult to confirm or falsify the predictions of nanometer-scale dynamical modeling. Here, we apply an X-ray interferometry technique to probe the solution structure and fluctuations of B-form DNA on a length scale comparable to a protein-binding site. We determine an extensive set of intrahelix distance distributions between pairs of probes placed at distinct points on the surface of the DNA duplex. The distributions of measured distances reveal the nature and extent of the thermally driven mechanical deformations of the helix. We describe these deformations in terms of elastic constants, as is common for DNA and other polymers. The average solution structure and microscopic elasticity measured by X-ray interferometry are in striking agreement with values derived from DNA-protein crystal structures and measured by force spectroscopy, with one exception. The observed microscopic torsional rigidity of DNA is much lower than is measured by single-molecule twisting experiments, suggesting that torsional rigidity increases when DNA is stretched. Looking forward, molecular-level interferometry can provide a general tool for characterizing solution-phase structural ensembles.",
+        "date": "2013-04-01",
+        "url": "https://doi.org/10.1073/pnas.1218830110",
+        "doi": "10.1073/pnas.1218830110",
+        "status": "published",
+        "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [
+          "pmc:PMC3631670"
+        ],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "Daniel Herschlag",
+              "method": "rejected",
+              "affiliations": [],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
+    "pubmed:20959291": {
+      "first_seen": "2026-11-08T17:55:09Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "20959291",
+        "title": "Identification of RNA recognition elements in the Saccharomyces cerevisiae transcriptome.",
+        "authors": [
+          {
+            "name": "Daniel P Riordan",
+            "affiliations": [
+              "Department of Biochemistry, Stanford University School of Medicine, Stanford, California, USA. driordan@stanford.edu"
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Daniel Herschlag",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Patrick O Brown",
+            "affiliations": [],
+            "orcid": null
+          }
+        ],
+        "abstract": "Post-transcriptional regulation of gene expression, including mRNA localization, translation and decay, is ubiquitous yet still largely unexplored. How is the post-transcriptional regulatory program of each mRNA encoded in its sequence? Hundreds of specific RNA-binding proteins (RBPs) appear to play roles in mediating the post-transcriptional regulatory program, akin to the roles of specific DNA-binding proteins in transcription. As a step toward decoding the regulatory programs encoded in each mRNA, we focused on specific mRNA-protein interactions. We computationally analyzed the sequences of Saccharomyces cerevisiae mRNAs bound in vivo by 29 specific RBPs, identifying eight novel candidate motifs and confirming or extending six earlier reported recognition elements. Biochemical selections for RNA sequences selectively recognized by 12 yeast RBPs yielded novel motifs bound by Pin4, Nsr1, Hrb1, Gbp2, Sgn1 and Mrn1, and recovered the known recognition elements for Puf3, She2, Vts1 and Whi3. Most of the RNA elements we uncovered were associated with coherent mRNA expression changes and were significantly conserved in related yeasts, supporting their functional importance and suggesting that the corresponding RNA-protein interactions are evolutionarily conserved.",
+        "date": "2010-10-18",
+        "url": "https://doi.org/10.1093/nar/gkq920",
+        "doi": "10.1093/nar/gkq920",
+        "status": "published",
+        "journal": "Nucleic acids research",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [
+          "pmc:PMC3045596"
+        ],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "Daniel Herschlag",
+              "method": "rejected",
+              "affiliations": [],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
+    "pubmed:20194520": {
+      "first_seen": "2026-11-08T17:55:09Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "20194520",
+        "title": "Dissecting electrostatic screening, specific ion binding, and ligand binding in an energetic model for glycine riboswitch folding.",
+        "authors": [
+          {
+            "name": "Jan Lipfert",
+            "affiliations": [
+              "Department of Physics, Stanford University, Stanford, California 94305, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Adelene Y L Sim",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Daniel Herschlag",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Sebastian Doniach",
+            "affiliations": [],
+            "orcid": null
+          }
+        ],
+        "abstract": "Riboswitches are gene-regulating RNAs that are usually found in the 5'-untranslated regions of messenger RNA. As the sugar-phosphate backbone of RNA is highly negatively charged, the folding and ligand-binding interactions of riboswitches are strongly dependent on the presence of cations. Using small angle X-ray scattering (SAXS) and hydroxyl radical footprinting, we examined the cation dependence of the different folding stages of the glycine-binding riboswitch from Vibrio cholerae. We found that the partial folding of the tandem aptamer of this riboswitch in the absence of glycine is supported by all tested mono- and divalent ions, suggesting that this transition is mediated by nonspecific electrostatic screening. Poisson-Boltzmann calculations using SAXS-derived low-resolution structural models allowed us to perform an energetic dissection of this process. The results showed that a model with a constant favorable contribution to folding that is opposed by an unfavorable electrostatic term that varies with ion concentration and valency provides a reasonable quantitative description of the observed folding behavior. Glycine binding, on the other hand, requires specific divalent ions binding based on the observation that Mg(2+), Ca(2+), and Mn(2+) facilitated glycine binding, whereas other divalent cations did not. The results provide a case study of how ion-dependent electrostatic relaxation, specific ion binding, and ligand binding can be coupled to shape the energetic landscape of a riboswitch and can begin to be quantitatively dissected.",
+        "date": "2010-03-01",
+        "url": "https://doi.org/10.1261/rna.1985110",
+        "doi": "10.1261/rna.1985110",
+        "status": "published",
+        "journal": "RNA (New York, N.Y.)",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [
+          "pmc:PMC2844619"
+        ],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "Daniel Herschlag",
+              "method": "rejected",
+              "affiliations": [],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
+    "pubmed:19850914": {
+      "first_seen": "2026-11-08T17:55:09Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "19850914",
+        "title": "Do conformational biases of simple helical junctions influence RNA folding stability and specificity?",
+        "authors": [
+          {
+            "name": "Vincent B Chu",
+            "affiliations": [
+              "Department of Applied Physics, Stanford University, Stanford, California 94305, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Jan Lipfert",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Yu Bai",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Vijay S Pande",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Sebastian Doniach",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Daniel Herschlag",
+            "affiliations": [],
+            "orcid": null
+          }
+        ],
+        "abstract": "Structured RNAs must fold into their native structures and discriminate against a large number of alternative ones, an especially difficult task given the limited information content of RNA's nucleotide alphabet. The simplest motifs within structured RNAs are two helices joined by nonhelical junctions. To uncover the fundamental behavior of these motifs and to elucidate the underlying physical forces and challenges faced by structured RNAs, we computationally and experimentally studied a tethered duplex model system composed of two helices joined by flexible single- or double-stranded polyethylene glycol tethers, whose lengths correspond to those typically observed in junctions from structured RNAs. To dissect the thermodynamic properties of these simple motifs, we computationally probed how junction topology, electrostatics, and tertiary contact location influenced folding stability. Small-angle X-ray scattering was used to assess our predictions. Single- or double-stranded junctions, independent of sequence, greatly reduce the space of allowed helical conformations and influencing the preferred location and orientation of their adjoining helices. A double-stranded junction guides the helices along a hinge-like pathway. In contrast, a single-stranded junction samples a broader set of conformations and has different preferences than the double-stranded junction. In turn, these preferences determine the stability and distinct specificities of tertiary structure formation. These sequence-independent effects suggest that properties as simple as a junction's topology can generally define the accessible conformational space, thereby stabilizing desired structures and assisting in discriminating against misfolded structures. Thus, junction topology provides a fundamental strategy for transcending the limitations imposed by the low information content of RNA primary sequence.",
+        "date": "2009-10-22",
+        "url": "https://doi.org/10.1261/rna.1747509",
+        "doi": "10.1261/rna.1747509",
+        "status": "published",
+        "journal": "RNA (New York, N.Y.)",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [
+          "pmc:PMC2779674"
+        ],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "Daniel Herschlag",
+              "method": "rejected",
+              "affiliations": [],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
+    "pubmed:19019827": {
+      "first_seen": "2026-11-08T17:55:09Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "19019827",
+        "title": "Rationally designed integrin beta3 mutants stabilized in the high affinity conformation.",
+        "authors": [
+          {
+            "name": "Bing-Hao Luo",
+            "affiliations": [
+              "Immune Disease Institute and Department of Pathology, Harvard Medical School, Boston, Massachusetts 02115, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "John Karanicolas",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Laura D Harmacek",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "David Baker",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Timothy A Springer",
+            "affiliations": [],
+            "orcid": null
+          }
+        ],
+        "abstract": "Integrins are important cell surface receptors that transmit bidirectional signals across the membrane. It has been shown that a conformational change of the integrin beta-subunit headpiece (i.e. the beta I domain and the hybrid domain) plays a critical role in regulating integrin ligand binding affinity and function. Previous studies have used coarse methods (a glycan wedge, mutations in transmembrane contacts) to force the beta-subunit into either the open or closed conformation. Here, we demonstrate a detailed understanding of this conformational change by applying computational design techniques to select five amino acid side chains that play an important role in the energetic balance between the open and closed conformations of alphaIIbbeta3. Eight single-point mutants were designed at these sites, of which five bound ligands much better than wild type. Further, these mutants were found to be in a more extended conformation than wild type, suggesting that the conformational change at the ligand binding headpiece was propagated to the legs of the integrin. This detailed understanding of the conformational change will assist in the development of allosteric drugs that either stabilize or destabilize specific integrin conformations without occluding the ligand-binding site.",
+        "date": "2008-11-19",
+        "url": "https://doi.org/10.1074/jbc.m806312200",
+        "doi": "10.1074/jbc.m806312200",
+        "status": "published",
+        "journal": "The Journal of biological chemistry",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [
+          "pmc:PMC2635054"
+        ],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "David Baker",
+              "method": "rejected",
+              "affiliations": [],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
+    "pubmed:17307831": {
+      "first_seen": "2026-11-08T17:55:09Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "17307831",
+        "title": "Measuring the folding transition time of single RNA molecules.",
+        "authors": [
+          {
+            "name": "Tae-Hee Lee",
+            "affiliations": [
+              "Department of Physics and Applied Physics, Stanford University, Stanford, California, USA. leeth@stanford.edu"
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Lisa J Lapidus",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Wei Zhao",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Kevin J Travers",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Daniel Herschlag",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Steven Chu",
+            "affiliations": [],
+            "orcid": null
+          }
+        ],
+        "abstract": "We describe a new, time-apertured photon correlation method for resolving the transition time between two states of RNA in folding--i.e., the time of the transition between states rather than the time spent in each state. Single molecule fluorescence resonance energy transfer and fluorescence correlation spectroscopy are used to obtain these measurements. Individual RNA molecules are labeled with fluorophores such as Cy3 and Cy5. Those molecules are then immobilized on a surface and observed for many seconds during which time the molecules spontaneously switch between two conformational states with different levels of flourescence resonance energy transfer efficiency. Single photons are counted from each fluorophore and cross correlated in a small window around a transition. The average of over 1000 cross correlations can be fit to a polynomial, which can determine transition times as short as the average photon emission interval. We applied the method to the P4-P6 domain of the Tetrahymena group I self-splicing intron to yield the folding transition time of 240 micros. The unfolding time is found to be too short to measure with this method.",
+        "date": "2007-02-16",
+        "url": "https://doi.org/10.1529/biophysj.106.094623",
+        "doi": "10.1529/biophysj.106.094623",
+        "status": "published",
+        "journal": "Biophysical journal",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [
+          "pmc:PMC1852359"
+        ],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "Daniel Herschlag",
+              "method": "rejected",
+              "affiliations": [],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
+    "pubmed:17118400": {
+      "first_seen": "2026-11-08T17:55:09Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "17118400",
+        "title": "Structural transitions and thermodynamics of a glycine-dependent riboswitch from Vibrio cholerae.",
+        "authors": [
+          {
+            "name": "Jan Lipfert",
+            "affiliations": [
+              "Department of Physics, Stanford University, Stanford, CA 94305, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Rhiju Das",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Vincent B Chu",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Madhuri Kudaravalli",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Nathan Boyd",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Daniel Herschlag",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Sebastian Doniach",
+            "affiliations": [],
+            "orcid": null
+          }
+        ],
+        "abstract": "Riboswitches are complex folded RNA domains found in noncoding regions of mRNA that regulate gene expression upon small molecule binding. Recently, Breaker and coworkers reported a tandem aptamer riboswitch (VCI-II) that binds glycine cooperatively. Here, we use hydroxyl radical footprinting and small-angle X-ray scattering (SAXS) to study the conformations of this tandem aptamer as a function of Mg(2+) and glycine concentration. We fit a simple three-state thermodynamic model that describes the energetic coupling between magnesium-induced folding and glycine binding. Furthermore, we characterize the structural conformations of each of the three states: In low salt with no magnesium present, the VCI-II construct has an extended overall conformation, presumably representing unfolded structures. Addition of millimolar concentrations of Mg(2+) in the absence of glycine leads to a significant compaction and partial folding as judged by hydroxyl radical protections. In the presence of millimolar Mg(2+) concentrations, the tandem aptamer binds glycine cooperatively. The glycine binding transition involves a further compaction, additional tertiary packing interactions and further uptake of magnesium ions relative to the state in high Mg(2+) but no glycine. Employing density reconstruction algorithms, we obtain low resolution 3-D structures for all three states from the SAXS measurements. These data provide a first glimpse into the structural conformations of the VCI-II aptamer, establish rigorous constraints for further modeling, and provide a framework for future mechanistic studies.",
+        "date": "2006-10-13",
+        "url": "https://doi.org/10.1016/j.jmb.2006.10.022",
+        "doi": "10.1016/j.jmb.2006.10.022",
+        "status": "published",
+        "journal": "Journal of molecular biology",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [
+          "pmc:PMC1941672"
+        ],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "Daniel Herschlag",
+              "method": "rejected",
+              "affiliations": [],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
     "pubmed:42995841": {
       "first_seen": "2026-11-08T10:18:08Z",
       "record": {
