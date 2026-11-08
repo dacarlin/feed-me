@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-11-08T00:34:04Z",
+      "last_success": "2026-11-08T10:18:08Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-11-08T00:34:04Z",
+      "last_success": "2026-11-08T10:18:08Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-11-08T00:34:04Z",
+      "last_success": "2026-11-08T10:18:08Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -217,7 +217,11 @@
     "pubmed:25436519": "2026-11-02T21:41:53Z",
     "pubmed:39714958": "2026-11-03T17:01:23Z",
     "pubmed:36493355": "2026-11-03T17:01:23Z",
-    "biorxiv:10.1101/2024.06.24.600095": "2026-11-06T16:45:18Z"
+    "biorxiv:10.1101/2024.06.24.600095": "2026-11-06T16:45:18Z",
+    "pubmed:42995993": "2026-11-08T10:18:08Z",
+    "pubmed:42995956": "2026-11-08T10:18:08Z",
+    "pubmed:42995874": "2026-11-08T10:18:08Z",
+    "pubmed:42990359": "2026-11-08T10:18:08Z"
   },
   "works": {
     "urn:uuid:7f477453-6c38-52e7-b591-accb9b0e6576": {
@@ -26882,7 +26886,7 @@
     "urn:uuid:b08a6f85-149d-5811-be27-70dd417daf1c": {
       "id": "urn:uuid:b08a6f85-149d-5811-be27-70dd417daf1c",
       "first_seen": "2026-10-20T23:51:52Z",
-      "updated": "2026-10-20T23:51:52Z",
+      "updated": "2026-11-08T10:18:08Z",
       "records": {
         "biorxiv:10.64898/2026.10.19.760300": {
           "source": "biorxiv",
@@ -26972,6 +26976,95 @@
           "publication_date": "",
           "identifiers": [],
           "relations": []
+        },
+        "pubmed:42995993": {
+          "source": "pubmed",
+          "source_id": "42995993",
+          "title": "Design of synthetic activators for programmable gene expression.",
+          "authors": [
+            {
+              "name": "Wei Chen",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Ruopu Jiao",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Brian Coventry",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Xiangli Qu",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Magnus Bauer",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Long Tran",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Tabitha Tcheau",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Kejia Wu",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Zihao Song",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Nicole Roullier",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Xinting Li",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Cameron Glasscock",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Isaac B Hilton",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [],
+              "orcid": null
+            }
+          ],
+          "abstract": "Transcription factors control gene expression by recruiting transcriptional coactivators through intrinsically disordered transcriptional activation domains (TADs), whose weak and promiscuous interactions make it difficult to establish quantitative relationships between coactivator recruitment and transcriptional output, and to precisely modulate gene expression. To overcome this limitation, we set out to design coactivator-recruiting proteins using AlphaFold3-predicted TAD-coactivator interactions as a guide. We developed a high-throughput functional screening platform in mammalian cells and identified over 300 well folded nanomolar affinity binders to the transcription coactivators Mediator (multiple subunits), BRD4, NCOA, and p300; targeted interface mutations enabled systematic tuning of their binding affinities. Using a panel of p300 binders spanning nanomolar to micromolar affinities, we found an ultrasensitive relationship between coactivator-binding affinity and transcriptional output, with a sharp transcriptional activation threshold at ∼500 nM. Incorporating p300 binder designs into CRISPRa yielded compact synthetic effectors that drove stronger activation than VPR across multiple genomic loci with minimal detectable cytotoxicity. Combining p300- and Mediator-specific binders further enhanced transcription, revealing functional synergy between these coactivators. Together, our work establishes a quantitative framework linking coactivator-binding affinity to transcriptional output and provides compact synthetic effectors for programmable gene activation.",
+          "date": "2026-10-20",
+          "url": "https://doi.org/10.64898/2026.10.19.760300",
+          "doi": "10.64898/2026.10.19.760300",
+          "status": "preprint",
+          "journal": "bioRxiv : the preprint server for biology",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC13738603"
+          ],
+          "relations": []
         }
       },
       "matched_researchers": {
@@ -26994,6 +27087,14 @@
                 ]
               }
             ]
+          },
+          {
+            "record": "pubmed:42995993",
+            "matched": true,
+            "reason": "identity inherited through a strong work identifier",
+            "via_work": "urn:uuid:b08a6f85-149d-5811-be27-70dd417daf1c",
+            "via_record": "biorxiv:10.64898/2026.10.19.760300",
+            "method": "shared_identifier"
           }
         ]
       },
@@ -27002,6 +27103,15 @@
           "record": "biorxiv:10.64898/2026.10.19.760300",
           "method": "new_work",
           "reason": "no existing work"
+        },
+        {
+          "record": "pubmed:42995993",
+          "rank": 3,
+          "method": "shared_identifier",
+          "identifiers": [
+            "doi:10.64898/2026.10.19.760300"
+          ],
+          "matched_record": "biorxiv:10.64898/2026.10.19.760300"
         }
       ],
       "published": "2026-10-20T00:00:00Z"
@@ -27009,7 +27119,7 @@
     "urn:uuid:0f656df5-d24e-544f-b9f7-2a94c8fb47d8": {
       "id": "urn:uuid:0f656df5-d24e-544f-b9f7-2a94c8fb47d8",
       "first_seen": "2026-10-21T04:43:51Z",
-      "updated": "2026-10-21T04:43:51Z",
+      "updated": "2026-11-08T10:18:08Z",
       "records": {
         "biorxiv:10.64898/2026.10.19.759896": {
           "source": "biorxiv",
@@ -27119,6 +27229,115 @@
           "publication_date": "",
           "identifiers": [],
           "relations": []
+        },
+        "pubmed:42995874": {
+          "source": "pubmed",
+          "source_id": "42995874",
+          "title": "Reliable and Efficient Agentic Protein Design with Toolset Harnessing.",
+          "authors": [
+            {
+              "name": "Jasper Butcher",
+              "affiliations": [],
+              "orcid": "0009-0004-4864-1330"
+            },
+            {
+              "name": "Jie Chen",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Andrew Hunt",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Cyrus M Haas",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Wenzhao Dai",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Shajesh Sharma",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Raktim Mitra",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Saman Salike",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Jeremy Koob",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Aiko Muraishi",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Zhe Li",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Harley Pyles",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Michael D Tyka",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Magnus S Bauer",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Rafi I Brent",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Anant Mittal",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Neil P King",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [],
+              "orcid": null
+            }
+          ],
+          "abstract": "Computational protein design workflows require the orchestration of multiple tools, data formats, and analysis steps that are often fragmented. Here, we introduce Chaperone, a lightweight and customizable framework that enables seamless integration of RFdiffusion3 (RFD3) [1] with downstream sequence design, structure prediction, and evaluation tools, including ProteinMPNN [2], AlphaFold3 (AF3) [3], and more than 50 other protein design tools. By combining a programmable agent-friendly interface with parallelized execution on high-performance computing systems, Chaperone as a harness enables rapid iteration and scalable exploration of complex protein design workflows. Across an evaluation of nine biomolecular design tasks, we find using Chaperone reduces total token usage relative to baseline agents by 86% and GPU costs by 64%, while increasing the overall computational design pass rate. We demonstrate Chaperone's utility for large-scale design-space exploration through a two-week end-to-end small-molecule binder design campaign, yielding low nanomolar binders to cortisol zero shot. We further demonstrate its versatility across distinct design challenges, including the design of a symmetric 12-subunit self-assembly nanoparticle and a linker that mediates interactions between C2- and D3-symmetric protein complexes to form crystalline assemblies. Together, these results demonstrate how agent harnesses built around standardized tool interfaces can substantially improve the efficiency and success of complex, long-horizon agentic design workflows in biology. We make Chaperone freely available to the community on GitHub: https://github.com/RosettaCommons/chaperone .",
+          "date": "2026-10-20",
+          "url": "https://doi.org/10.64898/2026.10.19.759896",
+          "doi": "10.64898/2026.10.19.759896",
+          "status": "preprint",
+          "journal": "bioRxiv : the preprint server for biology",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC13738521"
+          ],
+          "relations": []
         }
       },
       "matched_researchers": {
@@ -27140,6 +27359,14 @@
                 ]
               }
             ]
+          },
+          {
+            "record": "pubmed:42995874",
+            "matched": true,
+            "reason": "identity inherited through a strong work identifier",
+            "via_work": "urn:uuid:0f656df5-d24e-544f-b9f7-2a94c8fb47d8",
+            "via_record": "biorxiv:10.64898/2026.10.19.759896",
+            "method": "shared_identifier"
           }
         ]
       },
@@ -27148,6 +27375,15 @@
           "record": "biorxiv:10.64898/2026.10.19.759896",
           "method": "new_work",
           "reason": "no existing work"
+        },
+        {
+          "record": "pubmed:42995874",
+          "rank": 3,
+          "method": "shared_identifier",
+          "identifiers": [
+            "doi:10.64898/2026.10.19.759896"
+          ],
+          "matched_record": "biorxiv:10.64898/2026.10.19.759896"
         }
       ],
       "published": "2026-10-20T00:00:00Z"
@@ -38263,43 +38499,316 @@
         }
       ],
       "published": "2024-12-23T00:00:00Z"
+    },
+    "urn:uuid:e918f474-47e7-5dbf-b916-2b43d618976e": {
+      "id": "urn:uuid:e918f474-47e7-5dbf-b916-2b43d618976e",
+      "first_seen": "2026-11-08T10:18:08Z",
+      "updated": "2026-11-08T10:18:08Z",
+      "records": {
+        "pubmed:42990359": {
+          "source": "pubmed",
+          "source_id": "42990359",
+          "title": "Function-preserving CD8+ T Cell Immunogenicity minimization through protein design.",
+          "authors": [
+            {
+              "name": "Bingxu Liu",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": "0000-0002-3661-3410"
+            },
+            {
+              "name": "Tianyang Mao",
+              "affiliations": [
+                "Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Max H Witwer",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Oliver Morell",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA.",
+                "Department of Biotechnology and Biomedicine, Technical University of Denmark, Kongens Lyngby, 9 Denmark."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Nir Hacohen",
+              "affiliations": [
+                "Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA.",
+                "Massachusetts General Hospital Cancer Center, Boston, MA 02129, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            }
+          ],
+          "abstract": "Rapid advances in protein design enable new approaches in adoptive cell therapy, but foreign proteins can elicit cytotoxic T cell responses, and hence there is considerable need for approaches which reduce immunogenicity without compromising protein function. Here, we develop a computational framework integrating structure-guided sequence design with MHC class I epitope prediction to efficiently tune protein immunogenicity while preserving function. Using a de novo-designed luciferase as a model, we demonstrate epitope elimination while preserving function across 5 common mouse alleles and extend our computational optimization to 25 common human MHC-I alleles. In mice immunized with mRNA-lipid nanoparticles, variants designed to have few MHC-I epitopes elicited little detectable CD8+ T cell response, whereas variants designed to include multiple epitopes induced robust responses. Together, these results demonstrate that the CD8+ T cell immunogenicity of designed proteins can be tuned while preserving function, opening the door to incorporation of designed proteins in a next generation of adoptive cell therapies.",
+          "date": "2026-10-27",
+          "url": "https://doi.org/10.64898/2026.10.24.761497",
+          "doi": "10.64898/2026.10.24.761497",
+          "status": "preprint",
+          "journal": "bioRxiv : the preprint server for biology",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC13733841"
+          ],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:42990359",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "name_and_affiliations",
+                "affiliations": [
+                  "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                  "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA.",
+                  "Howard Hughes Medical Institute, University of Washington, Seattle, WA 98195, USA."
+                ],
+                "matched_affiliations": [
+                  "Institute for Protein Design",
+                  "University of Washington",
+                  "Department of Biochemistry"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:42990359",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2026-10-27T00:00:00Z"
+    },
+    "urn:uuid:8b2b5ccb-5c89-51c6-8758-3a73cec1a35a": {
+      "id": "urn:uuid:8b2b5ccb-5c89-51c6-8758-3a73cec1a35a",
+      "first_seen": "2026-11-08T10:18:08Z",
+      "updated": "2026-11-08T10:18:08Z",
+      "records": {
+        "pubmed:42995956": {
+          "source": "pubmed",
+          "source_id": "42995956",
+          "title": "Design of readers for pathological PTM proteoforms in Alzheimer's disease.",
+          "authors": [
+            {
+              "name": "Kejia Wu",
+              "affiliations": [],
+              "orcid": "0000-0002-4532-4290"
+            },
+            {
+              "name": "Tiana Schantz",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Lemuel Chang",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Prarthna Chabria",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Elaina Bashaw",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Thejesh Reddy Kalatturu",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Doo Yeon Kim",
+              "affiliations": [],
+              "orcid": "0000-0002-6969-0340"
+            },
+            {
+              "name": "Anqi Chen",
+              "affiliations": [],
+              "orcid": "0000-0001-9857-0594"
+            },
+            {
+              "name": "Nathaniel Corley",
+              "affiliations": [],
+              "orcid": "0000-0002-6509-7144"
+            },
+            {
+              "name": "Asim K Bera",
+              "affiliations": [],
+              "orcid": "0000-0001-9473-2912"
+            },
+            {
+              "name": "Alex Kang",
+              "affiliations": [],
+              "orcid": "0000-0001-5487-0499"
+            },
+            {
+              "name": "Hannah Nguyen",
+              "affiliations": [],
+              "orcid": "0000-0001-9696-4004"
+            },
+            {
+              "name": "Johnny Mendoza",
+              "affiliations": [],
+              "orcid": "0000-0003-1573-4202"
+            },
+            {
+              "name": "Xinting Li",
+              "affiliations": [],
+              "orcid": "0000-0001-5559-7578"
+            },
+            {
+              "name": "Magnus S Bauer",
+              "affiliations": [],
+              "orcid": "0000-0003-1357-2852"
+            },
+            {
+              "name": "Misa Baum",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Brian C Kraemer",
+              "affiliations": [],
+              "orcid": "0000-0002-2252-7634"
+            },
+            {
+              "name": "Yuyu Song",
+              "affiliations": [],
+              "orcid": "0000-0002-9196-1610"
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [],
+              "orcid": "0000-0001-7896-6217"
+            }
+          ],
+          "abstract": "Alzheimer's disease (AD) is characterized by heterogeneous Tau phosphorylation and aberrant amyloid-β (Aβ) processing, yet molecular tools that distinguish closely related molecular states of tau and Aβ with predefined specificity remain difficult to develop. Here, we designed de novo protein readers targeting three disease-associated phospho-Tau regions and N-terminal pyroglutamate-modified Aβ (N3pG-Aβ). Screening 192 designs per target identified 51 modification-selective hits among 768 candidates (6.6%). Representative readers exhibited nanomolar to subnanomolar affinities for modified peptides, discriminated authentic modifications from unmodified or substitution-based controls, and preferentially recognized modified full-length targets. We further programmed local modification specificity by interface redesign, generating pT231 readers conditional on the phosphorylation state of neighboring S235 and S237. A 2.0 Å crystal structure of an N3pG-Aβ reader closely matched the computational design model (interface Cα RMSD = 0.52 Å), and redesign of pT231 readers tuned apparent binding affinities from greater than 1 μM to below 1 nM. In a human 3D neuronal culture with both pathological Aβ and tau, selective readers targeting N3pG-Aβ, Tau pT231, and Tau pT217 recognized disease-associated signals, exhibiting colocalization with related antibodies and much higher signal in the AD line than the control. Tau pT231 readers further quantitatively distinguish AD patients and control human brain lysates in dot-blot assays. Together, these results establish genetically encoded readers with programmable specificity for defined Tau and Aβ modification states, enabling molecular-state-resolved detection in human disease models and biological samples, and lay a foundation for controlled pathological molecular perturbation.",
+          "date": "2026-10-21",
+          "url": "https://doi.org/10.64898/2026.10.20.760520",
+          "doi": "10.64898/2026.10.20.760520",
+          "status": "preprint",
+          "journal": "bioRxiv : the preprint server for biology",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC13738615"
+          ],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:42995956",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:42995956",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2026-10-21T00:00:00Z"
     }
   },
   "aliases": {
     "urn:uuid:4b3d262c-d759-5ebd-a82d-a7a91bd68fad": "urn:uuid:9e012682-4c6a-50a3-b187-e8ed207714b5"
   },
   "rejected": {
-    "pubmed:42990359": {
-      "first_seen": "2026-11-06T16:45:18Z",
+    "pubmed:42995841": {
+      "first_seen": "2026-11-08T10:18:08Z",
       "record": {
         "source": "pubmed",
-        "source_id": "42990359",
-        "title": "Function-preserving CD8⁺ T Cell Immunogenicity minimization through protein design.",
+        "source_id": "42995841",
+        "title": "MYC targeted de novo binders impair tumor growth.",
         "authors": [
           {
-            "name": "Bingxu Liu",
+            "name": "Nora K McNamara-Bordewick",
             "affiliations": [],
-            "orcid": "0000-0002-3661-3410"
+            "orcid": "0000-0003-4747-0627"
           },
           {
-            "name": "Tianyang Mao",
+            "name": "Kejia Wu",
             "affiliations": [],
             "orcid": null
           },
           {
-            "name": "Max H Witwer",
+            "name": "Yulong Su",
             "affiliations": [],
             "orcid": null
           },
           {
-            "name": "Oliver Morell",
+            "name": "Assmaa ElSheikh",
             "affiliations": [],
             "orcid": null
           },
           {
-            "name": "Nir Hacohen",
+            "name": "Xiaoyan Wang",
             "affiliations": [],
             "orcid": null
+          },
+          {
+            "name": "Melissa Cunningham",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Colin Daniel",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Rosalie C Sears",
+            "affiliations": [],
+            "orcid": "0000-0003-1558-2413"
+          },
+          {
+            "name": "Robert N Eisenman",
+            "affiliations": [],
+            "orcid": "0000-0002-0274-9846"
           },
           {
             "name": "David Baker",
@@ -38307,16 +38816,16 @@
             "orcid": null
           }
         ],
-        "abstract": "Rapid advances in protein design enable new approaches in adoptive cell therapy, but foreign proteins can elicit cytotoxic T cell responses, and hence there is considerable need for approaches which reduce immunogenicity without compromising protein function. Here, we develop a computational framework integrating structure-guided sequence design with MHC class I epitope prediction to efficiently tune protein immunogenicity while preserving function. Using a de novo-designed luciferase as a model, we demonstrate epitope elimination while preserving function across 5 common mouse alleles and extend our computational optimization to 25 common human MHC-I alleles. In mice immunized with mRNA-lipid nanoparticles, variants designed to have few MHC-I epitopes elicited little detectable CD8⁺ T cell response, whereas variants designed to include multiple epitopes induced robust responses. Together, these results demonstrate that the CD8⁺ T cell immunogenicity of designed proteins can be tuned while preserving function, opening the door to incorporation of designed proteins in a next generation of adoptive cell therapies.",
-        "date": "2026-10-27",
-        "url": "https://doi.org/10.64898/2026.10.24.761497",
-        "doi": "10.64898/2026.10.24.761497",
+        "abstract": "UNLABELLED: MYC is one of the most frequently dysregulated oncogenic drivers across many cancers, yet direct therapeutic targeting has remained difficult because its function is mediated by disordered regions and transient protein-protein interactions. Here we design proteins that bind epitopes within regions of MYC whose sequence is conserved between human and mouse, including intrinsically disordered motifs required for oncogenic activity. In vitro, the designs bind MYC with nanomolar affinity and in cells they engage MYC, disrupt interactions with MAX, and remodel MYC-associated protein complexes. Expression of the binders decreases cell proliferation across diverse MYC-dependent hematopoietic, liver, pancreatic, and patient-derived tumor models, and in an orthotopic pancreatic cancer model, binder-expressing tumor cells were selectively depleted. This work establishes de novo protein design as a generalizable strategy to therapeutically target intrinsically disordered transcription factors.\n\nONE-SENTENCE SUMMARY: We developed a panel of de novo designed intracellular protein binders that target conserved functional regions of MYC with nanomolar affinity, remodel MYC complexes and interaction networks in cells, suppress proliferation across MYC-dependent cancer models, and are depleted from orthotopic pancreatic tumors in vivo.",
+        "date": "2026-10-22",
+        "url": "https://doi.org/10.64898/2026.10.15.758618",
+        "doi": "10.64898/2026.10.15.758618",
         "status": "preprint",
         "journal": "bioRxiv : the preprint server for biology",
         "version": "",
         "publication_date": "",
         "identifiers": [
-          "pmc:PMC13733841"
+          "pmc:PMC13738422"
         ],
         "relations": []
       },
@@ -38338,6 +38847,839 @@
           "matched": false,
           "reason": "identity not established",
           "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
+    "pubmed:39928839": {
+      "first_seen": "2026-11-08T10:18:08Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "39928839",
+        "title": "Discovery and Optimization of Pyrazine Carboxamide AZ3246, a Selective HPK1 Inhibitor.",
+        "authors": [
+          {
+            "name": "Jason D Shields",
+            "affiliations": [
+              "Early Oncology R&D, AstraZeneca, 35 Gatehouse Drive, Waltham, Massachusetts 02451, United States."
+            ],
+            "orcid": "0000-0002-9015-8594"
+          },
+          {
+            "name": "David Baker",
+            "affiliations": [
+              "Discovery Sciences, R&D, AstraZeneca, 1 Francis Crick Avenue, Cambridge CB2 0AA, U.K."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Amber Y S Balazs",
+            "affiliations": [
+              "Early Oncology R&D, AstraZeneca, 35 Gatehouse Drive, Waltham, Massachusetts 02451, United States."
+            ],
+            "orcid": "0000-0002-5556-6795"
+          },
+          {
+            "name": "Gayathri Bommakanti",
+            "affiliations": [
+              "Early Oncology R&D, AstraZeneca, 35 Gatehouse Drive, Waltham, Massachusetts 02451, United States."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Robert Casella",
+            "affiliations": [
+              "Advanced Drug Delivery, Pharmaceutical Sciences, R&D, AstraZeneca, 35 Gatehouse Drive, Waltham, Massachusetts 02451, United States."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Shenggen Cao",
+            "affiliations": [
+              "Pharmaron Beijing Co., Ltd., 6 Taihe Road BDA, Beijing 100176, P. R. China."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Steve Cook",
+            "affiliations": [
+              "Advanced Drug Delivery, Pharmaceutical Sciences, R&D, AstraZeneca, 35 Gatehouse Drive, Waltham, Massachusetts 02451, United States."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Randolph A Escobar",
+            "affiliations": [
+              "Early Oncology R&D, AstraZeneca, 35 Gatehouse Drive, Waltham, Massachusetts 02451, United States."
+            ],
+            "orcid": "0000-0001-7476-7747"
+          },
+          {
+            "name": "Stephen Fawell",
+            "affiliations": [
+              "Early Oncology R&D, AstraZeneca, 35 Gatehouse Drive, Waltham, Massachusetts 02451, United States."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Francis D Gibbons",
+            "affiliations": [
+              "Early Oncology R&D, AstraZeneca, 35 Gatehouse Drive, Waltham, Massachusetts 02451, United States."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Kathryn A Giblin",
+            "affiliations": [
+              "Early Oncology R&D, AstraZeneca, 1 Francis Crick Avenue, Cambridge CB2 0AA, U.K."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Frederick W Goldberg",
+            "affiliations": [
+              "Early Oncology R&D, AstraZeneca, 1 Francis Crick Avenue, Cambridge CB2 0AA, U.K."
+            ],
+            "orcid": "0000-0002-4874-1700"
+          },
+          {
+            "name": "Eric Gosselin",
+            "affiliations": [
+              "Early Oncology R&D, AstraZeneca, 35 Gatehouse Drive, Waltham, Massachusetts 02451, United States."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Tyler Grebe",
+            "affiliations": [
+              "Early Oncology R&D, AstraZeneca, 35 Gatehouse Drive, Waltham, Massachusetts 02451, United States."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Niresh Hariparsad",
+            "affiliations": [
+              "Early Oncology R&D, AstraZeneca, 35 Gatehouse Drive, Waltham, Massachusetts 02451, United States."
+            ],
+            "orcid": "0000-0002-6290-5329"
+          },
+          {
+            "name": "Holia Hatoum-Mokdad",
+            "affiliations": [
+              "Early Oncology R&D, AstraZeneca, 35 Gatehouse Drive, Waltham, Massachusetts 02451, United States."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Rachel Howells",
+            "affiliations": [
+              "Early Oncology R&D, AstraZeneca, 1 Francis Crick Avenue, Cambridge CB2 0AA, U.K."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Samantha J Hughes",
+            "affiliations": [
+              "Early Oncology R&D, AstraZeneca, 1 Francis Crick Avenue, Cambridge CB2 0AA, U.K."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Anne Jackson",
+            "affiliations": [
+              "Discovery Sciences, R&D, AstraZeneca, 1 Francis Crick Avenue, Cambridge CB2 0AA, U.K."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Iswarya Karapa Reddy",
+            "affiliations": [
+              "Early Oncology R&D, AstraZeneca, 35 Gatehouse Drive, Waltham, Massachusetts 02451, United States."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Jason G Kettle",
+            "affiliations": [
+              "Early Oncology R&D, AstraZeneca, 1 Francis Crick Avenue, Cambridge CB2 0AA, U.K."
+            ],
+            "orcid": "0000-0001-7373-0758"
+          },
+          {
+            "name": "Gillian M Lamont",
+            "affiliations": [
+              "Early Oncology R&D, AstraZeneca, 1 Francis Crick Avenue, Cambridge CB2 0AA, U.K."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Scott Lamont",
+            "affiliations": [
+              "Early Oncology R&D, AstraZeneca, 1 Francis Crick Avenue, Cambridge CB2 0AA, U.K."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Min Li",
+            "affiliations": [
+              "Pharmaron Beijing Co., Ltd., 6 Taihe Road BDA, Beijing 100176, P. R. China."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Sten O Nilsson Lill",
+            "affiliations": [
+              "Pharmaceutical Sciences, R&D, AstraZeneca, Pepparedsleden 1, SE-431 83 Mölndal, Sweden."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Deanna A Mele",
+            "affiliations": [
+              "Early Oncology R&D, AstraZeneca, 35 Gatehouse Drive, Waltham, Massachusetts 02451, United States."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Anthony J Metrano",
+            "affiliations": [
+              "Early Oncology R&D, AstraZeneca, 35 Gatehouse Drive, Waltham, Massachusetts 02451, United States."
+            ],
+            "orcid": "0000-0002-2599-8917"
+          },
+          {
+            "name": "Adelphe M Mfuh",
+            "affiliations": [
+              "Early Oncology R&D, AstraZeneca, 35 Gatehouse Drive, Waltham, Massachusetts 02451, United States."
+            ],
+            "orcid": "0000-0002-8619-1455"
+          },
+          {
+            "name": "Lucas A Morrill",
+            "affiliations": [
+              "Early Oncology R&D, AstraZeneca, 35 Gatehouse Drive, Waltham, Massachusetts 02451, United States."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Bo Peng",
+            "affiliations": [
+              "Early Oncology R&D, AstraZeneca, 35 Gatehouse Drive, Waltham, Massachusetts 02451, United States."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Alexander Pflug",
+            "affiliations": [
+              "Discovery Sciences, R&D, AstraZeneca, 1 Francis Crick Avenue, Cambridge CB2 0AA, U.K."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Theresa A Proia",
+            "affiliations": [
+              "Early Oncology R&D, AstraZeneca, 35 Gatehouse Drive, Waltham, Massachusetts 02451, United States."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Hadi Rezaei",
+            "affiliations": [
+              "Early Oncology R&D, AstraZeneca, 35 Gatehouse Drive, Waltham, Massachusetts 02451, United States."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Ryan Richards",
+            "affiliations": [
+              "Early Oncology R&D, AstraZeneca, 35 Gatehouse Drive, Waltham, Massachusetts 02451, United States."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Magdalena Richter",
+            "affiliations": [
+              "Discovery Sciences, R&D, AstraZeneca, 1 Francis Crick Avenue, Cambridge CB2 0AA, U.K."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Kevin J Robbins",
+            "affiliations": [
+              "Early Oncology R&D, AstraZeneca, 35 Gatehouse Drive, Waltham, Massachusetts 02451, United States."
+            ],
+            "orcid": "0009-0007-1292-4525"
+          },
+          {
+            "name": "Maryann San Martin",
+            "affiliations": [
+              "Early Oncology R&D, AstraZeneca, 35 Gatehouse Drive, Waltham, Massachusetts 02451, United States."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Marianne Schimpl",
+            "affiliations": [
+              "Discovery Sciences, R&D, AstraZeneca, 1 Francis Crick Avenue, Cambridge CB2 0AA, U.K."
+            ],
+            "orcid": "0000-0003-2284-5250"
+          },
+          {
+            "name": "Alwin G Schuller",
+            "affiliations": [
+              "Early Oncology R&D, AstraZeneca, 35 Gatehouse Drive, Waltham, Massachusetts 02451, United States."
+            ],
+            "orcid": "0000-0001-9163-5885"
+          },
+          {
+            "name": "Li Sha",
+            "affiliations": [
+              "Early Oncology R&D, AstraZeneca, 35 Gatehouse Drive, Waltham, Massachusetts 02451, United States."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Minhui Shen",
+            "affiliations": [
+              "Early Oncology R&D, AstraZeneca, 35 Gatehouse Drive, Waltham, Massachusetts 02451, United States."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "James E Sheppeck",
+            "affiliations": [
+              "Early Oncology R&D, AstraZeneca, 35 Gatehouse Drive, Waltham, Massachusetts 02451, United States."
+            ],
+            "orcid": "0009-0006-3373-8791"
+          },
+          {
+            "name": "Meha Singh",
+            "affiliations": [
+              "Discovery Sciences, R&D, AstraZeneca, 35 Gatehouse Drive, Waltham, Massachusetts 02451, United States."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Stephen Stokes",
+            "affiliations": [
+              "Early Oncology R&D, AstraZeneca, 1 Francis Crick Avenue, Cambridge CB2 0AA, U.K."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Kun Song",
+            "affiliations": [
+              "Early Oncology R&D, AstraZeneca, 35 Gatehouse Drive, Waltham, Massachusetts 02451, United States."
+            ],
+            "orcid": "0000-0001-9409-1991"
+          },
+          {
+            "name": "Yuanyuan Sun",
+            "affiliations": [
+              "Pharmaron Beijing Co., Ltd., 6 Taihe Road BDA, Beijing 100176, P. R. China."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Haoran Tang",
+            "affiliations": [
+              "Discovery Sciences, R&D, AstraZeneca, 1 Francis Crick Avenue, Cambridge CB2 0AA, U.K."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "David J Wagner",
+            "affiliations": [
+              "Early Oncology R&D, AstraZeneca, 35 Gatehouse Drive, Waltham, Massachusetts 02451, United States."
+            ],
+            "orcid": "0000-0002-5805-930X"
+          },
+          {
+            "name": "Jianyan Wang",
+            "affiliations": [
+              "Advanced Drug Delivery, Pharmaceutical Sciences, R&D, AstraZeneca, 35 Gatehouse Drive, Waltham, Massachusetts 02451, United States."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Yanjun Wang",
+            "affiliations": [
+              "Early Oncology R&D, AstraZeneca, 35 Gatehouse Drive, Waltham, Massachusetts 02451, United States."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "David M Wilson",
+            "affiliations": [
+              "Early Oncology R&D, AstraZeneca, 1 Francis Crick Avenue, Cambridge CB2 0AA, U.K."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Allan Wu",
+            "affiliations": [
+              "Discovery Sciences, R&D, AstraZeneca, 35 Gatehouse Drive, Waltham, Massachusetts 02451, United States."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Chengyan Wu",
+            "affiliations": [
+              "Pharmaron Beijing Co., Ltd., 6 Taihe Road BDA, Beijing 100176, P. R. China."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Dedong Wu",
+            "affiliations": [
+              "Advanced Drug Delivery, Pharmaceutical Sciences, R&D, AstraZeneca, 35 Gatehouse Drive, Waltham, Massachusetts 02451, United States."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Ye Wu",
+            "affiliations": [
+              "Early Oncology R&D, AstraZeneca, 35 Gatehouse Drive, Waltham, Massachusetts 02451, United States."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Kevin Xu",
+            "affiliations": [
+              "Early Oncology R&D, AstraZeneca, 35 Gatehouse Drive, Waltham, Massachusetts 02451, United States."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Yue Yang",
+            "affiliations": [
+              "Pharmaron Beijing Co., Ltd., 6 Taihe Road BDA, Beijing 100176, P. R. China."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Tieguang Yao",
+            "affiliations": [
+              "Pharmaron Beijing Co., Ltd., 6 Taihe Road BDA, Beijing 100176, P. R. China."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Minwei Ye",
+            "affiliations": [
+              "Early Oncology R&D, AstraZeneca, 35 Gatehouse Drive, Waltham, Massachusetts 02451, United States."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Andrew X Zhang",
+            "affiliations": [
+              "Discovery Sciences, R&D, AstraZeneca, 35 Gatehouse Drive, Waltham, Massachusetts 02451, United States."
+            ],
+            "orcid": "0000-0003-0406-2404"
+          },
+          {
+            "name": "Hui Zhang",
+            "affiliations": [
+              "Pharmaron Beijing Co., Ltd., 6 Taihe Road BDA, Beijing 100176, P. R. China."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Xiang Zhai",
+            "affiliations": [
+              "Discovery Sciences, R&D, AstraZeneca, 35 Gatehouse Drive, Waltham, Massachusetts 02451, United States."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Yanxiao Zhou",
+            "affiliations": [
+              "Pharmaron Beijing Co., Ltd., 6 Taihe Road BDA, Beijing 100176, P. R. China."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Robert E Ziegler",
+            "affiliations": [
+              "Early Oncology R&D, AstraZeneca, 35 Gatehouse Drive, Waltham, Massachusetts 02451, United States."
+            ],
+            "orcid": "0000-0001-9574-8780"
+          },
+          {
+            "name": "Neil P Grimster",
+            "affiliations": [
+              "Early Oncology R&D, AstraZeneca, 35 Gatehouse Drive, Waltham, Massachusetts 02451, United States."
+            ],
+            "orcid": "0000-0003-0088-1250"
+          }
+        ],
+        "abstract": "Hematopoietic progenitor kinase 1 (HPK1) is a negative regulator of the T cell receptor signaling pathway and is therefore a target of interest for immunooncology. Nonselective HPK1 inhibitors may affect other kinase components of T cell activation, blunting the beneficial impact of enhanced T cell activity that results from HPK1 inhibition itself. Here, we report the discovery of pyrazine carboxamide HPK1 inhibitors and their optimization through structure-based drug design to afford a highly selective HPK1 inhibitor, compound 24 (AZ3246). This compound induces IL-2 secretion in T cells with an EC50 of 90 nM without inhibiting antagonistic kinases, exhibits pharmacokinetic properties consistent with oral dosing, and demonstrates antitumor activity in the EMT6 syngeneic mouse model.",
+        "date": "2025-02-10",
+        "url": "https://doi.org/10.1021/acs.jmedchem.4c02631",
+        "doi": "10.1021/acs.jmedchem.4c02631",
+        "status": "published",
+        "journal": "Journal of medicinal chemistry",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "David Baker",
+              "method": "rejected",
+              "affiliations": [
+                "Discovery Sciences, R&D, AstraZeneca, 1 Francis Crick Avenue, Cambridge CB2 0AA, U.K."
+              ],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
+    "pubmed:17604318": {
+      "first_seen": "2026-11-08T10:18:08Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "17604318",
+        "title": "Evaluation of ion binding to DNA duplexes using a size-modified Poisson-Boltzmann theory.",
+        "authors": [
+          {
+            "name": "Vincent B Chu",
+            "affiliations": [
+              "Department of Applied Physics, Stanford University, California, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Yu Bai",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Jan Lipfert",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Daniel Herschlag",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Sebastian Doniach",
+            "affiliations": [],
+            "orcid": null
+          }
+        ],
+        "abstract": "Poisson-Boltzmann (PB) theory is among the most widely applied electrostatic theories in biological and chemical science. Despite its reasonable success in explaining a wide variety of phenomena, it fails to incorporate two basic physical effects, ion size and ion-ion correlations, into its theoretical treatment. Recent experimental work has shown significant deviations from PB theory in competitive monovalent and divalent ion binding to a DNA duplex. The experimental data for monovalent binding are consistent with a hypothesis that attributes these deviations to counterion size. To model the observed differences, we have generalized an existing size-modified Poisson-Boltzmann (SMPB) theory and developed a new numerical implementation that solves the generalized theory around complex, atomistic representations of biological molecules. The results of our analysis show that good agreement to data at monovalent ion concentrations up to approximately 150 mM can be attained by adjusting the ion-size parameters in the new size-modified theory. SMPB calculations employing calibrated ion-size parameters predict experimental observations for other nucleic acid structures and salt conditions, demonstrating that the theory is predictive. We are, however, unable to model the observed deviations in the divalent competition data with a theory that only accounts for size but neglects ion-ion correlations, highlighting the need for theoretical descriptions that further incorporate ion-ion correlations. The accompanying numerical solver has been released publicly, providing the general scientific community the ability to compute SMPB solutions around a variety of different biological structures with only modest computational resources.",
+        "date": "2007-06-29",
+        "url": "https://doi.org/10.1529/biophysj.106.099168",
+        "doi": "10.1529/biophysj.106.099168",
+        "status": "published",
+        "journal": "Biophysical journal",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [
+          "pmc:PMC2025650"
+        ],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "Daniel Herschlag",
+              "method": "rejected",
+              "affiliations": [],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
+    "pubmed:17060618": {
+      "first_seen": "2026-11-08T10:18:08Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "17060618",
+        "title": "Folding of the C-terminal bacterial binding domain in statherin upon adsorption onto hydroxyapatite crystals.",
+        "authors": [
+          {
+            "name": "Gil Goobes",
+            "affiliations": [
+              "Department of Chemistry, University of Washington, Seattle, WA 98195, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Rivka Goobes",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Ora Schueler-Furman",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "David Baker",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Patrick S Stayton",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Gary P Drobny",
+            "affiliations": [],
+            "orcid": null
+          }
+        ],
+        "abstract": "Statherin is an enamel pellicle protein that inhibits hydroxyapatite (HAP) nucleation and growth, lubricates the enamel surface, and is recognized by oral bacteria in periodontal diseases. We report here from solid-state NMR measurements that the protein's C-terminal region folds into an alpha-helix upon adsorption to HAP crystals. This region contains the binding sites for bacterial fimbriae that mediate bacterial cell adhesion to the surface of the tooth. The helical segment is shown through long-range distance measurements to fold back onto the intermediate region (residues Y16-P28) defining the global fold of the protein. Statherin, previously shown to be unstructured in solution, undergoes conformation selection on its substrate mineral surface. This surface-induced folding of statherin can be related to its functionality in inhibiting HAP crystal growth and can explain how oral pathogens selectively recognize HAP-bound statherin.",
+        "date": "2006-10-23",
+        "url": "https://doi.org/10.1073/pnas.0607193103",
+        "doi": "10.1073/pnas.0607193103",
+        "status": "published",
+        "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [
+          "pmc:PMC1637540"
+        ],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "David Baker",
+              "method": "rejected",
+              "affiliations": [],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
+    "pubmed:16284631": {
+      "first_seen": "2026-11-08T10:18:08Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "16284631",
+        "title": "New potent and selective inhibitors of anandamide reuptake with antispastic activity in a mouse model of multiple sclerosis.",
+        "authors": [
+          {
+            "name": "Alessia Ligresti",
+            "affiliations": [
+              "Endocannabinoid Research Group, Institute of Biomolecular Chemistry, C.N.R. Pozzuoli (Napoli), Italy."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Maria Grazia Cascio",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Gareth Pryce",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Sanjitha Kulasegram",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Irina Beletskaya",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Luciano De Petrocellis",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Bijali Saha",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Anu Mahadevan",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Cristina Visintin",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Jenny L Wiley",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "David Baker",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Billy R Martin",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Raj K Razdan",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Vincenzo Di Marzo",
+            "affiliations": [],
+            "orcid": null
+          }
+        ],
+        "abstract": "We previously reported that the compound O-2093 is a selective inhibitor of the reuptake of the endocannabinoid anandamide (AEA). We have now re-examined the activity of O-2093 in vivo and synthesized four structural analogs (O-2247, O-2248, O-3246, and O-3262), whose activity was assessed in: (a) binding assays carried out with membranes from cells overexpressing the human CB(1) and CB(2) receptors; (b) assays of transient receptor potential of the vanilloid type-1 (TRPV1) channel functional activity (measurement of [Ca(2+)](i)); (c) [(14)C]AEA cellular uptake and hydrolysis assays in rat basophilic leukaemia (RBL-2H3) cells; (d) the mouse 'tetrad' tests (analgesia on a hot plate, immobility on a 'ring', rectal hypothermia and hypolocomotion in an open field); and (e) the limb spasticity test in chronic relapsing experimental allergic encephalomyelitis (CREAE) mice, a model of multiple sclerosis (MS). O-2093, either synthesized by us or commercially available, was inactive in the 'tetrad' up to a 20 mg kg(-1) dose (i.v.). Like O-2093, the other four compounds exhibited low affinity in CB(1) (K(i) from 1.3 to >10 microM) and CB(2) binding assays (1.3<K(i)< 8 microM), low potency and efficacy in a TRPV1 functional assay (EC(50)>10 microM), very low potency as fatty acid amide hydrolase (FAAH) inhibitors (IC(50)>25 microM) and were inactive in the 'tetrad' up to a 30 mg kg(-1) dose (i.v.). While O-2247 and O-2248 were poor inhibitors of [(14)C]AEA cellular uptake (IC(50)>40 microM), O-3246 and O-3262 were quite potent in this assay. O-3246, which exhibits only a very subtle structural difference with O-2093, is the most potent inhibitor of AEA uptake reported in vitro under our experimental conditions (IC(50)=1.4 microM) and is 12-fold more potent than O-2093. When injected intravenously O-3246 and O-3262, again like O-2093 and unlike O-2247 and O-2248, significantly inhibited limb spasticity in mice with CREAE. These data confirm the potential utility of selective AEA uptake inhibitors as anti-spasticity drugs in MS and, given the very subtle chemical differences between potent and weak inhibitors of uptake, support further the existence of a specific mechanism for this process.",
+        "date": "2006-01",
+        "url": "https://doi.org/10.1038/sj.bjp.0706418",
+        "doi": "10.1038/sj.bjp.0706418",
+        "status": "published",
+        "journal": "British journal of pharmacology",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [
+          "pmc:PMC1615845"
+        ],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "David Baker",
+              "method": "rejected",
+              "affiliations": [],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
+    "pubmed:15647360": {
+      "first_seen": "2026-11-08T10:18:08Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "15647360",
+        "title": "Probing counterion modulated repulsion and attraction between nucleic acid duplexes in solution.",
+        "authors": [
+          {
+            "name": "Yu Bai",
+            "affiliations": [
+              "Department of Biochemistry, Stanford University, Stanford, CA 94305, USA."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Rhiju Das",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Ian S Millett",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Daniel Herschlag",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Sebastian Doniach",
+            "affiliations": [],
+            "orcid": null
+          }
+        ],
+        "abstract": "Understanding biological and physical processes involving nucleic acids, such as the binding of proteins to DNA and RNA, DNA condensation, and RNA folding, requires an understanding of the ion atmosphere that surrounds nucleic acids. We have used a simple model DNA system to determine how the ion atmosphere modulates interactions between duplexes in the absence of specific metal ion-binding sites and other complicated interactions. In particular, we have tested whether the Coulomb repulsion between nucleic acids can be reversed by counterions to give a net attraction, as has been proposed recently for the rapid collapse observed early in RNA folding. The conformation of two DNA duplexes tethered by a flexible neutral linker was determined in the presence of a series of cations by small angle x-ray scattering. The small angle x-ray scattering profiles of two control molecules with distinct shapes (a continuous duplex and a mimic of the compact DNA) were in good agreement with predictions, establishing the applicability of this approach. Under low-salt conditions (20 mM Na+), the tethered duplexes are extended because of a Coulombic repulsion estimated to be 2-5 kT/bp. Addition of high concentrations of Na+ (1.2 M), Mg2+ (0.6 M), and spermidine3+ (75 mM) resulted in electrostatic relaxation to a random state. These results indicate that a counterion-induced attractive force between nucleic acid duplexes is not significant under physiological conditions. An upper limit on the magnitude of the attractive potential under all tested ionic conditions is estimated.",
+        "date": "2005-01-12",
+        "url": "https://doi.org/10.1073/pnas.0404448102",
+        "doi": "10.1073/pnas.0404448102",
+        "status": "published",
+        "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [
+          "pmc:PMC545826"
+        ],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "Daniel Herschlag",
+              "method": "rejected",
+              "affiliations": [],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
         }
       },
       "deduplication": [],

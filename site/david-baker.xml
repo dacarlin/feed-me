@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-11-06T16:45:18Z</updated>
+  <updated>2026-11-08T10:18:08Z</updated>
   <entry>
     <id>urn:uuid:e0bcf50d-9504-5d0f-8712-43761b15f37f</id>
     <title>Programmed mineralization of metal-oxides by de novo designed protein templates</title>
@@ -98,6 +98,115 @@
 &lt;/ul&gt;</content>
   </entry>
   <entry>
+    <id>urn:uuid:e918f474-47e7-5dbf-b916-2b43d618976e</id>
+    <title>Function-preserving CD8+ T Cell Immunogenicity minimization through protein design.</title>
+    <published>2026-10-27T00:00:00Z</published>
+    <updated>2026-11-08T10:18:08Z</updated>
+    <link href="https://doi.org/10.64898/2026.10.24.761497" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Bingxu Liu</name>
+    </author>
+    <author>
+      <name>Tianyang Mao</name>
+    </author>
+    <author>
+      <name>Max H Witwer</name>
+    </author>
+    <author>
+      <name>Oliver Morell</name>
+    </author>
+    <author>
+      <name>Nir Hacohen</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Bingxu Liu; Tianyang Mao; Max H Witwer; Oliver Morell; Nir Hacohen; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Preprint date: 2026-10-27&lt;/p&gt;
+&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
+&lt;p&gt;Rapid advances in protein design enable new approaches in adoptive cell therapy, but foreign proteins can elicit cytotoxic T cell responses, and hence there is considerable need for approaches which reduce immunogenicity without compromising protein function. Here, we develop a computational framework integrating structure-guided sequence design with MHC class I epitope prediction to efficiently tune protein immunogenicity while preserving function. Using a de novo-designed luciferase as a model, we demonstrate epitope elimination while preserving function across 5 common mouse alleles and extend our computational optimization to 25 common human MHC-I alleles. In mice immunized with mRNA-lipid nanoparticles, variants designed to have few MHC-I epitopes elicited little detectable CD8+ T cell response, whereas variants designed to include multiple epitopes induced robust responses. Together, these results demonstrate that the CD8+ T cell immunogenicity of designed proteins can be tuned while preserving function, opening the door to incorporation of designed proteins in a next generation of adoptive cell therapies.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.10.24.761497"&gt;pubmed (preprint) — DOI: 10.64898/2026.10.24.761497&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:8b2b5ccb-5c89-51c6-8758-3a73cec1a35a</id>
+    <title>Design of readers for pathological PTM proteoforms in Alzheimer's disease.</title>
+    <published>2026-10-21T00:00:00Z</published>
+    <updated>2026-11-08T10:18:08Z</updated>
+    <link href="https://doi.org/10.64898/2026.10.20.760520" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Kejia Wu</name>
+    </author>
+    <author>
+      <name>Tiana Schantz</name>
+    </author>
+    <author>
+      <name>Lemuel Chang</name>
+    </author>
+    <author>
+      <name>Prarthna Chabria</name>
+    </author>
+    <author>
+      <name>Elaina Bashaw</name>
+    </author>
+    <author>
+      <name>Thejesh Reddy Kalatturu</name>
+    </author>
+    <author>
+      <name>Doo Yeon Kim</name>
+    </author>
+    <author>
+      <name>Anqi Chen</name>
+    </author>
+    <author>
+      <name>Nathaniel Corley</name>
+    </author>
+    <author>
+      <name>Asim K Bera</name>
+    </author>
+    <author>
+      <name>Alex Kang</name>
+    </author>
+    <author>
+      <name>Hannah Nguyen</name>
+    </author>
+    <author>
+      <name>Johnny Mendoza</name>
+    </author>
+    <author>
+      <name>Xinting Li</name>
+    </author>
+    <author>
+      <name>Magnus S Bauer</name>
+    </author>
+    <author>
+      <name>Misa Baum</name>
+    </author>
+    <author>
+      <name>Brian C Kraemer</name>
+    </author>
+    <author>
+      <name>Yuyu Song</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Kejia Wu; Tiana Schantz; Lemuel Chang; Prarthna Chabria; Elaina Bashaw; Thejesh Reddy Kalatturu; Doo Yeon Kim; Anqi Chen; Nathaniel Corley; Asim K Bera; Alex Kang; Hannah Nguyen; Johnny Mendoza; Xinting Li; Magnus S Bauer; Misa Baum; Brian C Kraemer; Yuyu Song; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Preprint date: 2026-10-21&lt;/p&gt;
+&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
+&lt;p&gt;Alzheimer&amp;#x27;s disease (AD) is characterized by heterogeneous Tau phosphorylation and aberrant amyloid-β (Aβ) processing, yet molecular tools that distinguish closely related molecular states of tau and Aβ with predefined specificity remain difficult to develop. Here, we designed de novo protein readers targeting three disease-associated phospho-Tau regions and N-terminal pyroglutamate-modified Aβ (N3pG-Aβ). Screening 192 designs per target identified 51 modification-selective hits among 768 candidates (6.6%). Representative readers exhibited nanomolar to subnanomolar affinities for modified peptides, discriminated authentic modifications from unmodified or substitution-based controls, and preferentially recognized modified full-length targets. We further programmed local modification specificity by interface redesign, generating pT231 readers conditional on the phosphorylation state of neighboring S235 and S237. A 2.0 Å crystal structure of an N3pG-Aβ reader closely matched the computational design model (interface Cα RMSD = 0.52 Å), and redesign of pT231 readers tuned apparent binding affinities from greater than 1 μM to below 1 nM. In a human 3D neuronal culture with both pathological Aβ and tau, selective readers targeting N3pG-Aβ, Tau pT231, and Tau pT217 recognized disease-associated signals, exhibiting colocalization with related antibodies and much higher signal in the AD line than the control. Tau pT231 readers further quantitatively distinguish AD patients and control human brain lysates in dot-blot assays. Together, these results establish genetically encoded readers with programmable specificity for defined Tau and Aβ modification states, enabling molecular-state-resolved detection in human disease models and biological samples, and lay a foundation for controlled pathological molecular perturbation.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.10.20.760520"&gt;pubmed (preprint) — DOI: 10.64898/2026.10.20.760520&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
     <id>urn:uuid:46daedc3-0ce3-5958-8d9f-704cb18ff6b8</id>
     <title>De novo design of enantioselective artificial metalloenzyme photocatalysts.</title>
     <published>2026-10-21T00:00:00Z</published>
@@ -144,130 +253,134 @@
   </entry>
   <entry>
     <id>urn:uuid:0f656df5-d24e-544f-b9f7-2a94c8fb47d8</id>
-    <title>Reliable and Efficient Agentic Protein Design with Toolset Harnessing</title>
+    <title>Reliable and Efficient Agentic Protein Design with Toolset Harnessing.</title>
     <published>2026-10-20T00:00:00Z</published>
-    <updated>2026-10-21T04:43:51Z</updated>
+    <updated>2026-11-08T10:18:08Z</updated>
     <link href="https://doi.org/10.64898/2026.10.19.759896" rel="alternate" />
     <category term="preprint" />
     <author>
-      <name>Butcher, J.</name>
+      <name>Jasper Butcher</name>
     </author>
     <author>
-      <name>Chen, J.</name>
+      <name>Jie Chen</name>
     </author>
     <author>
-      <name>Hunt, A.</name>
+      <name>Andrew Hunt</name>
     </author>
     <author>
-      <name>Haas, C. M.</name>
+      <name>Cyrus M Haas</name>
     </author>
     <author>
-      <name>Dai, W.</name>
+      <name>Wenzhao Dai</name>
     </author>
     <author>
-      <name>Sharma, S.</name>
+      <name>Shajesh Sharma</name>
     </author>
     <author>
-      <name>Mitra, R.</name>
+      <name>Raktim Mitra</name>
     </author>
     <author>
-      <name>Salike, S.</name>
+      <name>Saman Salike</name>
     </author>
     <author>
-      <name>Koob, J.</name>
+      <name>Jeremy Koob</name>
     </author>
     <author>
-      <name>Muraishi, A.</name>
+      <name>Aiko Muraishi</name>
     </author>
     <author>
-      <name>Li, Z.</name>
+      <name>Zhe Li</name>
     </author>
     <author>
-      <name>Pyles, H.</name>
+      <name>Harley Pyles</name>
     </author>
     <author>
-      <name>Tyka, M. D.</name>
+      <name>Michael D Tyka</name>
     </author>
     <author>
-      <name>Bauer, M. S.</name>
+      <name>Magnus S Bauer</name>
     </author>
     <author>
-      <name>Brent, R. I.</name>
+      <name>Rafi I Brent</name>
     </author>
     <author>
-      <name>Mittal, A.</name>
+      <name>Anant Mittal</name>
     </author>
     <author>
-      <name>King, N. P.</name>
+      <name>Neil P King</name>
     </author>
     <author>
-      <name>Baker, D.</name>
+      <name>David Baker</name>
     </author>
     <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Authors: Butcher, J.; Chen, J.; Hunt, A.; Haas, C. M.; Dai, W.; Sharma, S.; Mitra, R.; Salike, S.; Koob, J.; Muraishi, A.; Li, Z.; Pyles, H.; Tyka, M. D.; Bauer, M. S.; Brent, R. I.; Mittal, A.; King, N. P.; Baker, D.&lt;/p&gt;
-&lt;p&gt;Sources: biorxiv&lt;/p&gt;
+&lt;p&gt;Authors: Jasper Butcher; Jie Chen; Andrew Hunt; Cyrus M Haas; Wenzhao Dai; Shajesh Sharma; Raktim Mitra; Saman Salike; Jeremy Koob; Aiko Muraishi; Zhe Li; Harley Pyles; Michael D Tyka; Magnus S Bauer; Rafi I Brent; Anant Mittal; Neil P King; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: biorxiv, pubmed&lt;/p&gt;
 &lt;p&gt;Preprint date: 2026-10-20&lt;/p&gt;
-&lt;p&gt;Computational protein design workflows require the orchestration of multiple tools, data formats, and analysis steps that are often fragmented. Here, we introduce Chaperone, a lightweight and customizable framework that enables seamless integration of RFdiffusion3 (RFD3) with downstream sequence design, structure prediction, and evaluation tools, including ProteinMPNN, AlphaFold3 (AF3), and more than 50 other protein design tools. By combining a programmable agent-friendly interface with parallelized execution on high-performance computing systems, Chaperone as a harness enables rapid iteration and scalable exploration of complex protein design workflows. Across an evaluation of nine biomolecular design tasks, we find using Chaperone reduces total token usage relative to baseline agents by 86% and GPU costs by 64%, while increasing the overall computational design pass rate. We demonstrate Chaperones utility for large-scale design-space exploration through a two-week end-to-end small-molecule binder design campaign, yielding low nanomolar binders to cortisol zero shot. We further demonstrate its versatility across distinct design challenges, including the design of a symmetric 12-subunit self-assembly nanoparticle and a linker that mediates interactions between C2- and D3-symmetric protein complexes to form crystalline assemblies. Together, these results demonstrate how agent harnesses built around standardized tool interfaces can substantially improve the efficiency and success of complex, long-horizon agentic design workflows in biology. We make Chaperone freely available to the community on GitHub: https://github.com/RosettaCommons/chaperone.&lt;/p&gt;
+&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
+&lt;p&gt;Computational protein design workflows require the orchestration of multiple tools, data formats, and analysis steps that are often fragmented. Here, we introduce Chaperone, a lightweight and customizable framework that enables seamless integration of RFdiffusion3 (RFD3) [1] with downstream sequence design, structure prediction, and evaluation tools, including ProteinMPNN [2], AlphaFold3 (AF3) [3], and more than 50 other protein design tools. By combining a programmable agent-friendly interface with parallelized execution on high-performance computing systems, Chaperone as a harness enables rapid iteration and scalable exploration of complex protein design workflows. Across an evaluation of nine biomolecular design tasks, we find using Chaperone reduces total token usage relative to baseline agents by 86% and GPU costs by 64%, while increasing the overall computational design pass rate. We demonstrate Chaperone&amp;#x27;s utility for large-scale design-space exploration through a two-week end-to-end small-molecule binder design campaign, yielding low nanomolar binders to cortisol zero shot. We further demonstrate its versatility across distinct design challenges, including the design of a symmetric 12-subunit self-assembly nanoparticle and a linker that mediates interactions between C2- and D3-symmetric protein complexes to form crystalline assemblies. Together, these results demonstrate how agent harnesses built around standardized tool interfaces can substantially improve the efficiency and success of complex, long-horizon agentic design workflows in biology. We make Chaperone freely available to the community on GitHub: https://github.com/RosettaCommons/chaperone .&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.10.19.759896"&gt;biorxiv (preprint) — DOI: 10.64898/2026.10.19.759896&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.10.19.759896"&gt;pubmed (preprint) — DOI: 10.64898/2026.10.19.759896&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
     <id>urn:uuid:b08a6f85-149d-5811-be27-70dd417daf1c</id>
-    <title>Design of synthetic activators for programmable gene expression</title>
+    <title>Design of synthetic activators for programmable gene expression.</title>
     <published>2026-10-20T00:00:00Z</published>
-    <updated>2026-10-20T23:51:52Z</updated>
+    <updated>2026-11-08T10:18:08Z</updated>
     <link href="https://doi.org/10.64898/2026.10.19.760300" rel="alternate" />
     <category term="preprint" />
     <author>
-      <name>Chen, W.</name>
+      <name>Wei Chen</name>
     </author>
     <author>
-      <name>Jiao, R.</name>
+      <name>Ruopu Jiao</name>
     </author>
     <author>
-      <name>Coventry, B.</name>
+      <name>Brian Coventry</name>
     </author>
     <author>
-      <name>Qu, X.</name>
+      <name>Xiangli Qu</name>
     </author>
     <author>
-      <name>Bauer, M.</name>
+      <name>Magnus Bauer</name>
     </author>
     <author>
-      <name>Tran, L.</name>
+      <name>Long Tran</name>
     </author>
     <author>
-      <name>Tcheau, T.</name>
+      <name>Tabitha Tcheau</name>
     </author>
     <author>
-      <name>Wu, K.</name>
+      <name>Kejia Wu</name>
     </author>
     <author>
-      <name>Song, Z.</name>
+      <name>Zihao Song</name>
     </author>
     <author>
-      <name>Roullier, N.</name>
+      <name>Nicole Roullier</name>
     </author>
     <author>
-      <name>Li, X.</name>
+      <name>Xinting Li</name>
     </author>
     <author>
-      <name>Glasscock, C.</name>
+      <name>Cameron Glasscock</name>
     </author>
     <author>
-      <name>Hilton, I. B.</name>
+      <name>Isaac B Hilton</name>
     </author>
     <author>
-      <name>Baker, D.</name>
+      <name>David Baker</name>
     </author>
     <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Authors: Chen, W.; Jiao, R.; Coventry, B.; Qu, X.; Bauer, M.; Tran, L.; Tcheau, T.; Wu, K.; Song, Z.; Roullier, N.; Li, X.; Glasscock, C.; Hilton, I. B.; Baker, D.&lt;/p&gt;
-&lt;p&gt;Sources: biorxiv&lt;/p&gt;
+&lt;p&gt;Authors: Wei Chen; Ruopu Jiao; Brian Coventry; Xiangli Qu; Magnus Bauer; Long Tran; Tabitha Tcheau; Kejia Wu; Zihao Song; Nicole Roullier; Xinting Li; Cameron Glasscock; Isaac B Hilton; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: biorxiv, pubmed&lt;/p&gt;
 &lt;p&gt;Preprint date: 2026-10-20&lt;/p&gt;
-&lt;p&gt;Transcription factors control gene expression by recruiting transcriptional coactivators through intrinsically disordered transcriptional activation domains (TADs), whose weak and promiscuous interactions make it difficult to establish quantitative relationships between coactivator recruitment and transcriptional output, and to precisely modulate gene expression. To overcome this limitation, we set out to design coactivator-recruiting proteins using AlphaFold3-predicted TAD-coactivator interactions as a guide. We developed a high-throughput functional screening platform in mammalian cells and identified over 300 well folded nanomolar affinity binders to the transcription coactivators Mediator (multiple subunits), BRD4, NCOA, and p300; targeted interface mutations enabled systematic tuning of their binding affinities. Using a panel of p300 binders spanning nanomolar to micromolar affinities, we found an ultrasensitive relationship between coactivator-binding affinity and transcriptional output, with a sharp transcriptional activation threshold at ~500 nM. Incorporating p300 binder designs into CRISPRa yielded compact synthetic effectors that drove stronger activation than VPR across multiple genomic loci with minimal detectable cytotoxicity. Combining p300- and Mediator-specific binders further enhanced transcription, revealing functional synergy between these coactivators. Together, our work establishes a quantitative framework linking coactivator-binding affinity to transcriptional output and provides compact synthetic effectors for programmable gene activation.&lt;/p&gt;
+&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
+&lt;p&gt;Transcription factors control gene expression by recruiting transcriptional coactivators through intrinsically disordered transcriptional activation domains (TADs), whose weak and promiscuous interactions make it difficult to establish quantitative relationships between coactivator recruitment and transcriptional output, and to precisely modulate gene expression. To overcome this limitation, we set out to design coactivator-recruiting proteins using AlphaFold3-predicted TAD-coactivator interactions as a guide. We developed a high-throughput functional screening platform in mammalian cells and identified over 300 well folded nanomolar affinity binders to the transcription coactivators Mediator (multiple subunits), BRD4, NCOA, and p300; targeted interface mutations enabled systematic tuning of their binding affinities. Using a panel of p300 binders spanning nanomolar to micromolar affinities, we found an ultrasensitive relationship between coactivator-binding affinity and transcriptional output, with a sharp transcriptional activation threshold at ∼500 nM. Incorporating p300 binder designs into CRISPRa yielded compact synthetic effectors that drove stronger activation than VPR across multiple genomic loci with minimal detectable cytotoxicity. Combining p300- and Mediator-specific binders further enhanced transcription, revealing functional synergy between these coactivators. Together, our work establishes a quantitative framework linking coactivator-binding affinity to transcriptional output and provides compact synthetic effectors for programmable gene activation.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.10.19.760300"&gt;biorxiv (preprint) — DOI: 10.64898/2026.10.19.760300&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.10.19.760300"&gt;pubmed (preprint) — DOI: 10.64898/2026.10.19.760300&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
