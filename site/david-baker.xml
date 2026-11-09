@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-11-08T17:55:09Z</updated>
+  <updated>2026-11-09T19:47:26Z</updated>
   <entry>
     <id>urn:uuid:e0bcf50d-9504-5d0f-8712-43761b15f37f</id>
     <title>Programmed mineralization of metal-oxides by de novo designed protein templates</title>
@@ -12032,6 +12032,126 @@
 &lt;/ul&gt;</content>
   </entry>
   <entry>
+    <id>urn:uuid:6acd3294-7ef1-5694-811e-eebcd0b280aa</id>
+    <title>Cytosolic expression, solution structures, and molecular dynamics simulation of genetically encodable disulfide-rich de novo designed peptides.</title>
+    <published>2018-09-01T00:00:00Z</published>
+    <updated>2026-11-09T19:47:26Z</updated>
+    <link href="https://doi.org/10.1002/pro.3453" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Garry W Buchko</name>
+    </author>
+    <author>
+      <name>Surya V S R K Pulavarti</name>
+    </author>
+    <author>
+      <name>Victor Ovchinnikov</name>
+    </author>
+    <author>
+      <name>Elizabeth A Shaw</name>
+    </author>
+    <author>
+      <name>Stephen A Rettie</name>
+    </author>
+    <author>
+      <name>Peter J Myler</name>
+    </author>
+    <author>
+      <name>Martin Karplus</name>
+    </author>
+    <author>
+      <name>Thomas Szyperski</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Christopher D Bahl</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Garry W Buchko; Surya V S R K Pulavarti; Victor Ovchinnikov; Elizabeth A Shaw; Stephen A Rettie; Peter J Myler; Martin Karplus; Thomas Szyperski; David Baker; Christopher D Bahl&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2018-09&lt;/p&gt;
+&lt;p&gt;Journal: Protein science : a publication of the Protein Society&lt;/p&gt;
+&lt;p&gt;Disulfide-rich peptides represent an important protein family with broad pharmacological potential. Recent advances in computational methods have made it possible to design new peptides which adopt a stable conformation de novo. Here, we describe a system to produce disulfide-rich de novo peptides using Escherichia coli as the expression host. The advantage of this system is that it enables production of uniformly 13 C- and 15 N-labeled peptides for solution nuclear magnetic resonance (NMR) studies. This expression system was used to isotopically label two previously reported de novo designed peptides, and to determine their solution structures using NMR. The ensemble of NMR structures calculated for both peptides agreed well with the design models, further confirming the accuracy of the design protocol. Collection of NMR data on the peptides under reducing conditions revealed a dependency on disulfide bonds to maintain stability. Furthermore, we performed long-time molecular dynamics (MD) simulations with tempering to assess the stability of two families of de novo designed peptides. Initial designs which exhibited a stable structure during simulations were more likely to adopt a stable structure in vitro, but attempts to utilize this method to redesign unstable peptides to fold into a stable state were unsuccessful. Further work is therefore needed to assess the utility of MD simulation techniques for de novo protein design.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1002/pro.3453"&gt;pubmed (published) — DOI: 10.1002/pro.3453&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1002/pro.3453"&gt;Published version — DOI: 10.1002/pro.3453&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:11b7335b-b429-599e-9842-fffba25a3143</id>
+    <title>Selective targeting of engineered T cells using orthogonal IL-2 cytokine-receptor complexes.</title>
+    <published>2018-03-02T00:00:00Z</published>
+    <updated>2026-11-09T19:47:26Z</updated>
+    <link href="https://doi.org/10.1126/science.aar3246" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Jonathan T Sockolosky</name>
+    </author>
+    <author>
+      <name>Eleonora Trotta</name>
+    </author>
+    <author>
+      <name>Giulia Parisi</name>
+    </author>
+    <author>
+      <name>Lora Picton</name>
+    </author>
+    <author>
+      <name>Leon L Su</name>
+    </author>
+    <author>
+      <name>Alan C Le</name>
+    </author>
+    <author>
+      <name>Akanksha Chhabra</name>
+    </author>
+    <author>
+      <name>Stephanie L Silveria</name>
+    </author>
+    <author>
+      <name>Benson M George</name>
+    </author>
+    <author>
+      <name>Indigo C King</name>
+    </author>
+    <author>
+      <name>Matthew R Tiffany</name>
+    </author>
+    <author>
+      <name>Kevin Jude</name>
+    </author>
+    <author>
+      <name>Leah V Sibener</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Judith A Shizuru</name>
+    </author>
+    <author>
+      <name>Antoni Ribas</name>
+    </author>
+    <author>
+      <name>Jeffrey A Bluestone</name>
+    </author>
+    <author>
+      <name>K Christopher Garcia</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Jonathan T Sockolosky; Eleonora Trotta; Giulia Parisi; Lora Picton; Leon L Su; Alan C Le; Akanksha Chhabra; Stephanie L Silveria; Benson M George; Indigo C King; Matthew R Tiffany; Kevin Jude; Leah V Sibener; David Baker; Judith A Shizuru; Antoni Ribas; Jeffrey A Bluestone; K Christopher Garcia&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2018-03-02&lt;/p&gt;
+&lt;p&gt;Journal: Science (New York, N.Y.)&lt;/p&gt;
+&lt;p&gt;Interleukin-2 (IL-2) is a cytokine required for effector T cell expansion, survival, and function, especially for engineered T cells in adoptive cell immunotherapy, but its pleiotropy leads to simultaneous stimulation and suppression of immune responses as well as systemic toxicity, limiting its therapeutic use. We engineered IL-2 cytokine-receptor orthogonal (ortho) pairs that interact with one another, transmitting native IL-2 signals, but do not interact with their natural cytokine and receptor counterparts. Introduction of orthoIL-2Rβ into T cells enabled the selective cellular targeting of orthoIL-2 to engineered CD4+ and CD8+ T cells in vitro and in vivo, with limited off-target effects and negligible toxicity. OrthoIL-2 pairs were efficacious in a preclinical mouse cancer model of adoptive cell therapy and may therefore represent a synthetic approach to achieving selective potentiation of engineered cells.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1126/science.aar3246"&gt;pubmed (published) — DOI: 10.1126/science.aar3246&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1126/science.aar3246"&gt;Published version — DOI: 10.1126/science.aar3246&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
     <id>urn:uuid:0e929313-fc24-5569-b63c-bc4185c7aea3</id>
     <title>Mammalian display screening of diverse cystine-dense peptides for difficult to drug targets.</title>
     <published>2017-12-21T00:00:00Z</published>
@@ -12188,6 +12308,36 @@
 &lt;/ul&gt;</content>
   </entry>
   <entry>
+    <id>urn:uuid:ef875210-2d94-5c87-b252-bbb3fb9a528e</id>
+    <title>Origins of coevolution between residues distant in protein 3D structures.</title>
+    <published>2017-08-07T00:00:00Z</published>
+    <updated>2026-11-09T19:47:26Z</updated>
+    <link href="https://doi.org/10.1073/pnas.1702664114" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Ivan Anishchenko</name>
+    </author>
+    <author>
+      <name>Sergey Ovchinnikov</name>
+    </author>
+    <author>
+      <name>Hetunandan Kamisetty</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Ivan Anishchenko; Sergey Ovchinnikov; Hetunandan Kamisetty; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2017-08-07&lt;/p&gt;
+&lt;p&gt;Journal: Proceedings of the National Academy of Sciences of the United States of America&lt;/p&gt;
+&lt;p&gt;Residue pairs that directly coevolve in protein families are generally close in protein 3D structures. Here we study the exceptions to this general trend-directly coevolving residue pairs that are distant in protein structures-to determine the origins of evolutionary pressure on spatially distant residues and to understand the sources of error in contact-based structure prediction. Over a set of 4,000 protein families, we find that 25% of directly coevolving residue pairs are separated by more than 5 Å in protein structures and 3% by more than 15 Å. The majority (91%) of directly coevolving residue pairs in the 5-15 Å range are found to be in contact in at least one homologous structure-these exceptions arise from structural variation in the family in the region containing the residues. Thirty-five percent of the exceptions greater than 15 Å are at homo-oligomeric interfaces, 19% arise from family structural variation, and 27% are in repeat proteins likely reflecting alignment errors. Of the remaining long-range exceptions (&amp;lt;1% of the total number of coupled pairs), many can be attributed to close interactions in an oligomeric state. Overall, the results suggest that directly coevolving residue pairs not in repeat proteins are spatially proximal in at least one biologically relevant protein conformation within the family; we find little evidence for direct coupling between residues at spatially separated allosteric and functional sites or for increased direct coupling between residue pairs on putative allosteric pathways connecting them.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1073/pnas.1702664114"&gt;pubmed (published) — DOI: 10.1073/pnas.1702664114&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1073/pnas.1702664114"&gt;Published version — DOI: 10.1073/pnas.1702664114&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
     <id>urn:uuid:70d24412-d967-5ba6-a123-7281d3ceca6a</id>
     <title>Computational design of trimeric influenza-neutralizing proteins targeting the hemagglutinin receptor binding site.</title>
     <published>2017-06-12T00:00:00Z</published>
@@ -12263,6 +12413,96 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/nbt.3907"&gt;pubmed (published) — DOI: 10.1038/nbt.3907&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/nbt.3907"&gt;Published version — DOI: 10.1038/nbt.3907&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:1c139521-516b-545f-96d1-01874a26d901</id>
+    <title>Determining crystal structures through crowdsourcing and coursework.</title>
+    <published>2016-09-16T00:00:00Z</published>
+    <updated>2026-11-09T19:47:26Z</updated>
+    <link href="https://doi.org/10.1038/ncomms12549" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Scott Horowitz</name>
+    </author>
+    <author>
+      <name>Brian Koepnick</name>
+    </author>
+    <author>
+      <name>Raoul Martin</name>
+    </author>
+    <author>
+      <name>Agnes Tymieniecki</name>
+    </author>
+    <author>
+      <name>Amanda A Winburn</name>
+    </author>
+    <author>
+      <name>Seth Cooper</name>
+    </author>
+    <author>
+      <name>Jeff Flatten</name>
+    </author>
+    <author>
+      <name>David S Rogawski</name>
+    </author>
+    <author>
+      <name>Nicole M Koropatkin</name>
+    </author>
+    <author>
+      <name>Tsinatkeab T Hailu</name>
+    </author>
+    <author>
+      <name>Neha Jain</name>
+    </author>
+    <author>
+      <name>Philipp Koldewey</name>
+    </author>
+    <author>
+      <name>Logan S Ahlstrom</name>
+    </author>
+    <author>
+      <name>Matthew R Chapman</name>
+    </author>
+    <author>
+      <name>Andrew P Sikkema</name>
+    </author>
+    <author>
+      <name>Meredith A Skiba</name>
+    </author>
+    <author>
+      <name>Finn P Maloney</name>
+    </author>
+    <author>
+      <name>Felix R M Beinlich</name>
+    </author>
+    <author>
+      <name>Foldit Players</name>
+    </author>
+    <author>
+      <name>University of Michigan students</name>
+    </author>
+    <author>
+      <name>Zoran Popović</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Firas Khatib</name>
+    </author>
+    <author>
+      <name>James C A Bardwell</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Scott Horowitz; Brian Koepnick; Raoul Martin; Agnes Tymieniecki; Amanda A Winburn; Seth Cooper; Jeff Flatten; David S Rogawski; Nicole M Koropatkin; Tsinatkeab T Hailu; Neha Jain; Philipp Koldewey; Logan S Ahlstrom; Matthew R Chapman; Andrew P Sikkema; Meredith A Skiba; Finn P Maloney; Felix R M Beinlich; Foldit Players; University of Michigan students; Zoran Popović; David Baker; Firas Khatib; James C A Bardwell&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2016-09-16&lt;/p&gt;
+&lt;p&gt;Journal: Nature communications&lt;/p&gt;
+&lt;p&gt;We show here that computer game players can build high-quality crystal structures. Introduction of a new feature into the computer game Foldit allows players to build and real-space refine structures into electron density maps. To assess the usefulness of this feature, we held a crystallographic model-building competition between trained crystallographers, undergraduate students, Foldit players and automatic model-building algorithms. After removal of disordered residues, a team of Foldit players achieved the most accurate structure. Analysing the target protein of the competition, YPL067C, uncovered a new family of histidine triad proteins apparently involved in the prevention of amyloid toxicity. From this study, we conclude that crystallographers can utilize crowdsourcing to interpret electron density information and to produce structure solutions of the highest quality.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/ncomms12549"&gt;pubmed (published) — DOI: 10.1038/ncomms12549&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/ncomms12549"&gt;Published version — DOI: 10.1038/ncomms12549&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
@@ -12401,6 +12641,57 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/nchem.2596"&gt;pubmed (published) — DOI: 10.1038/nchem.2596&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/nchem.2596"&gt;Published version — DOI: 10.1038/nchem.2596&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:4c59da10-b54a-59db-b785-1087b33a18f1</id>
+    <title>Introduction of a polar core into the de novo designed protein Top7.</title>
+    <published>2016-03-07T00:00:00Z</published>
+    <updated>2026-11-09T19:47:26Z</updated>
+    <link href="https://doi.org/10.1002/pro.2899" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Benjamin Basanta</name>
+    </author>
+    <author>
+      <name>Kui K Chan</name>
+    </author>
+    <author>
+      <name>Patrick Barth</name>
+    </author>
+    <author>
+      <name>Tiffany King</name>
+    </author>
+    <author>
+      <name>Tobin R Sosnick</name>
+    </author>
+    <author>
+      <name>James R Hinshaw</name>
+    </author>
+    <author>
+      <name>Gaohua Liu</name>
+    </author>
+    <author>
+      <name>John K Everett</name>
+    </author>
+    <author>
+      <name>Rong Xiao</name>
+    </author>
+    <author>
+      <name>Gaetano T Montelione</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Benjamin Basanta; Kui K Chan; Patrick Barth; Tiffany King; Tobin R Sosnick; James R Hinshaw; Gaohua Liu; John K Everett; Rong Xiao; Gaetano T Montelione; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2016-03-07&lt;/p&gt;
+&lt;p&gt;Journal: Protein science : a publication of the Protein Society&lt;/p&gt;
+&lt;p&gt;Design of polar interactions is a current challenge for protein design. The de novo designed protein Top7, like almost all designed proteins, has an entirely nonpolar core. Here we describe the replacing of a sizable fraction (5 residues) of this core with a designed polar hydrogen bond network. The polar core design is expressed at high levels in E. coli, has a folding free energy of 10 kcal/mol, and retains the multiphasic folding kinetics of the original Top7. The NMR structure of the design shows that conformations of three of the five residues, and the designed hydrogen bonds between them, are very close to those in the design model. The remaining two residues, which are more solvent exposed, sample a wide range of conformations in the NMR ensemble. These results show that hydrogen bond networks can be designed in protein cores, but also highlight challenges that need to be overcome when there is competition with solvent.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1002/pro.2899"&gt;pubmed (published) — DOI: 10.1002/pro.2899&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1002/pro.2899"&gt;Published version — DOI: 10.1002/pro.2899&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
@@ -12545,6 +12836,45 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/ncomms10005"&gt;pubmed (published) — DOI: 10.1038/ncomms10005&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/ncomms10005"&gt;Published version — DOI: 10.1038/ncomms10005&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:f83bd0c9-18d4-549a-95b2-51cdc87cffb9</id>
+    <title>Multiplex pairwise assembly of array-derived DNA oligonucleotides.</title>
+    <published>2015-11-08T00:00:00Z</published>
+    <updated>2026-11-09T19:47:26Z</updated>
+    <link href="https://doi.org/10.1093/nar/gkv1177" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Jason C Klein</name>
+    </author>
+    <author>
+      <name>Marc J Lajoie</name>
+    </author>
+    <author>
+      <name>Jerrod J Schwartz</name>
+    </author>
+    <author>
+      <name>Eva-Maria Strauch</name>
+    </author>
+    <author>
+      <name>Jorgen Nelson</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Jay Shendure</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Jason C Klein; Marc J Lajoie; Jerrod J Schwartz; Eva-Maria Strauch; Jorgen Nelson; David Baker; Jay Shendure&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2015-11-08&lt;/p&gt;
+&lt;p&gt;Journal: Nucleic acids research&lt;/p&gt;
+&lt;p&gt;While the cost of DNA sequencing has dropped by five orders of magnitude in the past decade, DNA synthesis remains expensive for many applications. Although DNA microarrays have decreased the cost of oligonucleotide synthesis, the use of array-synthesized oligos in practice is limited by short synthesis lengths, high synthesis error rates, low yield and the challenges of assembling long constructs from complex pools. Toward addressing these issues, we developed a protocol for multiplex pairwise assembly of oligos from array-synthesized oligonucleotide pools. To evaluate the method, we attempted to assemble up to 2271 targets ranging in length from 192-252 bases using pairs of array-synthesized oligos. Within sets of complexity ranging from 131-250 targets, we observed error-free assemblies for 90.5% of all targets. When all 2271 targets were assembled in one reaction, we observed error-free constructs for 70.6%. While the assembly method intrinsically increased accuracy to a small degree, we further increased accuracy by using a high throughput &amp;#x27;Dial-Out PCR&amp;#x27; protocol, which combines Illumina sequencing with an in-house set of unique PCR tags to selectively amplify perfect assemblies from complex synthetic pools. This approach has broad applicability to DNA assembly and high-throughput functional screens.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1093/nar/gkv1177"&gt;pubmed (published) — DOI: 10.1093/nar/gkv1177&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1093/nar/gkv1177"&gt;Published version — DOI: 10.1093/nar/gkv1177&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>

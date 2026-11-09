@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-11-08T17:55:09Z</updated>
+  <updated>2026-11-09T19:47:26Z</updated>
   <entry>
     <id>urn:uuid:549c333f-7164-59ed-aeac-18f2d08baa08</id>
     <title>Quantifying protein unfolding kinetics with a high-throughput microfluidic platform.</title>
@@ -333,6 +333,39 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/nchembio.1978"&gt;pubmed (published) — DOI: 10.1038/nchembio.1978&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/nchembio.1978"&gt;Published version — DOI: 10.1038/nchembio.1978&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:6464df49-1773-541c-bc2c-09633227297d</id>
+    <title>Extensive site-directed mutagenesis reveals interconnected functional units in the alkaline phosphatase active site.</title>
+    <published>2015-04-22T00:00:00Z</published>
+    <updated>2026-11-09T19:47:26Z</updated>
+    <link href="https://doi.org/10.7554/elife.06181" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Fanny Sunden</name>
+    </author>
+    <author>
+      <name>Ariana Peck</name>
+    </author>
+    <author>
+      <name>Julia Salzman</name>
+    </author>
+    <author>
+      <name>Susanne Ressl</name>
+    </author>
+    <author>
+      <name>Daniel Herschlag</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Fanny Sunden; Ariana Peck; Julia Salzman; Susanne Ressl; Daniel Herschlag&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2015-04-22&lt;/p&gt;
+&lt;p&gt;Journal: eLife&lt;/p&gt;
+&lt;p&gt;Enzymes enable life by accelerating reaction rates to biological timescales. Conventional studies have focused on identifying the residues that have a direct involvement in an enzymatic reaction, but these so-called &amp;#x27;catalytic residues&amp;#x27; are embedded in extensive interaction networks. Although fundamental to our understanding of enzyme function, evolution, and engineering, the properties of these networks have yet to be quantitatively and systematically explored. We dissected an interaction network of five residues in the active site of Escherichia coli alkaline phosphatase. Analysis of the complex catalytic interdependence of specific residues identified three energetically independent but structurally interconnected functional units with distinct modes of cooperativity. From an evolutionary perspective, this network is orders of magnitude more probable to arise than a fully cooperative network. From a functional perspective, new catalytic insights emerge. Further, such comprehensive energetic characterization will be necessary to benchmark the algorithms required to rationally engineer highly efficient enzymes.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.7554/elife.06181"&gt;pubmed (published) — DOI: 10.7554/elife.06181&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.7554/elife.06181"&gt;Published version — DOI: 10.7554/elife.06181&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
 </feed>
