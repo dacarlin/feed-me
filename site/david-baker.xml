@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-11-10T14:50:53Z</updated>
+  <updated>2026-11-10T21:17:04Z</updated>
   <entry>
     <id>urn:uuid:1e064a1a-8717-5e1f-89ce-cbf997d2cae4</id>
     <title>Sweet proteins designed with increased thermostability.</title>
@@ -815,6 +815,114 @@
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-026-11167-2"&gt;pubmed (published) — DOI: 10.1038/s41586-026-11167-2&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-026-11167-2"&gt;Published version — DOI: 10.1038/s41586-026-11167-2&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://pubmed.ncbi.nlm.nih.gov/42875487/"&gt;Published version&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:f9f935fd-6d91-53b9-af07-683764a49ed9</id>
+    <title>De novo design of miniprotein inhibitors of bacterial adhesins.</title>
+    <published>2026-10-09T00:00:00Z</published>
+    <updated>2026-11-10T21:17:04Z</updated>
+    <link href="https://doi.org/10.1038/s41467-026-78123-6" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Adam M Chazin-Gray</name>
+    </author>
+    <author>
+      <name>Tuscan R Thompson</name>
+    </author>
+    <author>
+      <name>Edward D B Lopatto</name>
+    </author>
+    <author>
+      <name>Pearl Magala</name>
+    </author>
+    <author>
+      <name>Patrick W Erickson</name>
+    </author>
+    <author>
+      <name>Andrew C Hunt</name>
+    </author>
+    <author>
+      <name>Anna Manchenko</name>
+    </author>
+    <author>
+      <name>Pavel Aprikian</name>
+    </author>
+    <author>
+      <name>Veronika Tchesnokova</name>
+    </author>
+    <author>
+      <name>Irina Basova</name>
+    </author>
+    <author>
+      <name>Denise A Sanick</name>
+    </author>
+    <author>
+      <name>Kevin O Tamadonfar</name>
+    </author>
+    <author>
+      <name>Morgan R Timm</name>
+    </author>
+    <author>
+      <name>Jerome S Pinkner</name>
+    </author>
+    <author>
+      <name>Karen W Dodson</name>
+    </author>
+    <author>
+      <name>Alex Kang</name>
+    </author>
+    <author>
+      <name>Emily Joyce</name>
+    </author>
+    <author>
+      <name>Asim K Bera</name>
+    </author>
+    <author>
+      <name>Aaron J Schmitz</name>
+    </author>
+    <author>
+      <name>Ali H Ellebedy</name>
+    </author>
+    <author>
+      <name>Kelli L Hvorecny</name>
+    </author>
+    <author>
+      <name>Gianluca Interlandi</name>
+    </author>
+    <author>
+      <name>Mark J Cartwright</name>
+    </author>
+    <author>
+      <name>Andyna Vernet</name>
+    </author>
+    <author>
+      <name>Sarai Bardales</name>
+    </author>
+    <author>
+      <name>Desmond White</name>
+    </author>
+    <author>
+      <name>Rachel E Klevit</name>
+    </author>
+    <author>
+      <name>Evgeni V Sokurenko</name>
+    </author>
+    <author>
+      <name>Scott J Hultgren</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Adam M Chazin-Gray; Tuscan R Thompson; Edward D B Lopatto; Pearl Magala; Patrick W Erickson; Andrew C Hunt; Anna Manchenko; Pavel Aprikian; Veronika Tchesnokova; Irina Basova; Denise A Sanick; Kevin O Tamadonfar; Morgan R Timm; Jerome S Pinkner; Karen W Dodson; Alex Kang; Emily Joyce; Asim K Bera; Aaron J Schmitz; Ali H Ellebedy; Kelli L Hvorecny; Gianluca Interlandi; Mark J Cartwright; Andyna Vernet; Sarai Bardales; Desmond White; Rachel E Klevit; Evgeni V Sokurenko; Scott J Hultgren; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2026-10-09&lt;/p&gt;
+&lt;p&gt;Journal: Nature communications&lt;/p&gt;
+&lt;p&gt;The rise of multidrug-resistant bacterial infections necessitates the discovery of novel antimicrobial strategies. Here, we show that protein design provides a generalizable means of generating new antimicrobials by neutralizing the function of bacterial adhesins, which are virulence factors critical in host-pathogen interactions. We de novo designed high-affinity miniprotein binders to FimH and Abp chaperone usher pili adhesins from uropathogenic Escherichia coli and Acinetobacter baumannii, respectively, which are implicated in mediating both uncomplicated and catheter-associated urinary tract infections (UTI) responsible for significant morbidity worldwide. The designed antagonists have high specificity and stability, disrupt bacterial recognition of host receptors, block biofilm formation, and are effective in treating and preventing murine models of uncomplicated and catheter-associated UTIs in vivo.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41467-026-78123-6"&gt;pubmed (published) — DOI: 10.1038/s41467-026-78123-6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41467-026-78123-6"&gt;Published version — DOI: 10.1038/s41467-026-78123-6&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
