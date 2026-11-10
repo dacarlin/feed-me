@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-11-10T03:33:17Z",
+      "last_success": "2026-11-10T14:50:53Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-11-10T03:33:17Z",
+      "last_success": "2026-11-10T14:50:53Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-11-10T03:33:17Z",
+      "last_success": "2026-11-10T14:50:53Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -231,7 +231,8 @@
     "pubmed:27633552": "2026-11-09T19:47:26Z",
     "pubmed:26873166": "2026-11-09T19:47:26Z",
     "pubmed:26553805": "2026-11-09T19:47:26Z",
-    "pubmed:25902402": "2026-11-09T19:47:26Z"
+    "pubmed:25902402": "2026-11-09T19:47:26Z",
+    "pubmed:43003026": "2026-11-10T14:50:53Z"
   },
   "works": {
     "urn:uuid:7f477453-6c38-52e7-b591-accb9b0e6576": {
@@ -40079,6 +40080,123 @@
         }
       ],
       "published": "2018-09-01T00:00:00Z"
+    },
+    "urn:uuid:1e064a1a-8717-5e1f-89ce-cbf997d2cae4": {
+      "id": "urn:uuid:1e064a1a-8717-5e1f-89ce-cbf997d2cae4",
+      "first_seen": "2026-11-10T14:50:53Z",
+      "updated": "2026-11-10T14:50:53Z",
+      "records": {
+        "pubmed:43003026": {
+          "source": "pubmed",
+          "source_id": "43003026",
+          "title": "Sweet proteins designed with increased thermostability.",
+          "authors": [
+            {
+              "name": "Verónica Ramos-Viana",
+              "affiliations": [
+                "The Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, Kemitorvet Building 220, 2800 Kongens Lyngby, Denmark."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Teemu K E Rönkkö",
+              "affiliations": [
+                "Department of Drug Design and Pharmacology, University of Copenhagen, Universitetsparken 2, 2100 Copenhagen Ø, Denmark."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Gonzalo Nahuel Bidart",
+              "affiliations": [
+                "The Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, Kemitorvet Building 220, 2800 Kongens Lyngby, Denmark."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Robby Divine",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Ditte Hededam Welner",
+              "affiliations": [
+                "The Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, Kemitorvet Building 220, 2800 Kongens Lyngby, Denmark; Biotechnology Research Institute for the Green Transition, BRIGHT, Technical University of Denmark, Søltofts Plads, Building 220, Kgs. Lyngby, 2800, Denmark."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Alexander S Hauser",
+              "affiliations": [
+                "Department of Drug Design and Pharmacology, University of Copenhagen, Universitetsparken 2, 2100 Copenhagen Ø, Denmark."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Leonie J Jahn",
+              "affiliations": [
+                "The Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, Kemitorvet Building 220, 2800 Kongens Lyngby, Denmark; Biotechnology Research Institute for the Green Transition, BRIGHT, Technical University of Denmark, Søltofts Plads, Building 220, Kgs. Lyngby, 2800, Denmark. Electronic address: lejj@biosustain.dtu.dk."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Morten O A Sommer",
+              "affiliations": [
+                "The Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, Kemitorvet Building 220, 2800 Kongens Lyngby, Denmark; Biotechnology Research Institute for the Green Transition, BRIGHT, Technical University of Denmark, Søltofts Plads, Building 220, Kgs. Lyngby, 2800, Denmark. Electronic address: msom@bio.dtu.dk."
+              ],
+              "orcid": null
+            }
+          ],
+          "abstract": "Sweet proteins represent a healthy alternative to refined sugar and non-nutritive sweeteners, but their thermostability limits several industrial food applications. We rationally designed 20 variants of Q-brazzein and thaumatin-II to enhance thermostability, expressing and testing 16 in vitro. Variants of both sweet proteins were identified with increased thermostability. Across all designed sweet protein variants, we found a significant inverse correlation between predicted ΔΔG and experimental Tm and a positive correlation between Tm and charge density. For thaumatin-II we identified a variant, Thau69, with 10 °C higher melting temperature. For Q-Brazzein we identified a variant, Braz110, that exhibited a melting point above 110 °C. Structural modelling of Braz110 indicated no interference with key amino acids important for sweetness or the interaction with the T1R2/T1R3 sweet taste receptor, which is supported by human consumer sensory evaluations. This study highlights the potential to design sweet protein variants with improved functionality for food applications.",
+          "date": "2026-11-06",
+          "url": "https://doi.org/10.1016/j.foodchem.2026.151969",
+          "doi": "10.1016/j.foodchem.2026.151969",
+          "status": "published",
+          "journal": "Food chemistry",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:43003026",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "name_and_affiliations",
+                "affiliations": [
+                  "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA."
+                ],
+                "matched_affiliations": [
+                  "University of Washington",
+                  "Department of Biochemistry"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:43003026",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2026-11-06T00:00:00Z"
     }
   },
   "aliases": {

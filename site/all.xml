@@ -7,7 +7,52 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-11-09T19:47:26Z</updated>
+  <updated>2026-11-10T14:50:53Z</updated>
+  <entry>
+    <id>urn:uuid:1e064a1a-8717-5e1f-89ce-cbf997d2cae4</id>
+    <title>Sweet proteins designed with increased thermostability.</title>
+    <published>2026-11-06T00:00:00Z</published>
+    <updated>2026-11-10T14:50:53Z</updated>
+    <link href="https://doi.org/10.1016/j.foodchem.2026.151969" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Verónica Ramos-Viana</name>
+    </author>
+    <author>
+      <name>Teemu K E Rönkkö</name>
+    </author>
+    <author>
+      <name>Gonzalo Nahuel Bidart</name>
+    </author>
+    <author>
+      <name>Robby Divine</name>
+    </author>
+    <author>
+      <name>Ditte Hededam Welner</name>
+    </author>
+    <author>
+      <name>Alexander S Hauser</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Leonie J Jahn</name>
+    </author>
+    <author>
+      <name>Morten O A Sommer</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Verónica Ramos-Viana; Teemu K E Rönkkö; Gonzalo Nahuel Bidart; Robby Divine; Ditte Hededam Welner; Alexander S Hauser; David Baker; Leonie J Jahn; Morten O A Sommer&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2026-11-06&lt;/p&gt;
+&lt;p&gt;Journal: Food chemistry&lt;/p&gt;
+&lt;p&gt;Sweet proteins represent a healthy alternative to refined sugar and non-nutritive sweeteners, but their thermostability limits several industrial food applications. We rationally designed 20 variants of Q-brazzein and thaumatin-II to enhance thermostability, expressing and testing 16 in vitro. Variants of both sweet proteins were identified with increased thermostability. Across all designed sweet protein variants, we found a significant inverse correlation between predicted ΔΔG and experimental Tm and a positive correlation between Tm and charge density. For thaumatin-II we identified a variant, Thau69, with 10 °C higher melting temperature. For Q-Brazzein we identified a variant, Braz110, that exhibited a melting point above 110 °C. Structural modelling of Braz110 indicated no interference with key amino acids important for sweetness or the interaction with the T1R2/T1R3 sweet taste receptor, which is supported by human consumer sensory evaluations. This study highlights the potential to design sweet protein variants with improved functionality for food applications.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1016/j.foodchem.2026.151969"&gt;pubmed (published) — DOI: 10.1016/j.foodchem.2026.151969&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1016/j.foodchem.2026.151969"&gt;Published version — DOI: 10.1016/j.foodchem.2026.151969&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
   <entry>
     <id>urn:uuid:e0bcf50d-9504-5d0f-8712-43761b15f37f</id>
     <title>Programmed mineralization of metal-oxides by de novo designed protein templates</title>
