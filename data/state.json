@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-11-11T01:16:56Z",
+      "last_success": "2026-11-11T10:54:42Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-11-11T01:16:56Z",
+      "last_success": "2026-11-11T10:54:42Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-11-11T01:16:56Z",
+      "last_success": "2026-11-11T10:54:42Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -40202,7 +40202,7 @@
     "urn:uuid:f9f935fd-6d91-53b9-af07-683764a49ed9": {
       "id": "urn:uuid:f9f935fd-6d91-53b9-af07-683764a49ed9",
       "first_seen": "2026-11-10T21:17:04Z",
-      "updated": "2026-11-10T21:17:04Z",
+      "updated": "2026-11-11T10:54:42Z",
       "records": {
         "pubmed:43003839": {
           "source": "pubmed",
@@ -40448,7 +40448,9 @@
           "journal": "Nature communications",
           "version": "",
           "publication_date": "",
-          "identifiers": [],
+          "identifiers": [
+            "pmc:PMC13748552"
+          ],
           "relations": []
         }
       },
@@ -40473,6 +40475,16 @@
           "record": "pubmed:43003839",
           "method": "new_work",
           "reason": "no existing work"
+        },
+        {
+          "record": "pubmed:43003839",
+          "rank": 3,
+          "method": "shared_identifier",
+          "identifiers": [
+            "doi:10.1038/s41467-026-78123-6",
+            "pubmed:43003839"
+          ],
+          "matched_record": "pubmed:43003839"
         }
       ],
       "published": "2026-10-09T00:00:00Z"
@@ -40482,6 +40494,184 @@
     "urn:uuid:4b3d262c-d759-5ebd-a82d-a7a91bd68fad": "urn:uuid:9e012682-4c6a-50a3-b187-e8ed207714b5"
   },
   "rejected": {
+    "biorxiv:10.64898/2026.11.08.765178": {
+      "first_seen": "2026-11-11T10:54:42Z",
+      "record": {
+        "source": "biorxiv",
+        "source_id": "10.64898/2026.11.08.765178",
+        "title": "Programmable amide bond formation using de novo ligases",
+        "authors": [
+          {
+            "name": "Salike, S.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Fluegel, T.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Gantz, M.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Moroz, S. S.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Hunt, A. C.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Jones, H.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Singh, A.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Corley, N.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Didi, K.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Brent, R. I.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Kazman, M. W.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Xu, Z.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Savvides, C.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Woodbury, S. M.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Sotomayor, B.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Nguyen, H.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Mendoza, J.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Kang, A.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Bera, A. K.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Li, X.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Banala, S.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Butcher, J.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Lavis, L. D.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Green, A. P.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Hilvert, D.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Baker, D.",
+            "affiliations": [
+              "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+            ],
+            "orcid": null
+          }
+        ],
+        "abstract": "Amide bond formation is of central importance in the chemical industry, underpinning the synthesis of small bioactive molecules, macrocycles, peptides and their conjugates. Conventional methods of amide synthesis rely on stoichiometric coupling agents and costly protecting group manipulations. While biocatalysis can alleviate some of these challenges, enzymes typically operate across a narrow range of substrates and their adaptation to new coupling partners requires extensive engineering. Here we show that de novo amide ligases featuring a cysteine catalytic triad can be programmed computationally to operate across diverse substrate classes with high selectivity. We first designed complementary peptide ligases to selectively functionalise either the N-terminus or a single lysine residue of a polypeptide sequence containing 36 competing lysines. Crystal structures of both ligases show excellent agreement with the designs, with structural modelling suggesting that amidation outcompetes hydrolysis because the catalytically competent geometry forms only upon acceptor binding. We then extended our approach to the synthesis of small bioactive molecules by designing stereoselective ligases that mediate a key amide bonding forming step in the synthesis of the preventative HIV therapeutic lenacapavir. These results establish de novo enzyme design as a programmable platform for achieving selective amide bond formations across a wide range of molecular targets.",
+        "date": "2026-11-11",
+        "url": "https://doi.org/10.64898/2026.11.08.765178",
+        "doi": "10.64898/2026.11.08.765178",
+        "status": "preprint",
+        "journal": "",
+        "version": "1",
+        "publication_date": "",
+        "identifiers": [],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "Baker, D.",
+              "method": "rejected",
+              "affiliations": [
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+              ],
+              "matched_affiliations": [
+                "University of Washington"
+              ],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
     "pubmed:28398523": {
       "first_seen": "2026-11-09T19:47:26Z",
       "record": {
