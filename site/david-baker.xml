@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-11-11T10:54:42Z</updated>
+  <updated>2026-11-12T11:03:17Z</updated>
   <entry>
     <id>urn:uuid:1e064a1a-8717-5e1f-89ce-cbf997d2cae4</id>
     <title>Sweet proteins designed with increased thermostability.</title>
@@ -821,8 +821,9 @@
     <id>urn:uuid:f9f935fd-6d91-53b9-af07-683764a49ed9</id>
     <title>De novo design of miniprotein inhibitors of bacterial adhesins.</title>
     <published>2026-10-09T00:00:00Z</published>
-    <updated>2026-11-11T10:54:42Z</updated>
+    <updated>2026-11-12T11:03:17Z</updated>
     <link href="https://doi.org/10.1038/s41467-026-78123-6" rel="alternate" />
+    <link href="https://doi.org/10.1101/2025.08.18.670751" rel="related" title="pubmed" />
     <category term="published" />
     <author>
       <name>Adam M Chazin-Gray</name>
@@ -921,8 +922,10 @@
 &lt;p&gt;Journal: Nature communications&lt;/p&gt;
 &lt;p&gt;The rise of multidrug-resistant bacterial infections necessitates the discovery of novel antimicrobial strategies. Here, we show that protein design provides a generalizable means of generating new antimicrobials by neutralizing the function of bacterial adhesins, which are virulence factors critical in host-pathogen interactions. We de novo designed high-affinity miniprotein binders to FimH and Abp chaperone usher pili adhesins from uropathogenic Escherichia coli and Acinetobacter baumannii, respectively, which are implicated in mediating both uncomplicated and catheter-associated urinary tract infections (UTI) responsible for significant morbidity worldwide. The designed antagonists have high specificity and stability, disrupt bacterial recognition of host receptors, block biofilm formation, and are effective in treating and preventing murine models of uncomplicated and catheter-associated UTIs in vivo.&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1101/2025.08.18.670751"&gt;pubmed (preprint) — DOI: 10.1101/2025.08.18.670751&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41467-026-78123-6"&gt;pubmed (published) — DOI: 10.1038/s41467-026-78123-6&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41467-026-78123-6"&gt;Published version — DOI: 10.1038/s41467-026-78123-6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pubmed.ncbi.nlm.nih.gov/43003839/"&gt;Published version&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
