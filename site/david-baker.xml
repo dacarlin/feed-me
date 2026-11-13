@@ -7,7 +7,93 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-11-12T11:03:17Z</updated>
+  <updated>2026-11-13T19:39:42Z</updated>
+  <entry>
+    <id>urn:uuid:66e03293-0487-5d55-bcbd-5b2a86ff1da9</id>
+    <title>Designed Minibinders Rewire Receptor Signaling to Enable Functional Human Myogenic Reprogramming</title>
+    <published>2026-04-27T00:00:00Z</published>
+    <updated>2026-11-13T19:39:42Z</updated>
+    <link href="https://doi.org/10.64898/2026.04.26.720818" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Keshri, R.</name>
+    </author>
+    <author>
+      <name>Jessop, A.</name>
+    </author>
+    <author>
+      <name>Robinson, A. J.</name>
+    </author>
+    <author>
+      <name>Foreman, Z.</name>
+    </author>
+    <author>
+      <name>Barrett, P.</name>
+    </author>
+    <author>
+      <name>Reyes, G.</name>
+    </author>
+    <author>
+      <name>Krishnakumar, A.</name>
+    </author>
+    <author>
+      <name>Kumar, S.</name>
+    </author>
+    <author>
+      <name>Phal, A. A.</name>
+    </author>
+    <author>
+      <name>Narog, E.</name>
+    </author>
+    <author>
+      <name>Chiu, M.</name>
+    </author>
+    <author>
+      <name>Jain, S.</name>
+    </author>
+    <author>
+      <name>Wang, X.</name>
+    </author>
+    <author>
+      <name>Lee, D.</name>
+    </author>
+    <author>
+      <name>Exposit, M.</name>
+    </author>
+    <author>
+      <name>Abedi, M.</name>
+    </author>
+    <author>
+      <name>Smith, A. S. T.</name>
+    </author>
+    <author>
+      <name>Srivatsan, S. R.</name>
+    </author>
+    <author>
+      <name>Shendure, J.</name>
+    </author>
+    <author>
+      <name>Mathieu, J.</name>
+    </author>
+    <author>
+      <name>Mack, D. L.</name>
+    </author>
+    <author>
+      <name>Baker, D.</name>
+    </author>
+    <author>
+      <name>Ruohola-Baker, H.</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Keshri, R.; Jessop, A.; Robinson, A. J.; Foreman, Z.; Barrett, P.; Reyes, G.; Krishnakumar, A.; Kumar, S.; Phal, A. A.; Narog, E.; Chiu, M.; Jain, S.; Wang, X.; Lee, D.; Exposit, M.; Abedi, M.; Smith, A. S. T.; Srivatsan, S. R.; Shendure, J.; Mathieu, J.; Mack, D. L.; Baker, D.; Ruohola-Baker, H.&lt;/p&gt;
+&lt;p&gt;Sources: biorxiv, pubmed&lt;/p&gt;
+&lt;p&gt;Preprint date: 2026-11-12&lt;/p&gt;
+&lt;p&gt;Sarcopenia, loss of muscle mass is a considerable health burden that demands immediate societal attention. Direct myogenic somatic cell reprogramming, a potential muscle regeneration method is constrained by an inability to control the signaling logic that governs cell fate. Here, we show that this barrier can be overcome using AI-designed receptor modulators. Screening de novo minibinders, we identify a synthetic protein cocktail, C6-DPC, that drives efficient human fibroblast-to-muscle transdifferentiation with robust structural and metabolic maturation. C6-DPC reprograms extracellular signaling by activating pro-myogenic FGFR1/2c pathways while suppressing anti-myogenic inputs through ALK1 and TGFBR2; targeted depletion of ALK1 is sufficient to lower the reprogramming barrier. Inflammatory signaling via gp130 emerges as a dominant checkpoint, and its inhibition further enhances conversion. Engineered tissues generate high twitch and tetanic forces in both wild-type and dystrophindeficient human cells. These findings demonstrate that programmable synthetic ligands can rewrite receptor-level signaling to direct cell fate and enable functional tissue regeneration.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.04.26.720818"&gt;biorxiv (preprint) — DOI: 10.64898/2026.04.26.720818&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.04.26.720818"&gt;pubmed (preprint) — DOI: 10.64898/2026.04.26.720818&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
   <entry>
     <id>urn:uuid:1e064a1a-8717-5e1f-89ce-cbf997d2cae4</id>
     <title>Sweet proteins designed with increased thermostability.</title>
@@ -3122,86 +3208,6 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-026-10328-7"&gt;pubmed (published) — DOI: 10.1038/s41586-026-10328-7&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-026-10328-7"&gt;Published version — DOI: 10.1038/s41586-026-10328-7&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <id>urn:uuid:66e03293-0487-5d55-bcbd-5b2a86ff1da9</id>
-    <title>Designed Minibinders Rewire Receptor Signaling to Enable Functional Human Myogenic Reprogramming.</title>
-    <published>2026-04-27T00:00:00Z</published>
-    <updated>2026-09-11T17:54:26Z</updated>
-    <link href="https://doi.org/10.64898/2026.04.26.720818" rel="alternate" />
-    <category term="preprint" />
-    <author>
-      <name>Riya Keshri</name>
-    </author>
-    <author>
-      <name>Zachary Foreman</name>
-    </author>
-    <author>
-      <name>Phillip Barrett</name>
-    </author>
-    <author>
-      <name>Alexander Robinson</name>
-    </author>
-    <author>
-      <name>Gabriela Reyes</name>
-    </author>
-    <author>
-      <name>Ashish Phal</name>
-    </author>
-    <author>
-      <name>Aditya KrishnaKumar</name>
-    </author>
-    <author>
-      <name>Ethan Narog</name>
-    </author>
-    <author>
-      <name>Melodie Chiu</name>
-    </author>
-    <author>
-      <name>Shruti Jain</name>
-    </author>
-    <author>
-      <name>Xinru Wang</name>
-    </author>
-    <author>
-      <name>David Lee</name>
-    </author>
-    <author>
-      <name>Marc Exposit</name>
-    </author>
-    <author>
-      <name>Mohamad Adedi</name>
-    </author>
-    <author>
-      <name>Alec St Smith</name>
-    </author>
-    <author>
-      <name>Sanjay Srivatsan</name>
-    </author>
-    <author>
-      <name>Jay Shendure</name>
-    </author>
-    <author>
-      <name>Julie Mathieu</name>
-    </author>
-    <author>
-      <name>David L Mack</name>
-    </author>
-    <author>
-      <name>David Baker</name>
-    </author>
-    <author>
-      <name>Hannele Ruohola-Baker</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Authors: Riya Keshri; Zachary Foreman; Phillip Barrett; Alexander Robinson; Gabriela Reyes; Ashish Phal; Aditya KrishnaKumar; Ethan Narog; Melodie Chiu; Shruti Jain; Xinru Wang; David Lee; Marc Exposit; Mohamad Adedi; Alec St Smith; Sanjay Srivatsan; Jay Shendure; Julie Mathieu; David L Mack; David Baker; Hannele Ruohola-Baker&lt;/p&gt;
-&lt;p&gt;Sources: pubmed&lt;/p&gt;
-&lt;p&gt;Preprint date: 2026-04-27&lt;/p&gt;
-&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
-&lt;p&gt;Sarcopenia, loss of muscle mass is a considerable health burden that demands immediate societal attention. Direct myogenic somatic cell reprogramming, a potential muscle regeneration method is constrained by an inability to control the signaling logic that governs cell fate. Here, we show that this barrier can be overcome using AI-designed receptor modulators. Screening de novo minibinders, we identify a synthetic protein cocktail, C6-DPC, that drives efficient human fibroblast-to-muscle transdifferentiation with robust structural and metabolic maturation. C6-DPC reprograms extracellular signaling by activating pro-myogenic FGFR1/2c pathways while suppressing anti-myogenic inputs through ALK1 and TGFBR2; targeted depletion of ALK1 is sufficient to lower the reprogramming barrier. Inflammatory signaling via gp130 emerges as a dominant checkpoint, and its inhibition further enhances conversion. Engineered tissues generate high twitch and tetanic forces in both wild-type and dystrophin-deficient human cells. These findings demonstrate that programmable synthetic ligands can rewrite receptor-level signaling to direct cell fate and enable functional tissue regeneration.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.04.26.720818"&gt;pubmed (preprint) — DOI: 10.64898/2026.04.26.720818&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
