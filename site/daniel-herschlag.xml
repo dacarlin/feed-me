@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-11-09T19:47:26Z</updated>
+  <updated>2026-11-13T01:49:02Z</updated>
   <entry>
     <id>urn:uuid:549c333f-7164-59ed-aeac-18f2d08baa08</id>
     <title>Quantifying protein unfolding kinetics with a high-throughput microfluidic platform.</title>
@@ -68,6 +68,33 @@
 &lt;p&gt;The modular structure and energetics of RNA simplifies its folding. Leveraging this modularity, we introduce Rho ( ρ ) analysis to systematically dissect RNA conformational pathways. ρ analysis uses isolated RNA secondary or tertiary contacts as external standards to provide insights not possible via the &amp;quot;internal&amp;quot; comparisons of traditional ϕ analysis. Equivalent effects of a mutation on the folding rate constant of the RNA of interest and the thermodynamic stability of the isolated contact indicate that the mutated interaction is fully formed prior to the rate-limiting transition state; the absence of a kinetic effect indicates that the interaction is formed after this transition state. Comparisons with properties of the isolated contact provide additional insights about conformational pathways. We demonstrate ρ analysis by dissecting Tetrahymena group I intron folding pathways, using a split intron in which the P5abc subdomain assembles with the intron core through three tertiary contacts. We uncover multiple folding pathways and modulation in pathway flux that are readily understood from the energetic properties of the constituent RNA motifs. Extending these concepts to RNA-guided DNA recognition by CRISPR-Cas12a, crRNA-DNA mismatches give substantial ϕ values across much of the target, indicating a late transition state in binding. Thermodynamic penalties from mismatches support modular base-pairing energetics and define an upper bound on DNA target specificity. Our results establish ρ analysis as a general framework to probe RNA conformational pathways and function. It is straightforward to implement and can be readily applied in vitro and in cells.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.07.18.739347"&gt;pubmed (preprint) — DOI: 10.64898/2026.07.18.739347&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:ced80e46-fd85-57b6-a380-0f9d04ab04cb</id>
+    <title>Dissecting hydrogen bond energetics to answer the age-old question: "How much do hydrogen bonds contribute to enzymatic catalysis?".</title>
+    <published>2026-06-08T00:00:00Z</published>
+    <updated>2026-11-13T01:49:02Z</updated>
+    <link href="https://doi.org/10.1073/pnas.2534793123" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Margaux M Pinney</name>
+    </author>
+    <author>
+      <name>Corey Liu</name>
+    </author>
+    <author>
+      <name>Daniel Herschlag</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Margaux M Pinney; Corey Liu; Daniel Herschlag&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2026-06-08&lt;/p&gt;
+&lt;p&gt;Journal: Proceedings of the National Academy of Sciences of the United States of America&lt;/p&gt;
+&lt;p&gt;Enzymes are fundamental to life, providing the rapid reactions and specificity needed to sustain biological processes. While we have overcome the first major challenge in understanding enzymes-identifying their reaction mechanisms-the second major challenge of quantifying the contributions of each catalytic interaction and molecular mechanism remains largely unmet. In particular, hydrogen bonds are ubiquitous in enzyme active sites, yet their quantitative contributions to enzyme catalysis have remained a fundamental unresolved question. We first describe the limitations that prevent the assignment of hydrogen bond catalytic contributions from traditional approaches. These limitations are overcome by using linear free energy relationships (LFERs) to evaluate active site hydrogen bond energetics in a particularly amenable enzyme, ketosteroid isomerase (KSI). Multiple LFERs provide a consistent picture, suggesting that KSI&amp;#x27;s active site hydrogen bond donors, tyrosine and protonated aspartic acid side chains, contribute to catalysis because they are inherently stronger hydrogen bond donors than water molecules, the donors in the analogous nonenzymatic reaction. These LFERs also provide evidence against models that invoke distinct enzyme environments that enhance hydrogen bond energetics, relative to aqueous solution. Instead, the LFERs suggest multiple dipoles in the protein and solvent environment surrounding the active site accommodate transition state charge accumulation and provide hydrogen bond energetics similar to what is observed in protic solvents. The quantitative models from this and prior studies allow us to quantitatively estimate the catalytic contributions changes from hydrogen bonds. This model, applied to additional enzymes, will test its generality and help identify additional mechanisms that enzymes may use to enhance catalysis.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1073/pnas.2534793123"&gt;pubmed (published) — DOI: 10.1073/pnas.2534793123&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1073/pnas.2534793123"&gt;Published version — DOI: 10.1073/pnas.2534793123&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
