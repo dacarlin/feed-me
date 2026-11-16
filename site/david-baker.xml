@@ -7,7 +7,113 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-11-14T01:26:26Z</updated>
+  <updated>2026-11-16T19:34:51Z</updated>
+  <entry>
+    <id>urn:uuid:bc49fa2c-cb63-587b-ab52-893b6efa7a79</id>
+    <title>Bifunctional Phagocytic Synapse Enhancers Remodel the Tumor Microenvironment to Overcome Immunosuppression.</title>
+    <published>2026-09-04T00:00:00Z</published>
+    <updated>2026-11-16T19:34:51Z</updated>
+    <link href="https://doi.org/10.1158/0008-5472.can-25-5578" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Valerio Sabatino</name>
+    </author>
+    <author>
+      <name>Cong Tang</name>
+    </author>
+    <author>
+      <name>Rita C Acúrcio</name>
+    </author>
+    <author>
+      <name>Ana R Coelho</name>
+    </author>
+    <author>
+      <name>Felix M Müller</name>
+    </author>
+    <author>
+      <name>Márcia Fontes</name>
+    </author>
+    <author>
+      <name>Wei Ting Khaw</name>
+    </author>
+    <author>
+      <name>Carlos Labão-Almeida</name>
+    </author>
+    <author>
+      <name>Derrick R Hicks</name>
+    </author>
+    <author>
+      <name>Wei Yang</name>
+    </author>
+    <author>
+      <name>Aldrin Vasco Vidal</name>
+    </author>
+    <author>
+      <name>Irene Sarkar</name>
+    </author>
+    <author>
+      <name>Debarati Shome</name>
+    </author>
+    <author>
+      <name>Mar Cabeza-Cabrerizo</name>
+    </author>
+    <author>
+      <name>Theresa V Rohm</name>
+    </author>
+    <author>
+      <name>Silvan Fleisch</name>
+    </author>
+    <author>
+      <name>Alexandra Gerber</name>
+    </author>
+    <author>
+      <name>Sabrina A Hogan</name>
+    </author>
+    <author>
+      <name>Fiona Gerster</name>
+    </author>
+    <author>
+      <name>Deniz Kaymak</name>
+    </author>
+    <author>
+      <name>Stanislav Pantelyushin</name>
+    </author>
+    <author>
+      <name>Johannes Vom Berg</name>
+    </author>
+    <author>
+      <name>Lu Li</name>
+    </author>
+    <author>
+      <name>Rogier M Reijmers</name>
+    </author>
+    <author>
+      <name>Rita Fior</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Helena F Florindo</name>
+    </author>
+    <author>
+      <name>Gregor Hutter</name>
+    </author>
+    <author>
+      <name>Gonçalo J L Bernardes</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Valerio Sabatino; Cong Tang; Rita C Acúrcio; Ana R Coelho; Felix M Müller; Márcia Fontes; Wei Ting Khaw; Carlos Labão-Almeida; Derrick R Hicks; Wei Yang; Aldrin Vasco Vidal; Irene Sarkar; Debarati Shome; Mar Cabeza-Cabrerizo; Theresa V Rohm; Silvan Fleisch; Alexandra Gerber; Sabrina A Hogan; Fiona Gerster; Deniz Kaymak; Stanislav Pantelyushin; Johannes Vom Berg; Lu Li; Rogier M Reijmers; Rita Fior; David Baker; Helena F Florindo; Gregor Hutter; Gonçalo J L Bernardes&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2026-11-16&lt;/p&gt;
+&lt;p&gt;Journal: Cancer research&lt;/p&gt;
+&lt;p&gt;UNLABELLED: Current immunotherapies often fail in immunologically &amp;quot;cold,&amp;quot; macrophage-rich tumor microenvironments (TME). Multitargeting approaches that modulate innate-adaptive immune activation represent a promising frontier in cancer immunotherapy. In this study, we developed phagocytic synapse enhancers (PSE), a class of modular immune engagers comprising a high-affinity PD-L1 binder coupled to a macrophage-stimulating peptide, tuftsin. PSEs strengthened effector-target cell interactions and enhanced tumor phagocytosis by bridging tumor PD-L1 to macrophage neuropilin-1, bypassing the classic FcγR-dependent pathways. The PSEs also acted in cis on PD-L1+ macrophages, accelerating the endocytosis and lysosomal compartmentalization of surface PD-L1 and therefore stripping the immunosuppressive checkpoint from the local microenvironment. Beyond physical clearance, the PSEs reprogrammed macrophage phenotype and triggered a robust proinflammatory cytokine and chemokine response. The lead molecule, longPSE, and its half-life-extended variant fused to the albumin-binding domain, ABD-longPSE, showcased superior efficacy than the macrophage enhancer magrolimab in a syngeneic tumor model of colorectal cancer and an orthotopic model of pancreatic cancer. PSE treatment remodeled the TME by inducing phenotypic changes in the lymphoid and myeloid compartments, together with a reduction of tumor-associated macrophages and regulatory T cells. These findings establish PSEs as bifunctional molecules that complement innate and adaptive immune modulation. The bifunctional design offers a versatile approach for next-generation immunotherapies and provides a blueprint for a plug-and-play platform of immune engagers targeting diverse cancer-associated pathways.&lt;/p&gt;
+&lt;p&gt;SIGNIFICANCE: Bifunctional immune modulators that simultaneously boost phagocytosis and block immune checkpoints offer a versatile strategy to reprogram the tumor microenvironment and advance next-generation cancer immunotherapy.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1158/0008-5472.can-25-5578"&gt;pubmed (published) — DOI: 10.1158/0008-5472.can-25-5578&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1158/0008-5472.can-25-5578"&gt;Published version — DOI: 10.1158/0008-5472.can-25-5578&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
   <entry>
     <id>urn:uuid:66e03293-0487-5d55-bcbd-5b2a86ff1da9</id>
     <title>Designed Minibinders Rewire Receptor Signaling to Enable Functional Human Myogenic Reprogramming</title>
@@ -261,6 +367,53 @@
 &lt;p&gt;Rapid advances in protein design enable new approaches in adoptive cell therapy, but foreign proteins can elicit cytotoxic T cell responses, and hence there is considerable need for approaches which reduce immunogenicity without compromising protein function. Here, we develop a computational framework integrating structure-guided sequence design with MHC class I epitope prediction to efficiently tune protein immunogenicity while preserving function. Using a de novo-designed luciferase as a model, we demonstrate epitope elimination while preserving function across 5 common mouse alleles and extend our computational optimization to 25 common human MHC-I alleles. In mice immunized with mRNA-lipid nanoparticles, variants designed to have few MHC-I epitopes elicited little detectable CD8+ T cell response, whereas variants designed to include multiple epitopes induced robust responses. Together, these results demonstrate that the CD8+ T cell immunogenicity of designed proteins can be tuned while preserving function, opening the door to incorporation of designed proteins in a next generation of adoptive cell therapies.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.10.24.761497"&gt;pubmed (preprint) — DOI: 10.64898/2026.10.24.761497&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:350654f0-1c57-5e50-898c-9926cab87804</id>
+    <title>MYC targeted de novo binders impair tumor growth.</title>
+    <published>2026-10-22T00:00:00Z</published>
+    <updated>2026-11-16T19:34:51Z</updated>
+    <link href="https://doi.org/10.64898/2026.10.15.758618" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Nora K McNamara-Bordewick</name>
+    </author>
+    <author>
+      <name>Kejia Wu</name>
+    </author>
+    <author>
+      <name>Yulong Su</name>
+    </author>
+    <author>
+      <name>Assmaa ElSheikh</name>
+    </author>
+    <author>
+      <name>Xiaoyan Wang</name>
+    </author>
+    <author>
+      <name>Melissa Cunningham</name>
+    </author>
+    <author>
+      <name>Colin Daniel</name>
+    </author>
+    <author>
+      <name>Rosalie C Sears</name>
+    </author>
+    <author>
+      <name>Robert N Eisenman</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Nora K McNamara-Bordewick; Kejia Wu; Yulong Su; Assmaa ElSheikh; Xiaoyan Wang; Melissa Cunningham; Colin Daniel; Rosalie C Sears; Robert N Eisenman; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Preprint date: 2026-10-22&lt;/p&gt;
+&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
+&lt;p&gt;MYC is one of the most frequently dysregulated oncogenic drivers across many cancers, yet direct therapeutic targeting has remained difficult because its function is mediated by disordered regions and transient protein-protein interactions. Here we design proteins that bind epitopes within regions of MYC whose sequence is conserved between human and mouse, including intrinsically disordered motifs required for oncogenic activity. In vitro, the designs bind MYC with nanomolar affinity and in cells they engage MYC, disrupt interactions with MAX, and remodel MYC-associated protein complexes. Expression of the binders decreases cell proliferation across diverse MYC-dependent hematopoietic, liver, pancreatic, and patient-derived tumor models, and in an orthotopic pancreatic cancer model, binder-expressing tumor cells were selectively depleted. This work establishes de novo protein design as a generalizable strategy to therapeutically target intrinsically disordered transcription factors.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.10.15.758618"&gt;pubmed (preprint) — DOI: 10.64898/2026.10.15.758618&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
@@ -1537,111 +1690,6 @@
 &lt;p&gt;The ability of enzymes to sense signals and respond by changing their structure and activity underlies cellular processes from signaling to metabolic control. While there have been recent advances in the de novo design of enzymes and conformationally switching proteins, combining these to achieve allosteric regulation of enzymatic activity in a fully designed system remains an outstanding challenge. Here, we show that denoising diffusion models enable the design of compact de novo enzymes whose activity can be allosterically activated or repressed by designed protein effectors. Our results establish a general route to allosteric control over a wide range of catalytic and other protein functions.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.09.08.750245"&gt;biorxiv (preprint) — DOI: 10.64898/2026.09.08.750245&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <id>urn:uuid:bc49fa2c-cb63-587b-ab52-893b6efa7a79</id>
-    <title>Bifunctional Phagocytic Synapse Enhancers Remodel the Tumor Microenvironment to Overcome Immunosuppression.</title>
-    <published>2026-09-04T00:00:00Z</published>
-    <updated>2026-09-11T05:51:48Z</updated>
-    <link href="https://doi.org/10.1158/0008-5472.can-25-5578" rel="alternate" />
-    <category term="published" />
-    <author>
-      <name>Valerio Sabatino</name>
-    </author>
-    <author>
-      <name>Cong Tang</name>
-    </author>
-    <author>
-      <name>Rita C Acúrcio</name>
-    </author>
-    <author>
-      <name>Ana R Coelho</name>
-    </author>
-    <author>
-      <name>Felix M Müller</name>
-    </author>
-    <author>
-      <name>Márcia Fontes</name>
-    </author>
-    <author>
-      <name>Wei Ting Khaw</name>
-    </author>
-    <author>
-      <name>Carlos Labão-Almeida</name>
-    </author>
-    <author>
-      <name>Derrick R Hicks</name>
-    </author>
-    <author>
-      <name>Wei Yang</name>
-    </author>
-    <author>
-      <name>Aldrin Vasco Vidal</name>
-    </author>
-    <author>
-      <name>Irene Sarkar</name>
-    </author>
-    <author>
-      <name>Debarati Shome</name>
-    </author>
-    <author>
-      <name>Mar Cabeza-Cabrerizo</name>
-    </author>
-    <author>
-      <name>Theresa V Rohm</name>
-    </author>
-    <author>
-      <name>Silvan Fleisch</name>
-    </author>
-    <author>
-      <name>Alexandra Gerber</name>
-    </author>
-    <author>
-      <name>Sabrina A Hogan</name>
-    </author>
-    <author>
-      <name>Fiona Gerster</name>
-    </author>
-    <author>
-      <name>Deniz Kaymak</name>
-    </author>
-    <author>
-      <name>Stanislav Pantelyushin</name>
-    </author>
-    <author>
-      <name>Johannes Vom Berg</name>
-    </author>
-    <author>
-      <name>Lu Li</name>
-    </author>
-    <author>
-      <name>Rogier M Reijmers</name>
-    </author>
-    <author>
-      <name>Rita Fior</name>
-    </author>
-    <author>
-      <name>David Baker</name>
-    </author>
-    <author>
-      <name>Helena F Florindo</name>
-    </author>
-    <author>
-      <name>Gregor Hutter</name>
-    </author>
-    <author>
-      <name>Gonçalo J L Bernardes</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Authors: Valerio Sabatino; Cong Tang; Rita C Acúrcio; Ana R Coelho; Felix M Müller; Márcia Fontes; Wei Ting Khaw; Carlos Labão-Almeida; Derrick R Hicks; Wei Yang; Aldrin Vasco Vidal; Irene Sarkar; Debarati Shome; Mar Cabeza-Cabrerizo; Theresa V Rohm; Silvan Fleisch; Alexandra Gerber; Sabrina A Hogan; Fiona Gerster; Deniz Kaymak; Stanislav Pantelyushin; Johannes Vom Berg; Lu Li; Rogier M Reijmers; Rita Fior; David Baker; Helena F Florindo; Gregor Hutter; Gonçalo J L Bernardes&lt;/p&gt;
-&lt;p&gt;Sources: pubmed&lt;/p&gt;
-&lt;p&gt;Publication date: 2026-09-04&lt;/p&gt;
-&lt;p&gt;Journal: Cancer research&lt;/p&gt;
-&lt;p&gt;Current immunotherapies often fail in immunologically &amp;quot;cold&amp;quot;, macrophage-rich tumor microenvironments (TMEs). Multi-targeting approaches that modulate innate-adaptive immune activation represent a promising frontier in cancer immunotherapy. Here, we developed phagocytic synapse enhancers (PSEs), a class of modular immune engagers comprising a high-affinity PD-L1 binder coupled to a macrophage-stimulating peptide, tuftsin. PSEs strengthened effector-target cell interactions and enhanced tumor phagocytosis by bridging tumor PD-L1 to macrophage neuropilin-1 (NRP1), bypassing the classical FcγR-dependent pathways. The PSEs also acted in cis on PD-L1+ macrophages, accelerating the endocytosis and lysosomal compartmentalization of surface PD-L1, therefore stripping the immunosuppressive checkpoint from the local microenvironment. Beyond physical clearance, PSEs reprogrammed macrophage phenotype and triggered a robust pro-inflammatory cytokine and chemokine response. The lead molecule, longPSE, and its half-life-extended variant fused to the albumin binding domain, ABD- longPSE, showcased superior efficacy than the macrophage enhancer magrolimab in a syngeneic tumor model of colorectal cancer and an orthotopic model of pancreatic cancer. PSE treatment remodeled the TME by inducing phenotypic changes in the lymphoid and myeloid compartments, together with a reduction of tumor-associated macrophages and regulatory T cells. These findings establish PSEs as bifunctional molecules that complement innate and adaptive immune modulation. The bifunctional design offers a versatile approach for next-generation immunotherapies and provides a blueprint for a plug-and-play platform of immune engagers targeting diverse cancer-associated pathways.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://doi.org/10.1158/0008-5472.can-25-5578"&gt;pubmed (published) — DOI: 10.1158/0008-5472.can-25-5578&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://doi.org/10.1158/0008-5472.can-25-5578"&gt;Published version — DOI: 10.1158/0008-5472.can-25-5578&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>

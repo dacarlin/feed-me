@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-11-16T06:25:04Z",
+      "last_success": "2026-11-16T19:34:51Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-11-16T06:25:04Z",
+      "last_success": "2026-11-16T19:34:51Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-11-16T06:25:04Z",
+      "last_success": "2026-11-16T19:34:51Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -236,7 +236,8 @@
     "pubmed:43003839": "2026-11-10T21:17:04Z",
     "pubmed:40894640": "2026-11-12T11:03:17Z",
     "pubmed:42258711": "2026-11-13T01:49:02Z",
-    "biorxiv:10.64898/2026.04.26.720818": "2026-11-13T19:39:42Z"
+    "biorxiv:10.64898/2026.04.26.720818": "2026-11-13T19:39:42Z",
+    "pubmed:42995841": "2026-11-16T19:34:51Z"
   },
   "works": {
     "urn:uuid:7f477453-6c38-52e7-b591-accb9b0e6576": {
@@ -1045,7 +1046,7 @@
     "urn:uuid:bc49fa2c-cb63-587b-ab52-893b6efa7a79": {
       "id": "urn:uuid:bc49fa2c-cb63-587b-ab52-893b6efa7a79",
       "first_seen": "2026-09-11T05:51:48Z",
-      "updated": "2026-09-11T05:51:48Z",
+      "updated": "2026-11-16T19:34:51Z",
       "records": {
         "pubmed:42696459": {
           "source": "pubmed",
@@ -1055,6 +1056,8 @@
             {
               "name": "Valerio Sabatino",
               "affiliations": [
+                "Yusuf Hamied Department of Chemistry, University of Cambridge, Cambridge, United Kingdom.",
+                "Department of Biomedicine, Basel University Hospital, Basel, Switzerland.",
                 "University of Cambridge Cambridge United Kingdom."
               ],
               "orcid": "0000-0002-0424-813X"
@@ -1062,6 +1065,7 @@
             {
               "name": "Cong Tang",
               "affiliations": [
+                "Gulbenkian Institute for Molecular Medicine, Lisbon, Portugal.",
                 "Gulbenkian Institute for Molecular Medicine Portugal."
               ],
               "orcid": "0000-0003-1661-6793"
@@ -1069,6 +1073,7 @@
             {
               "name": "Rita C Acúrcio",
               "affiliations": [
+                "Research Institute for Medicines (iMed.ULisboa), Faculty of Pharmacy Universidade de Lisboa, Lisbon, Portugal.",
                 "University of Lisbon Lisbon Portugal."
               ],
               "orcid": "0000-0003-3412-1903"
@@ -1076,6 +1081,7 @@
             {
               "name": "Ana R Coelho",
               "affiliations": [
+                "Gulbenkian Institute for Molecular Medicine, Lisbon, Portugal.",
                 "Gulbenkian Institute for Molecular Medicine Lisbon Portugal."
               ],
               "orcid": "0000-0002-0965-7573"
@@ -1083,6 +1089,7 @@
             {
               "name": "Felix M Müller",
               "affiliations": [
+                "Yusuf Hamied Department of Chemistry, University of Cambridge, Cambridge, United Kingdom.",
                 "University of Cambridge Cambridge United Kingdom."
               ],
               "orcid": "0000-0003-2712-8832"
@@ -1090,6 +1097,7 @@
             {
               "name": "Márcia Fontes",
               "affiliations": [
+                "Champalimaud Centre for the Unknown, Champalimaud Foundation, Lisbon, Portugal.",
                 "Champalimaud Foundation Lisbon Portugal."
               ],
               "orcid": "0009-0006-5397-2550"
@@ -1097,6 +1105,7 @@
             {
               "name": "Wei Ting Khaw",
               "affiliations": [
+                "Yusuf Hamied Department of Chemistry, University of Cambridge, Cambridge, United Kingdom.",
                 "University of Cambridge Cambridge United Kingdom."
               ],
               "orcid": "0009-0006-5101-341X"
@@ -1104,6 +1113,8 @@
             {
               "name": "Carlos Labão-Almeida",
               "affiliations": [
+                "Gulbenkian Institute for Molecular Medicine, Lisbon, Portugal.",
+                "Translational Chemical Biology Group, Spanish National Cancer Research Centre 26 (CNIO), Madrid, Spain.",
                 "Gulbenkian Institute for Molecular Medicine Portugal."
               ],
               "orcid": "0000-0002-7797-3797"
@@ -1111,6 +1122,8 @@
             {
               "name": "Derrick R Hicks",
               "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, Washington.",
+                "Institute for Protein Design, University of Washington, Seattle, Washington.",
                 "University of Washington United States."
               ],
               "orcid": "0000-0003-2950-1848"
@@ -1118,6 +1131,8 @@
             {
               "name": "Wei Yang",
               "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, Washington.",
+                "Institute for Protein Design, University of Washington, Seattle, Washington.",
                 "University of Washington United States."
               ],
               "orcid": "0000-0003-0637-6327"
@@ -1125,6 +1140,8 @@
             {
               "name": "Aldrin Vasco Vidal",
               "affiliations": [
+                "Yusuf Hamied Department of Chemistry, University of Cambridge, Cambridge, United Kingdom.",
+                "Translational Chemical Biology Group, Spanish National Cancer Research Centre 26 (CNIO), Madrid, Spain.",
                 "University of Cambridge Cambridge United Kingdom."
               ],
               "orcid": "0000-0003-1539-1721"
@@ -1132,6 +1149,7 @@
             {
               "name": "Irene Sarkar",
               "affiliations": [
+                "Lumicks, Amsterdam, Netherlands.",
                 "Lumicks Amsterdam Netherlands."
               ],
               "orcid": "0009-0006-7349-9502"
@@ -1139,6 +1157,7 @@
             {
               "name": "Debarati Shome",
               "affiliations": [
+                "Lumicks, Amsterdam, Netherlands.",
                 "Lumicks Netherlands."
               ],
               "orcid": "0009-0007-3724-8746"
@@ -1146,6 +1165,7 @@
             {
               "name": "Mar Cabeza-Cabrerizo",
               "affiliations": [
+                "Yusuf Hamied Department of Chemistry, University of Cambridge, Cambridge, United Kingdom.",
                 "University of Cambridge Cambridge United Kingdom."
               ],
               "orcid": "0000-0001-9061-058X"
@@ -1153,6 +1173,7 @@
             {
               "name": "Theresa V Rohm",
               "affiliations": [
+                "Division of Endocrinology and Metabolism, Department of Medicine, University of California, San Diego, La Jolla, California.",
                 "University of California San Diego United States."
               ],
               "orcid": "0000-0001-8498-1018"
@@ -1160,6 +1181,7 @@
             {
               "name": "Silvan Fleisch",
               "affiliations": [
+                "Department of Biomedicine, Basel University Hospital, Basel, Switzerland.",
                 "University Hospital of Basel Basel Switzerland."
               ],
               "orcid": "0009-0005-7946-2340"
@@ -1167,6 +1189,7 @@
             {
               "name": "Alexandra Gerber",
               "affiliations": [
+                "Department of Biomedicine, Basel University Hospital, Basel, Switzerland.",
                 "University Hospital of Basel Basel Switzerland."
               ],
               "orcid": "0009-0007-1761-0170"
@@ -1174,6 +1197,7 @@
             {
               "name": "Sabrina A Hogan",
               "affiliations": [
+                "Department of Biomedicine, Basel University Hospital, Basel, Switzerland.",
                 "University Hospital of Basel Basel Switzerland."
               ],
               "orcid": "0000-0003-3994-8109"
@@ -1181,6 +1205,7 @@
             {
               "name": "Fiona Gerster",
               "affiliations": [
+                "Department of Biomedicine, Basel University Hospital, Basel, Switzerland.",
                 "University Hospital of Basel Basel Switzerland."
               ],
               "orcid": "0009-0000-6975-6517"
@@ -1188,6 +1213,7 @@
             {
               "name": "Deniz Kaymak",
               "affiliations": [
+                "Department of Biomedicine, Basel University Hospital, Basel, Switzerland.",
                 "University Hospital of Basel Basel Switzerland."
               ],
               "orcid": "0000-0002-0233-3453"
@@ -1195,6 +1221,7 @@
             {
               "name": "Stanislav Pantelyushin",
               "affiliations": [
+                "Institute of Laboratory Animal Science, University of Zurich, Zürich, Switzerland.",
                 "University of Zurich Schlieren Switzerland."
               ],
               "orcid": "0000-0002-3490-3860"
@@ -1202,6 +1229,7 @@
             {
               "name": "Johannes Vom Berg",
               "affiliations": [
+                "Institute of Laboratory Animal Science, University of Zurich, Zürich, Switzerland.",
                 "University of Zurich Schlieren Switzerland."
               ],
               "orcid": "0000-0002-4086-1564"
@@ -1209,6 +1237,7 @@
             {
               "name": "Lu Li",
               "affiliations": [
+                "Gator Bio, Inc., Shanghai, China.",
                 "Gator Bio Shanghai China."
               ],
               "orcid": "0009-0007-7571-4998"
@@ -1216,6 +1245,7 @@
             {
               "name": "Rogier M Reijmers",
               "affiliations": [
+                "Lumicks, Amsterdam, Netherlands.",
                 "Lumicks Amsterdam Netherlands."
               ],
               "orcid": "0000-0001-7471-7715"
@@ -1223,6 +1253,7 @@
             {
               "name": "Rita Fior",
               "affiliations": [
+                "Champalimaud Centre for the Unknown, Champalimaud Foundation, Lisbon, Portugal.",
                 "Champalimaud Foundation Lisbon Portugal."
               ],
               "orcid": "0000-0001-5550-2428"
@@ -1230,6 +1261,9 @@
             {
               "name": "David Baker",
               "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, Washington.",
+                "Institute for Protein Design, University of Washington, Seattle, Washington.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, Washington.",
                 "University of Washington Seattle, Washington United States."
               ],
               "orcid": "0000-0001-7896-6217"
@@ -1237,6 +1271,7 @@
             {
               "name": "Helena F Florindo",
               "affiliations": [
+                "Research Institute for Medicines (iMed.ULisboa), Faculty of Pharmacy Universidade de Lisboa, Lisbon, Portugal.",
                 "University of Lisbon Lisbon, Portugal Portugal."
               ],
               "orcid": "0000-0002-4006-5840"
@@ -1244,6 +1279,7 @@
             {
               "name": "Gregor Hutter",
               "affiliations": [
+                "Department of Biomedicine, Basel University Hospital, Basel, Switzerland.",
                 "University Hospital of Basel Basel Switzerland."
               ],
               "orcid": "0000-0002-7570-3902"
@@ -1251,13 +1287,15 @@
             {
               "name": "Gonçalo J L Bernardes",
               "affiliations": [
+                "Yusuf Hamied Department of Chemistry, University of Cambridge, Cambridge, United Kingdom.",
+                "Translational Chemical Biology Group, Spanish National Cancer Research Centre 26 (CNIO), Madrid, Spain.",
                 "University of Cambridge Cambridge United Kingdom."
               ],
               "orcid": "0000-0001-6594-8917"
             }
           ],
-          "abstract": "Current immunotherapies often fail in immunologically \"cold\", macrophage-rich tumor microenvironments (TMEs). Multi-targeting approaches that modulate innate-adaptive immune activation represent a promising frontier in cancer immunotherapy. Here, we developed phagocytic synapse enhancers (PSEs), a class of modular immune engagers comprising a high-affinity PD-L1 binder coupled to a macrophage-stimulating peptide, tuftsin. PSEs strengthened effector-target cell interactions and enhanced tumor phagocytosis by bridging tumor PD-L1 to macrophage neuropilin-1 (NRP1), bypassing the classical FcγR-dependent pathways. The PSEs also acted in cis on PD-L1+ macrophages, accelerating the endocytosis and lysosomal compartmentalization of surface PD-L1, therefore stripping the immunosuppressive checkpoint from the local microenvironment. Beyond physical clearance, PSEs reprogrammed macrophage phenotype and triggered a robust pro-inflammatory cytokine and chemokine response. The lead molecule, longPSE, and its half-life-extended variant fused to the albumin binding domain, ABD- longPSE, showcased superior efficacy than the macrophage enhancer magrolimab in a syngeneic tumor model of colorectal cancer and an orthotopic model of pancreatic cancer. PSE treatment remodeled the TME by inducing phenotypic changes in the lymphoid and myeloid compartments, together with a reduction of tumor-associated macrophages and regulatory T cells. These findings establish PSEs as bifunctional molecules that complement innate and adaptive immune modulation. The bifunctional design offers a versatile approach for next-generation immunotherapies and provides a blueprint for a plug-and-play platform of immune engagers targeting diverse cancer-associated pathways.",
-          "date": "2026-09-04",
+          "abstract": "UNLABELLED: Current immunotherapies often fail in immunologically \"cold,\" macrophage-rich tumor microenvironments (TME). Multitargeting approaches that modulate innate-adaptive immune activation represent a promising frontier in cancer immunotherapy. In this study, we developed phagocytic synapse enhancers (PSE), a class of modular immune engagers comprising a high-affinity PD-L1 binder coupled to a macrophage-stimulating peptide, tuftsin. PSEs strengthened effector-target cell interactions and enhanced tumor phagocytosis by bridging tumor PD-L1 to macrophage neuropilin-1, bypassing the classic FcγR-dependent pathways. The PSEs also acted in cis on PD-L1+ macrophages, accelerating the endocytosis and lysosomal compartmentalization of surface PD-L1 and therefore stripping the immunosuppressive checkpoint from the local microenvironment. Beyond physical clearance, the PSEs reprogrammed macrophage phenotype and triggered a robust proinflammatory cytokine and chemokine response. The lead molecule, longPSE, and its half-life-extended variant fused to the albumin-binding domain, ABD-longPSE, showcased superior efficacy than the macrophage enhancer magrolimab in a syngeneic tumor model of colorectal cancer and an orthotopic model of pancreatic cancer. PSE treatment remodeled the TME by inducing phenotypic changes in the lymphoid and myeloid compartments, together with a reduction of tumor-associated macrophages and regulatory T cells. These findings establish PSEs as bifunctional molecules that complement innate and adaptive immune modulation. The bifunctional design offers a versatile approach for next-generation immunotherapies and provides a blueprint for a plug-and-play platform of immune engagers targeting diverse cancer-associated pathways.\n\nSIGNIFICANCE: Bifunctional immune modulators that simultaneously boost phagocytosis and block immune checkpoints offer a versatile strategy to reprogram the tumor microenvironment and advance next-generation cancer immunotherapy.",
+          "date": "2026-11-16",
           "url": "https://doi.org/10.1158/0008-5472.can-25-5578",
           "doi": "10.1158/0008-5472.can-25-5578",
           "status": "published",
@@ -1289,6 +1327,16 @@
           "record": "pubmed:42696459",
           "method": "new_work",
           "reason": "no existing work"
+        },
+        {
+          "record": "pubmed:42696459",
+          "rank": 3,
+          "method": "shared_identifier",
+          "identifiers": [
+            "doi:10.1158/0008-5472.can-25-5578",
+            "pubmed:42696459"
+          ],
+          "matched_record": "pubmed:42696459"
         }
       ],
       "published": "2026-09-04T00:00:00Z"
@@ -41019,12 +41067,262 @@
         }
       ],
       "published": "2026-06-08T00:00:00Z"
+    },
+    "urn:uuid:350654f0-1c57-5e50-898c-9926cab87804": {
+      "id": "urn:uuid:350654f0-1c57-5e50-898c-9926cab87804",
+      "first_seen": "2026-11-16T19:34:51Z",
+      "updated": "2026-11-16T19:34:51Z",
+      "records": {
+        "pubmed:42995841": {
+          "source": "pubmed",
+          "source_id": "42995841",
+          "title": "MYC targeted de novo binders impair tumor growth.",
+          "authors": [
+            {
+              "name": "Nora K McNamara-Bordewick",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0003-4747-0627"
+            },
+            {
+              "name": "Kejia Wu",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Yulong Su",
+              "affiliations": [
+                "Division of Human Biology, Fred Hutchinson Cancer Center, Seattle, WA, USA.",
+                "Division of Basic Sciences, Fred Hutchinson Cancer Center, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Assmaa ElSheikh",
+              "affiliations": [
+                "Department of Molecular and Medical Genetics, Oregon Health & Science University, Portland, OR, USA.",
+                "Department of Surgery, Oregon Health & Science University, Portland, OR, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Xiaoyan Wang",
+              "affiliations": [
+                "Department of Molecular and Medical Genetics, Oregon Health & Science University, Portland, OR, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Melissa Cunningham",
+              "affiliations": [
+                "Department of Molecular and Medical Genetics, Oregon Health & Science University, Portland, OR, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Colin Daniel",
+              "affiliations": [
+                "Department of Molecular and Medical Genetics, Oregon Health & Science University, Portland, OR, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Rosalie C Sears",
+              "affiliations": [
+                "Department of Molecular and Medical Genetics, Oregon Health & Science University, Portland, OR, USA.",
+                "Brenden-Colson Center for Pancreatic Care, Oregon Health & Science University, Portland, OR, USA.",
+                "Knight Cancer Institute, Oregon Health & Science University, Portland, OR, USA."
+              ],
+              "orcid": "0000-0003-1558-2413"
+            },
+            {
+              "name": "Robert N Eisenman",
+              "affiliations": [
+                "Division of Basic Sciences, Fred Hutchinson Cancer Center, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-0274-9846"
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            }
+          ],
+          "abstract": "MYC is one of the most frequently dysregulated oncogenic drivers across many cancers, yet direct therapeutic targeting has remained difficult because its function is mediated by disordered regions and transient protein-protein interactions. Here we design proteins that bind epitopes within regions of MYC whose sequence is conserved between human and mouse, including intrinsically disordered motifs required for oncogenic activity. In vitro, the designs bind MYC with nanomolar affinity and in cells they engage MYC, disrupt interactions with MAX, and remodel MYC-associated protein complexes. Expression of the binders decreases cell proliferation across diverse MYC-dependent hematopoietic, liver, pancreatic, and patient-derived tumor models, and in an orthotopic pancreatic cancer model, binder-expressing tumor cells were selectively depleted. This work establishes de novo protein design as a generalizable strategy to therapeutically target intrinsically disordered transcription factors.",
+          "date": "2026-10-22",
+          "url": "https://doi.org/10.64898/2026.10.15.758618",
+          "doi": "10.64898/2026.10.15.758618",
+          "status": "preprint",
+          "journal": "bioRxiv : the preprint server for biology",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC13738422"
+          ],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:42995841",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "name_and_affiliations",
+                "affiliations": [
+                  "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                  "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                  "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+                ],
+                "matched_affiliations": [
+                  "Institute for Protein Design",
+                  "University of Washington",
+                  "Department of Biochemistry"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:42995841",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2026-10-22T00:00:00Z"
     }
   },
   "aliases": {
     "urn:uuid:4b3d262c-d759-5ebd-a82d-a7a91bd68fad": "urn:uuid:9e012682-4c6a-50a3-b187-e8ed207714b5"
   },
   "rejected": {
+    "biorxiv:10.64898/2026.11.12.766315": {
+      "first_seen": "2026-11-16T19:34:51Z",
+      "record": {
+        "source": "biorxiv",
+        "source_id": "10.64898/2026.11.12.766315",
+        "title": "De Novo Design of C-H Hydroxylation Enzymes with Programmed Selectivities",
+        "authors": [
+          {
+            "name": "Kalvet, I.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Jeung, J.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Gao, S.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Andrews, A. C.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Wenke, B.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Smithson, R.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Mendoza, J.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Nguyen, H.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Joyce, E.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Kang, A.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Bera, A. K.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Green, A. P.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Baker, D.",
+            "affiliations": [
+              "University of Washington, Howard Hughes Medical Institute"
+            ],
+            "orcid": null
+          }
+        ],
+        "abstract": "The ability to precisely functionalize individual C-H bonds in complex organic molecules would transform synthetic strategies to produce essential chemicals. In nature, C-H oxidations are commonly achieved using metalloenzymes such as cytochrome P450s, however adapting these systems to achieve selective conversions of complex substrates requires extensive enzyme discovery and engineering campaigns. Here we show that selective C-H oxidation biocatalysts can be programmed computationally from minimal structural inputs comprising a Cys-ligated heme cofactor, catalytic side chains required for H2O2 activation and heterolysis, and the target substrate precisely positioned adjacent to the resulting ferryl intermediate (Compound I). We designed heme hydroxylases for increasingly complex substrates, progressing from aromatic and aliphatic oxidations of fluorogenic model compounds to regiodivergent oxidation of estradiol at either the benzylic C6 (93% d.e.) or unactivated C16 (99% d.e.) positions. Crystal structures across all campaigns confirm the accuracy of the design pipeline. Together, these results establish a general framework for constructing selective heme hydroxylases around predefined substrates and reaction geometries, providing a path toward custom biocatalysts for site-selective C-H functionalizations.",
+        "date": "2026-11-16",
+        "url": "https://doi.org/10.64898/2026.11.12.766315",
+        "doi": "10.64898/2026.11.12.766315",
+        "status": "preprint",
+        "journal": "",
+        "version": "1",
+        "publication_date": "",
+        "identifiers": [],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "Baker, D.",
+              "method": "rejected",
+              "affiliations": [
+                "University of Washington, Howard Hughes Medical Institute"
+              ],
+              "matched_affiliations": [
+                "University of Washington"
+              ],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
     "biorxiv:10.64898/2026.11.08.765184": {
       "first_seen": "2026-11-11T19:33:59Z",
       "record": {
@@ -42701,100 +42999,6 @@
               "reason": "insufficient author-scoped affiliation evidence"
             }
           ]
-        }
-      },
-      "deduplication": [],
-      "reason": "no strong identity evidence or link to an identified work"
-    },
-    "pubmed:42995841": {
-      "first_seen": "2026-11-08T10:18:08Z",
-      "record": {
-        "source": "pubmed",
-        "source_id": "42995841",
-        "title": "MYC targeted de novo binders impair tumor growth.",
-        "authors": [
-          {
-            "name": "Nora K McNamara-Bordewick",
-            "affiliations": [],
-            "orcid": "0000-0003-4747-0627"
-          },
-          {
-            "name": "Kejia Wu",
-            "affiliations": [],
-            "orcid": null
-          },
-          {
-            "name": "Yulong Su",
-            "affiliations": [],
-            "orcid": null
-          },
-          {
-            "name": "Assmaa ElSheikh",
-            "affiliations": [],
-            "orcid": null
-          },
-          {
-            "name": "Xiaoyan Wang",
-            "affiliations": [],
-            "orcid": null
-          },
-          {
-            "name": "Melissa Cunningham",
-            "affiliations": [],
-            "orcid": null
-          },
-          {
-            "name": "Colin Daniel",
-            "affiliations": [],
-            "orcid": null
-          },
-          {
-            "name": "Rosalie C Sears",
-            "affiliations": [],
-            "orcid": "0000-0003-1558-2413"
-          },
-          {
-            "name": "Robert N Eisenman",
-            "affiliations": [],
-            "orcid": "0000-0002-0274-9846"
-          },
-          {
-            "name": "David Baker",
-            "affiliations": [],
-            "orcid": null
-          }
-        ],
-        "abstract": "UNLABELLED: MYC is one of the most frequently dysregulated oncogenic drivers across many cancers, yet direct therapeutic targeting has remained difficult because its function is mediated by disordered regions and transient protein-protein interactions. Here we design proteins that bind epitopes within regions of MYC whose sequence is conserved between human and mouse, including intrinsically disordered motifs required for oncogenic activity. In vitro, the designs bind MYC with nanomolar affinity and in cells they engage MYC, disrupt interactions with MAX, and remodel MYC-associated protein complexes. Expression of the binders decreases cell proliferation across diverse MYC-dependent hematopoietic, liver, pancreatic, and patient-derived tumor models, and in an orthotopic pancreatic cancer model, binder-expressing tumor cells were selectively depleted. This work establishes de novo protein design as a generalizable strategy to therapeutically target intrinsically disordered transcription factors.\n\nONE-SENTENCE SUMMARY: We developed a panel of de novo designed intracellular protein binders that target conserved functional regions of MYC with nanomolar affinity, remodel MYC complexes and interaction networks in cells, suppress proliferation across MYC-dependent cancer models, and are depleted from orthotopic pancreatic tumors in vivo.",
-        "date": "2026-10-22",
-        "url": "https://doi.org/10.64898/2026.10.15.758618",
-        "doi": "10.64898/2026.10.15.758618",
-        "status": "preprint",
-        "journal": "bioRxiv : the preprint server for biology",
-        "version": "",
-        "publication_date": "",
-        "identifiers": [
-          "pmc:PMC13738422"
-        ],
-        "relations": []
-      },
-      "identity": {
-        "david-baker": {
-          "matched": false,
-          "reason": "identity not established",
-          "evidence": [
-            {
-              "author": "David Baker",
-              "method": "rejected",
-              "affiliations": [],
-              "matched_affiliations": [],
-              "reason": "insufficient author-scoped affiliation evidence"
-            }
-          ]
-        },
-        "daniel-herschlag": {
-          "matched": false,
-          "reason": "identity not established",
-          "evidence": []
         }
       },
       "deduplication": [],
@@ -51262,7 +51466,9 @@
         "journal": "Journal of interventional cardiac electrophysiology : an international journal of arrhythmias and pacing",
         "version": "",
         "publication_date": "",
-        "identifiers": [],
+        "identifiers": [
+          "pmc:PMC13769693"
+        ],
         "relations": []
       },
       "identity": {
