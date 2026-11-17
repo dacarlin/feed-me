@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-11-17T03:51:00Z",
+      "last_success": "2026-11-17T15:57:51Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-11-17T03:51:00Z",
+      "last_success": "2026-11-17T15:57:51Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-11-17T03:51:00Z",
+      "last_success": "2026-11-17T15:57:51Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -1046,7 +1046,7 @@
     "urn:uuid:bc49fa2c-cb63-587b-ab52-893b6efa7a79": {
       "id": "urn:uuid:bc49fa2c-cb63-587b-ab52-893b6efa7a79",
       "first_seen": "2026-09-11T05:51:48Z",
-      "updated": "2026-11-16T19:34:51Z",
+      "updated": "2026-11-17T15:57:51Z",
       "records": {
         "pubmed:42696459": {
           "source": "pubmed",
@@ -1302,7 +1302,9 @@
           "journal": "Cancer research",
           "version": "",
           "publication_date": "",
-          "identifiers": [],
+          "identifiers": [
+            "pmc:PMC13771614"
+          ],
           "relations": []
         }
       },
@@ -17234,7 +17236,7 @@
     "urn:uuid:d9c869ba-c709-5c1a-8aac-288b447ba30d": {
       "id": "urn:uuid:d9c869ba-c709-5c1a-8aac-288b447ba30d",
       "first_seen": "2026-09-18T20:53:28Z",
-      "updated": "2026-09-18T20:53:28Z",
+      "updated": "2026-11-17T15:57:51Z",
       "records": {
         "pubmed:41282098": {
           "source": "pubmed",
@@ -17463,13 +17465,549 @@
           "identifiers": [
             "pmc:PMC12637805"
           ],
-          "relations": []
+          "relations": [
+            {
+              "kind": "is_preprint_of",
+              "target": "pubmed:43003839",
+              "evidence": "PubMed preprint UpdateIn"
+            }
+          ]
+        },
+        "pubmed:43003839": {
+          "source": "pubmed",
+          "source_id": "43003839",
+          "title": "De novo design of miniprotein inhibitors of bacterial adhesins.",
+          "authors": [
+            {
+              "name": "Adam M Chazin-Gray",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Molecular Engineering Graduate Program, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Tuscan R Thompson",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Graduate Program in Biological Physics, Structure and Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Edward D B Lopatto",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Department of Molecular Microbiology, Washington University in St. Louis, St. Louis, MO, USA.",
+                "Center for Women's Infectious Disease Research, Washington University in St. Louis, St. Louis, MO, USA."
+              ],
+              "orcid": "0000-0002-6625-6143"
+            },
+            {
+              "name": "Pearl Magala",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Patrick W Erickson",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Andrew C Hunt",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-9620-593X"
+            },
+            {
+              "name": "Anna Manchenko",
+              "affiliations": [
+                "Department of Microbiology, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-5982-4504"
+            },
+            {
+              "name": "Pavel Aprikian",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Veronika Tchesnokova",
+              "affiliations": [
+                "Department of Microbiology, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-4235-5796"
+            },
+            {
+              "name": "Irina Basova",
+              "affiliations": [
+                "Department of Microbiology, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Denise A Sanick",
+              "affiliations": [
+                "Department of Molecular Microbiology, Washington University in St. Louis, St. Louis, MO, USA.",
+                "Center for Women's Infectious Disease Research, Washington University in St. Louis, St. Louis, MO, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Kevin O Tamadonfar",
+              "affiliations": [
+                "Department of Molecular Microbiology, Washington University in St. Louis, St. Louis, MO, USA.",
+                "Center for Women's Infectious Disease Research, Washington University in St. Louis, St. Louis, MO, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Morgan R Timm",
+              "affiliations": [
+                "Department of Molecular Microbiology, Washington University in St. Louis, St. Louis, MO, USA.",
+                "Center for Women's Infectious Disease Research, Washington University in St. Louis, St. Louis, MO, USA."
+              ],
+              "orcid": "0000-0002-2947-9508"
+            },
+            {
+              "name": "Jerome S Pinkner",
+              "affiliations": [
+                "Department of Molecular Microbiology, Washington University in St. Louis, St. Louis, MO, USA.",
+                "Center for Women's Infectious Disease Research, Washington University in St. Louis, St. Louis, MO, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Karen W Dodson",
+              "affiliations": [
+                "Department of Molecular Microbiology, Washington University in St. Louis, St. Louis, MO, USA.",
+                "Center for Women's Infectious Disease Research, Washington University in St. Louis, St. Louis, MO, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Alex Kang",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-5487-0499"
+            },
+            {
+              "name": "Emily Joyce",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0009-0007-3230-1341"
+            },
+            {
+              "name": "Asim K Bera",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-9473-2912"
+            },
+            {
+              "name": "Aaron J Schmitz",
+              "affiliations": [
+                "Department of Pathology and Immunology, Washington University School of Medicine, St. Louis, MO, USA."
+              ],
+              "orcid": "0000-0002-8077-6751"
+            },
+            {
+              "name": "Ali H Ellebedy",
+              "affiliations": [
+                "Department of Pathology and Immunology, Washington University School of Medicine, St. Louis, MO, USA."
+              ],
+              "orcid": "0000-0002-6129-2532"
+            },
+            {
+              "name": "Kelli L Hvorecny",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-4609-6170"
+            },
+            {
+              "name": "Gianluca Interlandi",
+              "affiliations": [
+                "Department of Bioengineering, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Mark J Cartwright",
+              "affiliations": [
+                "Wyss Institute, Harvard University, Boston, MA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Andyna Vernet",
+              "affiliations": [
+                "Wyss Institute, Harvard University, Boston, MA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Sarai Bardales",
+              "affiliations": [
+                "Wyss Institute, Harvard University, Boston, MA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Desmond White",
+              "affiliations": [
+                "Wyss Institute, Harvard University, Boston, MA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Rachel E Klevit",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-3476-969X"
+            },
+            {
+              "name": "Evgeni V Sokurenko",
+              "affiliations": [
+                "Department of Microbiology, University of Washington, Seattle, WA, USA. evs@uw.edu."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Scott J Hultgren",
+              "affiliations": [
+                "Department of Molecular Microbiology, Washington University in St. Louis, St. Louis, MO, USA. hultgren@wustl.edu.",
+                "Center for Women's Infectious Disease Research, Washington University in St. Louis, St. Louis, MO, USA. hultgren@wustl.edu."
+              ],
+              "orcid": "0000-0001-8785-564X"
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA. dabaker@uw.edu.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA. dabaker@uw.edu.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA. dabaker@uw.edu."
+              ],
+              "orcid": "0000-0001-7896-6217"
+            }
+          ],
+          "abstract": "The rise of multidrug-resistant bacterial infections necessitates the discovery of novel antimicrobial strategies. Here, we show that protein design provides a generalizable means of generating new antimicrobials by neutralizing the function of bacterial adhesins, which are virulence factors critical in host-pathogen interactions. We de novo designed high-affinity miniprotein binders to FimH and Abp chaperone usher pili adhesins from uropathogenic Escherichia coli and Acinetobacter baumannii, respectively, which are implicated in mediating both uncomplicated and catheter-associated urinary tract infections (UTI) responsible for significant morbidity worldwide. The designed antagonists have high specificity and stability, disrupt bacterial recognition of host receptors, block biofilm formation, and are effective in treating and preventing murine models of uncomplicated and catheter-associated UTIs in vivo.",
+          "date": "2026-10-09",
+          "url": "https://doi.org/10.1038/s41467-026-78123-6",
+          "doi": "10.1038/s41467-026-78123-6",
+          "status": "published",
+          "journal": "Nature communications",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC13748552"
+          ],
+          "relations": [
+            {
+              "kind": "update_of",
+              "target": "pubmed:40894640",
+              "evidence": "PubMed UpdateOf; target must be a preprint"
+            },
+            {
+              "kind": "update_of",
+              "target": "pubmed:41282098",
+              "evidence": "PubMed UpdateOf; target must be a preprint"
+            }
+          ]
+        },
+        "pubmed:40894640": {
+          "source": "pubmed",
+          "source_id": "40894640",
+          "title": "De Novo Design of Miniprotein Inhibitors of Bacterial Adhesins.",
+          "authors": [
+            {
+              "name": "Adam M Chazin-Gray",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Molecular Engineering Graduate Program, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0009-0005-9310-1891"
+            },
+            {
+              "name": "Tuscan R Thompson",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Graduate Program in Biological Physics, Structure and Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0009-0003-1876-106X"
+            },
+            {
+              "name": "Edward D B Lopatto",
+              "affiliations": [
+                "Department of Molecular Microbiology, Washington University in St. Louis, St. Louis, MO, USA.",
+                "Center for Women's Infectious Disease Research, Washington University in St. Louis, St. Louis, MO, USA."
+              ],
+              "orcid": "0000-0002-6625-6143"
+            },
+            {
+              "name": "Pearl Magala",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-5087-3473"
+            },
+            {
+              "name": "Patrick W Erickson",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-4913-2317"
+            },
+            {
+              "name": "Andrew C Hunt",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-9620-593X"
+            },
+            {
+              "name": "Anna Manchenko",
+              "affiliations": [
+                "Department of Microbiology, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-5982-4504"
+            },
+            {
+              "name": "Pavel Aprikian",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0009-0006-2690-1212"
+            },
+            {
+              "name": "Veronika Tchesnokova",
+              "affiliations": [
+                "Department of Microbiology, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-4235-5796"
+            },
+            {
+              "name": "Irina Basova",
+              "affiliations": [
+                "Department of Microbiology, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Denise A Sanick",
+              "affiliations": [
+                "Department of Molecular Microbiology, Washington University in St. Louis, St. Louis, MO, USA.",
+                "Center for Women's Infectious Disease Research, Washington University in St. Louis, St. Louis, MO, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Kevin O Tamadonfar",
+              "affiliations": [
+                "Department of Molecular Microbiology, Washington University in St. Louis, St. Louis, MO, USA.",
+                "Center for Women's Infectious Disease Research, Washington University in St. Louis, St. Louis, MO, USA."
+              ],
+              "orcid": "0000-0002-6481-9993"
+            },
+            {
+              "name": "Morgan R Timm",
+              "affiliations": [
+                "Department of Molecular Microbiology, Washington University in St. Louis, St. Louis, MO, USA.",
+                "Center for Women's Infectious Disease Research, Washington University in St. Louis, St. Louis, MO, USA."
+              ],
+              "orcid": "0000-0002-2947-9508"
+            },
+            {
+              "name": "Jerome S Pinkner",
+              "affiliations": [
+                "Department of Molecular Microbiology, Washington University in St. Louis, St. Louis, MO, USA.",
+                "Center for Women's Infectious Disease Research, Washington University in St. Louis, St. Louis, MO, USA."
+              ],
+              "orcid": "0000-0002-7389-7440"
+            },
+            {
+              "name": "Karen W Dodson",
+              "affiliations": [
+                "Department of Molecular Microbiology, Washington University in St. Louis, St. Louis, MO, USA.",
+                "Center for Women's Infectious Disease Research, Washington University in St. Louis, St. Louis, MO, USA."
+              ],
+              "orcid": "0000-0001-7421-9660"
+            },
+            {
+              "name": "Alex Kang",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-5487-0499"
+            },
+            {
+              "name": "Emily Joyce",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0009-0007-3230-1341"
+            },
+            {
+              "name": "Asim K Bera",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-9473-2912"
+            },
+            {
+              "name": "Aaron J Schmitz",
+              "affiliations": [
+                "Department of Pathology and Immunology, Washington University School of Medicine, St Louis, MO, USA."
+              ],
+              "orcid": "0000-0002-8077-6751"
+            },
+            {
+              "name": "Ali H Ellebedy",
+              "affiliations": [
+                "Department of Pathology and Immunology, Washington University School of Medicine, St Louis, MO, USA."
+              ],
+              "orcid": "0000-0002-6129-2532"
+            },
+            {
+              "name": "Kelli L Hvorecny",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-4609-6170"
+            },
+            {
+              "name": "Mark J Cartwright",
+              "affiliations": [
+                "Wyss Institute, Harvard University, Boston, MA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Andyna Vernet",
+              "affiliations": [
+                "Wyss Institute, Harvard University, Boston, MA, USA."
+              ],
+              "orcid": "0000-0003-3875-5903"
+            },
+            {
+              "name": "Sarai Bardales",
+              "affiliations": [
+                "Wyss Institute, Harvard University, Boston, MA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Desmond White",
+              "affiliations": [
+                "Wyss Institute, Harvard University, Boston, MA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Rachel E Klevit",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-3476-969X"
+            },
+            {
+              "name": "Evgeni V Sokurenko",
+              "affiliations": [
+                "Department of Microbiology, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0003-2806-4121"
+            },
+            {
+              "name": "Scott J Hultgren",
+              "affiliations": [
+                "Department of Molecular Microbiology, Washington University in St. Louis, St. Louis, MO, USA.",
+                "Center for Women's Infectious Disease Research, Washington University in St. Louis, St. Louis, MO, USA."
+              ],
+              "orcid": "0000-0001-8785-564X"
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-7896-6217"
+            }
+          ],
+          "abstract": "The rise of multidrug-resistant bacterial infections necessitates the discovery of novel antimicrobial strategies. Here, we show that protein design provides a generalizable means of generating new antimicrobials by neutralizing the function of bacterial adhesins, which are virulence factors critical in host-pathogen interactions. We de novo designed high-affinity miniprotein binders to FimH and Abp1D/Abp2D chaperone usher pili adhesins from uropathogenic Escherichia coli and Acinetobacter baumannii, respectively, which are implicated in mediating both uncomplicated and catheter-associated urinary tract infections (UTI) responsible for significant morbidity and mortality worldwide. The designed antagonists have high specificity and stability, disrupt bacterial recognition of host receptors, block biofilm formation, and are effective in treating and preventing uncomplicated and catheter-associated UTIs in vivo. Targeting virulence factors outside the cell membrane with protein design provides a rapid route to next-generation therapeutics that can disrupt pathogenesis and thus are capable of treating and preventing disease in an antibiotic-sparing manner.",
+          "date": "2025-08-18",
+          "url": "https://doi.org/10.1101/2025.08.18.670751",
+          "doi": "10.1101/2025.08.18.670751",
+          "status": "preprint",
+          "journal": "bioRxiv : the preprint server for biology",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC12393372"
+          ],
+          "relations": [
+            {
+              "kind": "is_preprint_of",
+              "target": "pubmed:43003839",
+              "evidence": "PubMed preprint UpdateIn"
+            }
+          ]
         }
       },
       "matched_researchers": {
         "david-baker": [
           {
             "record": "pubmed:41282098",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
+          },
+          {
+            "record": "pubmed:43003839",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
+          },
+          {
+            "record": "pubmed:40894640",
             "matched": true,
             "reason": "strong author identity",
             "evidence": [
@@ -17487,6 +18025,76 @@
           "record": "pubmed:41282098",
           "method": "new_work",
           "reason": "no existing work"
+        },
+        {
+          "record": "pubmed:43003839",
+          "method": "new_work",
+          "reason": "no existing work"
+        },
+        {
+          "record": "pubmed:43003839",
+          "rank": 3,
+          "method": "shared_identifier",
+          "identifiers": [
+            "doi:10.1038/s41467-026-78123-6",
+            "pubmed:43003839"
+          ],
+          "matched_record": "pubmed:43003839"
+        },
+        {
+          "record": "pubmed:40894640",
+          "rank": 1,
+          "method": "explicit_relationship",
+          "identifiers": [
+            "pubmed:43003839"
+          ],
+          "evidence": [
+            "PubMed preprint UpdateIn"
+          ],
+          "matched_record": "pubmed:43003839"
+        },
+        {
+          "record": "pubmed:43003839",
+          "rank": 1,
+          "method": "explicit_relationship",
+          "identifiers": [
+            "pubmed:40894640",
+            "pubmed:43003839"
+          ],
+          "evidence": [
+            "PubMed UpdateOf; target must be a preprint",
+            "PubMed preprint UpdateIn"
+          ],
+          "matched_record": "pubmed:40894640"
+        },
+        {
+          "record": "pubmed:41282098",
+          "method": "merge_existing_works",
+          "retained_id": "urn:uuid:d9c869ba-c709-5c1a-8aac-288b447ba30d",
+          "retired_id": "urn:uuid:f9f935fd-6d91-53b9-af07-683764a49ed9"
+        },
+        {
+          "record": "pubmed:41282098",
+          "rank": 1,
+          "method": "explicit_relationship",
+          "identifiers": [
+            "pubmed:43003839"
+          ],
+          "evidence": [
+            "PubMed preprint UpdateIn"
+          ],
+          "matched_record": "pubmed:40894640"
+        },
+        {
+          "record": "pubmed:41282098",
+          "rank": 3,
+          "method": "shared_identifier",
+          "identifiers": [
+            "doi:10.21203/rs.3.rs-7951484/v1",
+            "pmc:PMC12637805",
+            "pubmed:41282098"
+          ],
+          "matched_record": "pubmed:41282098"
         }
       ],
       "published": "2025-11-04T00:00:00Z"
@@ -40411,586 +41019,6 @@
       ],
       "published": "2026-11-06T00:00:00Z"
     },
-    "urn:uuid:f9f935fd-6d91-53b9-af07-683764a49ed9": {
-      "id": "urn:uuid:f9f935fd-6d91-53b9-af07-683764a49ed9",
-      "first_seen": "2026-11-10T21:17:04Z",
-      "updated": "2026-11-12T11:03:17Z",
-      "records": {
-        "pubmed:43003839": {
-          "source": "pubmed",
-          "source_id": "43003839",
-          "title": "De novo design of miniprotein inhibitors of bacterial adhesins.",
-          "authors": [
-            {
-              "name": "Adam M Chazin-Gray",
-              "affiliations": [
-                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
-                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
-                "Molecular Engineering Graduate Program, University of Washington, Seattle, WA, USA."
-              ],
-              "orcid": null
-            },
-            {
-              "name": "Tuscan R Thompson",
-              "affiliations": [
-                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
-                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
-                "Graduate Program in Biological Physics, Structure and Design, University of Washington, Seattle, WA, USA."
-              ],
-              "orcid": null
-            },
-            {
-              "name": "Edward D B Lopatto",
-              "affiliations": [
-                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
-                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
-                "Department of Molecular Microbiology, Washington University in St. Louis, St. Louis, MO, USA.",
-                "Center for Women's Infectious Disease Research, Washington University in St. Louis, St. Louis, MO, USA."
-              ],
-              "orcid": "0000-0002-6625-6143"
-            },
-            {
-              "name": "Pearl Magala",
-              "affiliations": [
-                "Department of Biochemistry, University of Washington, Seattle, WA, USA."
-              ],
-              "orcid": null
-            },
-            {
-              "name": "Patrick W Erickson",
-              "affiliations": [
-                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
-                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
-              ],
-              "orcid": null
-            },
-            {
-              "name": "Andrew C Hunt",
-              "affiliations": [
-                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
-                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
-              ],
-              "orcid": "0000-0001-9620-593X"
-            },
-            {
-              "name": "Anna Manchenko",
-              "affiliations": [
-                "Department of Microbiology, University of Washington, Seattle, WA, USA."
-              ],
-              "orcid": "0000-0001-5982-4504"
-            },
-            {
-              "name": "Pavel Aprikian",
-              "affiliations": [
-                "Department of Biochemistry, University of Washington, Seattle, WA, USA."
-              ],
-              "orcid": null
-            },
-            {
-              "name": "Veronika Tchesnokova",
-              "affiliations": [
-                "Department of Microbiology, University of Washington, Seattle, WA, USA."
-              ],
-              "orcid": "0000-0002-4235-5796"
-            },
-            {
-              "name": "Irina Basova",
-              "affiliations": [
-                "Department of Microbiology, University of Washington, Seattle, WA, USA."
-              ],
-              "orcid": null
-            },
-            {
-              "name": "Denise A Sanick",
-              "affiliations": [
-                "Department of Molecular Microbiology, Washington University in St. Louis, St. Louis, MO, USA.",
-                "Center for Women's Infectious Disease Research, Washington University in St. Louis, St. Louis, MO, USA."
-              ],
-              "orcid": null
-            },
-            {
-              "name": "Kevin O Tamadonfar",
-              "affiliations": [
-                "Department of Molecular Microbiology, Washington University in St. Louis, St. Louis, MO, USA.",
-                "Center for Women's Infectious Disease Research, Washington University in St. Louis, St. Louis, MO, USA."
-              ],
-              "orcid": null
-            },
-            {
-              "name": "Morgan R Timm",
-              "affiliations": [
-                "Department of Molecular Microbiology, Washington University in St. Louis, St. Louis, MO, USA.",
-                "Center for Women's Infectious Disease Research, Washington University in St. Louis, St. Louis, MO, USA."
-              ],
-              "orcid": "0000-0002-2947-9508"
-            },
-            {
-              "name": "Jerome S Pinkner",
-              "affiliations": [
-                "Department of Molecular Microbiology, Washington University in St. Louis, St. Louis, MO, USA.",
-                "Center for Women's Infectious Disease Research, Washington University in St. Louis, St. Louis, MO, USA."
-              ],
-              "orcid": null
-            },
-            {
-              "name": "Karen W Dodson",
-              "affiliations": [
-                "Department of Molecular Microbiology, Washington University in St. Louis, St. Louis, MO, USA.",
-                "Center for Women's Infectious Disease Research, Washington University in St. Louis, St. Louis, MO, USA."
-              ],
-              "orcid": null
-            },
-            {
-              "name": "Alex Kang",
-              "affiliations": [
-                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
-                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
-              ],
-              "orcid": "0000-0001-5487-0499"
-            },
-            {
-              "name": "Emily Joyce",
-              "affiliations": [
-                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
-                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
-              ],
-              "orcid": "0009-0007-3230-1341"
-            },
-            {
-              "name": "Asim K Bera",
-              "affiliations": [
-                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
-                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
-              ],
-              "orcid": "0000-0001-9473-2912"
-            },
-            {
-              "name": "Aaron J Schmitz",
-              "affiliations": [
-                "Department of Pathology and Immunology, Washington University School of Medicine, St. Louis, MO, USA."
-              ],
-              "orcid": "0000-0002-8077-6751"
-            },
-            {
-              "name": "Ali H Ellebedy",
-              "affiliations": [
-                "Department of Pathology and Immunology, Washington University School of Medicine, St. Louis, MO, USA."
-              ],
-              "orcid": "0000-0002-6129-2532"
-            },
-            {
-              "name": "Kelli L Hvorecny",
-              "affiliations": [
-                "Department of Biochemistry, University of Washington, Seattle, WA, USA."
-              ],
-              "orcid": "0000-0002-4609-6170"
-            },
-            {
-              "name": "Gianluca Interlandi",
-              "affiliations": [
-                "Department of Bioengineering, University of Washington, Seattle, WA, USA."
-              ],
-              "orcid": null
-            },
-            {
-              "name": "Mark J Cartwright",
-              "affiliations": [
-                "Wyss Institute, Harvard University, Boston, MA, USA."
-              ],
-              "orcid": null
-            },
-            {
-              "name": "Andyna Vernet",
-              "affiliations": [
-                "Wyss Institute, Harvard University, Boston, MA, USA."
-              ],
-              "orcid": null
-            },
-            {
-              "name": "Sarai Bardales",
-              "affiliations": [
-                "Wyss Institute, Harvard University, Boston, MA, USA."
-              ],
-              "orcid": null
-            },
-            {
-              "name": "Desmond White",
-              "affiliations": [
-                "Wyss Institute, Harvard University, Boston, MA, USA."
-              ],
-              "orcid": null
-            },
-            {
-              "name": "Rachel E Klevit",
-              "affiliations": [
-                "Department of Biochemistry, University of Washington, Seattle, WA, USA."
-              ],
-              "orcid": "0000-0002-3476-969X"
-            },
-            {
-              "name": "Evgeni V Sokurenko",
-              "affiliations": [
-                "Department of Microbiology, University of Washington, Seattle, WA, USA. evs@uw.edu."
-              ],
-              "orcid": null
-            },
-            {
-              "name": "Scott J Hultgren",
-              "affiliations": [
-                "Department of Molecular Microbiology, Washington University in St. Louis, St. Louis, MO, USA. hultgren@wustl.edu.",
-                "Center for Women's Infectious Disease Research, Washington University in St. Louis, St. Louis, MO, USA. hultgren@wustl.edu."
-              ],
-              "orcid": "0000-0001-8785-564X"
-            },
-            {
-              "name": "David Baker",
-              "affiliations": [
-                "Department of Biochemistry, University of Washington, Seattle, WA, USA. dabaker@uw.edu.",
-                "Institute for Protein Design, University of Washington, Seattle, WA, USA. dabaker@uw.edu.",
-                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA. dabaker@uw.edu."
-              ],
-              "orcid": "0000-0001-7896-6217"
-            }
-          ],
-          "abstract": "The rise of multidrug-resistant bacterial infections necessitates the discovery of novel antimicrobial strategies. Here, we show that protein design provides a generalizable means of generating new antimicrobials by neutralizing the function of bacterial adhesins, which are virulence factors critical in host-pathogen interactions. We de novo designed high-affinity miniprotein binders to FimH and Abp chaperone usher pili adhesins from uropathogenic Escherichia coli and Acinetobacter baumannii, respectively, which are implicated in mediating both uncomplicated and catheter-associated urinary tract infections (UTI) responsible for significant morbidity worldwide. The designed antagonists have high specificity and stability, disrupt bacterial recognition of host receptors, block biofilm formation, and are effective in treating and preventing murine models of uncomplicated and catheter-associated UTIs in vivo.",
-          "date": "2026-10-09",
-          "url": "https://doi.org/10.1038/s41467-026-78123-6",
-          "doi": "10.1038/s41467-026-78123-6",
-          "status": "published",
-          "journal": "Nature communications",
-          "version": "",
-          "publication_date": "",
-          "identifiers": [
-            "pmc:PMC13748552"
-          ],
-          "relations": [
-            {
-              "kind": "update_of",
-              "target": "pubmed:40894640",
-              "evidence": "PubMed UpdateOf; target must be a preprint"
-            }
-          ]
-        },
-        "pubmed:40894640": {
-          "source": "pubmed",
-          "source_id": "40894640",
-          "title": "De Novo Design of Miniprotein Inhibitors of Bacterial Adhesins.",
-          "authors": [
-            {
-              "name": "Adam M Chazin-Gray",
-              "affiliations": [
-                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
-                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
-                "Molecular Engineering Graduate Program, University of Washington, Seattle, WA, USA."
-              ],
-              "orcid": "0009-0005-9310-1891"
-            },
-            {
-              "name": "Tuscan R Thompson",
-              "affiliations": [
-                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
-                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
-                "Graduate Program in Biological Physics, Structure and Design, University of Washington, Seattle, WA, USA."
-              ],
-              "orcid": "0009-0003-1876-106X"
-            },
-            {
-              "name": "Edward D B Lopatto",
-              "affiliations": [
-                "Department of Molecular Microbiology, Washington University in St. Louis, St. Louis, MO, USA.",
-                "Center for Women's Infectious Disease Research, Washington University in St. Louis, St. Louis, MO, USA."
-              ],
-              "orcid": "0000-0002-6625-6143"
-            },
-            {
-              "name": "Pearl Magala",
-              "affiliations": [
-                "Department of Biochemistry, University of Washington, Seattle, WA, USA."
-              ],
-              "orcid": "0000-0001-5087-3473"
-            },
-            {
-              "name": "Patrick W Erickson",
-              "affiliations": [
-                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
-                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
-              ],
-              "orcid": "0000-0002-4913-2317"
-            },
-            {
-              "name": "Andrew C Hunt",
-              "affiliations": [
-                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
-                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
-              ],
-              "orcid": "0000-0001-9620-593X"
-            },
-            {
-              "name": "Anna Manchenko",
-              "affiliations": [
-                "Department of Microbiology, University of Washington, Seattle, WA, USA."
-              ],
-              "orcid": "0000-0001-5982-4504"
-            },
-            {
-              "name": "Pavel Aprikian",
-              "affiliations": [
-                "Department of Biochemistry, University of Washington, Seattle, WA, USA."
-              ],
-              "orcid": "0009-0006-2690-1212"
-            },
-            {
-              "name": "Veronika Tchesnokova",
-              "affiliations": [
-                "Department of Microbiology, University of Washington, Seattle, WA, USA."
-              ],
-              "orcid": "0000-0002-4235-5796"
-            },
-            {
-              "name": "Irina Basova",
-              "affiliations": [
-                "Department of Microbiology, University of Washington, Seattle, WA, USA."
-              ],
-              "orcid": null
-            },
-            {
-              "name": "Denise A Sanick",
-              "affiliations": [
-                "Department of Molecular Microbiology, Washington University in St. Louis, St. Louis, MO, USA.",
-                "Center for Women's Infectious Disease Research, Washington University in St. Louis, St. Louis, MO, USA."
-              ],
-              "orcid": null
-            },
-            {
-              "name": "Kevin O Tamadonfar",
-              "affiliations": [
-                "Department of Molecular Microbiology, Washington University in St. Louis, St. Louis, MO, USA.",
-                "Center for Women's Infectious Disease Research, Washington University in St. Louis, St. Louis, MO, USA."
-              ],
-              "orcid": "0000-0002-6481-9993"
-            },
-            {
-              "name": "Morgan R Timm",
-              "affiliations": [
-                "Department of Molecular Microbiology, Washington University in St. Louis, St. Louis, MO, USA.",
-                "Center for Women's Infectious Disease Research, Washington University in St. Louis, St. Louis, MO, USA."
-              ],
-              "orcid": "0000-0002-2947-9508"
-            },
-            {
-              "name": "Jerome S Pinkner",
-              "affiliations": [
-                "Department of Molecular Microbiology, Washington University in St. Louis, St. Louis, MO, USA.",
-                "Center for Women's Infectious Disease Research, Washington University in St. Louis, St. Louis, MO, USA."
-              ],
-              "orcid": "0000-0002-7389-7440"
-            },
-            {
-              "name": "Karen W Dodson",
-              "affiliations": [
-                "Department of Molecular Microbiology, Washington University in St. Louis, St. Louis, MO, USA.",
-                "Center for Women's Infectious Disease Research, Washington University in St. Louis, St. Louis, MO, USA."
-              ],
-              "orcid": "0000-0001-7421-9660"
-            },
-            {
-              "name": "Alex Kang",
-              "affiliations": [
-                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
-                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
-              ],
-              "orcid": "0000-0001-5487-0499"
-            },
-            {
-              "name": "Emily Joyce",
-              "affiliations": [
-                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
-                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
-              ],
-              "orcid": "0009-0007-3230-1341"
-            },
-            {
-              "name": "Asim K Bera",
-              "affiliations": [
-                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
-                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
-              ],
-              "orcid": "0000-0001-9473-2912"
-            },
-            {
-              "name": "Aaron J Schmitz",
-              "affiliations": [
-                "Department of Pathology and Immunology, Washington University School of Medicine, St Louis, MO, USA."
-              ],
-              "orcid": "0000-0002-8077-6751"
-            },
-            {
-              "name": "Ali H Ellebedy",
-              "affiliations": [
-                "Department of Pathology and Immunology, Washington University School of Medicine, St Louis, MO, USA."
-              ],
-              "orcid": "0000-0002-6129-2532"
-            },
-            {
-              "name": "Kelli L Hvorecny",
-              "affiliations": [
-                "Department of Biochemistry, University of Washington, Seattle, WA, USA."
-              ],
-              "orcid": "0000-0002-4609-6170"
-            },
-            {
-              "name": "Mark J Cartwright",
-              "affiliations": [
-                "Wyss Institute, Harvard University, Boston, MA, USA."
-              ],
-              "orcid": null
-            },
-            {
-              "name": "Andyna Vernet",
-              "affiliations": [
-                "Wyss Institute, Harvard University, Boston, MA, USA."
-              ],
-              "orcid": "0000-0003-3875-5903"
-            },
-            {
-              "name": "Sarai Bardales",
-              "affiliations": [
-                "Wyss Institute, Harvard University, Boston, MA, USA."
-              ],
-              "orcid": null
-            },
-            {
-              "name": "Desmond White",
-              "affiliations": [
-                "Wyss Institute, Harvard University, Boston, MA, USA."
-              ],
-              "orcid": null
-            },
-            {
-              "name": "Rachel E Klevit",
-              "affiliations": [
-                "Department of Biochemistry, University of Washington, Seattle, WA, USA."
-              ],
-              "orcid": "0000-0002-3476-969X"
-            },
-            {
-              "name": "Evgeni V Sokurenko",
-              "affiliations": [
-                "Department of Microbiology, University of Washington, Seattle, WA, USA."
-              ],
-              "orcid": "0000-0003-2806-4121"
-            },
-            {
-              "name": "Scott J Hultgren",
-              "affiliations": [
-                "Department of Molecular Microbiology, Washington University in St. Louis, St. Louis, MO, USA.",
-                "Center for Women's Infectious Disease Research, Washington University in St. Louis, St. Louis, MO, USA."
-              ],
-              "orcid": "0000-0001-8785-564X"
-            },
-            {
-              "name": "David Baker",
-              "affiliations": [
-                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
-                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
-                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
-              ],
-              "orcid": "0000-0001-7896-6217"
-            }
-          ],
-          "abstract": "The rise of multidrug-resistant bacterial infections necessitates the discovery of novel antimicrobial strategies. Here, we show that protein design provides a generalizable means of generating new antimicrobials by neutralizing the function of bacterial adhesins, which are virulence factors critical in host-pathogen interactions. We de novo designed high-affinity miniprotein binders to FimH and Abp1D/Abp2D chaperone usher pili adhesins from uropathogenic Escherichia coli and Acinetobacter baumannii, respectively, which are implicated in mediating both uncomplicated and catheter-associated urinary tract infections (UTI) responsible for significant morbidity and mortality worldwide. The designed antagonists have high specificity and stability, disrupt bacterial recognition of host receptors, block biofilm formation, and are effective in treating and preventing uncomplicated and catheter-associated UTIs in vivo. Targeting virulence factors outside the cell membrane with protein design provides a rapid route to next-generation therapeutics that can disrupt pathogenesis and thus are capable of treating and preventing disease in an antibiotic-sparing manner.",
-          "date": "2025-08-18",
-          "url": "https://doi.org/10.1101/2025.08.18.670751",
-          "doi": "10.1101/2025.08.18.670751",
-          "status": "preprint",
-          "journal": "bioRxiv : the preprint server for biology",
-          "version": "",
-          "publication_date": "",
-          "identifiers": [
-            "pmc:PMC12393372"
-          ],
-          "relations": [
-            {
-              "kind": "is_preprint_of",
-              "target": "pubmed:43003839",
-              "evidence": "PubMed preprint UpdateIn"
-            }
-          ]
-        }
-      },
-      "matched_researchers": {
-        "david-baker": [
-          {
-            "record": "pubmed:43003839",
-            "matched": true,
-            "reason": "strong author identity",
-            "evidence": [
-              {
-                "author": "David Baker",
-                "method": "orcid",
-                "orcid": "0000-0001-7896-6217"
-              }
-            ]
-          },
-          {
-            "record": "pubmed:40894640",
-            "matched": true,
-            "reason": "strong author identity",
-            "evidence": [
-              {
-                "author": "David Baker",
-                "method": "orcid",
-                "orcid": "0000-0001-7896-6217"
-              }
-            ]
-          }
-        ]
-      },
-      "deduplication": [
-        {
-          "record": "pubmed:43003839",
-          "method": "new_work",
-          "reason": "no existing work"
-        },
-        {
-          "record": "pubmed:43003839",
-          "rank": 3,
-          "method": "shared_identifier",
-          "identifiers": [
-            "doi:10.1038/s41467-026-78123-6",
-            "pubmed:43003839"
-          ],
-          "matched_record": "pubmed:43003839"
-        },
-        {
-          "record": "pubmed:40894640",
-          "rank": 1,
-          "method": "explicit_relationship",
-          "identifiers": [
-            "pubmed:43003839"
-          ],
-          "evidence": [
-            "PubMed preprint UpdateIn"
-          ],
-          "matched_record": "pubmed:43003839"
-        },
-        {
-          "record": "pubmed:43003839",
-          "rank": 1,
-          "method": "explicit_relationship",
-          "identifiers": [
-            "pubmed:40894640",
-            "pubmed:43003839"
-          ],
-          "evidence": [
-            "PubMed UpdateOf; target must be a preprint",
-            "PubMed preprint UpdateIn"
-          ],
-          "matched_record": "pubmed:40894640"
-        }
-      ],
-      "published": "2026-10-09T00:00:00Z"
-    },
     "urn:uuid:ced80e46-fd85-57b6-a380-0f9d04ab04cb": {
       "id": "urn:uuid:ced80e46-fd85-57b6-a380-0f9d04ab04cb",
       "first_seen": "2026-11-13T01:49:02Z",
@@ -41207,7 +41235,8 @@
     }
   },
   "aliases": {
-    "urn:uuid:4b3d262c-d759-5ebd-a82d-a7a91bd68fad": "urn:uuid:9e012682-4c6a-50a3-b187-e8ed207714b5"
+    "urn:uuid:4b3d262c-d759-5ebd-a82d-a7a91bd68fad": "urn:uuid:9e012682-4c6a-50a3-b187-e8ed207714b5",
+    "urn:uuid:f9f935fd-6d91-53b9-af07-683764a49ed9": "urn:uuid:d9c869ba-c709-5c1a-8aac-288b447ba30d"
   },
   "rejected": {
     "biorxiv:10.64898/2026.11.12.766315": {
