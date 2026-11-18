@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-11-17T15:57:51Z</updated>
+  <updated>2026-11-18T11:38:30Z</updated>
   <entry>
     <id>urn:uuid:bc49fa2c-cb63-587b-ab52-893b6efa7a79</id>
     <title>Bifunctional Phagocytic Synapse Enhancers Remodel the Tumor Microenvironment to Overcome Immunosuppression.</title>
@@ -8910,8 +8910,9 @@
     <id>urn:uuid:ea1a7683-9d5d-573e-b960-f75a616035f1</id>
     <title>Computational design of non-porous pH-responsive antibody nanoparticles.</title>
     <published>2024-05-09T00:00:00Z</published>
-    <updated>2026-11-02T21:41:53Z</updated>
+    <updated>2026-11-18T11:38:30Z</updated>
     <link href="https://doi.org/10.1038/s41594-024-01288-5" rel="alternate" />
+    <link href="https://doi.org/10.1101/2023.04.17.537263" rel="related" title="pubmed" />
     <category term="published" />
     <author>
       <name>Erin C Yang</name>
@@ -8995,8 +8996,10 @@
 &lt;p&gt;Journal: Nature structural &amp;amp; molecular biology&lt;/p&gt;
 &lt;p&gt;Programming protein nanomaterials to respond to changes in environmental conditions is a current challenge for protein design and is important for targeted delivery of biologics. Here we describe the design of octahedral non-porous nanoparticles with a targeting antibody on the two-fold symmetry axis, a designed trimer programmed to disassemble below a tunable pH transition point on the three-fold axis, and a designed tetramer on the four-fold symmetry axis. Designed non-covalent interfaces guide cooperative nanoparticle assembly from independently purified components, and a cryo-EM density map closely matches the computational design model. The designed nanoparticles can package protein and nucleic acid payloads, are endocytosed following antibody-mediated targeting of cell surface receptors, and undergo tunable pH-dependent disassembly at pH values ranging between 5.9 and 6.7. The ability to incorporate almost any antibody into a non-porous pH-dependent nanoparticle opens up new routes to antibody-directed targeted delivery.&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1101/2023.04.17.537263"&gt;pubmed (preprint) — DOI: 10.1101/2023.04.17.537263&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41594-024-01288-5"&gt;pubmed (published) — DOI: 10.1038/s41594-024-01288-5&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41594-024-01288-5"&gt;Published version — DOI: 10.1038/s41594-024-01288-5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pubmed.ncbi.nlm.nih.gov/38724718/"&gt;Published version&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
