@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-11-18T11:38:30Z",
+      "last_success": "2026-11-18T20:28:52Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-11-18T11:38:30Z",
+      "last_success": "2026-11-18T20:28:52Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-11-18T11:38:30Z",
+      "last_success": "2026-11-18T20:28:52Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -27707,7 +27707,7 @@
     "urn:uuid:b08a6f85-149d-5811-be27-70dd417daf1c": {
       "id": "urn:uuid:b08a6f85-149d-5811-be27-70dd417daf1c",
       "first_seen": "2026-10-20T23:51:52Z",
-      "updated": "2026-11-08T10:18:08Z",
+      "updated": "2026-11-18T20:28:52Z",
       "records": {
         "biorxiv:10.64898/2026.10.19.760300": {
           "source": "biorxiv",
@@ -27805,76 +27805,118 @@
           "authors": [
             {
               "name": "Wei Chen",
-              "affiliations": [],
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, Washington, 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, Washington, 98105, USA."
+              ],
               "orcid": null
             },
             {
               "name": "Ruopu Jiao",
-              "affiliations": [],
+              "affiliations": [
+                "Department of Bioengineering, Rice University, Houston, Texas, 77030, USA."
+              ],
               "orcid": null
             },
             {
               "name": "Brian Coventry",
-              "affiliations": [],
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, Washington, 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, Washington, 98105, USA.",
+                "Howard Hughes Medical Institute, Seattle, Washington, 98195, USA."
+              ],
               "orcid": null
             },
             {
               "name": "Xiangli Qu",
-              "affiliations": [],
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, Washington, 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, Washington, 98105, USA."
+              ],
               "orcid": null
             },
             {
               "name": "Magnus Bauer",
-              "affiliations": [],
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, Washington, 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, Washington, 98105, USA."
+              ],
               "orcid": null
             },
             {
               "name": "Long Tran",
-              "affiliations": [],
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, Washington, 98105, USA.",
+                "Department of Chemical Engineering, University of Washington, Seattle, Washington, 98195, USA."
+              ],
               "orcid": null
             },
             {
               "name": "Tabitha Tcheau",
-              "affiliations": [],
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, Washington, 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, Washington, 98105, USA."
+              ],
               "orcid": null
             },
             {
               "name": "Kejia Wu",
-              "affiliations": [],
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, Washington, 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, Washington, 98105, USA."
+              ],
               "orcid": null
             },
             {
               "name": "Zihao Song",
-              "affiliations": [],
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, Washington, 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, Washington, 98105, USA."
+              ],
               "orcid": null
             },
             {
               "name": "Nicole Roullier",
-              "affiliations": [],
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, Washington, 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, Washington, 98105, USA."
+              ],
               "orcid": null
             },
             {
               "name": "Xinting Li",
-              "affiliations": [],
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, Washington, 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, Washington, 98105, USA."
+              ],
               "orcid": null
             },
             {
               "name": "Cameron Glasscock",
-              "affiliations": [],
+              "affiliations": [
+                "Department of Biosciences, Rice University, Houston, Texas, 77005, USA."
+              ],
               "orcid": null
             },
             {
               "name": "Isaac B Hilton",
-              "affiliations": [],
+              "affiliations": [
+                "Department of Bioengineering, Rice University, Houston, Texas, 77030, USA.",
+                "Department of Biosciences, Rice University, Houston, Texas, 77005, USA."
+              ],
               "orcid": null
             },
             {
               "name": "David Baker",
-              "affiliations": [],
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, Washington, 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, Washington, 98105, USA.",
+                "Howard Hughes Medical Institute, Seattle, Washington, 98195, USA."
+              ],
               "orcid": null
             }
           ],
-          "abstract": "Transcription factors control gene expression by recruiting transcriptional coactivators through intrinsically disordered transcriptional activation domains (TADs), whose weak and promiscuous interactions make it difficult to establish quantitative relationships between coactivator recruitment and transcriptional output, and to precisely modulate gene expression. To overcome this limitation, we set out to design coactivator-recruiting proteins using AlphaFold3-predicted TAD-coactivator interactions as a guide. We developed a high-throughput functional screening platform in mammalian cells and identified over 300 well folded nanomolar affinity binders to the transcription coactivators Mediator (multiple subunits), BRD4, NCOA, and p300; targeted interface mutations enabled systematic tuning of their binding affinities. Using a panel of p300 binders spanning nanomolar to micromolar affinities, we found an ultrasensitive relationship between coactivator-binding affinity and transcriptional output, with a sharp transcriptional activation threshold at ∼500 nM. Incorporating p300 binder designs into CRISPRa yielded compact synthetic effectors that drove stronger activation than VPR across multiple genomic loci with minimal detectable cytotoxicity. Combining p300- and Mediator-specific binders further enhanced transcription, revealing functional synergy between these coactivators. Together, our work establishes a quantitative framework linking coactivator-binding affinity to transcriptional output and provides compact synthetic effectors for programmable gene activation.",
+          "abstract": "Transcription factors control gene expression by recruiting transcriptional coactivators through intrinsically disordered transcriptional activation domains (TADs), whose weak and promiscuous interactions make it difficult to establish quantitative relationships between coactivator recruitment and transcriptional output, and to precisely modulate gene expression. To overcome this limitation, we set out to design coactivator-recruiting proteins using AlphaFold3-predicted TAD-coactivator interactions as a guide. We developed a high-throughput functional screening platform in mammalian cells and identified over 300 well folded nanomolar affinity binders to the transcription coactivators Mediator (multiple subunits), BRD4, NCOA, and p300; targeted interface mutations enabled systematic tuning of their binding affinities. Using a panel of p300 binders spanning nanomolar to micromolar affinities, we found an ultrasensitive relationship between coactivator-binding affinity and transcriptional output, with a sharp transcriptional activation threshold at ~500 nM. Incorporating p300 binder designs into CRISPRa yielded compact synthetic effectors that drove stronger activation than VPR across multiple genomic loci with minimal detectable cytotoxicity. Combining p300- and Mediator-specific binders further enhanced transcription, revealing functional synergy between these coactivators. Together, our work establishes a quantitative framework linking coactivator-binding affinity to transcriptional output and provides compact synthetic effectors for programmable gene activation.",
           "date": "2026-10-20",
           "url": "https://doi.org/10.64898/2026.10.19.760300",
           "doi": "10.64898/2026.10.19.760300",
@@ -27916,6 +27958,27 @@
             "via_work": "urn:uuid:b08a6f85-149d-5811-be27-70dd417daf1c",
             "via_record": "biorxiv:10.64898/2026.10.19.760300",
             "method": "shared_identifier"
+          },
+          {
+            "record": "pubmed:42995993",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "name_and_affiliations",
+                "affiliations": [
+                  "Department of Biochemistry, University of Washington, Seattle, Washington, 98195, USA.",
+                  "Institute for Protein Design, University of Washington, Seattle, Washington, 98105, USA.",
+                  "Howard Hughes Medical Institute, Seattle, Washington, 98195, USA."
+                ],
+                "matched_affiliations": [
+                  "Institute for Protein Design",
+                  "University of Washington",
+                  "Department of Biochemistry"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -41504,6 +41567,120 @@
     "urn:uuid:f9f935fd-6d91-53b9-af07-683764a49ed9": "urn:uuid:d9c869ba-c709-5c1a-8aac-288b447ba30d"
   },
   "rejected": {
+    "biorxiv:10.64898/2026.11.17.767301": {
+      "first_seen": "2026-11-18T20:28:52Z",
+      "record": {
+        "source": "biorxiv",
+        "source_id": "10.64898/2026.11.17.767301",
+        "title": "Sc-HistoMorphomics: A General Framework for High-throughput, Multimodal Profiling of Nuclear Morphology in Tissues.",
+        "authors": [
+          {
+            "name": "Alizadeh, E.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Zhao, Y.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Domanskyi, S.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Baker, D.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Luo, d.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Flynn, W. F.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Ucar, D.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Chuang, J. H.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Courtois, E.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "White, B. S.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Robson, P.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Korstanje, R.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Li, S.",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Mahoney, J. M.",
+            "affiliations": [
+              "The Jackson Laboratory"
+            ],
+            "orcid": null
+          }
+        ],
+        "abstract": "Quantitative cellular morphology provides a rich but underutilized window into cell identity and state. We introduce sc-HistoMorphomics, a scalable framework for profiling nuclear morphology in whole-slide H&E images and correlating these measurements with spatial transcriptomics data. Our pipeline combines deep-learning based segmentation with 194 interpretable morphometric features capturing nuclear shape, eosin and hematoxylin texture, and neighbourhood architecture, enabling high-throughput, multimodal characterization of tissue organization. Applied to endometrium, breast cancer tissue, and pancreas, sc-HistoMorphomics revealed conserved high-dimensional feature structure across tissues and reproducible association between morphology and gene expression. Eosin-based texture features were associated with senescence signatures in endometrium, and morphology-based clustering recapitulated broad stromal, lymphocyte, and epithelial tumor cell classes in breast cancer. In pancreas, negative correlations between CDKN1A and multiple morphological features were consistent across cell types and donors. Together, these results establish sc-HistoMorphomics as a generalizable and interpretable tool for linking morphology with spatially resolved molecular state across diverse tissues.",
+        "date": "2026-11-18",
+        "url": "https://doi.org/10.64898/2026.11.17.767301",
+        "doi": "10.64898/2026.11.17.767301",
+        "status": "preprint",
+        "journal": "",
+        "version": "1",
+        "publication_date": "",
+        "identifiers": [],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "Baker, D.",
+              "method": "rejected",
+              "affiliations": [],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
     "biorxiv:10.64898/2026.11.16.767129": {
       "first_seen": "2026-11-18T11:38:30Z",
       "record": {
