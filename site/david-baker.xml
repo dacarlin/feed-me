@@ -7,7 +7,89 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-11-18T20:28:52Z</updated>
+  <updated>2026-11-19T11:36:31Z</updated>
+  <entry>
+    <id>urn:uuid:a2b00ede-fba9-563b-895c-d09849d5fb39</id>
+    <title>Crystal structure of the first de novo designed phosphotriesterase ZAPP-1</title>
+    <published>2026-11-19T00:00:00Z</published>
+    <updated>2026-11-19T11:36:31Z</updated>
+    <link href="https://doi.org/10.64898/2026.11.17.767279" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Woodbury, S. M.</name>
+    </author>
+    <author>
+      <name>Kim, D.</name>
+    </author>
+    <author>
+      <name>Mendoza, J.</name>
+    </author>
+    <author>
+      <name>Kang, A.</name>
+    </author>
+    <author>
+      <name>Nguyen, H.</name>
+    </author>
+    <author>
+      <name>Bera, A. K.</name>
+    </author>
+    <author>
+      <name>Baker, D.</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Woodbury, S. M.; Kim, D.; Mendoza, J.; Kang, A.; Nguyen, H.; Bera, A. K.; Baker, D.&lt;/p&gt;
+&lt;p&gt;Sources: biorxiv&lt;/p&gt;
+&lt;p&gt;Preprint date: 2026-11-19&lt;/p&gt;
+&lt;p&gt;Designing a de novo phosphotriesterase requires scaffolding a dinuclear metal center bound by six catalytic residues, including a post-translationally carbamylated lysine, in a pocket that must also bind a small, flexible organophosphate and orient it for hydrolysis. We recently met this challenge using RFdiffusion3 to design the first de novo phosphotriesterases, and biochemically characterized our first hit, ZAPP-1 [1]. Here we report two crystal structures of ZAPP-1 at 1.42 and 2.28 [A] resolution. The crystal structures are nearly identical to the design model scaffold (C RMSD = 0.69, 0.71, and 0.99 [A] for three copies across two independent crystals), and the higher-resolution crystal assembles the dinuclear Zn(II) site in the designed pocket with carbamylated K16. The catalytic residues are near the designed geometry but demonstrate flexibility across the structures, albeit mostly rotameric (C{beta} RMSD [≤] 0.8 [A] for both copies in form 1). AlphaFold3 predicts the designed catalytic conformation with substrate bound and the observed crystallographic deviations without it, suggesting an induced-fit mechanism upon substrate binding. Together with prior biochemical characterization, there is strong evidence that ZAPP-1 functions as designed, validating the high precision achievable with our RFdiffusion3 design pipeline, but the structures suggest that future design should better preorganize the active site. The ability to design experimentally accurate and increasingly sophisticated enzymes directly from the computer should enable a new future of programmable catalysis and chemistry.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.11.17.767279"&gt;biorxiv (preprint) — DOI: 10.64898/2026.11.17.767279&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:09113762-4b70-546f-90d2-1ecb9b0fbe99</id>
+    <title>Native Mass Spectrometry of Membrane Protein Lipid and Ligand Complexes Using de novo Designed WRAP Domains.</title>
+    <published>2026-11-18T00:00:00Z</published>
+    <updated>2026-11-19T11:36:31Z</updated>
+    <link href="https://doi.org/10.1021/jacs.6c15293" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Surabhi Kokane</name>
+    </author>
+    <author>
+      <name>Ljubica Mihaljević</name>
+    </author>
+    <author>
+      <name>Barbara Abreu</name>
+    </author>
+    <author>
+      <name>Stijn De Schepper</name>
+    </author>
+    <author>
+      <name>Alexander Stevens</name>
+    </author>
+    <author>
+      <name>Erik G Marklund</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Phillip J Stansfeld</name>
+    </author>
+    <author>
+      <name>Michael Landreh</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Surabhi Kokane; Ljubica Mihaljević; Barbara Abreu; Stijn De Schepper; Alexander Stevens; Erik G Marklund; David Baker; Phillip J Stansfeld; Michael Landreh&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2026-11-18&lt;/p&gt;
+&lt;p&gt;Journal: Journal of the American Chemical Society&lt;/p&gt;
+&lt;p&gt;Membrane proteins engage in dynamic transient interactions with surrounding lipids along with their substrates. Capturing these concomitant contacts often remains a challenging problem. Here, we demonstrate that generative deep learning-designed WRAP domains can preserve weak interactions of membrane proteins in native mass spectrometry. Using WRAP-fused GlpG, AqpM, and OmpA as model systems, we show that lipids can bind in multiple positions inside the WRAP, allowing for their characterization by native mass spectrometry. We show that lipid interactions can be altered by changing the WRAP structure. We use the approach to show that WRAP-OmpA binds phosphatidylethanolamine lipids within cavities formed at the protein-WRAP interface, while simultaneously accommodating weak chitobiose ligand binding. These findings establish WRAPs as versatile vehicles to probe ligand and lipid interactions of membrane proteins.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1021/jacs.6c15293"&gt;pubmed (published) — DOI: 10.1021/jacs.6c15293&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1021/jacs.6c15293"&gt;Published version — DOI: 10.1021/jacs.6c15293&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
   <entry>
     <id>urn:uuid:bc49fa2c-cb63-587b-ab52-893b6efa7a79</id>
     <title>Bifunctional Phagocytic Synapse Enhancers Remodel the Tumor Microenvironment to Overcome Immunosuppression.</title>
@@ -420,7 +502,7 @@
     <id>urn:uuid:8b2b5ccb-5c89-51c6-8758-3a73cec1a35a</id>
     <title>Design of readers for pathological PTM proteoforms in Alzheimer's disease.</title>
     <published>2026-10-21T00:00:00Z</published>
-    <updated>2026-11-08T10:18:08Z</updated>
+    <updated>2026-11-19T11:36:31Z</updated>
     <link href="https://doi.org/10.64898/2026.10.20.760520" rel="alternate" />
     <category term="preprint" />
     <author>
@@ -494,7 +576,7 @@
     <id>urn:uuid:46daedc3-0ce3-5958-8d9f-704cb18ff6b8</id>
     <title>De novo design of enantioselective artificial metalloenzyme photocatalysts.</title>
     <published>2026-10-21T00:00:00Z</published>
-    <updated>2026-10-23T04:46:49Z</updated>
+    <updated>2026-11-19T11:36:31Z</updated>
     <link href="https://doi.org/10.1038/s41586-026-11317-6" rel="alternate" />
     <category term="published" />
     <author>
@@ -529,7 +611,7 @@
 &lt;p&gt;Sources: pubmed&lt;/p&gt;
 &lt;p&gt;Publication date: 2026-10-21&lt;/p&gt;
 &lt;p&gt;Journal: Nature&lt;/p&gt;
-&lt;p&gt;The ability to create protein scaffolds that impart enantioselectivity to simple, readily available metal catalysts could redefine the landscape of asymmetric catalysis. Artificial metalloenzymes (ArMs), hybrid catalysts that combine a synthetic metal cofactor with a protein scaffold, offer a potential means to achieve this goal, but scaffold discovery has remained constrained by trial-and-error approaches and the functional limits of extant proteins.1-5 This challenge is acute for metal polypyridine photocatalysts, which are widely used in visible-light chemistry but have not enabled highly enantioselective photocatalysis within protein scaffolds. In this study, we show that generative protein design6-8 can create de novo scaffolds that selectively bind these photocatalysts and that directed evolution converts the resulting artificial metalloenzymes into efficient, highly enantioselective photocatalysts9. The evolved proteins support diverse light-driven reactions, high catalyst turnover and catalyst recycling, and can function with commercially available racemic metal complexes. Spectroscopic studies show that the protein environment extends the photocatalyst excited-state lifetime and organizes substrate near the cofactor, altering energy transfer and controlling stereoselectivity. These findings establish de novo protein design as a route to functional scaffolds for synthetic metal complexes that lack natural protein partners and provide a strategy for combining protein design and evolution to control non-natural catalytic chemistry.&lt;/p&gt;
+&lt;p&gt;The ability to create protein scaffolds that impart enantioselectivity to simple, readily available metal catalysts could redefine the landscape of asymmetric catalysis. Artificial metalloenzymes (ArMs), hybrid catalysts that combine a synthetic metal cofactor with a protein scaffold, offer a potential means to achieve this goal, but scaffold discovery has remained constrained by trial-and-error approaches and the functional limits of extant proteins1-5. This challenge is acute for metal polypyridine photocatalysts, which are widely used in visible-light chemistry but have not enabled highly enantioselective photocatalysis within protein scaffolds. Here we show that generative protein design6-8 can create de novo scaffolds that selectively bind these photocatalysts and that directed evolution converts the resulting ArMs into efficient, highly enantioselective photocatalysts9. The evolved proteins support diverse light-driven reactions, high catalyst turnover and catalyst recycling and can function with commercially available racemic metal complexes. Spectroscopic studies show that the protein environment extends the photocatalyst excited-state lifetime and organizes substrate near the cofactor, altering energy transfer and controlling stereoselectivity. These findings establish de novo protein design as a route to functional scaffolds for synthetic metal complexes that lack natural protein partners and provide a strategy for combining protein design and evolution to control non-natural catalytic chemistry.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-026-11317-6"&gt;pubmed (published) — DOI: 10.1038/s41586-026-11317-6&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-026-11317-6"&gt;Published version — DOI: 10.1038/s41586-026-11317-6&lt;/a&gt;&lt;/li&gt;
@@ -539,7 +621,7 @@
     <id>urn:uuid:0f656df5-d24e-544f-b9f7-2a94c8fb47d8</id>
     <title>Reliable and Efficient Agentic Protein Design with Toolset Harnessing.</title>
     <published>2026-10-20T00:00:00Z</published>
-    <updated>2026-11-08T10:18:08Z</updated>
+    <updated>2026-11-19T11:36:31Z</updated>
     <link href="https://doi.org/10.64898/2026.10.19.759896" rel="alternate" />
     <category term="preprint" />
     <author>
@@ -601,7 +683,7 @@
 &lt;p&gt;Sources: biorxiv, pubmed&lt;/p&gt;
 &lt;p&gt;Preprint date: 2026-10-20&lt;/p&gt;
 &lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
-&lt;p&gt;Computational protein design workflows require the orchestration of multiple tools, data formats, and analysis steps that are often fragmented. Here, we introduce Chaperone, a lightweight and customizable framework that enables seamless integration of RFdiffusion3 (RFD3) [1] with downstream sequence design, structure prediction, and evaluation tools, including ProteinMPNN [2], AlphaFold3 (AF3) [3], and more than 50 other protein design tools. By combining a programmable agent-friendly interface with parallelized execution on high-performance computing systems, Chaperone as a harness enables rapid iteration and scalable exploration of complex protein design workflows. Across an evaluation of nine biomolecular design tasks, we find using Chaperone reduces total token usage relative to baseline agents by 86% and GPU costs by 64%, while increasing the overall computational design pass rate. We demonstrate Chaperone&amp;#x27;s utility for large-scale design-space exploration through a two-week end-to-end small-molecule binder design campaign, yielding low nanomolar binders to cortisol zero shot. We further demonstrate its versatility across distinct design challenges, including the design of a symmetric 12-subunit self-assembly nanoparticle and a linker that mediates interactions between C2- and D3-symmetric protein complexes to form crystalline assemblies. Together, these results demonstrate how agent harnesses built around standardized tool interfaces can substantially improve the efficiency and success of complex, long-horizon agentic design workflows in biology. We make Chaperone freely available to the community on GitHub: https://github.com/RosettaCommons/chaperone .&lt;/p&gt;
+&lt;p&gt;Computational protein design workflows require the orchestration of multiple tools, data formats, and analysis steps that are often fragmented. Here, we introduce Chaperone, a lightweight and customizable framework that enables seamless integration of RFdiffusion3 (RFD3) [1] with downstream sequence design, structure prediction, and evaluation tools, including ProteinMPNN [2], AlphaFold3 (AF3) [3], and more than 50 other protein design tools. By combining a programmable agent-friendly interface with parallelized execution on high-performance computing systems, Chaperone as a harness enables rapid iteration and scalable exploration of complex protein design workflows. Across an evaluation of nine biomolecular design tasks, we find using Chaperone reduces total token usage relative to baseline agents by 86% and GPU costs by 64%, while increasing the overall computational design pass rate. We demonstrate Chaperone&amp;#x27;s utility for large-scale design-space exploration through a two-week end-to-end small-molecule binder design campaign, yielding low nanomolar binders to cortisol zero shot. We further demonstrate its versatility across distinct design challenges, including the design of a symmetric 12-subunit self-assembly nanoparticle and a linker that mediates interactions between C2- and D3-symmetric protein complexes to form crystalline assemblies. Together, these results demonstrate how agent harnesses built around standardized tool interfaces can substantially improve the efficiency and success of complex, long-horizon agentic design workflows in biology. We make Chaperone freely available to the community on GitHub: https://github.com/RosettaCommons/chaperone.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.10.19.759896"&gt;biorxiv (preprint) — DOI: 10.64898/2026.10.19.759896&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.10.19.759896"&gt;pubmed (preprint) — DOI: 10.64898/2026.10.19.759896&lt;/a&gt;&lt;/li&gt;
