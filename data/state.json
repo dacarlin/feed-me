@@ -2,19 +2,19 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-11-18T20:28:52Z",
+      "last_success": "2026-11-19T02:32:37Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-11-18T20:28:52Z",
+      "last_success": "2026-11-19T02:32:37Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
-      "last_success": "2026-11-18T00:56:17Z",
+      "last_success": "2026-11-19T02:32:37Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-11-18T20:28:52Z",
+      "last_success": "2026-11-19T02:32:37Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -84,15 +84,15 @@
     "pubmed:39322662": "2026-11-18T00:56:17Z",
     "pubmed:39922190": "2026-11-18T00:56:17Z",
     "pubmed:37781598": "2026-11-18T00:56:17Z",
-    "pubmed:39868203": "2026-11-12T02:15:45Z",
-    "pubmed:41193805": "2026-11-12T02:15:45Z",
-    "pubmed:39375454": "2026-11-12T02:15:45Z",
-    "pubmed:39322764": "2026-11-12T02:15:45Z",
-    "pubmed:40196579": "2026-11-12T02:15:45Z",
-    "pubmed:39386615": "2026-11-12T02:15:45Z",
-    "pubmed:39345553": "2026-11-12T02:15:45Z",
-    "pubmed:38502697": "2026-11-12T02:15:45Z",
-    "pubmed:37577478": "2026-11-12T02:15:45Z",
+    "pubmed:39868203": "2026-11-19T02:32:37Z",
+    "pubmed:41193805": "2026-11-19T02:32:37Z",
+    "pubmed:39375454": "2026-11-19T02:32:37Z",
+    "pubmed:39322764": "2026-11-19T02:32:37Z",
+    "pubmed:40196579": "2026-11-19T02:32:37Z",
+    "pubmed:39386615": "2026-11-19T02:32:37Z",
+    "pubmed:39345553": "2026-11-19T02:32:37Z",
+    "pubmed:38502697": "2026-11-19T02:32:37Z",
+    "pubmed:37577478": "2026-11-19T02:32:37Z",
     "pubmed:42754580": "2026-11-13T01:49:02Z",
     "pubmed:42758048": "2026-11-13T01:49:02Z",
     "pubmed:41292956": "2026-11-13T01:49:02Z",
@@ -121,11 +121,11 @@
     "pubmed:39695145": "2026-11-18T00:56:17Z",
     "pubmed:39024436": "2026-11-18T00:56:17Z",
     "pubmed:38861993": "2026-11-18T00:56:17Z",
-    "pubmed:42777708": "2026-11-12T02:15:45Z",
-    "pubmed:42779973": "2026-11-12T02:15:45Z",
-    "pubmed:40489613": "2026-11-12T02:15:45Z",
-    "pubmed:39394803": "2026-11-12T02:15:45Z",
-    "pubmed:39091726": "2026-11-12T02:15:45Z",
+    "pubmed:42777708": "2026-11-19T02:32:37Z",
+    "pubmed:42779973": "2026-11-19T02:32:37Z",
+    "pubmed:40489613": "2026-11-19T02:32:37Z",
+    "pubmed:39394803": "2026-11-19T02:32:37Z",
+    "pubmed:39091726": "2026-11-19T02:32:37Z",
     "pubmed:41519838": "2026-11-13T01:49:02Z",
     "pubmed:40953261": "2026-11-13T01:49:02Z",
     "pubmed:40450691": "2026-11-13T01:49:02Z",
@@ -139,7 +139,7 @@
     "pubmed:41339547": "2026-11-18T00:56:17Z",
     "pubmed:40739343": "2026-11-18T00:56:17Z",
     "pubmed:39695226": "2026-11-18T00:56:17Z",
-    "pubmed:42845701": "2026-11-12T02:15:45Z",
+    "pubmed:42845701": "2026-11-19T02:32:37Z",
     "biorxiv:10.1101/2025.08.03.668343": "2026-11-13T01:49:02Z",
     "pubmed:42856427": "2026-11-15T06:27:02Z",
     "pubmed:42056544": "2026-11-15T06:27:02Z",
@@ -149,16 +149,16 @@
     "pubmed:34759384": "2026-11-15T06:27:02Z",
     "pubmed:31341280": "2026-11-15T06:27:02Z",
     "pubmed:27995916": "2026-11-15T06:27:02Z",
-    "pubmed:42875488": "2026-11-12T02:15:45Z",
-    "pubmed:42875487": "2026-11-12T02:15:45Z",
+    "pubmed:42875488": "2026-11-19T02:32:37Z",
+    "pubmed:42875487": "2026-11-19T02:32:37Z",
     "pubmed:42879533": "2026-11-13T01:49:02Z",
     "pubmed:42818144": "2026-11-13T01:49:02Z",
     "pubmed:40120690": "2026-11-13T01:49:02Z",
     "pubmed:37433327": "2026-11-15T06:27:02Z",
     "biorxiv:10.64898/2026.10.19.760300": "2026-11-17T03:51:00Z",
     "biorxiv:10.64898/2026.10.19.759896": "2026-11-18T00:56:17Z",
-    "pubmed:38662830": "2026-11-12T02:15:45Z",
-    "pubmed:24352111": "2026-11-12T02:15:45Z",
+    "pubmed:38662830": "2026-11-19T02:32:37Z",
+    "pubmed:24352111": "2026-11-19T02:32:37Z",
     "pubmed:42906913": "2026-11-13T01:49:02Z",
     "pubmed:38289949": "2026-11-14T01:26:26Z",
     "pubmed:37398067": "2026-11-14T01:26:26Z",
@@ -234,7 +234,7 @@
     "pubmed:25902402": "2026-11-16T06:25:04Z",
     "pubmed:43003026": "2026-11-17T03:51:00Z",
     "pubmed:43003839": "2026-11-17T03:51:00Z",
-    "pubmed:40894640": "2026-11-12T11:03:17Z",
+    "pubmed:40894640": "2026-11-19T02:32:37Z",
     "pubmed:42258711": "2026-11-13T01:49:02Z",
     "biorxiv:10.64898/2026.04.26.720818": "2026-11-13T19:39:42Z",
     "pubmed:42995841": "2026-11-16T19:34:51Z",
@@ -41567,6 +41567,123 @@
     "urn:uuid:f9f935fd-6d91-53b9-af07-683764a49ed9": "urn:uuid:d9c869ba-c709-5c1a-8aac-288b447ba30d"
   },
   "rejected": {
+    "arxiv:2611.21857": {
+      "first_seen": "2026-11-19T02:32:37Z",
+      "record": {
+        "source": "arxiv",
+        "source_id": "2611.21857",
+        "title": "tmol: a GPU-accelerated implementation of the Rosetta energy function for machine learning",
+        "authors": [
+          {
+            "name": "Andrew Leaver-Fay",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Kieran Didi",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Jeff Flatten",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Alex Ford",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Guangfeng Zhou",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Nathaniel Corley",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Hahnbeom Park",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Maxwell W. Kazman",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Rafael I. Brent",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Joseph Kleinhenz",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Henry Solberg",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Andrew M. Watkins",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Brian Kuhlman",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "David Baker",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Frank DiMaio",
+            "affiliations": [],
+            "orcid": null
+          }
+        ],
+        "abstract": "Physics-inspired forcefields complement generative machine learning models, showing better generalization beyond the training distribution. However, these forcefields are typically slow to evaluate, and their derivatives are difficult to integrate into ML frameworks. We introduce tmol, a GPU-native PyTorch library implementing the state-of-the-art RosettaGenFF forcefield. tmol supports efficient batched differentiable scoring and whole-structure refinement with up to 362-fold throughput increase (batched). Used as a reward in generative protein design, tmol increases hydrogen bonds and water bridges at designed interfaces.",
+        "date": "2026-11-16",
+        "url": "https://arxiv.org/abs/2611.21857",
+        "doi": null,
+        "status": "preprint",
+        "journal": "",
+        "version": "1",
+        "publication_date": "",
+        "identifiers": [],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "David Baker",
+              "method": "rejected",
+              "affiliations": [],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
     "biorxiv:10.64898/2026.11.17.767301": {
       "first_seen": "2026-11-18T20:28:52Z",
       "record": {
