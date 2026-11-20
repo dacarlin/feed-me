@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-11-20T11:35:43Z",
+      "last_success": "2026-11-20T20:13:40Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-11-20T11:35:43Z",
+      "last_success": "2026-11-20T20:13:40Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-11-20T11:35:43Z",
+      "last_success": "2026-11-20T20:13:40Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -240,7 +240,8 @@
     "pubmed:42995841": "2026-11-16T19:34:51Z",
     "pubmed:37131615": "2026-11-18T11:38:30Z",
     "biorxiv:10.64898/2026.11.17.767279": "2026-11-19T11:36:31Z",
-    "pubmed:43053449": "2026-11-19T11:36:31Z"
+    "pubmed:43053449": "2026-11-19T11:36:31Z",
+    "pubmed:38605024": "2026-11-20T20:13:40Z"
   },
   "works": {
     "urn:uuid:7f477453-6c38-52e7-b591-accb9b0e6576": {
@@ -41921,6 +41922,123 @@
         }
       ],
       "published": "2026-11-18T00:00:00Z"
+    },
+    "urn:uuid:0634c4bd-3187-5c2d-8f1a-23df6bd9997b": {
+      "id": "urn:uuid:0634c4bd-3187-5c2d-8f1a-23df6bd9997b",
+      "first_seen": "2026-11-20T20:13:40Z",
+      "updated": "2026-11-20T20:13:40Z",
+      "records": {
+        "pubmed:38605024": {
+          "source": "pubmed",
+          "source_id": "38605024",
+          "title": "Hydrophobic mismatch drives self-organization of designer proteins into synthetic membranes.",
+          "authors": [
+            {
+              "name": "Justin A Peruzzi",
+              "affiliations": [
+                "Department of Chemical and Biological Engineering, Northwestern University, Evanston, IL, 60208, USA.",
+                "Center for Synthetic Biology, Northwestern University, Evanston, IL, 60208, USA."
+              ],
+              "orcid": "0000-0003-3782-1382"
+            },
+            {
+              "name": "Jan Steinkühler",
+              "affiliations": [
+                "Center for Synthetic Biology, Northwestern University, Evanston, IL, 60208, USA.",
+                "Department of Biomedical Engineering, Northwestern University, Evanston, IL, 60208, USA."
+              ],
+              "orcid": "0000-0003-4226-7945"
+            },
+            {
+              "name": "Timothy Q Vu",
+              "affiliations": [
+                "Center for Synthetic Biology, Northwestern University, Evanston, IL, 60208, USA.",
+                "Department of Biomedical Engineering, Northwestern University, Evanston, IL, 60208, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Taylor F Gunnels",
+              "affiliations": [
+                "Center for Synthetic Biology, Northwestern University, Evanston, IL, 60208, USA.",
+                "Department of Biomedical Engineering, Northwestern University, Evanston, IL, 60208, USA."
+              ],
+              "orcid": "0000-0002-2498-2630"
+            },
+            {
+              "name": "Vivian T Hu",
+              "affiliations": [
+                "Center for Synthetic Biology, Northwestern University, Evanston, IL, 60208, USA.",
+                "Department of Biomedical Engineering, Northwestern University, Evanston, IL, 60208, USA."
+              ],
+              "orcid": "0009-0001-5391-1049"
+            },
+            {
+              "name": "Peilong Lu",
+              "affiliations": [
+                "Key Laboratory of Structural Biology of Zhejiang Province, School of Life Sciences, Westlake University, Hangzhou, Zhejiang, China.",
+                "Westlake Laboratory of Life Sciences and Biomedicine, Hangzhou, Zhejiang, China.",
+                "Institute of Biology, Westlake Institute for Advanced Study, Hangzhou, Zhejiang, China."
+              ],
+              "orcid": "0000-0001-5894-9268"
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, 98195, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, 98195, USA."
+              ],
+              "orcid": "0000-0001-7896-6217"
+            },
+            {
+              "name": "Neha P Kamat",
+              "affiliations": [
+                "Center for Synthetic Biology, Northwestern University, Evanston, IL, 60208, USA. nkamat@northwestern.edu.",
+                "Department of Biomedical Engineering, Northwestern University, Evanston, IL, 60208, USA. nkamat@northwestern.edu.",
+                "Chemistry of Life Processes Institute, Northwestern University, Evanston, IL, 60208, USA. nkamat@northwestern.edu."
+              ],
+              "orcid": "0000-0001-9362-6106"
+            }
+          ],
+          "abstract": "The organization of membrane proteins between and within membrane-bound compartments is critical to cellular function. Yet we lack approaches to regulate this organization in a range of membrane-based materials, such as engineered cells, exosomes, and liposomes. Uncovering and leveraging biophysical drivers of membrane protein organization to design membrane systems could greatly enhance the functionality of these materials. Towards this goal, we use de novo protein design, molecular dynamic simulations, and cell-free systems to explore how membrane-protein hydrophobic mismatch could be used to tune protein cotranslational integration and organization in synthetic lipid membranes. We find that membranes must deform to accommodate membrane-protein hydrophobic mismatch, which reduces the expression and co-translational insertion of membrane proteins into synthetic membranes. We use this principle to sort proteins both between and within membranes, thereby achieving one-pot assembly of vesicles with distinct functions and controlled split-protein assembly, respectively. Our results shed light on protein organization in biological membranes and provide a framework to design self-organizing membrane-based materials with applications such as artificial cells, biosensors, and therapeutic nanoparticles.",
+          "date": "2024-04-11",
+          "url": "https://doi.org/10.1038/s41467-024-47163-1",
+          "doi": "10.1038/s41467-024-47163-1",
+          "status": "published",
+          "journal": "Nature communications",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC11009411"
+          ],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:38605024",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:38605024",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2024-04-11T00:00:00Z"
     }
   },
   "aliases": {
@@ -41928,6 +42046,244 @@
     "urn:uuid:f9f935fd-6d91-53b9-af07-683764a49ed9": "urn:uuid:d9c869ba-c709-5c1a-8aac-288b447ba30d"
   },
   "rejected": {
+    "pubmed:43060090": {
+      "first_seen": "2026-11-20T20:13:40Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "43060090",
+        "title": "Programmable amide bond formation using de novo ligases.",
+        "authors": [
+          {
+            "name": "Saman Salike",
+            "affiliations": [],
+            "orcid": "0009-0007-1060-0287"
+          },
+          {
+            "name": "Timo Flügel",
+            "affiliations": [],
+            "orcid": "0000-0003-3502-1023"
+          },
+          {
+            "name": "Maximilian Gantz",
+            "affiliations": [],
+            "orcid": "0000-0003-0061-9308"
+          },
+          {
+            "name": "Stanislav S Moroz",
+            "affiliations": [],
+            "orcid": "0009-0002-6209-421X"
+          },
+          {
+            "name": "Andrew C Hunt",
+            "affiliations": [],
+            "orcid": "0000-0001-9620-593X"
+          },
+          {
+            "name": "Henry Jones",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Abhishek Singh",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Nathaniel Corley",
+            "affiliations": [],
+            "orcid": "0000-0002-6509-7144"
+          },
+          {
+            "name": "Kieran Didi",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Rafael I Brent",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Maxwell W Kazman",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Zefei Xu",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Christina Savvides",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Seth M Woodbury",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Belen Sotomayor",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Hannah Nguyen",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Johnny Mendoza",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Alex Kang",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Asim K Bera",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Xinting Li",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Sambashiva Banala",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Jasper Butcher",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Luke D Lavis",
+            "affiliations": [],
+            "orcid": "0000-0002-0789-6343"
+          },
+          {
+            "name": "Anthony P Green",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Donald Hilvert",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "David Baker",
+            "affiliations": [],
+            "orcid": null
+          }
+        ],
+        "abstract": "Amide bond formation is of central importance in the chemical industry, underpinning the synthesis of small bioactive molecules, macrocycles, peptides and their conjugates. Conventional methods of amide synthesis rely on stoichiometric coupling agents and costly protecting group manipulations. While biocatalysis can alleviate some of these challenges, enzymes typically operate across a narrow range of substrates and their adaptation to new coupling partners requires extensive engineering. Here we show that de novo amide ligases featuring a cysteine catalytic triad can be programmed computationally to operate across diverse substrate classes with high selectivity. We first designed complementary peptide ligases to selectively functionalise either the N-terminus or a single lysine residue of a polypeptide sequence containing 36 competing lysines. Crystal structures of both ligases show excellent agreement with the designs, with structural modelling suggesting that amidation outcompetes hydrolysis because the catalytically competent geometry forms only upon acceptor binding. We then extended our approach to the synthesis of small bioactive molecules by designing stereoselective ligases that mediate a key amide bonding forming step in the synthesis of the preventative HIV therapeutic lenacapavir. These results establish de novo enzyme design as a programmable platform for achieving selective amide bond formations across a wide range of molecular targets.",
+        "date": "2026-11-11",
+        "url": "https://doi.org/10.64898/2026.11.08.765178",
+        "doi": "10.64898/2026.11.08.765178",
+        "status": "preprint",
+        "journal": "bioRxiv : the preprint server for biology",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [
+          "pmc:PMC13779230"
+        ],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "David Baker",
+              "method": "rejected",
+              "affiliations": [],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
+    "pubmed:43060075": {
+      "first_seen": "2026-11-20T20:13:40Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "43060075",
+        "title": "Binding of a Macrocyclic Nonapeptide Inhibitor to Histone Deacetylase 6.",
+        "authors": [
+          {
+            "name": "Abraham Eafa",
+            "affiliations": [],
+            "orcid": "0009-0000-7581-0073"
+          },
+          {
+            "name": "Parisa Hosseinzadeh",
+            "affiliations": [],
+            "orcid": "0000-0002-3128-7433"
+          },
+          {
+            "name": "David Baker",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "David W Christianson",
+            "affiliations": [],
+            "orcid": "0000-0002-0194-5212"
+          }
+        ],
+        "abstract": "Histone deacetylase 6 (HDAC6) plays an essential role in the regulation of post-translational lysine acetylation. Myriad biological processes depend on the precise regulation of lysine acetylation-deacetylation cycles, and their dysregulation is linked to human pathologies such as cancer and neurodegeneration. Broad-specificity HDAC inhibitors are efficacious in treating disease, but the inhibitors currently approved for clinical use often cause deleterious side effects due to inhibition of multiple HDAC isozymes as well as other zinc enzymes. Cyclic peptides comprise novel platforms that, in principle, can be tailored for affinity and selectivity. A key advantage of cyclic peptide design is the ability to incorporate both canonical and noncanonical amino acids. As part of our program focusing on cyclic peptide HDAC inhibitors, we now report the 1.9-Å resolution crystal structure of HDAC6 CD2 complexed with macrocyclic nonapeptide 1 . The structure reveals zinc coordination by a noncanonical thiolate-containing amino acid, plus direct and water-mediated enzyme-inhibitor hydrogen bonds that contribute to nanomolar inhibitory potency. Structural comparisons with previously reported HDAC6 CD2 complexes with tetrapeptide and octapeptide macrocycles reveal similar networks of direct and water-mediated interactions. Given the surge of interest in cyclic peptide inhibitors, fueled in part by advances in computational design approaches, the crystal structure of the HDAC6 CD2- 1 complex sets an important foundation for further development of macrocyclic peptide inhibitors.",
+        "date": "2026-11-03",
+        "url": "https://doi.org/10.64898/2026.10.10.758213",
+        "doi": "10.64898/2026.10.10.758213",
+        "status": "preprint",
+        "journal": "bioRxiv : the preprint server for biology",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [
+          "pmc:PMC13780525"
+        ],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "David Baker",
+              "method": "rejected",
+              "affiliations": [],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
     "pubmed:43053849": {
       "first_seen": "2026-11-19T11:36:31Z",
       "record": {

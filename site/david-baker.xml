@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-11-19T11:36:31Z</updated>
+  <updated>2026-11-20T20:13:40Z</updated>
   <entry>
     <id>urn:uuid:a2b00ede-fba9-563b-895c-d09849d5fb39</id>
     <title>Crystal structure of the first de novo designed phosphotriesterase ZAPP-1</title>
@@ -9133,6 +9133,48 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1126/science.adk1687"&gt;pubmed (published) — DOI: 10.1126/science.adk1687&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1126/science.adk1687"&gt;Published version — DOI: 10.1126/science.adk1687&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:0634c4bd-3187-5c2d-8f1a-23df6bd9997b</id>
+    <title>Hydrophobic mismatch drives self-organization of designer proteins into synthetic membranes.</title>
+    <published>2024-04-11T00:00:00Z</published>
+    <updated>2026-11-20T20:13:40Z</updated>
+    <link href="https://doi.org/10.1038/s41467-024-47163-1" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Justin A Peruzzi</name>
+    </author>
+    <author>
+      <name>Jan Steinkühler</name>
+    </author>
+    <author>
+      <name>Timothy Q Vu</name>
+    </author>
+    <author>
+      <name>Taylor F Gunnels</name>
+    </author>
+    <author>
+      <name>Vivian T Hu</name>
+    </author>
+    <author>
+      <name>Peilong Lu</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Neha P Kamat</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Justin A Peruzzi; Jan Steinkühler; Timothy Q Vu; Taylor F Gunnels; Vivian T Hu; Peilong Lu; David Baker; Neha P Kamat&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2024-04-11&lt;/p&gt;
+&lt;p&gt;Journal: Nature communications&lt;/p&gt;
+&lt;p&gt;The organization of membrane proteins between and within membrane-bound compartments is critical to cellular function. Yet we lack approaches to regulate this organization in a range of membrane-based materials, such as engineered cells, exosomes, and liposomes. Uncovering and leveraging biophysical drivers of membrane protein organization to design membrane systems could greatly enhance the functionality of these materials. Towards this goal, we use de novo protein design, molecular dynamic simulations, and cell-free systems to explore how membrane-protein hydrophobic mismatch could be used to tune protein cotranslational integration and organization in synthetic lipid membranes. We find that membranes must deform to accommodate membrane-protein hydrophobic mismatch, which reduces the expression and co-translational insertion of membrane proteins into synthetic membranes. We use this principle to sort proteins both between and within membranes, thereby achieving one-pot assembly of vesicles with distinct functions and controlled split-protein assembly, respectively. Our results shed light on protein organization in biological membranes and provide a framework to design self-organizing membrane-based materials with applications such as artificial cells, biosensors, and therapeutic nanoparticles.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41467-024-47163-1"&gt;pubmed (published) — DOI: 10.1038/s41467-024-47163-1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41467-024-47163-1"&gt;Published version — DOI: 10.1038/s41467-024-47163-1&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
