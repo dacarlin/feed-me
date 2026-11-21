@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-11-21T02:11:56Z",
+      "last_success": "2026-11-21T10:58:20Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-11-21T02:11:56Z",
+      "last_success": "2026-11-21T10:58:20Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-11-21T02:11:56Z",
+      "last_success": "2026-11-21T10:58:20Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -241,7 +241,14 @@
     "pubmed:37131615": "2026-11-18T11:38:30Z",
     "biorxiv:10.64898/2026.11.17.767279": "2026-11-19T11:36:31Z",
     "pubmed:43053449": "2026-11-19T11:36:31Z",
-    "pubmed:38605024": "2026-11-20T20:13:40Z"
+    "pubmed:38605024": "2026-11-20T20:13:40Z",
+    "pubmed:33863889": "2026-11-21T10:58:20Z",
+    "pubmed:33501432": "2026-11-21T10:58:20Z",
+    "pubmed:33299994": "2026-11-21T10:58:20Z",
+    "pubmed:32946741": "2026-11-21T10:58:20Z",
+    "pubmed:31896580": "2026-11-21T10:58:20Z",
+    "pubmed:30962376": "2026-11-21T10:58:20Z",
+    "pubmed:30849373": "2026-11-21T10:58:20Z"
   },
   "works": {
     "urn:uuid:7f477453-6c38-52e7-b591-accb9b0e6576": {
@@ -41804,7 +41811,7 @@
     "urn:uuid:09113762-4b70-546f-90d2-1ecb9b0fbe99": {
       "id": "urn:uuid:09113762-4b70-546f-90d2-1ecb9b0fbe99",
       "first_seen": "2026-11-19T11:36:31Z",
-      "updated": "2026-11-19T11:36:31Z",
+      "updated": "2026-11-21T10:58:20Z",
       "records": {
         "pubmed:43053449": {
           "source": "pubmed",
@@ -41886,7 +41893,9 @@
           "journal": "Journal of the American Chemical Society",
           "version": "",
           "publication_date": "",
-          "identifiers": [],
+          "identifiers": [
+            "pmc:PMC13787292"
+          ],
           "relations": []
         }
       },
@@ -41919,6 +41928,16 @@
           "record": "pubmed:43053449",
           "method": "new_work",
           "reason": "no existing work"
+        },
+        {
+          "record": "pubmed:43053449",
+          "rank": 3,
+          "method": "shared_identifier",
+          "identifiers": [
+            "doi:10.1021/jacs.6c15293",
+            "pubmed:43053449"
+          ],
+          "matched_record": "pubmed:43053449"
         }
       ],
       "published": "2026-11-18T00:00:00Z"
@@ -42039,6 +42058,1389 @@
         }
       ],
       "published": "2024-04-11T00:00:00Z"
+    },
+    "urn:uuid:c9cb3847-c77a-5705-80f1-7c79f8a834b0": {
+      "id": "urn:uuid:c9cb3847-c77a-5705-80f1-7c79f8a834b0",
+      "first_seen": "2026-11-21T10:58:20Z",
+      "updated": "2026-11-21T10:58:20Z",
+      "records": {
+        "pubmed:30849373": {
+          "source": "pubmed",
+          "source_id": "30849373",
+          "title": "Induction of Potent Neutralizing Antibody Responses by a Designed Protein Nanoparticle Vaccine for Respiratory Syncytial Virus.",
+          "authors": [
+            {
+              "name": "Jessica Marcandalli",
+              "affiliations": [
+                "Università della Svizzera italiana, Faculty of Biomedical Sciences, Institute for Research in Biomedicine, Bellinzona, Switzerland."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Brooke Fiala",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA; Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Sebastian Ols",
+              "affiliations": [
+                "Department of Medicine Solna, Division of Immunology and Allergy, Karolinska Institutet, Stockholm, Sweden; Center for Molecular Medicine, Karolinska Institutet, Stockholm, Sweden."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Michela Perotti",
+              "affiliations": [
+                "Università della Svizzera italiana, Faculty of Biomedical Sciences, Institute for Research in Biomedicine, Bellinzona, Switzerland; Institute of Microbiology, ETH Zürich, Switzerland."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Willem de van der Schueren",
+              "affiliations": [
+                "Clinical Research Division, Fred Hutchinson Cancer Research Center, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Joost Snijder",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Edgar Hodge",
+              "affiliations": [
+                "Department of Medicinal Chemistry, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Mark Benhaim",
+              "affiliations": [
+                "Department of Medicinal Chemistry, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Rashmi Ravichandran",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA; Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Lauren Carter",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA; Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Will Sheffler",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA; Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Livia Brunner",
+              "affiliations": [
+                "Vaccine Formulation Laboratory, University of Lausanne, Epalinges, Switzerland."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Maria Lawrenz",
+              "affiliations": [
+                "Vaccine Formulation Institute, Godalming, UK."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Patrice Dubois",
+              "affiliations": [
+                "Vaccine Formulation Institute, Godalming, UK."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Antonio Lanzavecchia",
+              "affiliations": [
+                "Università della Svizzera italiana, Faculty of Biomedical Sciences, Institute for Research in Biomedicine, Bellinzona, Switzerland."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Federica Sallusto",
+              "affiliations": [
+                "Università della Svizzera italiana, Faculty of Biomedical Sciences, Institute for Research in Biomedicine, Bellinzona, Switzerland; Institute of Microbiology, ETH Zürich, Switzerland."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Kelly K Lee",
+              "affiliations": [
+                "Department of Medicinal Chemistry, University of Washington, Seattle, WA, USA; Biological Physics Structure and Design Program, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David Veesler",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Colin E Correnti",
+              "affiliations": [
+                "Clinical Research Division, Fred Hutchinson Cancer Research Center, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Lance J Stewart",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA; Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA; Institute for Protein Design, University of Washington, Seattle, WA, USA; Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Karin Loré",
+              "affiliations": [
+                "Department of Medicine Solna, Division of Immunology and Allergy, Karolinska Institutet, Stockholm, Sweden; Center for Molecular Medicine, Karolinska Institutet, Stockholm, Sweden."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Laurent Perez",
+              "affiliations": [
+                "Università della Svizzera italiana, Faculty of Biomedical Sciences, Institute for Research in Biomedicine, Bellinzona, Switzerland; European Virus Bioinformatics Center, Jena, Germany. Electronic address: laurent.perez@irb.usi.ch."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Neil P King",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA; Institute for Protein Design, University of Washington, Seattle, WA, USA. Electronic address: neilking@uw.edu."
+              ],
+              "orcid": null
+            }
+          ],
+          "abstract": "Respiratory syncytial virus (RSV) is a worldwide public health concern for which no vaccine is available. Elucidation of the prefusion structure of the RSV F glycoprotein and its identification as the main target of neutralizing antibodies have provided new opportunities for development of an effective vaccine. Here, we describe the structure-based design of a self-assembling protein nanoparticle presenting a prefusion-stabilized variant of the F glycoprotein trimer (DS-Cav1) in a repetitive array on the nanoparticle exterior. The two-component nature of the nanoparticle scaffold enabled the production of highly ordered, monodisperse immunogens that display DS-Cav1 at controllable density. In mice and nonhuman primates, the full-valency nanoparticle immunogen displaying 20 DS-Cav1 trimers induced neutralizing antibody responses ∼10-fold higher than trimeric DS-Cav1. These results motivate continued development of this promising nanoparticle RSV vaccine candidate and establish computationally designed two-component nanoparticles as a robust and customizable platform for structure-based vaccine design.",
+          "date": "2019-03-07",
+          "url": "https://doi.org/10.1016/j.cell.2019.01.046",
+          "doi": "10.1016/j.cell.2019.01.046",
+          "status": "published",
+          "journal": "Cell",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC6424820"
+          ],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:30849373",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "name_and_affiliations",
+                "affiliations": [
+                  "Department of Biochemistry, University of Washington, Seattle, WA, USA; Institute for Protein Design, University of Washington, Seattle, WA, USA; Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+                ],
+                "matched_affiliations": [
+                  "Institute for Protein Design",
+                  "University of Washington",
+                  "Department of Biochemistry"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:30849373",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2019-03-07T00:00:00Z"
+    },
+    "urn:uuid:d5a46b1c-bd90-51c1-ada2-f8dddc504d63": {
+      "id": "urn:uuid:d5a46b1c-bd90-51c1-ada2-f8dddc504d63",
+      "first_seen": "2026-11-21T10:58:20Z",
+      "updated": "2026-11-21T10:58:20Z",
+      "records": {
+        "pubmed:30962376": {
+          "source": "pubmed",
+          "source_id": "30962376",
+          "title": "Blind tests of RNA-protein binding affinity prediction.",
+          "authors": [
+            {
+              "name": "Kalli Kappel",
+              "affiliations": [
+                "Biophysics Program, Stanford University, Stanford, CA 94305."
+              ],
+              "orcid": "0000-0002-2129-199X"
+            },
+            {
+              "name": "Inga Jarmoskaite",
+              "affiliations": [
+                "Department of Biochemistry, Stanford University School of Medicine, Stanford, CA 94305."
+              ],
+              "orcid": "0000-0001-5847-5867"
+            },
+            {
+              "name": "Pavanapuresan P Vaidyanathan",
+              "affiliations": [
+                "Department of Biochemistry, Stanford University School of Medicine, Stanford, CA 94305."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "William J Greenleaf",
+              "affiliations": [
+                "Department of Genetics, Stanford University School of Medicine, Stanford, CA 94305.",
+                "Department of Applied Physics, Stanford University, Stanford, CA 94305."
+              ],
+              "orcid": "0000-0003-1409-3095"
+            },
+            {
+              "name": "Daniel Herschlag",
+              "affiliations": [
+                "Department of Biochemistry, Stanford University School of Medicine, Stanford, CA 94305."
+              ],
+              "orcid": "0000-0002-4685-1973"
+            },
+            {
+              "name": "Rhiju Das",
+              "affiliations": [
+                "Biophysics Program, Stanford University, Stanford, CA 94305; rhiju@stanford.edu.",
+                "Department of Biochemistry, Stanford University School of Medicine, Stanford, CA 94305.",
+                "Department of Physics, Stanford University, Stanford, CA 94305."
+              ],
+              "orcid": "0000-0001-7497-0972"
+            }
+          ],
+          "abstract": "Interactions between RNA and proteins are pervasive in biology, driving fundamental processes such as protein translation and participating in the regulation of gene expression. Modeling the energies of RNA-protein interactions is therefore critical for understanding and repurposing living systems but has been hindered by complexities unique to RNA-protein binding. Here, we bring together several advances to complete a calculation framework for RNA-protein binding affinities, including a unified free energy function for bound complexes, automated Rosetta modeling of mutations, and use of secondary structure-based energetic calculations to model unbound RNA states. The resulting Rosetta-Vienna RNP-ΔΔG method achieves root-mean-squared errors (RMSEs) of 1.3 kcal/mol on high-throughput MS2 coat protein-RNA measurements and 1.5 kcal/mol on an independent test set involving the signal recognition particle, human U1A, PUM1, and FOX-1. As a stringent test, the method achieves RMSE accuracy of 1.4 kcal/mol in blind predictions of hundreds of human PUM2-RNA relative binding affinities. Overall, these RMSE accuracies are significantly better than those attained by prior structure-based approaches applied to the same systems. Importantly, Rosetta-Vienna RNP-ΔΔG establishes a framework for further improvements in modeling RNA-protein binding that can be tested by prospective high-throughput measurements on new systems.",
+          "date": "2019-04-08",
+          "url": "https://doi.org/10.1073/pnas.1819047116",
+          "doi": "10.1073/pnas.1819047116",
+          "status": "published",
+          "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC6486753"
+          ],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "daniel-herschlag": [
+          {
+            "record": "pubmed:30962376",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "Daniel Herschlag",
+                "method": "orcid",
+                "orcid": "0000-0002-4685-1973"
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:30962376",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2019-04-08T00:00:00Z"
+    },
+    "urn:uuid:db133706-6d2b-597c-b1eb-0ca8cc106109": {
+      "id": "urn:uuid:db133706-6d2b-597c-b1eb-0ca8cc106109",
+      "first_seen": "2026-11-21T10:58:20Z",
+      "updated": "2026-11-21T10:58:20Z",
+      "records": {
+        "pubmed:31896580": {
+          "source": "pubmed",
+          "source_id": "31896580",
+          "title": "Improved protein structure prediction using predicted interresidue orientations.",
+          "authors": [
+            {
+              "name": "Jianyi Yang",
+              "affiliations": [
+                "School of Mathematical Sciences, Nankai University, 300071 Tianjin, China."
+              ],
+              "orcid": "0000-0003-2912-7737"
+            },
+            {
+              "name": "Ivan Anishchenko",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98105.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98105."
+              ],
+              "orcid": "0000-0003-3645-2044"
+            },
+            {
+              "name": "Hahnbeom Park",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98105.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98105."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Zhenling Peng",
+              "affiliations": [
+                "Center for Applied Mathematics, Tianjin University, 300072 Tianjin, China."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Sergey Ovchinnikov",
+              "affiliations": [
+                "John Harvard Distinguished Science Fellowship Program, Harvard University, Cambridge, MA 02138."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98105; dabaker@uw.edu.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98105.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA 98105."
+              ],
+              "orcid": "0000-0001-7896-6217"
+            }
+          ],
+          "abstract": "The prediction of interresidue contacts and distances from coevolutionary data using deep learning has considerably advanced protein structure prediction. Here, we build on these advances by developing a deep residual network for predicting interresidue orientations, in addition to distances, and a Rosetta-constrained energy-minimization protocol for rapidly and accurately generating structure models guided by these restraints. In benchmark tests on 13th Community-Wide Experiment on the Critical Assessment of Techniques for Protein Structure Prediction (CASP13)- and Continuous Automated Model Evaluation (CAMEO)-derived sets, the method outperforms all previously described structure-prediction methods. Although trained entirely on native proteins, the network consistently assigns higher probability to de novo-designed proteins, identifying the key fold-determining residues and providing an independent quantitative measure of the \"ideality\" of a protein structure. The method promises to be useful for a broad range of protein structure prediction and design problems.",
+          "date": "2020-01-02",
+          "url": "https://doi.org/10.1073/pnas.1914677117",
+          "doi": "10.1073/pnas.1914677117",
+          "status": "published",
+          "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC6983395"
+          ],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:31896580",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:31896580",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2020-01-02T00:00:00Z"
+    },
+    "urn:uuid:a55f42f0-0482-54b5-a38a-f7f573335ac3": {
+      "id": "urn:uuid:a55f42f0-0482-54b5-a38a-f7f573335ac3",
+      "first_seen": "2026-11-21T10:58:20Z",
+      "updated": "2026-11-21T10:58:20Z",
+      "records": {
+        "pubmed:32946741": {
+          "source": "pubmed",
+          "source_id": "32946741",
+          "title": "A Potent Anti-Malarial Human Monoclonal Antibody Targets Circumsporozoite Protein Minor Repeats and Neutralizes Sporozoites in the Liver.",
+          "authors": [
+            {
+              "name": "Lawrence T Wang",
+              "affiliations": [
+                "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD 20892, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Lais S Pereira",
+              "affiliations": [
+                "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD 20892, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Yevel Flores-Garcia",
+              "affiliations": [
+                "Malaria Research Institute, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD 21205, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "James O'Connor",
+              "affiliations": [
+                "Department of Immunology and Infectious Diseases, John Curtin School of Medical Research, The Australian National University, Canberra, ACT 0200, Australia; The Australian National University Medical School, Canberra, ACT 2601, Australia."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Barbara J Flynn",
+              "affiliations": [
+                "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD 20892, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Arne Schön",
+              "affiliations": [
+                "Department of Biology, Johns Hopkins University, Baltimore, MD 21205, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Nicholas K Hurlburt",
+              "affiliations": [
+                "Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, WA 98109, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Marlon Dillon",
+              "affiliations": [
+                "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD 20892, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Annie S P Yang",
+              "affiliations": [
+                "Radboud Center for Infectious Diseases, Radboud University Medical Center, Nijmegen, the Netherlands."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Amanda Fabra-García",
+              "affiliations": [
+                "Radboud Center for Infectious Diseases, Radboud University Medical Center, Nijmegen, the Netherlands."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Azza H Idris",
+              "affiliations": [
+                "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD 20892, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Bryan T Mayer",
+              "affiliations": [
+                "Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, WA 98109, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Monica W Gerber",
+              "affiliations": [
+                "Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, WA 98109, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Raphael Gottardo",
+              "affiliations": [
+                "Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, WA 98109, USA; Public Health Sciences Division, Fred Hutchinson Cancer Research Center, Seattle, WA 98109, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Rosemarie D Mason",
+              "affiliations": [
+                "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD 20892, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Nicole Cavett",
+              "affiliations": [
+                "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD 20892, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Reid B Ballard",
+              "affiliations": [
+                "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD 20892, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Neville K Kisalu",
+              "affiliations": [
+                "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD 20892, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Alvaro Molina-Cruz",
+              "affiliations": [
+                "Laboratory of Malaria and Vector Research, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Rockville, MD 20852, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Jorgen Nelson",
+              "affiliations": [
+                "Department of Biochemistry and Institute for Protein Design, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Rachel Vistein",
+              "affiliations": [
+                "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD 20892, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Carolina Barillas-Mury",
+              "affiliations": [
+                "Laboratory of Malaria and Vector Research, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Rockville, MD 20852, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Rogerio Amino",
+              "affiliations": [
+                "Unit of Malaria Infection and Immunity, Institut Pasteur, 25-28 Rue du Dr Roux, 75015 Paris, France."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry and Institute for Protein Design, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Neil P King",
+              "affiliations": [
+                "Department of Biochemistry and Institute for Protein Design, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Robert W Sauerwein",
+              "affiliations": [
+                "Radboud Center for Infectious Diseases, Radboud University Medical Center, Nijmegen, the Netherlands."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Marie Pancera",
+              "affiliations": [
+                "Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, WA 98109, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Ian A Cockburn",
+              "affiliations": [
+                "Department of Immunology and Infectious Diseases, John Curtin School of Medical Research, The Australian National University, Canberra, ACT 0200, Australia."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Fidel Zavala",
+              "affiliations": [
+                "Malaria Research Institute, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD 21205, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Joseph R Francica",
+              "affiliations": [
+                "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD 20892, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Robert A Seder",
+              "affiliations": [
+                "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD 20892, USA. Electronic address: rseder@mail.nih.gov."
+              ],
+              "orcid": null
+            }
+          ],
+          "abstract": "Discovering potent human monoclonal antibodies (mAbs) targeting the Plasmodium falciparum circumsporozoite protein (PfCSP) on sporozoites (SPZ) and elucidating their mechanisms of neutralization will facilitate translation for passive prophylaxis and aid next-generation vaccine development. Here, we isolated a neutralizing human mAb, L9 that preferentially bound NVDP minor repeats of PfCSP with high affinity while cross-reacting with NANP major repeats. L9 was more potent than six published neutralizing human PfCSP mAbs at mediating protection against mosquito bite challenge in mice. Isothermal titration calorimetry and multiphoton microscopy showed that L9 and the other most protective mAbs bound PfCSP with two binding events and mediated protection by killing SPZ in the liver and by preventing their egress from sinusoids and traversal of hepatocytes. This study defines the subdominant PfCSP minor repeats as neutralizing epitopes, identifies an in vitro biophysical correlate of SPZ neutralization, and demonstrates that the liver is an important site for antibodies to prevent malaria.",
+          "date": "2020-09-17",
+          "url": "https://doi.org/10.1016/j.immuni.2020.08.014",
+          "doi": "10.1016/j.immuni.2020.08.014",
+          "status": "published",
+          "journal": "Immunity",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC7572793"
+          ],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:32946741",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "name_and_affiliations",
+                "affiliations": [
+                  "Department of Biochemistry and Institute for Protein Design, University of Washington, Seattle, WA 98195, USA."
+                ],
+                "matched_affiliations": [
+                  "Institute for Protein Design",
+                  "University of Washington",
+                  "Department of Biochemistry"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:32946741",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2020-09-17T00:00:00Z"
+    },
+    "urn:uuid:f7fce9ca-bfd2-5a2c-af2c-d1e774b202be": {
+      "id": "urn:uuid:f7fce9ca-bfd2-5a2c-af2c-d1e774b202be",
+      "first_seen": "2026-11-21T10:58:20Z",
+      "updated": "2026-11-21T10:58:20Z",
+      "records": {
+        "pubmed:33299994": {
+          "source": "pubmed",
+          "source_id": "33299994",
+          "title": "Designed proteins assemble antibodies into modular nanocages.",
+          "authors": [
+            {
+              "name": "Robby Divine",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Ha V Dang",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "George Ueda",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Jorge A Fallas",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Ivan Vulovic",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "William Sheffler",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Shally Saini",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Institute for Stem Cell and Regenerative Medicine, University of Washington, Seattle, WA 98109, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Yan Ting Zhao",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Institute for Stem Cell and Regenerative Medicine, University of Washington, Seattle, WA 98109, USA.",
+                "Oral Health Sciences, School of Dentistry, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Infencia Xavier Raj",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Institute for Stem Cell and Regenerative Medicine, University of Washington, Seattle, WA 98109, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Peter A Morawski",
+              "affiliations": [
+                "Benaroya Research Institute, Seattle, WA 98101, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Madeleine F Jennewein",
+              "affiliations": [
+                "Fred Hutchinson Cancer Research Center, Vaccines and Infectious Diseases Division, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Leah J Homad",
+              "affiliations": [
+                "Fred Hutchinson Cancer Research Center, Vaccines and Infectious Diseases Division, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Yu-Hsin Wan",
+              "affiliations": [
+                "Fred Hutchinson Cancer Research Center, Vaccines and Infectious Diseases Division, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Marti R Tooley",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Franzika Seeger",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Ali Etemadi",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA.",
+                "Medical Biotechnology Department, School of Advanced Technologies in Medicine, Tehran University of Medical Sciences (TUMS), Tehran, Iran."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Mitchell L Fahning",
+              "affiliations": [
+                "Benaroya Research Institute, Seattle, WA 98101, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "James Lazarovits",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Alex Roederer",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Alexandra C Walls",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Lance Stewart",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Mohammadali Mazloomi",
+              "affiliations": [
+                "Medical Biotechnology Department, School of Advanced Technologies in Medicine, Tehran University of Medical Sciences (TUMS), Tehran, Iran."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Neil P King",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Daniel J Campbell",
+              "affiliations": [
+                "Benaroya Research Institute, Seattle, WA 98101, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Andrew T McGuire",
+              "affiliations": [
+                "Fred Hutchinson Cancer Research Center, Vaccines and Infectious Diseases Division, Seattle, WA, USA.",
+                "University of Washington, Department of Global Health, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Leonidas Stamatatos",
+              "affiliations": [
+                "Fred Hutchinson Cancer Research Center, Vaccines and Infectious Diseases Division, Seattle, WA, USA.",
+                "University of Washington, Department of Global Health, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Hannele Ruohola-Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Institute for Stem Cell and Regenerative Medicine, University of Washington, Seattle, WA 98109, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Julie Mathieu",
+              "affiliations": [
+                "Institute for Stem Cell and Regenerative Medicine, University of Washington, Seattle, WA 98109, USA.",
+                "Department of Comparative Medicine, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David Veesler",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": null
+            }
+          ],
+          "abstract": "Antibodies are widely used in biology and medicine, and there has been considerable interest in multivalent antibody formats to increase binding avidity and enhance signaling pathway agonism. However, there are currently no general approaches for forming precisely oriented antibody assemblies with controlled valency. We describe the computational design of two-component nanocages that overcome this limitation by uniting form and function. One structural component is any antibody or Fc fusion and the second is a designed Fc-binding homo-oligomer that drives nanocage assembly. Structures of 8 antibody nanocages determined by electron microscopy spanning dihedral, tetrahedral, octahedral, and icosahedral architectures with 2, 6, 12, and 30 antibodies per nanocage match the corresponding computational models. Antibody nanocages targeting cell-surface receptors enhance signaling compared to free antibodies or Fc-fusions in DR5-mediated apoptosis, Tie2-mediated angiogenesis, CD40 activation, and T cell proliferation; nanocage assembly also increases SARS-CoV-2 pseudovirus neutralization by α-SARS-CoV-2 monoclonal antibodies and Fc-ACE2 fusion proteins. We anticipate that the ability to assemble arbitrary antibodies without need for covalent modification into highly ordered assemblies with different geometries and valencies will have broad impact in biology and medicine.",
+          "date": "2020-12-01",
+          "url": "https://doi.org/10.1101/2020.12.01.406611",
+          "doi": "10.1101/2020.12.01.406611",
+          "status": "preprint",
+          "journal": "bioRxiv : the preprint server for biology",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC7724662"
+          ],
+          "relations": [
+            {
+              "kind": "is_preprint_of",
+              "target": "pubmed:33795432",
+              "evidence": "PubMed preprint UpdateIn"
+            }
+          ]
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:33299994",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "name_and_affiliations",
+                "affiliations": [
+                  "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                  "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA.",
+                  "Howard Hughes Medical Institute, University of Washington, Seattle, WA 98195, USA."
+                ],
+                "matched_affiliations": [
+                  "Institute for Protein Design",
+                  "University of Washington",
+                  "Department of Biochemistry"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:33299994",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2020-12-01T00:00:00Z"
+    },
+    "urn:uuid:a7c5fcc6-4fd8-5be7-8b15-5ba11eeddbab": {
+      "id": "urn:uuid:a7c5fcc6-4fd8-5be7-8b15-5ba11eeddbab",
+      "first_seen": "2026-11-21T10:58:20Z",
+      "updated": "2026-11-21T10:58:20Z",
+      "records": {
+        "pubmed:33501432": {
+          "source": "pubmed",
+          "source_id": "33501432",
+          "title": "F-domain valency determines outcome of signaling through the angiopoietin pathway.",
+          "authors": [
+            {
+              "name": "Yan Ting Zhao",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, Washington, USA.",
+                "Institute for Stem Cell and Regenerative Medicine, University of Washington, Seattle, Washington, USA.",
+                "Oral Health Sciences, School of Dentistry, University of Washington, Seattle, Washington, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Jorge A Fallas",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, Washington, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, Washington, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Shally Saini",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, Washington, USA.",
+                "Institute for Stem Cell and Regenerative Medicine, University of Washington, Seattle, Washington, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "George Ueda",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, Washington, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, Washington, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Logeshwaran Somasundaram",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, Washington, USA.",
+                "Institute for Stem Cell and Regenerative Medicine, University of Washington, Seattle, Washington, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Ziben Zhou",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, Washington, USA.",
+                "Institute for Stem Cell and Regenerative Medicine, University of Washington, Seattle, Washington, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Infencia Xavier",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, Washington, USA.",
+                "Institute for Stem Cell and Regenerative Medicine, University of Washington, Seattle, Washington, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Devon Ehnes",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, Washington, USA.",
+                "Institute for Stem Cell and Regenerative Medicine, University of Washington, Seattle, Washington, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Chunfu Xu",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, Washington, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Lauren Carter",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, Washington, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, Washington, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Samuel Wrenn",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, Washington, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, Washington, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Julie Mathieu",
+              "affiliations": [
+                "Institute for Stem Cell and Regenerative Medicine, University of Washington, Seattle, Washington, USA.",
+                "Department of Comparative Medicine, University of Washington."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Drew L Sellers",
+              "affiliations": [
+                "Institute for Stem Cell and Regenerative Medicine, University of Washington, Seattle, Washington, USA.",
+                "Department of Bioengineering, University of Washington, Seattle, Washington, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, Washington, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, Washington, USA.",
+                "Department of Bioengineering, University of Washington, Seattle, Washington, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Hannele Ruohola-Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, Washington, USA.",
+                "Institute for Stem Cell and Regenerative Medicine, University of Washington, Seattle, Washington, USA.",
+                "Oral Health Sciences, School of Dentistry, University of Washington, Seattle, Washington, USA.",
+                "Department of Bioengineering, University of Washington, Seattle, Washington, USA."
+              ],
+              "orcid": null
+            }
+          ],
+          "abstract": "Angiopoietin 1 and 2 (Ang1 and Ang2) modulate angiogenesis and vascular homeostasis through engagement of their very similar F-domain modules with the Tie2 receptor tyrosine kinase on endothelial cells. Despite this similarity in the underlying receptor binding interaction, the two angiopoietins have opposite effects: Ang1 induces phosphorylation of protein kinase B (AKT), strengthens cell-cell junctions and enhances endothelial cell survival while Ang2 antagonizes these effects 1-4 . To investigate the molecular basis for the opposing effects, we examined the protein kinase activation and morphological phenotypes produced by a series of computationally designed protein scaffolds presenting the Ang1 F-domain in a wide range of valencies and geometries. We find two broad phenotypic classes distinguished by the number of presented F-domains: scaffolds presenting 4 F-domains have Ang2 like activity, upregulating pFAK and pERK but not pAKT, and failing to induce cell migration and tube formation, while scaffolds presenting 6 or more F-domains have Ang1 like activity, upregulating pAKT and inducing migration and tube formation. The scaffolds with 8 or more F-domains display superagonist activity, producing stronger phenotypes at lower concentrations than Ang1. When examined in vivo , superagonist icosahedral self-assembling nanoparticles caused significant revascularization in hemorrhagic brains after a controlled cortical impact injury.",
+          "date": "2020-12-24",
+          "url": "https://doi.org/10.1101/2020.09.19.304188",
+          "doi": "10.1101/2020.09.19.304188",
+          "status": "preprint",
+          "journal": "bioRxiv : the preprint server for biology",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC7836102"
+          ],
+          "relations": [
+            {
+              "kind": "is_preprint_of",
+              "target": "pubmed:34698433",
+              "evidence": "PubMed preprint UpdateIn"
+            }
+          ]
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:33501432",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "name_and_affiliations",
+                "affiliations": [
+                  "Department of Biochemistry, University of Washington, Seattle, Washington, USA.",
+                  "Institute for Protein Design, University of Washington, Seattle, Washington, USA.",
+                  "Department of Bioengineering, University of Washington, Seattle, Washington, USA."
+                ],
+                "matched_affiliations": [
+                  "Institute for Protein Design",
+                  "University of Washington",
+                  "Department of Biochemistry"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:33501432",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2020-12-24T00:00:00Z"
+    },
+    "urn:uuid:f51ca7be-4ee3-5112-8a1f-c72dd8eaaae9": {
+      "id": "urn:uuid:f51ca7be-4ee3-5112-8a1f-c72dd8eaaae9",
+      "first_seen": "2026-11-21T10:58:20Z",
+      "updated": "2026-11-21T10:58:20Z",
+      "records": {
+        "pubmed:33863889": {
+          "source": "pubmed",
+          "source_id": "33863889",
+          "title": "Design of multi-scale protein complexes by hierarchical building block fusion.",
+          "authors": [
+            {
+              "name": "Yang Hsia",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Biological Physics, Structure and Design Graduate Program, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-7467-8373"
+            },
+            {
+              "name": "Rubul Mout",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-6125-5873"
+            },
+            {
+              "name": "William Sheffler",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Natasha I Edman",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Molecular and Cellular Biology Graduate Program, University of Washington, Seattle, WA, USA.",
+                "Medical Scientist Training Program, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-7315-7127"
+            },
+            {
+              "name": "Ivan Vulovic",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Molecular Engineering Graduate Program, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Young-Jun Park",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0003-2901-6949"
+            },
+            {
+              "name": "Rachel L Redler",
+              "affiliations": [
+                "Department of Cell Biology and Skirball Institute of Biomolecular Medicine, New York University School of Medicine, New York, NY, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Matthew J Bick",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Asim K Bera",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Alexis Courbet",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Alex Kang",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "T J Brunette",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Una Nattermann",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Biological Physics, Structure and Design Graduate Program, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Evelyn Tsai",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Ayesha Saleem",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Cameron M Chow",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-5351-6412"
+            },
+            {
+              "name": "Damian Ekiert",
+              "affiliations": [
+                "Department of Cell Biology and Skirball Institute of Biomolecular Medicine, New York University School of Medicine, New York, NY, USA.",
+                "Department of Microbiology, New York University School of Medicine, New York, NY, USA."
+              ],
+              "orcid": "0000-0002-2570-0404"
+            },
+            {
+              "name": "Gira Bhabha",
+              "affiliations": [
+                "Department of Cell Biology and Skirball Institute of Biomolecular Medicine, New York University School of Medicine, New York, NY, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David Veesler",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-6019-8675"
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA. dabaker@uw.edu.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA. dabaker@uw.edu.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA. dabaker@uw.edu."
+              ],
+              "orcid": "0000-0001-7896-6217"
+            }
+          ],
+          "abstract": "A systematic and robust approach to generating complex protein nanomaterials would have broad utility. We develop a hierarchical approach to designing multi-component protein assemblies from two classes of modular building blocks: designed helical repeat proteins (DHRs) and helical bundle oligomers (HBs). We first rigidly fuse DHRs to HBs to generate a large library of oligomeric building blocks. We then generate assemblies with cyclic, dihedral, and point group symmetries from these building blocks using architecture guided rigid helical fusion with new software named WORMS. X-ray crystallography and cryo-electron microscopy characterization show that the hierarchical design approach can accurately generate a wide range of assemblies, including a 43 nm diameter icosahedral nanocage. The computational methods and building block sets described here provide a very general route to de novo designed protein nanomaterials.",
+          "date": "2021-04-16",
+          "url": "https://doi.org/10.1038/s41467-021-22276-z",
+          "doi": "10.1038/s41467-021-22276-z",
+          "status": "published",
+          "journal": "Nature communications",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC8052403"
+          ],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:33863889",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:33863889",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2021-04-16T00:00:00Z"
     }
   },
   "aliases": {
