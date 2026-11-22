@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-11-22T11:19:48Z</updated>
+  <updated>2026-11-22T19:36:23Z</updated>
   <entry>
     <id>urn:uuid:a2b00ede-fba9-563b-895c-d09849d5fb39</id>
     <title>Crystal structure of the first de novo designed phosphotriesterase ZAPP-1</title>
@@ -5163,6 +5163,84 @@
 &lt;/ul&gt;</content>
   </entry>
   <entry>
+    <id>urn:uuid:a047f863-69dc-5a10-834b-216d7348bd97</id>
+    <title>De Novo Design of High-Affinity Miniprotein Binders Targeting Francisella Tularensis Virulence Factor.</title>
+    <published>2025-07-05T00:00:00Z</published>
+    <updated>2026-11-22T19:36:23Z</updated>
+    <link href="https://doi.org/10.1002/anie.202516058" rel="alternate" />
+    <link href="https://doi.org/10.1101/2025.07.02.662053" rel="related" title="pubmed" />
+    <category term="published" />
+    <author>
+      <name>Gizem Gokce-Alpkilic</name>
+    </author>
+    <author>
+      <name>Buwei Huang</name>
+    </author>
+    <author>
+      <name>Andi Liu</name>
+    </author>
+    <author>
+      <name>Lieselotte S M Kreuk</name>
+    </author>
+    <author>
+      <name>Yaxi Wang</name>
+    </author>
+    <author>
+      <name>Victor Adebomi</name>
+    </author>
+    <author>
+      <name>Yensi Flores Bueso</name>
+    </author>
+    <author>
+      <name>Asim K Bera</name>
+    </author>
+    <author>
+      <name>Alex Kang</name>
+    </author>
+    <author>
+      <name>Stacey R Gerben</name>
+    </author>
+    <author>
+      <name>Stephen Rettie</name>
+    </author>
+    <author>
+      <name>Dionne K Vafeados</name>
+    </author>
+    <author>
+      <name>Nicole Roullier</name>
+    </author>
+    <author>
+      <name>Inna Goreshnik</name>
+    </author>
+    <author>
+      <name>Xinting Li</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Joshua J Woodward</name>
+    </author>
+    <author>
+      <name>Joseph D Mougous</name>
+    </author>
+    <author>
+      <name>Gaurav Bhardwaj</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Gizem Gokce-Alpkilic; Buwei Huang; Andi Liu; Lieselotte S M Kreuk; Yaxi Wang; Victor Adebomi; Yensi Flores Bueso; Asim K Bera; Alex Kang; Stacey R Gerben; Stephen Rettie; Dionne K Vafeados; Nicole Roullier; Inna Goreshnik; Xinting Li; David Baker; Joshua J Woodward; Joseph D Mougous; Gaurav Bhardwaj&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2025-10-21&lt;/p&gt;
+&lt;p&gt;Journal: Angewandte Chemie (International ed. in English)&lt;/p&gt;
+&lt;p&gt;Francisella tularensis poses considerable public health risk due to its high infectivity and potential for bioterrorism. Francisella-like lipoprotein (Flpp3), a key virulence factor unique to Francisella, plays critical roles in infection and immune evasion, making it a promising target for therapeutic development. However, the lack of well-defined binding pockets and structural information on native interactions has hindered structure-guided ligand discovery against Flpp3. Here, we used a combination of physics-based and deep-learning methods to design high-affinity miniprotein binders targeting two distinct sites on Flpp3. We identified four binders for site I with binding affinities ranging between 24-110 nM. For the second site, an initial binder showed a dissociation constant (KD) of 81 nM, and subsequent site saturation mutagenesis yielded variants with sub-nanomolar affinities. Circular dichroism confirmed the topology of designed miniproteins. The X-ray crystal structure of Flpp3 in complex with a site I binder is nearly identical to the design model (Cα root-mean-square deviation (RMSD): 0.9 Å). These designed miniproteins provide research tools to explore the roles of Flpp3 in tularemia and should enable the development of new therapeutic candidates.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1101/2025.07.02.662053"&gt;pubmed (preprint) — DOI: 10.1101/2025.07.02.662053&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1002/anie.202516058"&gt;pubmed (published) — DOI: 10.1002/anie.202516058&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1002/anie.202516058"&gt;Published version — DOI: 10.1002/anie.202516058&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pubmed.ncbi.nlm.nih.gov/41117072/"&gt;Published version&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
     <id>urn:uuid:fc418b53-fae8-5ba3-8fcf-fe60e8dbb42d</id>
     <title>Tuning insulin receptor signaling using de novo-designed agonists.</title>
     <published>2025-10-13T00:00:00Z</published>
@@ -6890,83 +6968,6 @@
 &lt;/ul&gt;</content>
   </entry>
   <entry>
-    <id>urn:uuid:a047f863-69dc-5a10-834b-216d7348bd97</id>
-    <title>De novo design of high-affinity miniprotein binders targeting Francisella tularensis virulence factor.</title>
-    <published>2025-07-05T00:00:00Z</published>
-    <updated>2026-10-30T17:59:31Z</updated>
-    <link href="https://pubmed.ncbi.nlm.nih.gov/41117072/" rel="alternate" />
-    <link href="https://doi.org/10.1101/2025.07.02.662053" rel="related" title="pubmed" />
-    <category term="published" />
-    <author>
-      <name>Gizem Gokce-Alpkilic</name>
-    </author>
-    <author>
-      <name>Buwei Huang</name>
-    </author>
-    <author>
-      <name>Andi Liu</name>
-    </author>
-    <author>
-      <name>Lieselotte S M Kreuk</name>
-    </author>
-    <author>
-      <name>Yaxi Wang</name>
-    </author>
-    <author>
-      <name>Victor Adebomi</name>
-    </author>
-    <author>
-      <name>Yensi Flores Bueso</name>
-    </author>
-    <author>
-      <name>Asim K Bera</name>
-    </author>
-    <author>
-      <name>Alex Kang</name>
-    </author>
-    <author>
-      <name>Stacey R Gerben</name>
-    </author>
-    <author>
-      <name>Stephen Rettie</name>
-    </author>
-    <author>
-      <name>Dionne K Vafeados</name>
-    </author>
-    <author>
-      <name>Nicole Roullier</name>
-    </author>
-    <author>
-      <name>Inna Goreshnik</name>
-    </author>
-    <author>
-      <name>Xinting Li</name>
-    </author>
-    <author>
-      <name>David Baker</name>
-    </author>
-    <author>
-      <name>Joshua J Woodward</name>
-    </author>
-    <author>
-      <name>Joseph D Mougous</name>
-    </author>
-    <author>
-      <name>Gaurav Bhardwaj</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Authors: Gizem Gokce-Alpkilic; Buwei Huang; Andi Liu; Lieselotte S M Kreuk; Yaxi Wang; Victor Adebomi; Yensi Flores Bueso; Asim K Bera; Alex Kang; Stacey R Gerben; Stephen Rettie; Dionne K Vafeados; Nicole Roullier; Inna Goreshnik; Xinting Li; David Baker; Joshua J Woodward; Joseph D Mougous; Gaurav Bhardwaj&lt;/p&gt;
-&lt;p&gt;Sources: pubmed&lt;/p&gt;
-&lt;p&gt;Preprint date: 2025-07-05&lt;/p&gt;
-&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
-&lt;p&gt;A published version is linked below. Title, authors and abstract are from the preprint.&lt;/p&gt;
-&lt;p&gt;Francisella tularensis poses considerable public health risk due to its high infectivity and potential for bioterrorism. Francisella-like lipoprotein (Flpp3), a key virulence factor unique to Francisella, plays critical roles in infection and immune evasion, making it a promising target for therapeutic development. However, the lack of well-defined binding pockets and structural information on native interactions has hindered structure-guided ligand discovery against Flpp3. Here, we used a combination of physics-based and deep-learning methods to design high-affinity miniprotein binders targeting two distinct sites on Flpp3. We identified four binders for site I with binding affinities ranging between 24-110 nM. For the second site, an initial binder showed a dissociation constant (K D ) of 81 nM, and subsequent site saturation mutagenesis yielded variants with sub-nanomolar affinities. Circular dichroism confirmed the topology of designed miniproteins. The X-ray crystal structure of Flpp3 in complex with a site I binder is nearly identical to the design model (Cα root-mean-square deviation: 0.9 Å). These designed miniproteins provide research tools to explore the roles of Flpp3 in tularemia and should enable the development of new therapeutic candidates.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://doi.org/10.1101/2025.07.02.662053"&gt;pubmed (preprint) — DOI: 10.1101/2025.07.02.662053&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://pubmed.ncbi.nlm.nih.gov/41117072/"&gt;Published version&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-  </entry>
-  <entry>
     <id>urn:uuid:cd0a1e8c-d963-5002-a964-7bbee48e8075</id>
     <title>Accurate de novo design of high-affinity protein-binding macrocycles using deep learning.</title>
     <published>2025-06-20T00:00:00Z</published>
@@ -7063,6 +7064,102 @@
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41589-025-01929-w"&gt;pubmed (published) — DOI: 10.1038/s41589-025-01929-w&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41589-025-01929-w"&gt;Published version — DOI: 10.1038/s41589-025-01929-w&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://pubmed.ncbi.nlm.nih.gov/40542165/"&gt;Published version&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:0331ff1b-21aa-5b98-a18b-1ace1bd4d52c</id>
+    <title>De Novo Design of Integrin α5β1 Modulating Proteins to Enhance Biomaterial Properties.</title>
+    <published>2025-06-09T00:00:00Z</published>
+    <updated>2026-11-22T19:36:23Z</updated>
+    <link href="https://doi.org/10.1002/adma.202500872" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Xinru Wang</name>
+    </author>
+    <author>
+      <name>Jordi Guillem-Marti</name>
+    </author>
+    <author>
+      <name>Saurav Kumar</name>
+    </author>
+    <author>
+      <name>David S Lee</name>
+    </author>
+    <author>
+      <name>Daniel Cabrerizo-Aguado</name>
+    </author>
+    <author>
+      <name>Rachel Werther</name>
+    </author>
+    <author>
+      <name>Kevin Alexander Estrada Alamo</name>
+    </author>
+    <author>
+      <name>Yan Ting Zhao</name>
+    </author>
+    <author>
+      <name>Adam Nguyen</name>
+    </author>
+    <author>
+      <name>Irina Kopyeva</name>
+    </author>
+    <author>
+      <name>Buwei Huang</name>
+    </author>
+    <author>
+      <name>Jing Li</name>
+    </author>
+    <author>
+      <name>Yuxin Hao</name>
+    </author>
+    <author>
+      <name>Xinting Li</name>
+    </author>
+    <author>
+      <name>Aritza Brizuela-Velasco</name>
+    </author>
+    <author>
+      <name>Analisa Murray</name>
+    </author>
+    <author>
+      <name>Stacey Gerben</name>
+    </author>
+    <author>
+      <name>Anindya Roy</name>
+    </author>
+    <author>
+      <name>Cole A DeForest</name>
+    </author>
+    <author>
+      <name>Timothy Springer</name>
+    </author>
+    <author>
+      <name>Hannele Ruohola-Baker</name>
+    </author>
+    <author>
+      <name>Jonathan A Cooper</name>
+    </author>
+    <author>
+      <name>Melody G Campbell</name>
+    </author>
+    <author>
+      <name>Jose Maria Manero</name>
+    </author>
+    <author>
+      <name>Maria-Pau Ginebra</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Xinru Wang; Jordi Guillem-Marti; Saurav Kumar; David S Lee; Daniel Cabrerizo-Aguado; Rachel Werther; Kevin Alexander Estrada Alamo; Yan Ting Zhao; Adam Nguyen; Irina Kopyeva; Buwei Huang; Jing Li; Yuxin Hao; Xinting Li; Aritza Brizuela-Velasco; Analisa Murray; Stacey Gerben; Anindya Roy; Cole A DeForest; Timothy Springer; Hannele Ruohola-Baker; Jonathan A Cooper; Melody G Campbell; Jose Maria Manero; Maria-Pau Ginebra; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2025-06-09&lt;/p&gt;
+&lt;p&gt;Journal: Advanced materials (Deerfield Beach, Fla.)&lt;/p&gt;
+&lt;p&gt;Integrin α5β1 is crucial for cell attachment and migration in development and tissue regeneration, and α5β1 binding proteins can have considerable utility in regenerative medicine and next-generation therapeutics. We use computational protein design to create de novo α5β1-specific modulating miniprotein binders, called NeoNectins, that bind to and stabilize the open state of α5β1. When immobilized onto titanium surfaces and throughout 3D hydrogels, the NeoNectins outperform native fibronectin (FN) and RGD peptides in enhancing cell attachment and spreading, and NeoNectin-grafted titanium implants outperformed FN- and RGD-grafted implants in animal models in promoting tissue integration and bone growth. NeoNectins should be broadly applicable for tissue engineering and biomedicine.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1002/adma.202500872"&gt;pubmed (published) — DOI: 10.1002/adma.202500872&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1002/adma.202500872"&gt;Published version — DOI: 10.1002/adma.202500872&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
@@ -14511,108 +14608,6 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41467-017-02098-8"&gt;pubmed (published) — DOI: 10.1038/s41467-017-02098-8&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41467-017-02098-8"&gt;Published version — DOI: 10.1038/s41467-017-02098-8&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <id>urn:uuid:0772fb8e-fe09-566f-a560-c33f37a6178d</id>
-    <title>Massively parallel de novo protein design for targeted therapeutics.</title>
-    <published>2017-09-27T00:00:00Z</published>
-    <updated>2026-11-02T21:41:53Z</updated>
-    <link href="https://doi.org/10.1038/nature23912" rel="alternate" />
-    <category term="published" />
-    <author>
-      <name>Aaron Chevalier</name>
-    </author>
-    <author>
-      <name>Daniel-Adriano Silva</name>
-    </author>
-    <author>
-      <name>Gabriel J Rocklin</name>
-    </author>
-    <author>
-      <name>Derrick R Hicks</name>
-    </author>
-    <author>
-      <name>Renan Vergara</name>
-    </author>
-    <author>
-      <name>Patience Murapa</name>
-    </author>
-    <author>
-      <name>Steffen M Bernard</name>
-    </author>
-    <author>
-      <name>Lu Zhang</name>
-    </author>
-    <author>
-      <name>Kwok-Ho Lam</name>
-    </author>
-    <author>
-      <name>Guorui Yao</name>
-    </author>
-    <author>
-      <name>Christopher D Bahl</name>
-    </author>
-    <author>
-      <name>Shin-Ichiro Miyashita</name>
-    </author>
-    <author>
-      <name>Inna Goreshnik</name>
-    </author>
-    <author>
-      <name>James T Fuller</name>
-    </author>
-    <author>
-      <name>Merika T Koday</name>
-    </author>
-    <author>
-      <name>Cody M Jenkins</name>
-    </author>
-    <author>
-      <name>Tom Colvin</name>
-    </author>
-    <author>
-      <name>Lauren Carter</name>
-    </author>
-    <author>
-      <name>Alan Bohn</name>
-    </author>
-    <author>
-      <name>Cassie M Bryan</name>
-    </author>
-    <author>
-      <name>D Alejandro Fernández-Velasco</name>
-    </author>
-    <author>
-      <name>Lance Stewart</name>
-    </author>
-    <author>
-      <name>Min Dong</name>
-    </author>
-    <author>
-      <name>Xuhui Huang</name>
-    </author>
-    <author>
-      <name>Rongsheng Jin</name>
-    </author>
-    <author>
-      <name>Ian A Wilson</name>
-    </author>
-    <author>
-      <name>Deborah H Fuller</name>
-    </author>
-    <author>
-      <name>David Baker</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Authors: Aaron Chevalier; Daniel-Adriano Silva; Gabriel J Rocklin; Derrick R Hicks; Renan Vergara; Patience Murapa; Steffen M Bernard; Lu Zhang; Kwok-Ho Lam; Guorui Yao; Christopher D Bahl; Shin-Ichiro Miyashita; Inna Goreshnik; James T Fuller; Merika T Koday; Cody M Jenkins; Tom Colvin; Lauren Carter; Alan Bohn; Cassie M Bryan; D Alejandro Fernández-Velasco; Lance Stewart; Min Dong; Xuhui Huang; Rongsheng Jin; Ian A Wilson; Deborah H Fuller; David Baker&lt;/p&gt;
-&lt;p&gt;Sources: pubmed&lt;/p&gt;
-&lt;p&gt;Publication date: 2017-09-27&lt;/p&gt;
-&lt;p&gt;Journal: Nature&lt;/p&gt;
-&lt;p&gt;De novo protein design holds promise for creating small stable proteins with shapes customized to bind therapeutic targets. We describe a massively parallel approach for designing, manufacturing and screening mini-protein binders, integrating large-scale computational design, oligonucleotide synthesis, yeast display screening and next-generation sequencing. We designed and tested 22,660 mini-proteins of 37-43 residues that target influenza haemagglutinin and botulinum neurotoxin B, along with 6,286 control sequences to probe contributions to folding and binding, and identified 2,618 high-affinity binders. Comparison of the binding and non-binding design sets, which are two orders of magnitude larger than any previously investigated, enabled the evaluation and improvement of the computational model. Biophysical characterization of a subset of the binder designs showed that they are extremely stable and, unlike antibodies, do not lose activity after exposure to high temperatures. The designs elicit little or no immune response and provide potent prophylactic and therapeutic protection against influenza, even after extensive repeated dosing.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://doi.org/10.1038/nature23912"&gt;pubmed (published) — DOI: 10.1038/nature23912&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://doi.org/10.1038/nature23912"&gt;Published version — DOI: 10.1038/nature23912&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
 </feed>

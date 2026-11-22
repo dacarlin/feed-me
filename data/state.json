@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-11-22T11:19:48Z",
+      "last_success": "2026-11-22T19:36:23Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-11-22T11:19:48Z",
+      "last_success": "2026-11-22T19:36:23Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-11-22T11:19:48Z",
+      "last_success": "2026-11-22T19:36:23Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -280,7 +280,9 @@
     "pubmed:33712545": "2026-11-22T11:19:48Z",
     "pubmed:33637700": "2026-11-22T11:19:48Z",
     "pubmed:32907861": "2026-11-22T11:19:48Z",
-    "pubmed:31296772": "2026-11-22T11:19:48Z"
+    "pubmed:31296772": "2026-11-22T11:19:48Z",
+    "pubmed:41117072": "2026-11-22T19:36:23Z",
+    "pubmed:40489013": "2026-11-22T19:36:23Z"
   },
   "works": {
     "urn:uuid:7f477453-6c38-52e7-b591-accb9b0e6576": {
@@ -30305,7 +30307,7 @@
     "urn:uuid:a047f863-69dc-5a10-834b-216d7348bd97": {
       "id": "urn:uuid:a047f863-69dc-5a10-834b-216d7348bd97",
       "first_seen": "2026-10-30T17:59:31Z",
-      "updated": "2026-10-30T17:59:31Z",
+      "updated": "2026-11-22T19:36:23Z",
       "records": {
         "pubmed:40631088": {
           "source": "pubmed",
@@ -30479,12 +30481,205 @@
               "evidence": "PubMed preprint UpdateIn"
             }
           ]
+        },
+        "pubmed:41117072": {
+          "source": "pubmed",
+          "source_id": "41117072",
+          "title": "De Novo Design of High-Affinity Miniprotein Binders Targeting Francisella Tularensis Virulence Factor.",
+          "authors": [
+            {
+              "name": "Gizem Gokce-Alpkilic",
+              "affiliations": [
+                "Molecular Engineering and Sciences Institute, University of Washington, Seattle, WA, USA.",
+                "Department of Medicinal Chemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-5009-4429"
+            },
+            {
+              "name": "Buwei Huang",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Department of Bioengineering, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Andi Liu",
+              "affiliations": [
+                "Department of Microbiology, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Lieselotte S M Kreuk",
+              "affiliations": [
+                "Department of Microbiology, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Yaxi Wang",
+              "affiliations": [
+                "Department of Microbiology, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Victor Adebomi",
+              "affiliations": [
+                "Department of Medicinal Chemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Yensi Flores Bueso",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Cancer Research @UCC, University College Cork, Cork, Ireland."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Asim K Bera",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Alex Kang",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Stacey R Gerben",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Stephen Rettie",
+              "affiliations": [
+                "Department of Medicinal Chemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Molecular and Cellular Biology Program, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Dionne K Vafeados",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Nicole Roullier",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Inna Goreshnik",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Xinting Li",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Joshua J Woodward",
+              "affiliations": [
+                "Department of Microbiology, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Joseph D Mougous",
+              "affiliations": [
+                "Department of Microbiology, University of Washington, Seattle, WA, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA.",
+                "Microbial Interactions and Microbiome Center, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Gaurav Bhardwaj",
+              "affiliations": [
+                "Molecular Engineering and Sciences Institute, University of Washington, Seattle, WA, USA.",
+                "Department of Medicinal Chemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            }
+          ],
+          "abstract": "Francisella tularensis poses considerable public health risk due to its high infectivity and potential for bioterrorism. Francisella-like lipoprotein (Flpp3), a key virulence factor unique to Francisella, plays critical roles in infection and immune evasion, making it a promising target for therapeutic development. However, the lack of well-defined binding pockets and structural information on native interactions has hindered structure-guided ligand discovery against Flpp3. Here, we used a combination of physics-based and deep-learning methods to design high-affinity miniprotein binders targeting two distinct sites on Flpp3. We identified four binders for site I with binding affinities ranging between 24-110 nM. For the second site, an initial binder showed a dissociation constant (KD) of 81 nM, and subsequent site saturation mutagenesis yielded variants with sub-nanomolar affinities. Circular dichroism confirmed the topology of designed miniproteins. The X-ray crystal structure of Flpp3 in complex with a site I binder is nearly identical to the design model (Cα root-mean-square deviation (RMSD): 0.9 Å). These designed miniproteins provide research tools to explore the roles of Flpp3 in tularemia and should enable the development of new therapeutic candidates.",
+          "date": "2025-10-21",
+          "url": "https://doi.org/10.1002/anie.202516058",
+          "doi": "10.1002/anie.202516058",
+          "status": "published",
+          "journal": "Angewandte Chemie (International ed. in English)",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC12723454"
+          ],
+          "relations": [
+            {
+              "kind": "update_of",
+              "target": "pubmed:40631088",
+              "evidence": "PubMed UpdateOf; target must be a preprint"
+            }
+          ]
         }
       },
       "matched_researchers": {
         "david-baker": [
           {
             "record": "pubmed:40631088",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "name_and_affiliations",
+                "affiliations": [
+                  "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                  "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                  "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+                ],
+                "matched_affiliations": [
+                  "Institute for Protein Design",
+                  "University of Washington",
+                  "Department of Biochemistry"
+                ]
+              }
+            ]
+          },
+          {
+            "record": "pubmed:41117072",
             "matched": true,
             "reason": "strong author identity",
             "evidence": [
@@ -30511,6 +30706,20 @@
           "record": "pubmed:40631088",
           "method": "new_work",
           "reason": "no existing work"
+        },
+        {
+          "record": "pubmed:41117072",
+          "rank": 1,
+          "method": "explicit_relationship",
+          "identifiers": [
+            "pubmed:40631088",
+            "pubmed:41117072"
+          ],
+          "evidence": [
+            "PubMed UpdateOf; target must be a preprint",
+            "PubMed preprint UpdateIn"
+          ],
+          "matched_record": "pubmed:40631088"
         }
       ],
       "published": "2025-07-05T00:00:00Z"
@@ -50112,6 +50321,276 @@
         }
       ],
       "published": "2025-02-28T00:00:00Z"
+    },
+    "urn:uuid:0331ff1b-21aa-5b98-a18b-1ace1bd4d52c": {
+      "id": "urn:uuid:0331ff1b-21aa-5b98-a18b-1ace1bd4d52c",
+      "first_seen": "2026-11-22T19:36:23Z",
+      "updated": "2026-11-22T19:36:23Z",
+      "records": {
+        "pubmed:40489013": {
+          "source": "pubmed",
+          "source_id": "40489013",
+          "title": "De Novo Design of Integrin α5β1 Modulating Proteins to Enhance Biomaterial Properties.",
+          "authors": [
+            {
+              "name": "Xinru Wang",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-5994-707X"
+            },
+            {
+              "name": "Jordi Guillem-Marti",
+              "affiliations": [
+                "Biomaterials, Biomechanics and Tissue Engineering Group, Department of Materials Science and Engineering, Universitat Politècnica de Catalunya - BarcelonaTech (UPC), Barcelona, Spain.",
+                "Networking Research Centre of Bioengineering, Biomaterials and Nanomedicine (CIBER-BBN), Institute of Health Carlos III, Madrid, Spain."
+              ],
+              "orcid": "0000-0003-0307-2221"
+            },
+            {
+              "name": "Saurav Kumar",
+              "affiliations": [
+                "Division of Basic Sciences, Fred Hutchinson Cancer Center, Seattle, WA, USA.",
+                "LILA Biologics, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-0992-589X"
+            },
+            {
+              "name": "David S Lee",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Department of Genome Sciences, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-6539-4272"
+            },
+            {
+              "name": "Daniel Cabrerizo-Aguado",
+              "affiliations": [
+                "Biomaterials, Biomechanics and Tissue Engineering Group, Department of Materials Science and Engineering, Universitat Politècnica de Catalunya - BarcelonaTech (UPC), Barcelona, Spain."
+              ],
+              "orcid": "0009-0006-2410-6936"
+            },
+            {
+              "name": "Rachel Werther",
+              "affiliations": [
+                "Division of Basic Sciences, Fred Hutchinson Cancer Center, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-3058-1550"
+            },
+            {
+              "name": "Kevin Alexander Estrada Alamo",
+              "affiliations": [
+                "Division of Basic Sciences, Fred Hutchinson Cancer Center, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-3829-357X"
+            },
+            {
+              "name": "Yan Ting Zhao",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Oral Health Sciences, School of Dentistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Stem Cell and Regenerative Medicine, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-9230-7066"
+            },
+            {
+              "name": "Adam Nguyen",
+              "affiliations": [
+                "Division of Basic Sciences, Fred Hutchinson Cancer Center, Seattle, WA, USA.",
+                "Graduate Program in Biological Physics, Structure and Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-2030-2861"
+            },
+            {
+              "name": "Irina Kopyeva",
+              "affiliations": [
+                "Department of Bioengineering, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0003-3740-6971"
+            },
+            {
+              "name": "Buwei Huang",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Department of Bioengineering, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-0762-7178"
+            },
+            {
+              "name": "Jing Li",
+              "affiliations": [
+                "Program in Cellular and Molecular Medicine, Boston Children's Hospital, Boston, MA, 02115, USA.",
+                "Department of Pediatrics, Harvard Medical School, Boston, MA, 02115, USA.",
+                "Department of Biological Chemistry and Molecular Pharmacology, Harvard Medical School, Boston, MA, 02115, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Yuxin Hao",
+              "affiliations": [
+                "Program in Cellular and Molecular Medicine, Boston Children's Hospital, Boston, MA, 02115, USA.",
+                "Department of Biological Chemistry and Molecular Pharmacology, Harvard Medical School, Boston, MA, 02115, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Xinting Li",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-5559-7578"
+            },
+            {
+              "name": "Aritza Brizuela-Velasco",
+              "affiliations": [
+                "DENS-ia Research Group, Faculty of Health Sciences, Miguel de Cervantes European University, Valladolid, Spain."
+              ],
+              "orcid": "0000-0001-6421-3863"
+            },
+            {
+              "name": "Analisa Murray",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Stacey Gerben",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0003-0313-6248"
+            },
+            {
+              "name": "Anindya Roy",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-9766-4326"
+            },
+            {
+              "name": "Cole A DeForest",
+              "affiliations": [
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Institute for Stem Cell and Regenerative Medicine, University of Washington, Seattle, WA, USA.",
+                "Department of Bioengineering, University of Washington, Seattle, WA, USA.",
+                "Department of Chemical Engineering, University of Washington, Seattle, WA, USA.",
+                "Department of Chemistry, University of Washington, Seattle, WA, USA.",
+                "Molecular Engineering & Sciences Institute, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0003-0337-3577"
+            },
+            {
+              "name": "Timothy Springer",
+              "affiliations": [
+                "Program in Cellular and Molecular Medicine, Boston Children's Hospital, Boston, MA, 02115, USA.",
+                "Department of Pediatrics, Harvard Medical School, Boston, MA, 02115, USA."
+              ],
+              "orcid": "0000-0001-6627-2904"
+            },
+            {
+              "name": "Hannele Ruohola-Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Department of Genome Sciences, University of Washington, Seattle, WA, USA.",
+                "Oral Health Sciences, School of Dentistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Stem Cell and Regenerative Medicine, University of Washington, Seattle, WA, USA.",
+                "Department of Bioengineering, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-5588-4531"
+            },
+            {
+              "name": "Jonathan A Cooper",
+              "affiliations": [
+                "Division of Basic Sciences, Fred Hutchinson Cancer Center, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-8626-7827"
+            },
+            {
+              "name": "Melody G Campbell",
+              "affiliations": [
+                "Division of Basic Sciences, Fred Hutchinson Cancer Center, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0003-1909-5751"
+            },
+            {
+              "name": "Jose Maria Manero",
+              "affiliations": [
+                "Biomaterials, Biomechanics and Tissue Engineering Group, Department of Materials Science and Engineering, Universitat Politècnica de Catalunya - BarcelonaTech (UPC), Barcelona, Spain.",
+                "Networking Research Centre of Bioengineering, Biomaterials and Nanomedicine (CIBER-BBN), Institute of Health Carlos III, Madrid, Spain."
+              ],
+              "orcid": "0000-0002-1673-4389"
+            },
+            {
+              "name": "Maria-Pau Ginebra",
+              "affiliations": [
+                "Biomaterials, Biomechanics and Tissue Engineering Group, Department of Materials Science and Engineering, Universitat Politècnica de Catalunya - BarcelonaTech (UPC), Barcelona, Spain.",
+                "Networking Research Centre of Bioengineering, Biomaterials and Nanomedicine (CIBER-BBN), Institute of Health Carlos III, Madrid, Spain.",
+                "Institute for Bioengineering of Catalonia, Barcelona Institute of Science and Technology, Barcelona, Spain."
+              ],
+              "orcid": "0000-0002-4700-5621"
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-7896-6217"
+            }
+          ],
+          "abstract": "Integrin α5β1 is crucial for cell attachment and migration in development and tissue regeneration, and α5β1 binding proteins can have considerable utility in regenerative medicine and next-generation therapeutics. We use computational protein design to create de novo α5β1-specific modulating miniprotein binders, called NeoNectins, that bind to and stabilize the open state of α5β1. When immobilized onto titanium surfaces and throughout 3D hydrogels, the NeoNectins outperform native fibronectin (FN) and RGD peptides in enhancing cell attachment and spreading, and NeoNectin-grafted titanium implants outperformed FN- and RGD-grafted implants in animal models in promoting tissue integration and bone growth. NeoNectins should be broadly applicable for tissue engineering and biomedicine.",
+          "date": "2025-06-09",
+          "url": "https://doi.org/10.1002/adma.202500872",
+          "doi": "10.1002/adma.202500872",
+          "status": "published",
+          "journal": "Advanced materials (Deerfield Beach, Fla.)",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC12392869"
+          ],
+          "relations": [
+            {
+              "kind": "update_of",
+              "target": "pubmed:38979380",
+              "evidence": "PubMed UpdateOf; target must be a preprint"
+            }
+          ]
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:40489013",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:40489013",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2025-06-09T00:00:00Z"
     }
   },
   "aliases": {
