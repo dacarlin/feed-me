@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-11-22T19:36:23Z</updated>
+  <updated>2026-11-23T12:33:20Z</updated>
   <entry>
     <id>urn:uuid:a2b00ede-fba9-563b-895c-d09849d5fb39</id>
     <title>Crystal structure of the first de novo designed phosphotriesterase ZAPP-1</title>
@@ -4186,6 +4186,63 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1016/j.celbio.2025.100239"&gt;pubmed (published) — DOI: 10.1016/j.celbio.2025.100239&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1016/j.celbio.2025.100239"&gt;Published version — DOI: 10.1016/j.celbio.2025.100239&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:eec59bfc-87be-5ff1-9cfb-dee02bfa918a</id>
+    <title>The computationally designed TRI2-2 miniprotein inhibitor protects against multiple SARS-CoV-2 Omicron variants.</title>
+    <published>2024-08-10T00:00:00Z</published>
+    <updated>2026-11-23T12:33:20Z</updated>
+    <link href="https://doi.org/10.1038/s42003-025-09499-2" rel="alternate" />
+    <link href="https://doi.org/10.1101/2024.08.08.606885" rel="related" title="pubmed" />
+    <category term="published" />
+    <author>
+      <name>Jimin Lee</name>
+    </author>
+    <author>
+      <name>James Brett Case</name>
+    </author>
+    <author>
+      <name>Young-Jun Park</name>
+    </author>
+    <author>
+      <name>Rashmi Ravichandran</name>
+    </author>
+    <author>
+      <name>Daniel Asarnow</name>
+    </author>
+    <author>
+      <name>M Alejandra Tortorici</name>
+    </author>
+    <author>
+      <name>Jack T Brown</name>
+    </author>
+    <author>
+      <name>Shilpa Sanapala</name>
+    </author>
+    <author>
+      <name>Lauren Carter</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Michael S Diamond</name>
+    </author>
+    <author>
+      <name>David Veesler</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Jimin Lee; James Brett Case; Young-Jun Park; Rashmi Ravichandran; Daniel Asarnow; M Alejandra Tortorici; Jack T Brown; Shilpa Sanapala; Lauren Carter; David Baker; Michael S Diamond; David Veesler&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2026-01-10&lt;/p&gt;
+&lt;p&gt;Journal: Communications biology&lt;/p&gt;
+&lt;p&gt;The continued evolution of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has compromised neutralizing antibody responses elicited by prior infection or vaccination and abolished the utility of most monoclonal antibody therapeutics. We previously described a computationally-designed, homotrimeric miniprotein inhibitor, designated TRI2-2, that protects mice against pre-Omicron SARS-CoV-2 variants. Here, we show that TRI2-2 exhibits broadly neutralizing activity of SARS-CoV-2 variants and protects mice against BQ.1.1, XBB.1.5 and BA.2.86 challenge when administered intranasally post-exposure. The resistance of TRI2-2 to viral escape by most variants and the ability to deliver it directly to the upper airways highlight the potential of the multivalent miniprotein inhibitor as an alternative therapeutic modality.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1101/2024.08.08.606885"&gt;pubmed (preprint) — DOI: 10.1101/2024.08.08.606885&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s42003-025-09499-2"&gt;pubmed (published) — DOI: 10.1038/s42003-025-09499-2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s42003-025-09499-2"&gt;Published version — DOI: 10.1038/s42003-025-09499-2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pubmed.ncbi.nlm.nih.gov/41519898/"&gt;Published version&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
@@ -8877,62 +8934,6 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-024-07813-2"&gt;pubmed (published) — DOI: 10.1038/s41586-024-07813-2&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-024-07813-2"&gt;Published version — DOI: 10.1038/s41586-024-07813-2&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <id>urn:uuid:eec59bfc-87be-5ff1-9cfb-dee02bfa918a</id>
-    <title>A pan-variant miniprotein inhibitor protects against SARS-CoV-2 variants.</title>
-    <published>2024-08-10T00:00:00Z</published>
-    <updated>2026-11-22T11:19:48Z</updated>
-    <link href="https://pubmed.ncbi.nlm.nih.gov/41519898/" rel="alternate" />
-    <link href="https://doi.org/10.1101/2024.08.08.606885" rel="related" title="pubmed" />
-    <category term="published" />
-    <author>
-      <name>Jimin Lee</name>
-    </author>
-    <author>
-      <name>James Brett Case</name>
-    </author>
-    <author>
-      <name>Young-Jun Park</name>
-    </author>
-    <author>
-      <name>Rashmi Ravichandran</name>
-    </author>
-    <author>
-      <name>Daniel Asarnow</name>
-    </author>
-    <author>
-      <name>M Alejandra Tortorici</name>
-    </author>
-    <author>
-      <name>Jack T Brown</name>
-    </author>
-    <author>
-      <name>Shilpa Sanapala</name>
-    </author>
-    <author>
-      <name>Lauren Carter</name>
-    </author>
-    <author>
-      <name>David Baker</name>
-    </author>
-    <author>
-      <name>Michael S Diamond</name>
-    </author>
-    <author>
-      <name>David Veesler</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Authors: Jimin Lee; James Brett Case; Young-Jun Park; Rashmi Ravichandran; Daniel Asarnow; M Alejandra Tortorici; Jack T Brown; Shilpa Sanapala; Lauren Carter; David Baker; Michael S Diamond; David Veesler&lt;/p&gt;
-&lt;p&gt;Sources: pubmed&lt;/p&gt;
-&lt;p&gt;Preprint date: 2024-08-10&lt;/p&gt;
-&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
-&lt;p&gt;A published version is linked below. Title, authors and abstract are from the preprint.&lt;/p&gt;
-&lt;p&gt;The continued evolution of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has compromised neutralizing antibody responses elicited by prior infection or vaccination and abolished the utility of most monoclonal antibody therapeutics. We previously described a computationally-designed, homotrimeric miniprotein inhibitor, designated TRI2-2, that protects mice against pre-Omicron SARS-CoV-2 variants. Here, we show that TRI2-2 exhibits pan neutralization of variants that evolved during the 4.5 years since the emergence of SARS-CoV-2 and protects mice against BQ.1.1, XBB.1.5 and BA.2.86 challenge when administered post-exposure by an intranasal route. The resistance of TRI2-2 to viral escape and its direct delivery to the upper airways rationalize a path toward clinical advancement.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://doi.org/10.1101/2024.08.08.606885"&gt;pubmed (preprint) — DOI: 10.1101/2024.08.08.606885&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://pubmed.ncbi.nlm.nih.gov/41519898/"&gt;Published version&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>

@@ -2,19 +2,19 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-11-23T01:40:10Z",
+      "last_success": "2026-11-23T12:33:20Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-11-22T19:36:23Z",
+      "last_success": "2026-11-23T12:33:20Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
-      "last_success": "2026-11-22T01:16:47Z",
+      "last_success": "2026-11-23T12:33:20Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-11-23T01:40:10Z",
+      "last_success": "2026-11-23T12:33:20Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -112,9 +112,9 @@
     "pubmed:41086805": "2026-11-22T01:16:47Z",
     "pubmed:41659604": "2026-11-22T01:16:47Z",
     "biorxiv:10.1101/2025.11.20.689622": "2026-11-23T01:40:10Z",
-    "pubmed:41959461": "2026-11-16T06:25:04Z",
-    "pubmed:38097544": "2026-11-16T06:25:04Z",
-    "pubmed:37590357": "2026-11-16T06:25:04Z",
+    "pubmed:41959461": "2026-11-23T12:33:20Z",
+    "pubmed:38097544": "2026-11-23T12:33:20Z",
+    "pubmed:37590357": "2026-11-23T12:33:20Z",
     "pubmed:40745094": "2026-11-17T03:51:00Z",
     "pubmed:39143214": "2026-11-17T03:51:00Z",
     "pubmed:38187589": "2026-11-17T03:51:00Z",
@@ -168,53 +168,53 @@
     "pubmed:37695922": "2026-11-20T02:17:57Z",
     "pubmed:37632837": "2026-11-20T02:17:57Z",
     "pubmed:25389263": "2026-11-20T02:17:57Z",
-    "pubmed:42926814": "2026-11-16T06:25:04Z",
-    "pubmed:41339749": "2026-11-16T06:25:04Z",
-    "pubmed:40993395": "2026-11-16T06:25:04Z",
-    "pubmed:40665050": "2026-11-16T06:25:04Z",
-    "pubmed:40542165": "2026-11-16T06:25:04Z",
-    "pubmed:40155723": "2026-11-16T06:25:04Z",
-    "pubmed:39695230": "2026-11-16T06:25:04Z",
-    "pubmed:39542025": "2026-11-16T06:25:04Z",
-    "pubmed:39294458": "2026-11-16T06:25:04Z",
-    "pubmed:39103633": "2026-11-16T06:25:04Z",
-    "pubmed:38831036": "2026-11-16T06:25:04Z",
-    "pubmed:38816644": "2026-11-16T06:25:04Z",
-    "pubmed:38724718": "2026-11-16T06:25:04Z",
-    "pubmed:38570702": "2026-11-16T06:25:04Z",
-    "pubmed:38503834": "2026-11-16T06:25:04Z",
-    "pubmed:38109936": "2026-11-16T06:25:04Z",
-    "pubmed:37770718": "2026-11-16T06:25:04Z",
-    "pubmed:37667012": "2026-11-16T06:25:04Z",
-    "pubmed:37024727": "2026-11-16T06:25:04Z",
-    "pubmed:36813896": "2026-11-16T06:25:04Z",
-    "pubmed:36522429": "2026-11-16T06:25:04Z",
-    "pubmed:35732732": "2026-11-16T06:25:04Z",
-    "pubmed:35484405": "2026-11-16T06:25:04Z",
-    "pubmed:35332283": "2026-11-16T06:25:04Z",
-    "pubmed:34853475": "2026-11-16T06:25:04Z",
-    "pubmed:34518698": "2026-11-16T06:25:04Z",
-    "pubmed:33762730": "2026-11-16T06:25:04Z",
-    "pubmed:33723378": "2026-11-16T06:25:04Z",
-    "pubmed:33408408": "2026-11-16T06:25:04Z",
-    "pubmed:32848250": "2026-11-16T06:25:04Z",
-    "pubmed:32483333": "2026-11-16T06:25:04Z",
-    "pubmed:31501561": "2026-11-16T06:25:04Z",
-    "pubmed:31341284": "2026-11-16T06:25:04Z",
-    "pubmed:31292559": "2026-11-16T06:25:04Z",
-    "pubmed:31168091": "2026-11-16T06:25:04Z",
-    "pubmed:31086346": "2026-11-16T06:25:04Z",
-    "pubmed:30568301": "2026-11-16T06:25:04Z",
-    "pubmed:30374087": "2026-11-16T06:25:04Z",
-    "pubmed:29269835": "2026-11-16T06:25:04Z",
-    "pubmed:28953867": "2026-11-16T06:25:04Z",
-    "pubmed:28604661": "2026-11-16T06:25:04Z",
-    "pubmed:27626386": "2026-11-16T06:25:04Z",
-    "pubmed:26689263": "2026-11-16T06:25:04Z",
-    "pubmed:26675729": "2026-11-16T06:25:04Z",
-    "pubmed:26641932": "2026-11-16T06:25:04Z",
-    "pubmed:26598135": "2026-11-16T06:25:04Z",
-    "pubmed:25436519": "2026-11-16T06:25:04Z",
+    "pubmed:42926814": "2026-11-23T12:33:20Z",
+    "pubmed:41339749": "2026-11-23T12:33:20Z",
+    "pubmed:40993395": "2026-11-23T12:33:20Z",
+    "pubmed:40665050": "2026-11-23T12:33:20Z",
+    "pubmed:40542165": "2026-11-23T12:33:20Z",
+    "pubmed:40155723": "2026-11-23T12:33:20Z",
+    "pubmed:39695230": "2026-11-23T12:33:20Z",
+    "pubmed:39542025": "2026-11-23T12:33:20Z",
+    "pubmed:39294458": "2026-11-23T12:33:20Z",
+    "pubmed:39103633": "2026-11-23T12:33:20Z",
+    "pubmed:38831036": "2026-11-23T12:33:20Z",
+    "pubmed:38816644": "2026-11-23T12:33:20Z",
+    "pubmed:38724718": "2026-11-23T12:33:20Z",
+    "pubmed:38570702": "2026-11-23T12:33:20Z",
+    "pubmed:38503834": "2026-11-23T12:33:20Z",
+    "pubmed:38109936": "2026-11-23T12:33:20Z",
+    "pubmed:37770718": "2026-11-23T12:33:20Z",
+    "pubmed:37667012": "2026-11-23T12:33:20Z",
+    "pubmed:37024727": "2026-11-23T12:33:20Z",
+    "pubmed:36813896": "2026-11-23T12:33:20Z",
+    "pubmed:36522429": "2026-11-23T12:33:20Z",
+    "pubmed:35732732": "2026-11-23T12:33:20Z",
+    "pubmed:35484405": "2026-11-23T12:33:20Z",
+    "pubmed:35332283": "2026-11-23T12:33:20Z",
+    "pubmed:34853475": "2026-11-23T12:33:20Z",
+    "pubmed:34518698": "2026-11-23T12:33:20Z",
+    "pubmed:33762730": "2026-11-23T12:33:20Z",
+    "pubmed:33723378": "2026-11-23T12:33:20Z",
+    "pubmed:33408408": "2026-11-23T12:33:20Z",
+    "pubmed:32848250": "2026-11-23T12:33:20Z",
+    "pubmed:32483333": "2026-11-23T12:33:20Z",
+    "pubmed:31501561": "2026-11-23T12:33:20Z",
+    "pubmed:31341284": "2026-11-23T12:33:20Z",
+    "pubmed:31292559": "2026-11-23T12:33:20Z",
+    "pubmed:31168091": "2026-11-23T12:33:20Z",
+    "pubmed:31086346": "2026-11-23T12:33:20Z",
+    "pubmed:30568301": "2026-11-23T12:33:20Z",
+    "pubmed:30374087": "2026-11-23T12:33:20Z",
+    "pubmed:29269835": "2026-11-23T12:33:20Z",
+    "pubmed:28953867": "2026-11-23T12:33:20Z",
+    "pubmed:28604661": "2026-11-23T12:33:20Z",
+    "pubmed:27626386": "2026-11-23T12:33:20Z",
+    "pubmed:26689263": "2026-11-23T12:33:20Z",
+    "pubmed:26675729": "2026-11-23T12:33:20Z",
+    "pubmed:26641932": "2026-11-23T12:33:20Z",
+    "pubmed:26598135": "2026-11-23T12:33:20Z",
+    "pubmed:25436519": "2026-11-23T12:33:20Z",
     "pubmed:39714958": "2026-11-17T03:51:00Z",
     "pubmed:36493355": "2026-11-17T03:51:00Z",
     "biorxiv:10.1101/2024.06.24.600095": "2026-11-20T02:17:57Z",
@@ -225,19 +225,19 @@
     "pubmed:30012568": "2026-11-22T01:16:47Z",
     "pubmed:29927110": "2026-11-22T01:16:47Z",
     "pubmed:24682825": "2026-11-22T01:16:47Z",
-    "pubmed:30152054": "2026-11-16T06:25:04Z",
-    "pubmed:29496879": "2026-11-16T06:25:04Z",
-    "pubmed:28784799": "2026-11-16T06:25:04Z",
-    "pubmed:27633552": "2026-11-16T06:25:04Z",
-    "pubmed:26873166": "2026-11-16T06:25:04Z",
-    "pubmed:26553805": "2026-11-16T06:25:04Z",
-    "pubmed:25902402": "2026-11-16T06:25:04Z",
+    "pubmed:30152054": "2026-11-23T12:33:20Z",
+    "pubmed:29496879": "2026-11-23T12:33:20Z",
+    "pubmed:28784799": "2026-11-23T12:33:20Z",
+    "pubmed:27633552": "2026-11-23T12:33:20Z",
+    "pubmed:26873166": "2026-11-23T12:33:20Z",
+    "pubmed:26553805": "2026-11-23T12:33:20Z",
+    "pubmed:25902402": "2026-11-23T12:33:20Z",
     "pubmed:43003026": "2026-11-17T03:51:00Z",
     "pubmed:43003839": "2026-11-17T03:51:00Z",
     "pubmed:40894640": "2026-11-19T02:32:37Z",
     "pubmed:42258711": "2026-11-20T02:17:57Z",
     "biorxiv:10.64898/2026.04.26.720818": "2026-11-20T02:17:57Z",
-    "pubmed:42995841": "2026-11-16T19:34:51Z",
+    "pubmed:42995841": "2026-11-23T12:33:20Z",
     "pubmed:37131615": "2026-11-18T11:38:30Z",
     "biorxiv:10.64898/2026.11.17.767279": "2026-11-19T11:36:31Z",
     "pubmed:43053449": "2026-11-19T11:36:31Z",
@@ -282,7 +282,8 @@
     "pubmed:32907861": "2026-11-22T11:19:48Z",
     "pubmed:31296772": "2026-11-22T11:19:48Z",
     "pubmed:41117072": "2026-11-22T19:36:23Z",
-    "pubmed:40489013": "2026-11-22T19:36:23Z"
+    "pubmed:40489013": "2026-11-22T19:36:23Z",
+    "pubmed:41519898": "2026-11-23T12:33:20Z"
   },
   "works": {
     "urn:uuid:7f477453-6c38-52e7-b591-accb9b0e6576": {
@@ -49910,7 +49911,7 @@
     "urn:uuid:eec59bfc-87be-5ff1-9cfb-dee02bfa918a": {
       "id": "urn:uuid:eec59bfc-87be-5ff1-9cfb-dee02bfa918a",
       "first_seen": "2026-11-22T11:19:48Z",
-      "updated": "2026-11-22T11:19:48Z",
+      "updated": "2026-11-23T12:33:20Z",
       "records": {
         "pubmed:39149384": {
           "source": "pubmed",
@@ -50028,6 +50029,124 @@
               "evidence": "PubMed preprint UpdateIn"
             }
           ]
+        },
+        "pubmed:41519898": {
+          "source": "pubmed",
+          "source_id": "41519898",
+          "title": "The computationally designed TRI2-2 miniprotein inhibitor protects against multiple SARS-CoV-2 Omicron variants.",
+          "authors": [
+            {
+              "name": "Jimin Lee",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "James Brett Case",
+              "affiliations": [
+                "Department of Medicine, Washington University School of Medicine, St. Louis, MO, USA."
+              ],
+              "orcid": "0000-0001-7331-5511"
+            },
+            {
+              "name": "Young-Jun Park",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0003-2901-6949"
+            },
+            {
+              "name": "Rashmi Ravichandran",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Daniel Asarnow",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-7870-5308"
+            },
+            {
+              "name": "M Alejandra Tortorici",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0002-2260-2577"
+            },
+            {
+              "name": "Jack T Brown",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Shilpa Sanapala",
+              "affiliations": [
+                "Department of Medicine, Washington University School of Medicine, St. Louis, MO, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Lauren Carter",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-7896-6217"
+            },
+            {
+              "name": "Michael S Diamond",
+              "affiliations": [
+                "Department of Medicine, Washington University School of Medicine, St. Louis, MO, USA. mdiamond@wustl.edu.",
+                "Department of Molecular Microbiology, Washington University School of Medicine, St. Louis, MO, USA. mdiamond@wustl.edu.",
+                "Department of Pathology and Immunology, Washington University School of Medicine, St. Louis, MO, USA. mdiamond@wustl.edu.",
+                "Andrew M. and Jane M. Bursky Center for Human Immunology and Immunotherapy Programs, Washington University School of Medicine, St. Louis, MO, USA. mdiamond@wustl.edu."
+              ],
+              "orcid": "0000-0002-8791-3165"
+            },
+            {
+              "name": "David Veesler",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA. dveesler@uw.edu.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA. dveesler@uw.edu."
+              ],
+              "orcid": "0000-0002-6019-8675"
+            }
+          ],
+          "abstract": "The continued evolution of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has compromised neutralizing antibody responses elicited by prior infection or vaccination and abolished the utility of most monoclonal antibody therapeutics. We previously described a computationally-designed, homotrimeric miniprotein inhibitor, designated TRI2-2, that protects mice against pre-Omicron SARS-CoV-2 variants. Here, we show that TRI2-2 exhibits broadly neutralizing activity of SARS-CoV-2 variants and protects mice against BQ.1.1, XBB.1.5 and BA.2.86 challenge when administered intranasally post-exposure. The resistance of TRI2-2 to viral escape by most variants and the ability to deliver it directly to the upper airways highlight the potential of the multivalent miniprotein inhibitor as an alternative therapeutic modality.",
+          "date": "2026-01-10",
+          "url": "https://doi.org/10.1038/s42003-025-09499-2",
+          "doi": "10.1038/s42003-025-09499-2",
+          "status": "published",
+          "journal": "Communications biology",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC12901202"
+          ],
+          "relations": [
+            {
+              "kind": "update_of",
+              "target": "pubmed:39149384",
+              "evidence": "PubMed UpdateOf; target must be a preprint"
+            }
+          ]
         }
       },
       "matched_researchers": {
@@ -50052,6 +50171,18 @@
                 ]
               }
             ]
+          },
+          {
+            "record": "pubmed:41519898",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
           }
         ]
       },
@@ -50060,6 +50191,20 @@
           "record": "pubmed:39149384",
           "method": "new_work",
           "reason": "no existing work"
+        },
+        {
+          "record": "pubmed:41519898",
+          "rank": 1,
+          "method": "explicit_relationship",
+          "identifiers": [
+            "pubmed:39149384",
+            "pubmed:41519898"
+          ],
+          "evidence": [
+            "PubMed UpdateOf; target must be a preprint",
+            "PubMed preprint UpdateIn"
+          ],
+          "matched_record": "pubmed:39149384"
         }
       ],
       "published": "2024-08-10T00:00:00Z"
