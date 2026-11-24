@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-11-24T02:12:03Z</updated>
+  <updated>2026-11-24T23:52:47Z</updated>
   <entry>
     <id>urn:uuid:a2b00ede-fba9-563b-895c-d09849d5fb39</id>
     <title>Crystal structure of the first de novo designed phosphotriesterase ZAPP-1</title>
@@ -10185,6 +10185,42 @@
 &lt;/ul&gt;</content>
   </entry>
   <entry>
+    <id>urn:uuid:e3fbfc30-c8d0-5c39-a5c2-4206cc9b42df</id>
+    <title>Accurate prediction of protein-nucleic acid complexes using RoseTTAFoldNA.</title>
+    <published>2023-11-23T00:00:00Z</published>
+    <updated>2026-11-24T23:52:47Z</updated>
+    <link href="https://doi.org/10.1038/s41592-023-02086-5" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Minkyung Baek</name>
+    </author>
+    <author>
+      <name>Ryan McHugh</name>
+    </author>
+    <author>
+      <name>Ivan Anishchenko</name>
+    </author>
+    <author>
+      <name>Hanlun Jiang</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Frank DiMaio</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Minkyung Baek; Ryan McHugh; Ivan Anishchenko; Hanlun Jiang; David Baker; Frank DiMaio&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2023-11-23&lt;/p&gt;
+&lt;p&gt;Journal: Nature methods&lt;/p&gt;
+&lt;p&gt;Protein-RNA and protein-DNA complexes play critical roles in biology. Despite considerable recent advances in protein structure prediction, the prediction of the structures of protein-nucleic acid complexes without homology to known complexes is a largely unsolved problem. Here we extend the RoseTTAFold machine learning protein-structure-prediction approach to additionally predict nucleic acid and protein-nucleic acid complexes. We develop a single trained network, RoseTTAFoldNA, that rapidly produces three-dimensional structure models with confidence estimates for protein-DNA and protein-RNA complexes. Here we show that confident predictions have considerably higher accuracy than current state-of-the-art methods. RoseTTAFoldNA should be broadly useful for modeling the structure of naturally occurring protein-nucleic acid complexes, and for designing sequence-specific RNA and DNA-binding proteins.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41592-023-02086-5"&gt;pubmed (published) — DOI: 10.1038/s41592-023-02086-5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41592-023-02086-5"&gt;Published version — DOI: 10.1038/s41592-023-02086-5&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
     <id>urn:uuid:451a23a8-bb6f-54c9-8c61-e5e6544e37d3</id>
     <title>In vivo selection of synthetic nucleocapsids for tissue targeting.</title>
     <published>2023-11-08T00:00:00Z</published>
@@ -14324,87 +14360,6 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-019-1361-6"&gt;pubmed (published) — DOI: 10.1038/s41586-019-1361-6&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-019-1361-6"&gt;Published version — DOI: 10.1038/s41586-019-1361-6&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <id>urn:uuid:eabad669-7248-579b-9bb9-ee2340ee92c5</id>
-    <title>De novo protein design by citizen scientists.</title>
-    <published>2019-06-05T00:00:00Z</published>
-    <updated>2026-11-02T21:41:53Z</updated>
-    <link href="https://doi.org/10.1038/s41586-019-1274-4" rel="alternate" />
-    <category term="published" />
-    <author>
-      <name>Brian Koepnick</name>
-    </author>
-    <author>
-      <name>Jeff Flatten</name>
-    </author>
-    <author>
-      <name>Tamir Husain</name>
-    </author>
-    <author>
-      <name>Alex Ford</name>
-    </author>
-    <author>
-      <name>Daniel-Adriano Silva</name>
-    </author>
-    <author>
-      <name>Matthew J Bick</name>
-    </author>
-    <author>
-      <name>Aaron Bauer</name>
-    </author>
-    <author>
-      <name>Gaohua Liu</name>
-    </author>
-    <author>
-      <name>Yojiro Ishida</name>
-    </author>
-    <author>
-      <name>Alexander Boykov</name>
-    </author>
-    <author>
-      <name>Roger D Estep</name>
-    </author>
-    <author>
-      <name>Susan Kleinfelter</name>
-    </author>
-    <author>
-      <name>Toke Nørgård-Solano</name>
-    </author>
-    <author>
-      <name>Linda Wei</name>
-    </author>
-    <author>
-      <name>Foldit Players</name>
-    </author>
-    <author>
-      <name>Gaetano T Montelione</name>
-    </author>
-    <author>
-      <name>Frank DiMaio</name>
-    </author>
-    <author>
-      <name>Zoran Popović</name>
-    </author>
-    <author>
-      <name>Firas Khatib</name>
-    </author>
-    <author>
-      <name>Seth Cooper</name>
-    </author>
-    <author>
-      <name>David Baker</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Authors: Brian Koepnick; Jeff Flatten; Tamir Husain; Alex Ford; Daniel-Adriano Silva; Matthew J Bick; Aaron Bauer; Gaohua Liu; Yojiro Ishida; Alexander Boykov; Roger D Estep; Susan Kleinfelter; Toke Nørgård-Solano; Linda Wei; Foldit Players; Gaetano T Montelione; Frank DiMaio; Zoran Popović; Firas Khatib; Seth Cooper; David Baker&lt;/p&gt;
-&lt;p&gt;Sources: pubmed&lt;/p&gt;
-&lt;p&gt;Publication date: 2019-06-05&lt;/p&gt;
-&lt;p&gt;Journal: Nature&lt;/p&gt;
-&lt;p&gt;Online citizen science projects such as GalaxyZoo1, Eyewire2 and Phylo3 have proven very successful for data collection, annotation and processing, but for the most part have harnessed human pattern-recognition skills rather than human creativity. An exception is the game EteRNA4, in which game players learn to build new RNA structures by exploring the discrete two-dimensional space of Watson-Crick base pairing possibilities. Building new proteins, however, is a more challenging task to present in a game, as both the representation and evaluation of a protein structure are intrinsically three-dimensional. We posed the challenge of de novo protein design in the online protein-folding game Foldit5. Players were presented with a fully extended peptide chain and challenged to craft a folded protein structure and an amino acid sequence encoding that structure. After many iterations of player design, analysis of the top-scoring solutions and subsequent game improvement, Foldit players can now-starting from an extended polypeptide chain-generate a diversity of protein structures and sequences that encode them in silico. One hundred forty-six Foldit player designs with sequences unrelated to naturally occurring proteins were encoded in synthetic genes; 56 were found to be expressed and soluble in Escherichia coli, and to adopt stable monomeric folded structures in solution. The diversity of these structures is unprecedented in de novo protein design, representing 20 different folds-including a new fold not observed in natural proteins. High-resolution structures were determined for four of the designs, and are nearly identical to the player models. This work makes explicit the considerable implicit knowledge that contributes to success in de novo protein design, and shows that citizen scientists can discover creative new solutions to outstanding scientific challenges such as the protein design problem.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-019-1274-4"&gt;pubmed (published) — DOI: 10.1038/s41586-019-1274-4&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-019-1274-4"&gt;Published version — DOI: 10.1038/s41586-019-1274-4&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
 </feed>

@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-11-24T13:39:46Z",
+      "last_success": "2026-11-24T23:52:47Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-11-24T13:39:46Z",
+      "last_success": "2026-11-24T23:52:47Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-11-24T13:39:46Z",
+      "last_success": "2026-11-24T23:52:47Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -284,7 +284,8 @@
     "pubmed:41117072": "2026-11-22T19:36:23Z",
     "pubmed:40489013": "2026-11-22T19:36:23Z",
     "pubmed:41519898": "2026-11-23T12:33:20Z",
-    "pubmed:36305767": "2026-11-24T02:12:03Z"
+    "pubmed:36305767": "2026-11-24T02:12:03Z",
+    "pubmed:37996753": "2026-11-24T23:52:47Z"
   },
   "works": {
     "urn:uuid:7f477453-6c38-52e7-b591-accb9b0e6576": {
@@ -50869,6 +50870,103 @@
         }
       ],
       "published": "2022-11-01T00:00:00Z"
+    },
+    "urn:uuid:e3fbfc30-c8d0-5c39-a5c2-4206cc9b42df": {
+      "id": "urn:uuid:e3fbfc30-c8d0-5c39-a5c2-4206cc9b42df",
+      "first_seen": "2026-11-24T23:52:47Z",
+      "updated": "2026-11-24T23:52:47Z",
+      "records": {
+        "pubmed:37996753": {
+          "source": "pubmed",
+          "source_id": "37996753",
+          "title": "Accurate prediction of protein-nucleic acid complexes using RoseTTAFoldNA.",
+          "authors": [
+            {
+              "name": "Minkyung Baek",
+              "affiliations": [
+                "School of Biological Sciences, Seoul National University, Seoul, Republic of Korea."
+              ],
+              "orcid": "0000-0003-3414-9404"
+            },
+            {
+              "name": "Ryan McHugh",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0003-0291-2196"
+            },
+            {
+              "name": "Ivan Anishchenko",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0003-3645-2044"
+            },
+            {
+              "name": "Hanlun Jiang",
+              "affiliations": [
+                "Department of Electrical Engineering and Computer Sciences, University of California, Berkeley, CA, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+              ],
+              "orcid": "0000-0001-7896-6217"
+            },
+            {
+              "name": "Frank DiMaio",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA, USA. dimaio@uw.edu.",
+                "Institute for Protein Design, University of Washington, Seattle, WA, USA. dimaio@uw.edu."
+              ],
+              "orcid": "0000-0002-7524-8938"
+            }
+          ],
+          "abstract": "Protein-RNA and protein-DNA complexes play critical roles in biology. Despite considerable recent advances in protein structure prediction, the prediction of the structures of protein-nucleic acid complexes without homology to known complexes is a largely unsolved problem. Here we extend the RoseTTAFold machine learning protein-structure-prediction approach to additionally predict nucleic acid and protein-nucleic acid complexes. We develop a single trained network, RoseTTAFoldNA, that rapidly produces three-dimensional structure models with confidence estimates for protein-DNA and protein-RNA complexes. Here we show that confident predictions have considerably higher accuracy than current state-of-the-art methods. RoseTTAFoldNA should be broadly useful for modeling the structure of naturally occurring protein-nucleic acid complexes, and for designing sequence-specific RNA and DNA-binding proteins.",
+          "date": "2023-11-23",
+          "url": "https://doi.org/10.1038/s41592-023-02086-5",
+          "doi": "10.1038/s41592-023-02086-5",
+          "status": "published",
+          "journal": "Nature methods",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC10776382"
+          ],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:37996753",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:37996753",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2023-11-23T00:00:00Z"
     }
   },
   "aliases": {
@@ -50876,6 +50974,371 @@
     "urn:uuid:f9f935fd-6d91-53b9-af07-683764a49ed9": "urn:uuid:d9c869ba-c709-5c1a-8aac-288b447ba30d"
   },
   "rejected": {
+    "pubmed:39206568": {
+      "first_seen": "2026-11-24T23:52:47Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "39206568",
+        "title": "Prognostic Significance of Hemodynamics in Patients With Transposition of the Great Arteries and Systemic Right Ventricle.",
+        "authors": [
+          {
+            "name": "Nael Aldweib",
+            "affiliations": [
+              "Knight Cardiovascular Institute, Oregon Health and Science University, Portland (N.A., C.S.B., A.A., L.M., C.M.)."
+            ],
+            "orcid": "0000-0002-2680-5371"
+          },
+          {
+            "name": "Payam Dehghani",
+            "affiliations": [
+              "Regina General Hospital, SK, Canada (P.D.)."
+            ],
+            "orcid": "0000-0001-7858-7989"
+          },
+          {
+            "name": "Craig S Broberg",
+            "affiliations": [
+              "Knight Cardiovascular Institute, Oregon Health and Science University, Portland (N.A., C.S.B., A.A., L.M., C.M.)."
+            ],
+            "orcid": "0000-0002-9797-9803"
+          },
+          {
+            "name": "Alexandra van Dissel",
+            "affiliations": [
+              "Amsterdam University Medical Center, the Netherlands (A.v.D.)."
+            ],
+            "orcid": "0000-0003-3730-0720"
+          },
+          {
+            "name": "Ahmad Altibi",
+            "affiliations": [
+              "Knight Cardiovascular Institute, Oregon Health and Science University, Portland (N.A., C.S.B., A.A., L.M., C.M.)."
+            ],
+            "orcid": "0000-0001-7518-5415"
+          },
+          {
+            "name": "Joshua Wong",
+            "affiliations": [
+              "Department of Medicine, Royal Melbourne Hospital, Melbourne, VIC, Australia (J.W., P.S.J., L.J.B., W.M.W.)."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "David Baker",
+            "affiliations": [
+              "University of Sydney and Royal Prince Alfred Hospital, NSW, Australia (D.B.)."
+            ],
+            "orcid": "0000-0001-7349-7554"
+          },
+          {
+            "name": "Salil Gindi",
+            "affiliations": [
+              "Children's Hospital of Wisconsin, Milwaukee (S.G.)."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Paul Khairy",
+            "affiliations": [
+              "Montreal Heart Institute, QC, Canada (P.K.)."
+            ],
+            "orcid": "0000-0003-4059-3800"
+          },
+          {
+            "name": "Alexander R Opotowsky",
+            "affiliations": [
+              "Department of Pediatrics, Cincinnati Children's Hospital Medical Center, Heart Institute, University of Cincinnati College of Medicine, OH (A.R.O., A.M.L.)."
+            ],
+            "orcid": "0000-0002-6107-2281"
+          },
+          {
+            "name": "Sangeeta Shah",
+            "affiliations": [
+              "Ochsner Medical Center, New Orleans, LA (S.S., M.K., T.G.)."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Anthony Magalski",
+            "affiliations": [
+              "University of Missouri-Kansas City and Saint Luke's Hospital (A.M.)."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Jonathan Cramer",
+            "affiliations": [
+              "Children's Hospital, Omaha and University of Nebraska Medical Center (J.C.)."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Robert M Kauling",
+            "affiliations": [
+              "Erasmus Medical Center, Rotterdam, the Netherlands (R.M.K., J.R.-H.)."
+            ],
+            "orcid": "0000-0002-8654-7634"
+          },
+          {
+            "name": "Mikael Dellborg",
+            "affiliations": [
+              "Institute of Medicine, Sahlgrenska Academy, University of Gothenburg, Sweden (M.D.)."
+            ],
+            "orcid": "0000-0001-6502-8838"
+          },
+          {
+            "name": "Eric V Krieger",
+            "affiliations": [
+              "University of Washington Medical Center and Seattle Children's Hospital (E.V.K.)."
+            ],
+            "orcid": "0000-0002-6525-5966"
+          },
+          {
+            "name": "Elizabeth Yeung",
+            "affiliations": [
+              "Colorado University School of Medicine, Denver (E.Y., J.K.)."
+            ],
+            "orcid": "0000-0002-4459-4256"
+          },
+          {
+            "name": "Jolien Roos-Hesselink",
+            "affiliations": [
+              "Erasmus Medical Center, Rotterdam, the Netherlands (R.M.K., J.R.-H.)."
+            ],
+            "orcid": "0000-0002-6770-3830"
+          },
+          {
+            "name": "Jamil Aboulhosn",
+            "affiliations": [
+              "University of California, Los Angeles Medical Center (J.A.)."
+            ],
+            "orcid": "0000-0002-0209-9505"
+          },
+          {
+            "name": "Jeremy Nicolarsen",
+            "affiliations": [
+              "Providence Spokane, WA (J.N.)."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Luke Masha",
+            "affiliations": [
+              "Knight Cardiovascular Institute, Oregon Health and Science University, Portland (N.A., C.S.B., A.A., L.M., C.M.)."
+            ],
+            "orcid": "0000-0003-1142-8056"
+          },
+          {
+            "name": "Pastora Gallego",
+            "affiliations": [
+              "Hospital Universitario Virgen Del Rocio, Sevilla, Spain (P.G.)."
+            ],
+            "orcid": "0000-0003-2115-5047"
+          },
+          {
+            "name": "David S Celermajer",
+            "affiliations": [
+              "University of Sydney and Royal Prince Alfred Hospital, NSW, Australia (D.S.C.)."
+            ],
+            "orcid": "0000-0001-7640-0439"
+          },
+          {
+            "name": "Joseph Kay",
+            "affiliations": [
+              "Colorado University School of Medicine, Denver (E.Y., J.K.)."
+            ],
+            "orcid": "0000-0003-3208-7270"
+          },
+          {
+            "name": "Isabelle Vonder Muhll",
+            "affiliations": [
+              "University of Alberta, Edmonton, AB, Canada (I.V.M., S.P.)."
+            ],
+            "orcid": "0000-0001-7617-7185"
+          },
+          {
+            "name": "Susan M Jameson",
+            "affiliations": [
+              "Departments of Pediatrics and Medicine, School of Medicine, Stanford University, Palo Alto, CA (S.M.J.)."
+            ],
+            "orcid": "0000-0002-3062-6827"
+          },
+          {
+            "name": "Clare O'Donnell",
+            "affiliations": [
+              "Green Lane Paediatric and Congenital Cardiac Service, Auckland City Hospital, New Zealand (C.O.)."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Flavia Fusco",
+            "affiliations": [
+              "Monaldi Hospital, Napoli, Italy (F.F., B.S.)."
+            ],
+            "orcid": "0000-0002-9061-7834"
+          },
+          {
+            "name": "Anitha S John",
+            "affiliations": [
+              "Children's National Hospital, Washington, DC (A.S.J.)."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Conrad Macon",
+            "affiliations": [
+              "Knight Cardiovascular Institute, Oregon Health and Science University, Portland (N.A., C.S.B., A.A., L.M., C.M.)."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Petra Antonova",
+            "affiliations": [
+              "University Hospital Motol, Prague, Czech Republic (P.A.)."
+            ],
+            "orcid": "0000-0003-3272-7928"
+          },
+          {
+            "name": "Timothy Cotts",
+            "affiliations": [
+              "University of Michigan Medical Center, Ann Arbor (T.C.)."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Berardo Sarubbi",
+            "affiliations": [
+              "Monaldi Hospital, Napoli, Italy (F.F., B.S.)."
+            ],
+            "orcid": "0000-0001-9941-8500"
+          },
+          {
+            "name": "Fred Rodriguez",
+            "affiliations": [
+              "Emory University Hospital, Atlanta, GA (F.R.)."
+            ],
+            "orcid": "0000-0002-4833-3483"
+          },
+          {
+            "name": "Christopher DeZorzi",
+            "affiliations": [
+              "Department of Pediatrics, Boston Children's Hospital, and Division of Cardiology, Department of Medicine, Brigham and Women's Hospital, Harvard Medical School, Boston, MA (C.D., C.P.R.M.)."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Pavithra S Jayadeva",
+            "affiliations": [
+              "Department of Medicine, Royal Melbourne Hospital, Melbourne, VIC, Australia (J.W., P.S.J., L.J.B., W.M.W.)."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Marissa Kuo",
+            "affiliations": [
+              "Ochsner Medical Center, New Orleans, LA (S.S., M.K., T.G.)."
+            ],
+            "orcid": "0009-0009-4802-8612"
+          },
+          {
+            "name": "Shelby Kutty",
+            "affiliations": [
+              "Johns Hopkins University, Baltimore, MD (S.K.)."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Tripti Gupta",
+            "affiliations": [
+              "Ochsner Medical Center, New Orleans, LA (S.S., M.K., T.G.)."
+            ],
+            "orcid": "0000-0002-6609-8632"
+          },
+          {
+            "name": "Luke J Burchill",
+            "affiliations": [
+              "Department of Medicine, Royal Melbourne Hospital, Melbourne, VIC, Australia (J.W., P.S.J., L.J.B., W.M.W.)."
+            ],
+            "orcid": "0000-0001-9786-1840"
+          },
+          {
+            "name": "Carla P Rodriguez Monserrate",
+            "affiliations": [
+              "Department of Pediatrics, Boston Children's Hospital, and Division of Cardiology, Department of Medicine, Brigham and Women's Hospital, Harvard Medical School, Boston, MA (C.D., C.P.R.M.)."
+            ],
+            "orcid": "0000-0001-9297-4416"
+          },
+          {
+            "name": "Adam M Lubert",
+            "affiliations": [
+              "Department of Pediatrics, Cincinnati Children's Hospital Medical Center, Heart Institute, University of Cincinnati College of Medicine, OH (A.R.O., A.M.L.)."
+            ],
+            "orcid": "0000-0001-6401-9980"
+          },
+          {
+            "name": "Jasmine Grewal",
+            "affiliations": [
+              "Division of Cardiology, St. Paul's Hospital, University of British Columbia, Vancouver, BC, Canada (J.G.)."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "Stephen Pylypchuk",
+            "affiliations": [
+              "University of Alberta, Edmonton, AB, Canada (I.V.M., S.P.)."
+            ],
+            "orcid": "0000-0002-3765-2286"
+          },
+          {
+            "name": "Mark N Belkin",
+            "affiliations": [
+              "University of Chicago, IL (M.N.B.)."
+            ],
+            "orcid": null
+          },
+          {
+            "name": "William M Wilson",
+            "affiliations": [
+              "Department of Medicine, Royal Melbourne Hospital, Melbourne, VIC, Australia (J.W., P.S.J., L.J.B., W.M.W.)."
+            ],
+            "orcid": null
+          }
+        ],
+        "abstract": "BACKGROUND: Patients with transposition of the great arteries (TGA) and systemic right ventricle often confront significant adverse cardiac events. The prognostic significance of invasive hemodynamic parameters in this context remains uncertain. Our hypothesis is that the aortic pulsatility index and hemodynamic profiling utilizing invasive measures provide prognostic insights for patients with TGA and a systemic right ventricle.\n\nMETHODS: This retrospective multicenter cohort study encompasses adults with TGA and a systemic right ventricle who underwent cardiac catheterization. Data collection, spanning from 1994 to 2020, encompasses clinical and hemodynamic parameters, including measured and calculated values such as pulmonary capillary wedge pressure, aortic pulsatility index, and cardiac index. Pulmonary capillary wedge pressure and cardiac index values were used to establish 4 distinct hemodynamic profiles. A pulmonary capillary wedge pressure of ≥15 mm Hg indicated congestion, termed wet, while a cardiac index <2.2 L/min per m2 signified inadequate perfusion, labeled cold. The primary outcome comprised a composite of all-cause death, heart transplantation, or the requirement for mechanical circulatory support.\n\nRESULTS: Of 1721 patients with TGA, 242 individuals with available invasive hemodynamic data were included. The median follow-up duration after cardiac catheterization was 11.4 (interquartile range, 7.5-15.9) years, with a mean age of 38.5±10.8 years at the time of cardiac catheterization. Among hemodynamic parameters, an aortic pulsatility index <1.5 emerged as a robust predictor of the primary outcome, with adjusted hazard ratios of 5.90 (95% CI, 3.01-11.62; P<0.001). Among the identified 4 hemodynamic profiles, the cold/wet profile was associated with the highest risk for the primary outcome, with an adjusted hazard ratio of 3.83 (95% CI, 1.63-9.02; P<0.001).\n\nCONCLUSIONS: A low aortic pulsatility index (<1.5) and the cold/wet hemodynamic profile are linked with an elevated risk of adverse long-term cardiac outcomes in patients with TGA and systemic right ventricle.",
+        "date": "2024-08-29",
+        "url": "https://doi.org/10.1161/circheartfailure.124.011882",
+        "doi": "10.1161/circheartfailure.124.011882",
+        "status": "published",
+        "journal": "Circulation. Heart failure",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [
+          "pmc:PMC11408092"
+        ],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "David Baker",
+              "method": "rejected",
+              "reason": "conflicting ORCID",
+              "orcid": "0000-0001-7349-7554"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
     "pubmed:23451892": {
       "first_seen": "2026-11-22T11:19:48Z",
       "record": {

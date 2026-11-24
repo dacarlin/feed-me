@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-11-24T02:12:03Z</updated>
+  <updated>2026-11-24T23:52:47Z</updated>
   <entry>
     <id>urn:uuid:a2b00ede-fba9-563b-895c-d09849d5fb39</id>
     <title>Crystal structure of the first de novo designed phosphotriesterase ZAPP-1</title>
@@ -10020,6 +10020,42 @@
 &lt;/ul&gt;</content>
   </entry>
   <entry>
+    <id>urn:uuid:e3fbfc30-c8d0-5c39-a5c2-4206cc9b42df</id>
+    <title>Accurate prediction of protein-nucleic acid complexes using RoseTTAFoldNA.</title>
+    <published>2023-11-23T00:00:00Z</published>
+    <updated>2026-11-24T23:52:47Z</updated>
+    <link href="https://doi.org/10.1038/s41592-023-02086-5" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Minkyung Baek</name>
+    </author>
+    <author>
+      <name>Ryan McHugh</name>
+    </author>
+    <author>
+      <name>Ivan Anishchenko</name>
+    </author>
+    <author>
+      <name>Hanlun Jiang</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Frank DiMaio</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Minkyung Baek; Ryan McHugh; Ivan Anishchenko; Hanlun Jiang; David Baker; Frank DiMaio&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2023-11-23&lt;/p&gt;
+&lt;p&gt;Journal: Nature methods&lt;/p&gt;
+&lt;p&gt;Protein-RNA and protein-DNA complexes play critical roles in biology. Despite considerable recent advances in protein structure prediction, the prediction of the structures of protein-nucleic acid complexes without homology to known complexes is a largely unsolved problem. Here we extend the RoseTTAFold machine learning protein-structure-prediction approach to additionally predict nucleic acid and protein-nucleic acid complexes. We develop a single trained network, RoseTTAFoldNA, that rapidly produces three-dimensional structure models with confidence estimates for protein-DNA and protein-RNA complexes. Here we show that confident predictions have considerably higher accuracy than current state-of-the-art methods. RoseTTAFoldNA should be broadly useful for modeling the structure of naturally occurring protein-nucleic acid complexes, and for designing sequence-specific RNA and DNA-binding proteins.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41592-023-02086-5"&gt;pubmed (published) — DOI: 10.1038/s41592-023-02086-5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41592-023-02086-5"&gt;Published version — DOI: 10.1038/s41592-023-02086-5&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
     <id>urn:uuid:451a23a8-bb6f-54c9-8c61-e5e6544e37d3</id>
     <title>In vivo selection of synthetic nucleocapsids for tissue targeting.</title>
     <published>2023-11-08T00:00:00Z</published>
@@ -14531,78 +14567,6 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1002/pro.3453"&gt;pubmed (published) — DOI: 10.1002/pro.3453&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1002/pro.3453"&gt;Published version — DOI: 10.1002/pro.3453&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <id>urn:uuid:11b7335b-b429-599e-9842-fffba25a3143</id>
-    <title>Selective targeting of engineered T cells using orthogonal IL-2 cytokine-receptor complexes.</title>
-    <published>2018-03-02T00:00:00Z</published>
-    <updated>2026-11-09T19:47:26Z</updated>
-    <link href="https://doi.org/10.1126/science.aar3246" rel="alternate" />
-    <category term="published" />
-    <author>
-      <name>Jonathan T Sockolosky</name>
-    </author>
-    <author>
-      <name>Eleonora Trotta</name>
-    </author>
-    <author>
-      <name>Giulia Parisi</name>
-    </author>
-    <author>
-      <name>Lora Picton</name>
-    </author>
-    <author>
-      <name>Leon L Su</name>
-    </author>
-    <author>
-      <name>Alan C Le</name>
-    </author>
-    <author>
-      <name>Akanksha Chhabra</name>
-    </author>
-    <author>
-      <name>Stephanie L Silveria</name>
-    </author>
-    <author>
-      <name>Benson M George</name>
-    </author>
-    <author>
-      <name>Indigo C King</name>
-    </author>
-    <author>
-      <name>Matthew R Tiffany</name>
-    </author>
-    <author>
-      <name>Kevin Jude</name>
-    </author>
-    <author>
-      <name>Leah V Sibener</name>
-    </author>
-    <author>
-      <name>David Baker</name>
-    </author>
-    <author>
-      <name>Judith A Shizuru</name>
-    </author>
-    <author>
-      <name>Antoni Ribas</name>
-    </author>
-    <author>
-      <name>Jeffrey A Bluestone</name>
-    </author>
-    <author>
-      <name>K Christopher Garcia</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Authors: Jonathan T Sockolosky; Eleonora Trotta; Giulia Parisi; Lora Picton; Leon L Su; Alan C Le; Akanksha Chhabra; Stephanie L Silveria; Benson M George; Indigo C King; Matthew R Tiffany; Kevin Jude; Leah V Sibener; David Baker; Judith A Shizuru; Antoni Ribas; Jeffrey A Bluestone; K Christopher Garcia&lt;/p&gt;
-&lt;p&gt;Sources: pubmed&lt;/p&gt;
-&lt;p&gt;Publication date: 2018-03-02&lt;/p&gt;
-&lt;p&gt;Journal: Science (New York, N.Y.)&lt;/p&gt;
-&lt;p&gt;Interleukin-2 (IL-2) is a cytokine required for effector T cell expansion, survival, and function, especially for engineered T cells in adoptive cell immunotherapy, but its pleiotropy leads to simultaneous stimulation and suppression of immune responses as well as systemic toxicity, limiting its therapeutic use. We engineered IL-2 cytokine-receptor orthogonal (ortho) pairs that interact with one another, transmitting native IL-2 signals, but do not interact with their natural cytokine and receptor counterparts. Introduction of orthoIL-2Rβ into T cells enabled the selective cellular targeting of orthoIL-2 to engineered CD4+ and CD8+ T cells in vitro and in vivo, with limited off-target effects and negligible toxicity. OrthoIL-2 pairs were efficacious in a preclinical mouse cancer model of adoptive cell therapy and may therefore represent a synthetic approach to achieving selective potentiation of engineered cells.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://doi.org/10.1126/science.aar3246"&gt;pubmed (published) — DOI: 10.1126/science.aar3246&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://doi.org/10.1126/science.aar3246"&gt;Published version — DOI: 10.1126/science.aar3246&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
 </feed>
