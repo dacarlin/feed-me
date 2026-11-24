@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-11-23T12:33:20Z</updated>
+  <updated>2026-11-24T02:12:03Z</updated>
   <entry>
     <id>urn:uuid:a2b00ede-fba9-563b-895c-d09849d5fb39</id>
     <title>Crystal structure of the first de novo designed phosphotriesterase ZAPP-1</title>
@@ -11253,6 +11253,54 @@
 &lt;/ul&gt;</content>
   </entry>
   <entry>
+    <id>urn:uuid:bc69ca17-9101-59a1-ac92-d6a0f7cb61f3</id>
+    <title>Design and optimization of enzymatic activity in a de novo β-barrel scaffold.</title>
+    <published>2022-11-01T00:00:00Z</published>
+    <updated>2026-11-24T02:12:03Z</updated>
+    <link href="https://doi.org/10.1002/pro.4405" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Yakov Kipnis</name>
+    </author>
+    <author>
+      <name>Anissa Ouald Chaib</name>
+    </author>
+    <author>
+      <name>Anastassia A Vorobieva</name>
+    </author>
+    <author>
+      <name>Guangyang Cai</name>
+    </author>
+    <author>
+      <name>Gabriella Reggiano</name>
+    </author>
+    <author>
+      <name>Benjamin Basanta</name>
+    </author>
+    <author>
+      <name>Eshan Kumar</name>
+    </author>
+    <author>
+      <name>Peer R E Mittl</name>
+    </author>
+    <author>
+      <name>Donald Hilvert</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Yakov Kipnis; Anissa Ouald Chaib; Anastassia A Vorobieva; Guangyang Cai; Gabriella Reggiano; Benjamin Basanta; Eshan Kumar; Peer R E Mittl; Donald Hilvert; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2022-11&lt;/p&gt;
+&lt;p&gt;Journal: Protein science : a publication of the Protein Society&lt;/p&gt;
+&lt;p&gt;While native scaffolds offer a large diversity of shapes and topologies for enzyme engineering, their often unpredictable behavior in response to sequence modification makes de novo generated scaffolds an exciting alternative. Here we explore the customization of the backbone and sequence of a de novo designed eight stranded β-barrel protein to create catalysts for a retro-aldolase model reaction. We show that active and specific catalysts can be designed in this fold and use directed evolution to further optimize activity and stereoselectivity. Our results support previous suggestions that different folds have different inherent amenability to evolution and this property could account, in part, for the distribution of natural enzymes among different folds.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1002/pro.4405"&gt;pubmed (published) — DOI: 10.1002/pro.4405&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1002/pro.4405"&gt;Published version — DOI: 10.1002/pro.4405&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
     <id>urn:uuid:1d8012eb-c744-5f5d-8045-e9ac72dea9ee</id>
     <title>Exploration of Structured Symmetric Cyclic Peptides as Ligands for Metal-Organic Frameworks.</title>
     <published>2022-10-25T00:00:00Z</published>
@@ -14555,60 +14603,6 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1126/science.aar3246"&gt;pubmed (published) — DOI: 10.1126/science.aar3246&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1126/science.aar3246"&gt;Published version — DOI: 10.1126/science.aar3246&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <id>urn:uuid:0e929313-fc24-5569-b63c-bc4185c7aea3</id>
-    <title>Mammalian display screening of diverse cystine-dense peptides for difficult to drug targets.</title>
-    <published>2017-12-21T00:00:00Z</published>
-    <updated>2026-11-02T21:41:53Z</updated>
-    <link href="https://doi.org/10.1038/s41467-017-02098-8" rel="alternate" />
-    <category term="published" />
-    <author>
-      <name>Zachary R Crook</name>
-    </author>
-    <author>
-      <name>Gregory P Sevilla</name>
-    </author>
-    <author>
-      <name>Della Friend</name>
-    </author>
-    <author>
-      <name>Mi-Youn Brusniak</name>
-    </author>
-    <author>
-      <name>Ashok D Bandaranayake</name>
-    </author>
-    <author>
-      <name>Midori Clarke</name>
-    </author>
-    <author>
-      <name>Mesfin Gewe</name>
-    </author>
-    <author>
-      <name>Andrew J Mhyre</name>
-    </author>
-    <author>
-      <name>David Baker</name>
-    </author>
-    <author>
-      <name>Roland K Strong</name>
-    </author>
-    <author>
-      <name>Philip Bradley</name>
-    </author>
-    <author>
-      <name>James M Olson</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Authors: Zachary R Crook; Gregory P Sevilla; Della Friend; Mi-Youn Brusniak; Ashok D Bandaranayake; Midori Clarke; Mesfin Gewe; Andrew J Mhyre; David Baker; Roland K Strong; Philip Bradley; James M Olson&lt;/p&gt;
-&lt;p&gt;Sources: pubmed&lt;/p&gt;
-&lt;p&gt;Publication date: 2017-12-21&lt;/p&gt;
-&lt;p&gt;Journal: Nature communications&lt;/p&gt;
-&lt;p&gt;Protein:protein interactions are among the most difficult to treat molecular mechanisms of disease pathology. Cystine-dense peptides have the potential to disrupt such interactions, and are used in drug-like roles by every clade of life, but their study has been hampered by a reputation for being difficult to produce, owing to their complex disulfide connectivity. Here we describe a platform for identifying target-binding cystine-dense peptides using mammalian surface display, capable of interrogating high quality and diverse scaffold libraries with verifiable folding and stability. We demonstrate the platform&amp;#x27;s capabilities by identifying a cystine-dense peptide capable of inhibiting the YAP:TEAD interaction at the heart of the oncogenic Hippo pathway, and possessing the potency and stability necessary for consideration as a drug development candidate. This platform provides the opportunity to screen cystine-dense peptides with drug-like qualities against targets that are implicated for the treatment of diseases, but are poorly suited for conventional approaches.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41467-017-02098-8"&gt;pubmed (published) — DOI: 10.1038/s41467-017-02098-8&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41467-017-02098-8"&gt;Published version — DOI: 10.1038/s41467-017-02098-8&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
 </feed>
