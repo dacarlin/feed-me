@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-11-25T08:29:05Z",
+      "last_success": "2026-11-25T19:14:19Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-11-25T08:29:05Z",
+      "last_success": "2026-11-25T19:14:19Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-11-25T08:29:05Z",
+      "last_success": "2026-11-25T19:14:19Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -285,7 +285,9 @@
     "pubmed:40489013": "2026-11-22T19:36:23Z",
     "pubmed:41519898": "2026-11-23T12:33:20Z",
     "pubmed:36305767": "2026-11-24T02:12:03Z",
-    "pubmed:37996753": "2026-11-24T23:52:47Z"
+    "pubmed:37996753": "2026-11-24T23:52:47Z",
+    "pubmed:40744494": "2026-11-25T19:14:19Z",
+    "pubmed:39386640": "2026-11-25T19:14:19Z"
   },
   "works": {
     "urn:uuid:7f477453-6c38-52e7-b591-accb9b0e6576": {
@@ -50967,6 +50969,251 @@
         }
       ],
       "published": "2023-11-23T00:00:00Z"
+    },
+    "urn:uuid:bf67f7dc-64dc-5db0-856c-50905df6fd99": {
+      "id": "urn:uuid:bf67f7dc-64dc-5db0-856c-50905df6fd99",
+      "first_seen": "2026-11-25T19:14:19Z",
+      "updated": "2026-11-25T19:14:19Z",
+      "records": {
+        "pubmed:39386640": {
+          "source": "pubmed",
+          "source_id": "39386640",
+          "title": "SEISMICgraph: a web-based tool for RNA structure data visualization.",
+          "authors": [
+            {
+              "name": "Federico Fuchs Wightman",
+              "affiliations": [
+                "Department of Microbiology, Harvard School of Medicine, Boston, Massachusetts, 02115, United States."
+              ],
+              "orcid": "0000-0003-3934-3628"
+            },
+            {
+              "name": "Grant Yang",
+              "affiliations": [
+                "Department of Microbiology, Harvard School of Medicine, Boston, Massachusetts, 02115, United States."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Yves J Martin des Taillades",
+              "affiliations": [
+                "Department of Biochemistry, Stanford University, Stanford, California, 94305, United States."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Casper L'Esperance-Kerckhoff",
+              "affiliations": [
+                "Department of Microbiology, Harvard School of Medicine, Boston, Massachusetts, 02115, United States."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Scott Grote",
+              "affiliations": [
+                "Department of Microbiology, Harvard School of Medicine, Boston, Massachusetts, 02115, United States."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Matthew F Allan",
+              "affiliations": [
+                "Department of Microbiology, Harvard School of Medicine, Boston, Massachusetts, 02115, United States."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Daniel Herschlag",
+              "affiliations": [
+                "Department of Biochemistry, Stanford University, Stanford, California, 94305, United States."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Silvi Rouskin",
+              "affiliations": [
+                "Department of Microbiology, Harvard School of Medicine, Boston, Massachusetts, 02115, United States."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Lauren D Hagler",
+              "affiliations": [
+                "Department of Biochemistry, Stanford University, Stanford, California, 94305, United States."
+              ],
+              "orcid": null
+            }
+          ],
+          "abstract": "In recent years, RNA has been increasingly recognized for its essential roles in biology, functioning not only as a carrier of genetic information but also as a dynamic regulator of gene expression through its interactions with other RNAs, proteins, and itself. Advances in chemical probing techniques have significantly enhanced our ability to identify RNA secondary structures and understand their regulatory roles. These developments, alongside improvements in experimental design and data processing, have greatly increased the resolution and throughput of structural analyses. Here, we introduce SEISMICgraph, a web-based tool designed to support RNA structure research by offering data visualization and analysis capabilities for a variety of chemical probing modalities. SEISMICgraph enables simultaneous comparison of data across different sequences and experimental conditions through a user-friendly interface that requires no programming expertise. We demonstrate its utility by investigating known and putative riboswitches and exploring how RNA modifications influence their structure and binding. SEISMICgraph's ability to rapidly visualize adenine-dependent structural changes and assess the impact of pseudouridylation on these transitions provides novel insights and establishes a roadmap for numerous future applications.",
+          "date": "2024-09-26",
+          "url": "https://doi.org/10.1101/2024.09.26.615187",
+          "doi": "10.1101/2024.09.26.615187",
+          "status": "preprint",
+          "journal": "bioRxiv : the preprint server for biology",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC11463429"
+          ],
+          "relations": [
+            {
+              "kind": "is_preprint_of",
+              "target": "pubmed:40744494",
+              "evidence": "PubMed preprint UpdateIn"
+            }
+          ]
+        },
+        "pubmed:40744494": {
+          "source": "pubmed",
+          "source_id": "40744494",
+          "title": "SEISMICgraph: a web-based tool for RNA structure data visualization.",
+          "authors": [
+            {
+              "name": "Federico Fuchs Wightman",
+              "affiliations": [
+                "Department of Microbiology, Harvard School of Medicine, Boston, MA 02115, United States."
+              ],
+              "orcid": "0000-0003-3934-3628"
+            },
+            {
+              "name": "Grant Yang",
+              "affiliations": [
+                "Department of Microbiology, Harvard School of Medicine, Boston, MA 02115, United States."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Yves J Martin des Taillades",
+              "affiliations": [
+                "Department of Biochemistry, Stanford University, Stanford, CA 94305, United States."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Casper L'Esperance-Kerckhoff",
+              "affiliations": [
+                "Department of Microbiology, Harvard School of Medicine, Boston, MA 02115, United States."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Scott Grote",
+              "affiliations": [
+                "Department of Microbiology, Harvard School of Medicine, Boston, MA 02115, United States."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Matthew F Allan",
+              "affiliations": [
+                "Department of Microbiology, Harvard School of Medicine, Boston, MA 02115, United States."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Daniel Herschlag",
+              "affiliations": [
+                "Department of Biochemistry, Stanford University, Stanford, CA 94305, United States."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Silvi Rouskin",
+              "affiliations": [
+                "Department of Microbiology, Harvard School of Medicine, Boston, MA 02115, United States."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Lauren D Hagler",
+              "affiliations": [
+                "Department of Biochemistry, Stanford University, Stanford, CA 94305, United States."
+              ],
+              "orcid": null
+            }
+          ],
+          "abstract": "In recent years, RNA has been increasingly recognized for its essential roles in biology, functioning not only as a carrier of genetic information but also as a dynamic regulator of gene expression through its interactions with other RNAs, proteins, and itself. Advances in chemical probing techniques have significantly enhanced our ability to identify RNA secondary structures and understand their regulatory roles. These developments, alongside improvements in experimental design and data processing, have greatly increased the resolution and throughput of structural analyses. Here, we introduce SEISMICgraph, a web-based tool designed to support RNA structure research by offering data visualization and analysis capabilities for a variety of chemical probing modalities. SEISMICgraph enables simultaneous comparison of data across different sequences and experimental conditions through a user-friendly interface that requires no programming expertise. We demonstrate its utility by investigating known and putative riboswitches and exploring how RNA modifications influence their structure and binding. SEISMICgraph's ability to rapidly visualize adenine-dependent structural changes and assess the impact of pseudouridylation on these transitions provides novel insights and establishes a roadmap for numerous future applications.",
+          "date": "2025-07-19",
+          "url": "https://doi.org/10.1093/nar/gkaf701",
+          "doi": "10.1093/nar/gkaf701",
+          "status": "published",
+          "journal": "Nucleic acids research",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC12311782"
+          ],
+          "relations": [
+            {
+              "kind": "update_of",
+              "target": "pubmed:39386640",
+              "evidence": "PubMed UpdateOf; target must be a preprint"
+            }
+          ]
+        }
+      },
+      "matched_researchers": {
+        "daniel-herschlag": [
+          {
+            "record": "pubmed:39386640",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "Daniel Herschlag",
+                "method": "name_and_affiliations",
+                "affiliations": [
+                  "Department of Biochemistry, Stanford University, Stanford, California, 94305, United States."
+                ],
+                "matched_affiliations": [
+                  "Stanford University",
+                  "Department of Biochemistry"
+                ]
+              }
+            ]
+          },
+          {
+            "record": "pubmed:40744494",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "Daniel Herschlag",
+                "method": "name_and_affiliations",
+                "affiliations": [
+                  "Department of Biochemistry, Stanford University, Stanford, CA 94305, United States."
+                ],
+                "matched_affiliations": [
+                  "Stanford University",
+                  "Department of Biochemistry"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:39386640",
+          "method": "new_work",
+          "reason": "no existing work"
+        },
+        {
+          "record": "pubmed:40744494",
+          "rank": 1,
+          "method": "explicit_relationship",
+          "identifiers": [
+            "pubmed:39386640",
+            "pubmed:40744494"
+          ],
+          "evidence": [
+            "PubMed UpdateOf; target must be a preprint",
+            "PubMed preprint UpdateIn"
+          ],
+          "matched_record": "pubmed:39386640"
+        }
+      ],
+      "published": "2024-09-26T00:00:00Z"
     }
   },
   "aliases": {

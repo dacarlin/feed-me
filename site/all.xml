@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-11-24T23:52:47Z</updated>
+  <updated>2026-11-25T19:14:19Z</updated>
   <entry>
     <id>urn:uuid:a2b00ede-fba9-563b-895c-d09849d5fb39</id>
     <title>Crystal structure of the first de novo designed phosphotriesterase ZAPP-1</title>
@@ -6998,6 +6998,54 @@
 &lt;li&gt;&lt;a href="https://doi.org/10.1126/science.adv0185"&gt;pubmed (published) — DOI: 10.1126/science.adv0185&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1126/science.adv0185"&gt;Published version — DOI: 10.1126/science.adv0185&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://pubmed.ncbi.nlm.nih.gov/40705892/"&gt;Published version&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:bf67f7dc-64dc-5db0-856c-50905df6fd99</id>
+    <title>SEISMICgraph: a web-based tool for RNA structure data visualization.</title>
+    <published>2024-09-26T00:00:00Z</published>
+    <updated>2026-11-25T19:14:19Z</updated>
+    <link href="https://doi.org/10.1093/nar/gkaf701" rel="alternate" />
+    <link href="https://doi.org/10.1101/2024.09.26.615187" rel="related" title="pubmed" />
+    <category term="published" />
+    <author>
+      <name>Federico Fuchs Wightman</name>
+    </author>
+    <author>
+      <name>Grant Yang</name>
+    </author>
+    <author>
+      <name>Yves J Martin des Taillades</name>
+    </author>
+    <author>
+      <name>Casper L'Esperance-Kerckhoff</name>
+    </author>
+    <author>
+      <name>Scott Grote</name>
+    </author>
+    <author>
+      <name>Matthew F Allan</name>
+    </author>
+    <author>
+      <name>Daniel Herschlag</name>
+    </author>
+    <author>
+      <name>Silvi Rouskin</name>
+    </author>
+    <author>
+      <name>Lauren D Hagler</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Federico Fuchs Wightman; Grant Yang; Yves J Martin des Taillades; Casper L&amp;#x27;Esperance-Kerckhoff; Scott Grote; Matthew F Allan; Daniel Herschlag; Silvi Rouskin; Lauren D Hagler&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2025-07-19&lt;/p&gt;
+&lt;p&gt;Journal: Nucleic acids research&lt;/p&gt;
+&lt;p&gt;In recent years, RNA has been increasingly recognized for its essential roles in biology, functioning not only as a carrier of genetic information but also as a dynamic regulator of gene expression through its interactions with other RNAs, proteins, and itself. Advances in chemical probing techniques have significantly enhanced our ability to identify RNA secondary structures and understand their regulatory roles. These developments, alongside improvements in experimental design and data processing, have greatly increased the resolution and throughput of structural analyses. Here, we introduce SEISMICgraph, a web-based tool designed to support RNA structure research by offering data visualization and analysis capabilities for a variety of chemical probing modalities. SEISMICgraph enables simultaneous comparison of data across different sequences and experimental conditions through a user-friendly interface that requires no programming expertise. We demonstrate its utility by investigating known and putative riboswitches and exploring how RNA modifications influence their structure and binding. SEISMICgraph&amp;#x27;s ability to rapidly visualize adenine-dependent structural changes and assess the impact of pseudouridylation on these transitions provides novel insights and establishes a roadmap for numerous future applications.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1101/2024.09.26.615187"&gt;pubmed (preprint) — DOI: 10.1101/2024.09.26.615187&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1093/nar/gkaf701"&gt;pubmed (published) — DOI: 10.1093/nar/gkaf701&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1093/nar/gkaf701"&gt;Published version — DOI: 10.1093/nar/gkaf701&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pubmed.ncbi.nlm.nih.gov/40744494/"&gt;Published version&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
@@ -14330,36 +14378,6 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1126/science.aaw6718"&gt;pubmed (published) — DOI: 10.1126/science.aaw6718&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1126/science.aaw6718"&gt;Published version — DOI: 10.1126/science.aaw6718&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <id>urn:uuid:913cd3bf-7985-517b-bc59-b24fe9e7192d</id>
-    <title>Controlling protein assembly on inorganic crystals through designed protein interfaces.</title>
-    <published>2019-07-10T00:00:00Z</published>
-    <updated>2026-11-02T21:41:53Z</updated>
-    <link href="https://doi.org/10.1038/s41586-019-1361-6" rel="alternate" />
-    <category term="published" />
-    <author>
-      <name>Harley Pyles</name>
-    </author>
-    <author>
-      <name>Shuai Zhang</name>
-    </author>
-    <author>
-      <name>James J De Yoreo</name>
-    </author>
-    <author>
-      <name>David Baker</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Authors: Harley Pyles; Shuai Zhang; James J De Yoreo; David Baker&lt;/p&gt;
-&lt;p&gt;Sources: pubmed&lt;/p&gt;
-&lt;p&gt;Publication date: 2019-07-10&lt;/p&gt;
-&lt;p&gt;Journal: Nature&lt;/p&gt;
-&lt;p&gt;The ability of proteins and other macromolecules to interact with inorganic surfaces is essential to biological function. The proteins involved in these interactions are highly charged and often rich in carboxylic acid side chains1-5, but the structures of most protein-inorganic interfaces are unknown. We explored the possibility of systematically designing structured protein-mineral interfaces, guided by the example of ice-binding proteins, which present arrays of threonine residues (matched to the ice lattice) that order clathrate waters into an ice-like structure6. Here we design proteins displaying arrays of up to 54 carboxylate residues geometrically matched to the potassium ion (K+) sublattice on muscovite mica (001). At low K+ concentration, individual molecules bind independently to mica in the designed orientations, whereas at high K+ concentration, the designs form two-dimensional liquid-crystal phases, which accentuate the inherent structural bias in the muscovite lattice to produce protein arrays ordered over tens of millimetres. Incorporation of designed protein-protein interactions preserving the match between the proteins and the K+ lattice led to extended self-assembled structures on mica: designed end-to-end interactions produced micrometre-long single-protein-diameter wires and a designed trimeric interface yielded extensive honeycomb arrays. The nearest-neighbour distances in these hexagonal arrays could be set digitally between 7.5 and 15.9 nanometres with 2.1-nanometre selectivity by changing the number of repeat units in the monomer. These results demonstrate that protein-inorganic lattice interactions can be systematically programmed and set the stage for designing protein-inorganic hybrid materials.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-019-1361-6"&gt;pubmed (published) — DOI: 10.1038/s41586-019-1361-6&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-019-1361-6"&gt;Published version — DOI: 10.1038/s41586-019-1361-6&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
 </feed>

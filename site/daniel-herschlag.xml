@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-11-21T10:58:20Z</updated>
+  <updated>2026-11-25T19:14:19Z</updated>
   <entry>
     <id>urn:uuid:549c333f-7164-59ed-aeac-18f2d08baa08</id>
     <title>Quantifying protein unfolding kinetics with a high-throughput microfluidic platform.</title>
@@ -171,6 +171,54 @@
 &lt;p&gt;Linked protease-effector modules are widespread in prokaryotic antiviral defense, yet the mechanisms of most remain poorly understood. Here we show that four of the most prevalent modules-metallo-β-lactamase (MBL)-fold hydrolase, α/β-hydrolase, Pepco, and EACC1-form latent death effectors that are unleashed by site-specific proteolysis. Genetic, biochemical, and structural analyses reveal novel modes of effector licensing. MBL and α/β-hydrolase are zymogens activated by cleavage at two distinct sites, and upon proteolysis, MBL becomes a Zn2+-dependent double-stranded DNA nuclease. In contrast, Pepco and EACC1 act as pore-forming toxins via distinct mechanisms: Pepco constitutively oligomerizes into a denaturation-resistant beta barrel that is activated by cleavage after a specific isoleucine in its C-terminal tail, whereas EACC1 monomers assemble into large membrane pores following removal of an autoinhibitory domain. All four modules are fused to diverse sensors to detect a wide range of phage signals, and EACC1-DnaK chaperone fusions suggest a convergence between defense and general stress responses. These findings establish proteolysisgated activation as a dominant, modular logic for anti-phage defense and reveal parallels with eukaryotic innate immunity.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1101/2025.11.14.688446"&gt;pubmed (preprint) — DOI: 10.1101/2025.11.14.688446&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:bf67f7dc-64dc-5db0-856c-50905df6fd99</id>
+    <title>SEISMICgraph: a web-based tool for RNA structure data visualization.</title>
+    <published>2024-09-26T00:00:00Z</published>
+    <updated>2026-11-25T19:14:19Z</updated>
+    <link href="https://doi.org/10.1093/nar/gkaf701" rel="alternate" />
+    <link href="https://doi.org/10.1101/2024.09.26.615187" rel="related" title="pubmed" />
+    <category term="published" />
+    <author>
+      <name>Federico Fuchs Wightman</name>
+    </author>
+    <author>
+      <name>Grant Yang</name>
+    </author>
+    <author>
+      <name>Yves J Martin des Taillades</name>
+    </author>
+    <author>
+      <name>Casper L'Esperance-Kerckhoff</name>
+    </author>
+    <author>
+      <name>Scott Grote</name>
+    </author>
+    <author>
+      <name>Matthew F Allan</name>
+    </author>
+    <author>
+      <name>Daniel Herschlag</name>
+    </author>
+    <author>
+      <name>Silvi Rouskin</name>
+    </author>
+    <author>
+      <name>Lauren D Hagler</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Federico Fuchs Wightman; Grant Yang; Yves J Martin des Taillades; Casper L&amp;#x27;Esperance-Kerckhoff; Scott Grote; Matthew F Allan; Daniel Herschlag; Silvi Rouskin; Lauren D Hagler&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2025-07-19&lt;/p&gt;
+&lt;p&gt;Journal: Nucleic acids research&lt;/p&gt;
+&lt;p&gt;In recent years, RNA has been increasingly recognized for its essential roles in biology, functioning not only as a carrier of genetic information but also as a dynamic regulator of gene expression through its interactions with other RNAs, proteins, and itself. Advances in chemical probing techniques have significantly enhanced our ability to identify RNA secondary structures and understand their regulatory roles. These developments, alongside improvements in experimental design and data processing, have greatly increased the resolution and throughput of structural analyses. Here, we introduce SEISMICgraph, a web-based tool designed to support RNA structure research by offering data visualization and analysis capabilities for a variety of chemical probing modalities. SEISMICgraph enables simultaneous comparison of data across different sequences and experimental conditions through a user-friendly interface that requires no programming expertise. We demonstrate its utility by investigating known and putative riboswitches and exploring how RNA modifications influence their structure and binding. SEISMICgraph&amp;#x27;s ability to rapidly visualize adenine-dependent structural changes and assess the impact of pseudouridylation on these transitions provides novel insights and establishes a roadmap for numerous future applications.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1101/2024.09.26.615187"&gt;pubmed (preprint) — DOI: 10.1101/2024.09.26.615187&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1093/nar/gkaf701"&gt;pubmed (published) — DOI: 10.1093/nar/gkaf701&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1093/nar/gkaf701"&gt;Published version — DOI: 10.1093/nar/gkaf701&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pubmed.ncbi.nlm.nih.gov/40744494/"&gt;Published version&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
