@@ -2,19 +2,19 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-11-25T19:14:19Z",
+      "last_success": "2026-11-26T03:32:33Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-11-25T19:14:19Z",
+      "last_success": "2026-11-26T03:32:33Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
-      "last_success": "2026-11-25T08:29:05Z",
+      "last_success": "2026-11-26T03:32:33Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-11-25T19:14:19Z",
+      "last_success": "2026-11-26T03:32:33Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -84,15 +84,15 @@
     "pubmed:39322662": "2026-11-25T08:29:05Z",
     "pubmed:39922190": "2026-11-25T08:29:05Z",
     "pubmed:37781598": "2026-11-25T08:29:05Z",
-    "pubmed:39868203": "2026-11-19T02:32:37Z",
-    "pubmed:41193805": "2026-11-19T02:32:37Z",
-    "pubmed:39375454": "2026-11-19T02:32:37Z",
-    "pubmed:39322764": "2026-11-19T02:32:37Z",
-    "pubmed:40196579": "2026-11-19T02:32:37Z",
-    "pubmed:39386615": "2026-11-19T02:32:37Z",
-    "pubmed:39345553": "2026-11-19T02:32:37Z",
-    "pubmed:38502697": "2026-11-19T02:32:37Z",
-    "pubmed:37577478": "2026-11-19T02:32:37Z",
+    "pubmed:39868203": "2026-11-26T03:32:33Z",
+    "pubmed:41193805": "2026-11-26T03:32:33Z",
+    "pubmed:39375454": "2026-11-26T03:32:33Z",
+    "pubmed:39322764": "2026-11-26T03:32:33Z",
+    "pubmed:40196579": "2026-11-26T03:32:33Z",
+    "pubmed:39386615": "2026-11-26T03:32:33Z",
+    "pubmed:39345553": "2026-11-26T03:32:33Z",
+    "pubmed:38502697": "2026-11-26T03:32:33Z",
+    "pubmed:37577478": "2026-11-26T03:32:33Z",
     "pubmed:42754580": "2026-11-20T02:17:57Z",
     "pubmed:42758048": "2026-11-20T02:17:57Z",
     "pubmed:41292956": "2026-11-20T02:17:57Z",
@@ -121,11 +121,11 @@
     "pubmed:39695145": "2026-11-25T08:29:05Z",
     "pubmed:39024436": "2026-11-25T08:29:05Z",
     "pubmed:38861993": "2026-11-25T08:29:05Z",
-    "pubmed:42777708": "2026-11-19T02:32:37Z",
-    "pubmed:42779973": "2026-11-19T02:32:37Z",
-    "pubmed:40489613": "2026-11-19T02:32:37Z",
-    "pubmed:39394803": "2026-11-19T02:32:37Z",
-    "pubmed:39091726": "2026-11-19T02:32:37Z",
+    "pubmed:42777708": "2026-11-26T03:32:33Z",
+    "pubmed:42779973": "2026-11-26T03:32:33Z",
+    "pubmed:40489613": "2026-11-26T03:32:33Z",
+    "pubmed:39394803": "2026-11-26T03:32:33Z",
+    "pubmed:39091726": "2026-11-26T03:32:33Z",
     "pubmed:41519838": "2026-11-20T02:17:57Z",
     "pubmed:40953261": "2026-11-20T02:17:57Z",
     "pubmed:40450691": "2026-11-20T02:17:57Z",
@@ -139,7 +139,7 @@
     "pubmed:41339547": "2026-11-25T08:29:05Z",
     "pubmed:40739343": "2026-11-25T08:29:05Z",
     "pubmed:39695226": "2026-11-25T08:29:05Z",
-    "pubmed:42845701": "2026-11-19T02:32:37Z",
+    "pubmed:42845701": "2026-11-26T03:32:33Z",
     "biorxiv:10.1101/2025.08.03.668343": "2026-11-20T02:17:57Z",
     "pubmed:42856427": "2026-11-22T01:16:47Z",
     "pubmed:42056544": "2026-11-22T01:16:47Z",
@@ -149,16 +149,16 @@
     "pubmed:34759384": "2026-11-22T01:16:47Z",
     "pubmed:31341280": "2026-11-22T01:16:47Z",
     "pubmed:27995916": "2026-11-22T01:16:47Z",
-    "pubmed:42875488": "2026-11-19T02:32:37Z",
-    "pubmed:42875487": "2026-11-19T02:32:37Z",
+    "pubmed:42875488": "2026-11-26T03:32:33Z",
+    "pubmed:42875487": "2026-11-26T03:32:33Z",
     "pubmed:42879533": "2026-11-20T02:17:57Z",
     "pubmed:42818144": "2026-11-20T02:17:57Z",
     "pubmed:40120690": "2026-11-20T02:17:57Z",
     "pubmed:37433327": "2026-11-22T01:16:47Z",
     "biorxiv:10.64898/2026.10.19.760300": "2026-11-24T02:12:03Z",
     "biorxiv:10.64898/2026.10.19.759896": "2026-11-25T08:29:05Z",
-    "pubmed:38662830": "2026-11-19T02:32:37Z",
-    "pubmed:24352111": "2026-11-19T02:32:37Z",
+    "pubmed:38662830": "2026-11-26T03:32:33Z",
+    "pubmed:24352111": "2026-11-26T03:32:33Z",
     "pubmed:42906913": "2026-11-20T02:17:57Z",
     "pubmed:38289949": "2026-11-21T02:11:56Z",
     "pubmed:37398067": "2026-11-21T02:11:56Z",
@@ -234,13 +234,13 @@
     "pubmed:25902402": "2026-11-23T12:33:20Z",
     "pubmed:43003026": "2026-11-24T02:12:03Z",
     "pubmed:43003839": "2026-11-24T02:12:03Z",
-    "pubmed:40894640": "2026-11-19T02:32:37Z",
+    "pubmed:40894640": "2026-11-26T03:32:33Z",
     "pubmed:42258711": "2026-11-20T02:17:57Z",
     "biorxiv:10.64898/2026.04.26.720818": "2026-11-20T02:17:57Z",
     "pubmed:42995841": "2026-11-23T12:33:20Z",
     "pubmed:37131615": "2026-11-25T08:29:05Z",
-    "biorxiv:10.64898/2026.11.17.767279": "2026-11-19T11:36:31Z",
-    "pubmed:43053449": "2026-11-19T11:36:31Z",
+    "biorxiv:10.64898/2026.11.17.767279": "2026-11-26T03:32:33Z",
+    "pubmed:43053449": "2026-11-26T03:32:33Z",
     "pubmed:38605024": "2026-11-20T20:13:40Z",
     "pubmed:33863889": "2026-11-21T10:58:20Z",
     "pubmed:33501432": "2026-11-21T10:58:20Z",
@@ -287,7 +287,8 @@
     "pubmed:36305767": "2026-11-24T02:12:03Z",
     "pubmed:37996753": "2026-11-24T23:52:47Z",
     "pubmed:40744494": "2026-11-25T19:14:19Z",
-    "pubmed:39386640": "2026-11-25T19:14:19Z"
+    "pubmed:39386640": "2026-11-25T19:14:19Z",
+    "pubmed:43084643": "2026-11-26T03:32:33Z"
   },
   "works": {
     "urn:uuid:7f477453-6c38-52e7-b591-accb9b0e6576": {
@@ -51214,6 +51215,181 @@
         }
       ],
       "published": "2024-09-26T00:00:00Z"
+    },
+    "urn:uuid:774c2fb4-0ae9-5cf2-8d00-7dd18040ab6b": {
+      "id": "urn:uuid:774c2fb4-0ae9-5cf2-8d00-7dd18040ab6b",
+      "first_seen": "2026-11-26T03:32:33Z",
+      "updated": "2026-11-26T03:32:33Z",
+      "records": {
+        "pubmed:43084643": {
+          "source": "pubmed",
+          "source_id": "43084643",
+          "title": "Reprogramming insulin receptor activation with a de novo agonist to overcome severe preclinical insulin resistance.",
+          "authors": [
+            {
+              "name": "Albert Hung",
+              "affiliations": [
+                "Department of Pathology and Cell Biology, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+              ],
+              "orcid": "0000-0003-1213-4543"
+            },
+            {
+              "name": "Xinru Wang",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA.",
+                "Center for Drug Discovery, Northeastern University, MA 02115, USA.",
+                "Department of Pharmaceutical and Biomedical Sciences, Northeastern University, MA 02115, USA."
+              ],
+              "orcid": "0000-0001-5994-707X"
+            },
+            {
+              "name": "Michael Gao",
+              "affiliations": [
+                "Department of Pathology and Cell Biology, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+              ],
+              "orcid": "0000-0003-4513-0792"
+            },
+            {
+              "name": "Michelle Ng",
+              "affiliations": [
+                "Department of Pathology and Cell Biology, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+              ],
+              "orcid": "0000-0002-0203-1092"
+            },
+            {
+              "name": "Denys Oliinyk",
+              "affiliations": [
+                "Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried 82152, Germany."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Riley Weaver",
+              "affiliations": [
+                "Geriatric Research Education and Clinical Center, Veterans Affairs Puget Sound Health Care System, Seattle, WA 98108, USA."
+              ],
+              "orcid": "0000-0002-2555-8065"
+            },
+            {
+              "name": "Elisabeth Zollbrecht",
+              "affiliations": [
+                "Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried 82152, Germany."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Sarah Cardoso",
+              "affiliations": [
+                "Department of Pathology and Cell Biology, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+              ],
+              "orcid": "0009-0006-1489-7017"
+            },
+            {
+              "name": "Gregory Sebastien Ronel",
+              "affiliations": [
+                "Department of Pathology and Cell Biology, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+              ],
+              "orcid": "0009-0000-8905-4459"
+            },
+            {
+              "name": "Chloe Paolucci",
+              "affiliations": [
+                "Department of Pathology and Cell Biology, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+              ],
+              "orcid": "0000-0002-6979-2929"
+            },
+            {
+              "name": "Jianxiang Ye",
+              "affiliations": [
+                "Department of Pathology and Cell Biology, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA.",
+                "Department of Molecular Pharmacology and Therapeutics, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+              ],
+              "orcid": "0009-0004-2353-2162"
+            },
+            {
+              "name": "Qing R Fan",
+              "affiliations": [
+                "Department of Pathology and Cell Biology, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA.",
+                "Department of Molecular Pharmacology and Therapeutics, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+              ],
+              "orcid": "0000-0002-9330-0963"
+            },
+            {
+              "name": "Elizabeth Rhea",
+              "affiliations": [
+                "Geriatric Research Education and Clinical Center, Veterans Affairs Puget Sound Health Care System, Seattle, WA 98108, USA.",
+                "Department of Medicine, Division of Gerontology and Geriatric Medicine, University of Washington, Seattle, WA 98104, USA."
+              ],
+              "orcid": null
+            },
+            {
+              "name": "Matthias Mann",
+              "affiliations": [
+                "Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried 82152, Germany."
+              ],
+              "orcid": "0000-0003-1292-4799"
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [
+                "Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.",
+                "Institute for Protein Design, University of Washington, Seattle, WA 98195, USA.",
+                "Howard Hughes Medical Institute, University of Washington, Seattle, WA 98195, USA."
+              ],
+              "orcid": "0000-0001-7896-6217"
+            },
+            {
+              "name": "Domenico Accili",
+              "affiliations": [
+                "Department of Medicine, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+              ],
+              "orcid": "0000-0002-6874-3949"
+            },
+            {
+              "name": "Eunhee Choi",
+              "affiliations": [
+                "Department of Pathology and Cell Biology, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA."
+              ],
+              "orcid": "0000-0003-3286-6477"
+            }
+          ],
+          "abstract": "Computational protein engineering provides a powerful approach to addressing longstanding clinical challenges. Severe insulin resistance syndromes caused by mutations in the insulin receptor (IR) are life-threatening disorders for which effective long-term therapies remain lacking. Here, we define the in vivo activity and therapeutic potential of RF-409, a de novo-designed IR agonist that activates the receptor through a mechanism distinct from insulin. In healthy mice, RF-409 exhibited prolonged circulation compared with insulin and sustained glucose-lowering activity during repeated dosing without detectable adverse effects on body composition or liver function. In streptozotocin-induced insulin-deficient mice, RF-409 reduced hyperglycemia across doses without progressive hypoglycemia. In a mouse model of severe insulin resistance, harboring the patient-derived IR D707A mutation, RF-409, but not insulin, activated the mutant receptor, restoring glucose regulation and ameliorating hyperglycemia, hyperinsulinemia, lipoatrophy, and pancreatic atrophy. Mechanistically, RF-409 engaged the IR through a noncanonical binding geometry and stabilized an active conformation resembling that induced by insulin. Phosphoproteomic profiling in C2C12 myoblasts expressing human IR showed that RF-409 elicited broadly insulin-like signaling with distinct temporal features in receptor-proximal regulation. Together, these findings establish a framework for restoring signaling through dysfunctional receptors using de novo agonists that engage alternative mechanisms of receptor activation.",
+          "date": "2026-11-25",
+          "url": "https://doi.org/10.1126/scitranslmed.aei0487",
+          "doi": "10.1126/scitranslmed.aei0487",
+          "status": "published",
+          "journal": "Science translational medicine",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:43084643",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:43084643",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2026-11-25T00:00:00Z"
     }
   },
   "aliases": {

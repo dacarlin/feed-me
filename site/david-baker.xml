@@ -7,7 +7,76 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-11-24T23:52:47Z</updated>
+  <updated>2026-11-26T03:32:33Z</updated>
+  <entry>
+    <id>urn:uuid:774c2fb4-0ae9-5cf2-8d00-7dd18040ab6b</id>
+    <title>Reprogramming insulin receptor activation with a de novo agonist to overcome severe preclinical insulin resistance.</title>
+    <published>2026-11-25T00:00:00Z</published>
+    <updated>2026-11-26T03:32:33Z</updated>
+    <link href="https://doi.org/10.1126/scitranslmed.aei0487" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Albert Hung</name>
+    </author>
+    <author>
+      <name>Xinru Wang</name>
+    </author>
+    <author>
+      <name>Michael Gao</name>
+    </author>
+    <author>
+      <name>Michelle Ng</name>
+    </author>
+    <author>
+      <name>Denys Oliinyk</name>
+    </author>
+    <author>
+      <name>Riley Weaver</name>
+    </author>
+    <author>
+      <name>Elisabeth Zollbrecht</name>
+    </author>
+    <author>
+      <name>Sarah Cardoso</name>
+    </author>
+    <author>
+      <name>Gregory Sebastien Ronel</name>
+    </author>
+    <author>
+      <name>Chloe Paolucci</name>
+    </author>
+    <author>
+      <name>Jianxiang Ye</name>
+    </author>
+    <author>
+      <name>Qing R Fan</name>
+    </author>
+    <author>
+      <name>Elizabeth Rhea</name>
+    </author>
+    <author>
+      <name>Matthias Mann</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Domenico Accili</name>
+    </author>
+    <author>
+      <name>Eunhee Choi</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Albert Hung; Xinru Wang; Michael Gao; Michelle Ng; Denys Oliinyk; Riley Weaver; Elisabeth Zollbrecht; Sarah Cardoso; Gregory Sebastien Ronel; Chloe Paolucci; Jianxiang Ye; Qing R Fan; Elizabeth Rhea; Matthias Mann; David Baker; Domenico Accili; Eunhee Choi&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2026-11-25&lt;/p&gt;
+&lt;p&gt;Journal: Science translational medicine&lt;/p&gt;
+&lt;p&gt;Computational protein engineering provides a powerful approach to addressing longstanding clinical challenges. Severe insulin resistance syndromes caused by mutations in the insulin receptor (IR) are life-threatening disorders for which effective long-term therapies remain lacking. Here, we define the in vivo activity and therapeutic potential of RF-409, a de novo-designed IR agonist that activates the receptor through a mechanism distinct from insulin. In healthy mice, RF-409 exhibited prolonged circulation compared with insulin and sustained glucose-lowering activity during repeated dosing without detectable adverse effects on body composition or liver function. In streptozotocin-induced insulin-deficient mice, RF-409 reduced hyperglycemia across doses without progressive hypoglycemia. In a mouse model of severe insulin resistance, harboring the patient-derived IR D707A mutation, RF-409, but not insulin, activated the mutant receptor, restoring glucose regulation and ameliorating hyperglycemia, hyperinsulinemia, lipoatrophy, and pancreatic atrophy. Mechanistically, RF-409 engaged the IR through a noncanonical binding geometry and stabilized an active conformation resembling that induced by insulin. Phosphoproteomic profiling in C2C12 myoblasts expressing human IR showed that RF-409 elicited broadly insulin-like signaling with distinct temporal features in receptor-proximal regulation. Together, these findings establish a framework for restoring signaling through dysfunctional receptors using de novo agonists that engage alternative mechanisms of receptor activation.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1126/scitranslmed.aei0487"&gt;pubmed (published) — DOI: 10.1126/scitranslmed.aei0487&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1126/scitranslmed.aei0487"&gt;Published version — DOI: 10.1126/scitranslmed.aei0487&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
   <entry>
     <id>urn:uuid:a2b00ede-fba9-563b-895c-d09849d5fb39</id>
     <title>Crystal structure of the first de novo designed phosphotriesterase ZAPP-1</title>
@@ -14519,54 +14588,6 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41594-018-0141-6"&gt;pubmed (published) — DOI: 10.1038/s41594-018-0141-6&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41594-018-0141-6"&gt;Published version — DOI: 10.1038/s41594-018-0141-6&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <id>urn:uuid:6acd3294-7ef1-5694-811e-eebcd0b280aa</id>
-    <title>Cytosolic expression, solution structures, and molecular dynamics simulation of genetically encodable disulfide-rich de novo designed peptides.</title>
-    <published>2018-09-01T00:00:00Z</published>
-    <updated>2026-11-09T19:47:26Z</updated>
-    <link href="https://doi.org/10.1002/pro.3453" rel="alternate" />
-    <category term="published" />
-    <author>
-      <name>Garry W Buchko</name>
-    </author>
-    <author>
-      <name>Surya V S R K Pulavarti</name>
-    </author>
-    <author>
-      <name>Victor Ovchinnikov</name>
-    </author>
-    <author>
-      <name>Elizabeth A Shaw</name>
-    </author>
-    <author>
-      <name>Stephen A Rettie</name>
-    </author>
-    <author>
-      <name>Peter J Myler</name>
-    </author>
-    <author>
-      <name>Martin Karplus</name>
-    </author>
-    <author>
-      <name>Thomas Szyperski</name>
-    </author>
-    <author>
-      <name>David Baker</name>
-    </author>
-    <author>
-      <name>Christopher D Bahl</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Authors: Garry W Buchko; Surya V S R K Pulavarti; Victor Ovchinnikov; Elizabeth A Shaw; Stephen A Rettie; Peter J Myler; Martin Karplus; Thomas Szyperski; David Baker; Christopher D Bahl&lt;/p&gt;
-&lt;p&gt;Sources: pubmed&lt;/p&gt;
-&lt;p&gt;Publication date: 2018-09&lt;/p&gt;
-&lt;p&gt;Journal: Protein science : a publication of the Protein Society&lt;/p&gt;
-&lt;p&gt;Disulfide-rich peptides represent an important protein family with broad pharmacological potential. Recent advances in computational methods have made it possible to design new peptides which adopt a stable conformation de novo. Here, we describe a system to produce disulfide-rich de novo peptides using Escherichia coli as the expression host. The advantage of this system is that it enables production of uniformly 13 C- and 15 N-labeled peptides for solution nuclear magnetic resonance (NMR) studies. This expression system was used to isotopically label two previously reported de novo designed peptides, and to determine their solution structures using NMR. The ensemble of NMR structures calculated for both peptides agreed well with the design models, further confirming the accuracy of the design protocol. Collection of NMR data on the peptides under reducing conditions revealed a dependency on disulfide bonds to maintain stability. Furthermore, we performed long-time molecular dynamics (MD) simulations with tempering to assess the stability of two families of de novo designed peptides. Initial designs which exhibited a stable structure during simulations were more likely to adopt a stable structure in vitro, but attempts to utilize this method to redesign unstable peptides to fold into a stable state were unsuccessful. Further work is therefore needed to assess the utility of MD simulation techniques for de novo protein design.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://doi.org/10.1002/pro.3453"&gt;pubmed (published) — DOI: 10.1002/pro.3453&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://doi.org/10.1002/pro.3453"&gt;Published version — DOI: 10.1002/pro.3453&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
 </feed>

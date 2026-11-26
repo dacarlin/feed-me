@@ -7,7 +7,76 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-11-25T19:14:19Z</updated>
+  <updated>2026-11-26T03:32:33Z</updated>
+  <entry>
+    <id>urn:uuid:774c2fb4-0ae9-5cf2-8d00-7dd18040ab6b</id>
+    <title>Reprogramming insulin receptor activation with a de novo agonist to overcome severe preclinical insulin resistance.</title>
+    <published>2026-11-25T00:00:00Z</published>
+    <updated>2026-11-26T03:32:33Z</updated>
+    <link href="https://doi.org/10.1126/scitranslmed.aei0487" rel="alternate" />
+    <category term="published" />
+    <author>
+      <name>Albert Hung</name>
+    </author>
+    <author>
+      <name>Xinru Wang</name>
+    </author>
+    <author>
+      <name>Michael Gao</name>
+    </author>
+    <author>
+      <name>Michelle Ng</name>
+    </author>
+    <author>
+      <name>Denys Oliinyk</name>
+    </author>
+    <author>
+      <name>Riley Weaver</name>
+    </author>
+    <author>
+      <name>Elisabeth Zollbrecht</name>
+    </author>
+    <author>
+      <name>Sarah Cardoso</name>
+    </author>
+    <author>
+      <name>Gregory Sebastien Ronel</name>
+    </author>
+    <author>
+      <name>Chloe Paolucci</name>
+    </author>
+    <author>
+      <name>Jianxiang Ye</name>
+    </author>
+    <author>
+      <name>Qing R Fan</name>
+    </author>
+    <author>
+      <name>Elizabeth Rhea</name>
+    </author>
+    <author>
+      <name>Matthias Mann</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <author>
+      <name>Domenico Accili</name>
+    </author>
+    <author>
+      <name>Eunhee Choi</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Albert Hung; Xinru Wang; Michael Gao; Michelle Ng; Denys Oliinyk; Riley Weaver; Elisabeth Zollbrecht; Sarah Cardoso; Gregory Sebastien Ronel; Chloe Paolucci; Jianxiang Ye; Qing R Fan; Elizabeth Rhea; Matthias Mann; David Baker; Domenico Accili; Eunhee Choi&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Publication date: 2026-11-25&lt;/p&gt;
+&lt;p&gt;Journal: Science translational medicine&lt;/p&gt;
+&lt;p&gt;Computational protein engineering provides a powerful approach to addressing longstanding clinical challenges. Severe insulin resistance syndromes caused by mutations in the insulin receptor (IR) are life-threatening disorders for which effective long-term therapies remain lacking. Here, we define the in vivo activity and therapeutic potential of RF-409, a de novo-designed IR agonist that activates the receptor through a mechanism distinct from insulin. In healthy mice, RF-409 exhibited prolonged circulation compared with insulin and sustained glucose-lowering activity during repeated dosing without detectable adverse effects on body composition or liver function. In streptozotocin-induced insulin-deficient mice, RF-409 reduced hyperglycemia across doses without progressive hypoglycemia. In a mouse model of severe insulin resistance, harboring the patient-derived IR D707A mutation, RF-409, but not insulin, activated the mutant receptor, restoring glucose regulation and ameliorating hyperglycemia, hyperinsulinemia, lipoatrophy, and pancreatic atrophy. Mechanistically, RF-409 engaged the IR through a noncanonical binding geometry and stabilized an active conformation resembling that induced by insulin. Phosphoproteomic profiling in C2C12 myoblasts expressing human IR showed that RF-409 elicited broadly insulin-like signaling with distinct temporal features in receptor-proximal regulation. Together, these findings establish a framework for restoring signaling through dysfunctional receptors using de novo agonists that engage alternative mechanisms of receptor activation.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1126/scitranslmed.aei0487"&gt;pubmed (published) — DOI: 10.1126/scitranslmed.aei0487&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1126/scitranslmed.aei0487"&gt;Published version — DOI: 10.1126/scitranslmed.aei0487&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
   <entry>
     <id>urn:uuid:a2b00ede-fba9-563b-895c-d09849d5fb39</id>
     <title>Crystal structure of the first de novo designed phosphotriesterase ZAPP-1</title>
@@ -14348,36 +14417,6 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-019-1425-7"&gt;pubmed (published) — DOI: 10.1038/s41586-019-1425-7&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-019-1425-7"&gt;Published version — DOI: 10.1038/s41586-019-1425-7&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <id>urn:uuid:ced84b16-17bf-5798-8221-00344ecc4988</id>
-    <title>Protein interaction networks revealed by proteome coevolution.</title>
-    <published>2019-07-11T00:00:00Z</published>
-    <updated>2026-11-22T11:19:48Z</updated>
-    <link href="https://doi.org/10.1126/science.aaw6718" rel="alternate" />
-    <category term="published" />
-    <author>
-      <name>Qian Cong</name>
-    </author>
-    <author>
-      <name>Ivan Anishchenko</name>
-    </author>
-    <author>
-      <name>Sergey Ovchinnikov</name>
-    </author>
-    <author>
-      <name>David Baker</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Authors: Qian Cong; Ivan Anishchenko; Sergey Ovchinnikov; David Baker&lt;/p&gt;
-&lt;p&gt;Sources: pubmed&lt;/p&gt;
-&lt;p&gt;Publication date: 2019-07-11&lt;/p&gt;
-&lt;p&gt;Journal: Science (New York, N.Y.)&lt;/p&gt;
-&lt;p&gt;Residue-residue coevolution has been observed across a number of protein-protein interfaces, but the extent of residue coevolution between protein families on the whole-proteome scale has not been systematically studied. We investigate coevolution between 5.4 million pairs of proteins in Escherichia coli and between 3.9 millions pairs in Mycobacterium tuberculosis We find strong coevolution for binary complexes involved in metabolism and weaker coevolution for larger complexes playing roles in genetic information processing. We take advantage of this coevolution, in combination with structure modeling, to predict protein-protein interactions (PPIs) with an accuracy that benchmark studies suggest is considerably higher than that of proteome-wide two-hybrid and mass spectrometry screens. We identify hundreds of previously uncharacterized PPIs in E. coli and M. tuberculosis that both add components to known protein complexes and networks and establish the existence of new ones.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://doi.org/10.1126/science.aaw6718"&gt;pubmed (published) — DOI: 10.1126/science.aaw6718&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://doi.org/10.1126/science.aaw6718"&gt;Published version — DOI: 10.1126/science.aaw6718&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
 </feed>
