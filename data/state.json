@@ -2,11 +2,11 @@
   "schema_version": 1,
   "checkpoints": {
     "biorxiv-publications": {
-      "last_success": "2026-11-27T01:43:27Z",
+      "last_success": "2026-11-27T12:14:26Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "pubmed": {
-      "last_success": "2026-11-27T01:43:27Z",
+      "last_success": "2026-11-27T12:14:26Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "arxiv": {
@@ -14,7 +14,7 @@
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     },
     "biorxiv": {
-      "last_success": "2026-11-27T01:43:27Z",
+      "last_success": "2026-11-27T12:14:26Z",
       "config": "318a8d1d592a9eb42ffcec92af8e9ba324924e17eca8041a0c89ff772505b46e"
     }
   },
@@ -288,7 +288,8 @@
     "pubmed:37996753": "2026-11-24T23:52:47Z",
     "pubmed:40744494": "2026-11-25T19:14:19Z",
     "pubmed:39386640": "2026-11-25T19:14:19Z",
-    "pubmed:43084643": "2026-11-26T03:32:33Z"
+    "pubmed:43084643": "2026-11-26T03:32:33Z",
+    "pubmed:43100275": "2026-11-27T12:14:26Z"
   },
   "works": {
     "urn:uuid:7f477453-6c38-52e7-b591-accb9b0e6576": {
@@ -51402,6 +51403,121 @@
         }
       ],
       "published": "2026-11-25T00:00:00Z"
+    },
+    "urn:uuid:0d437358-ffe9-54eb-80c4-1f56748d64ec": {
+      "id": "urn:uuid:0d437358-ffe9-54eb-80c4-1f56748d64ec",
+      "first_seen": "2026-11-27T12:14:26Z",
+      "updated": "2026-11-27T12:14:26Z",
+      "records": {
+        "pubmed:43100275": {
+          "source": "pubmed",
+          "source_id": "43100275",
+          "title": "De Novo Design of C-H Hydroxylation Enzymes with Programmed Selectivities.",
+          "authors": [
+            {
+              "name": "Indrek Kalvet",
+              "affiliations": [],
+              "orcid": "0000-0002-6610-2857"
+            },
+            {
+              "name": "Jihun Jeung",
+              "affiliations": [],
+              "orcid": "0009-0004-8604-908X"
+            },
+            {
+              "name": "Shilong Gao",
+              "affiliations": [],
+              "orcid": "0000-0003-2808-6283"
+            },
+            {
+              "name": "Alessia C Andrews",
+              "affiliations": [],
+              "orcid": "0009-0003-5638-3733"
+            },
+            {
+              "name": "Belinda B Wenke",
+              "affiliations": [],
+              "orcid": "0000-0003-3214-6197"
+            },
+            {
+              "name": "Ross Smithson",
+              "affiliations": [],
+              "orcid": "0000-0001-6480-6933"
+            },
+            {
+              "name": "Johnny Mendoza",
+              "affiliations": [],
+              "orcid": "0000-0003-1573-4202"
+            },
+            {
+              "name": "Hannah Nguyen",
+              "affiliations": [],
+              "orcid": "0000-0001-9696-4004"
+            },
+            {
+              "name": "Emily Joyce",
+              "affiliations": [],
+              "orcid": null
+            },
+            {
+              "name": "Alex Kang",
+              "affiliations": [],
+              "orcid": "0000-0001-5487-0499"
+            },
+            {
+              "name": "Asim K Bera",
+              "affiliations": [],
+              "orcid": "0000-0001-9473-2912"
+            },
+            {
+              "name": "Anthony P Green",
+              "affiliations": [],
+              "orcid": "0000-0003-0454-1798"
+            },
+            {
+              "name": "David Baker",
+              "affiliations": [],
+              "orcid": "0000-0001-7896-6217"
+            }
+          ],
+          "abstract": "The ability to precisely functionalize individual C-H bonds in complex organic molecules would transform synthetic strategies to produce essential chemicals. In nature, C-H oxidations are commonly achieved using metalloenzymes such as cytochrome P450s, however adapting these systems to achieve selective conversions of complex substrates requires extensive enzyme discovery and engineering campaigns. Here we show that selective C-H oxidation biocatalysts can be programmed computationally from minimal structural inputs comprising a Cys-ligated heme cofactor, catalytic side chains required for H 2 O 2 activation and heterolysis, and the target substrate precisely positioned adjacent to the resulting ferryl intermediate (Compound I). We designed heme hydroxylases for increasingly complex substrates, progressing from aromatic and aliphatic oxidations of fluorogenic model compounds to regiodivergent oxidation of estradiol at either the benzylic C6 (93% d.e.) or unactivated C16 (99% d.e.) positions. Crystal structures across all campaigns confirm the accuracy of the design pipeline. Together, these results establish a general framework for constructing selective heme hydroxylases around predefined substrates and reaction geometries, providing a path toward custom biocatalysts for site-selective C-H functionalizations.",
+          "date": "2026-11-16",
+          "url": "https://doi.org/10.64898/2026.11.12.766315",
+          "doi": "10.64898/2026.11.12.766315",
+          "status": "preprint",
+          "journal": "bioRxiv : the preprint server for biology",
+          "version": "",
+          "publication_date": "",
+          "identifiers": [
+            "pmc:PMC13802674"
+          ],
+          "relations": []
+        }
+      },
+      "matched_researchers": {
+        "david-baker": [
+          {
+            "record": "pubmed:43100275",
+            "matched": true,
+            "reason": "strong author identity",
+            "evidence": [
+              {
+                "author": "David Baker",
+                "method": "orcid",
+                "orcid": "0000-0001-7896-6217"
+              }
+            ]
+          }
+        ]
+      },
+      "deduplication": [
+        {
+          "record": "pubmed:43100275",
+          "method": "new_work",
+          "reason": "no existing work"
+        }
+      ],
+      "published": "2026-11-16T00:00:00Z"
     }
   },
   "aliases": {
@@ -51409,6 +51525,145 @@
     "urn:uuid:f9f935fd-6d91-53b9-af07-683764a49ed9": "urn:uuid:d9c869ba-c709-5c1a-8aac-288b447ba30d"
   },
   "rejected": {
+    "pubmed:43100255": {
+      "first_seen": "2026-11-27T12:14:26Z",
+      "record": {
+        "source": "pubmed",
+        "source_id": "43100255",
+        "title": "Integrin-independent Tie2 activation using de novo designed proteins.",
+        "authors": [
+          {
+            "name": "Clara McCurdy",
+            "affiliations": [],
+            "orcid": "0009-0008-8120-9776"
+          },
+          {
+            "name": "Yan Ting Zhao",
+            "affiliations": [],
+            "orcid": "0000-0001-9230-7066"
+          },
+          {
+            "name": "Saurav Kumar",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Brian Coventry",
+            "affiliations": [],
+            "orcid": "0000-0002-6910-6255"
+          },
+          {
+            "name": "Anne Pink",
+            "affiliations": [],
+            "orcid": "0000-0001-8292-8854"
+          },
+          {
+            "name": "Yaoyao Fu",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Phil Bohn",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Siyu Zhu",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Inna Goreshnik",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Xinru Wang",
+            "affiliations": [],
+            "orcid": "0000-0001-5994-707X"
+          },
+          {
+            "name": "Garrett Ruth",
+            "affiliations": [],
+            "orcid": "0009-0004-4974-0410"
+          },
+          {
+            "name": "Rashmi Ravichandran",
+            "affiliations": [],
+            "orcid": "0000-0002-2630-7487"
+          },
+          {
+            "name": "Julie Mathieu",
+            "affiliations": [],
+            "orcid": "0000-0002-3826-3549"
+          },
+          {
+            "name": "Jonathan A Cooper",
+            "affiliations": [],
+            "orcid": "0000-0002-8626-7827"
+          },
+          {
+            "name": "Deborah H Fuller",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Ho Min Kim",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Pipsa Saharinen",
+            "affiliations": [],
+            "orcid": "0000-0003-2652-0584"
+          },
+          {
+            "name": "David Baker",
+            "affiliations": [],
+            "orcid": null
+          },
+          {
+            "name": "Hannele Ruohola-Baker",
+            "affiliations": [],
+            "orcid": "0000-0002-5588-4531"
+          }
+        ],
+        "abstract": "The Angiopoietin-Tie2 pathway is a key regulator of vascular stability, but therapeutic exploitation has been limited by the poor developability of Angiopoietin-1 (Ang1), and there are key unresolved mechanistic questions. Ang1 binds both Tie2 and α5β1 integrin, and the role of the α5β1 interaction in signaling has been unclear. We used RFdiffusion to design a stable, high-affinity Tie2 minibinder that has no affinity for α5β1. The binder is a selective antagonist in monomeric form, and a potent agonist when assembled into an octavalent architecture (H8mb) which drives Tie2 clustering. H8mb signals as potently as Ang1, indicating that integrin engagement is not required for Tie2 activation. However, the duration of signaling is reduced, and internalization of H8mb-Tie2 complexes is more rapid, suggesting that integrin may function as a co-receptor for Ang1 that prolongs signaling by extending the lifetime of the receptor ligand complex on the cell surface. In a mouse model of acute respiratory distress syndrome (ARDS), H8mb markedly improved survival. These results demonstrate that de novo designed receptor binders can enable dissection of co-receptor control of signaling dynamics, and the more stable and manufacturable H8mb provides routes to more developable therapeutic candidates.",
+        "date": "2026-05-02",
+        "url": "https://doi.org/10.64898/2026.05.01.718274",
+        "doi": "10.64898/2026.05.01.718274",
+        "status": "preprint",
+        "journal": "bioRxiv : the preprint server for biology",
+        "version": "",
+        "publication_date": "",
+        "identifiers": [
+          "pmc:PMC13798222"
+        ],
+        "relations": []
+      },
+      "identity": {
+        "david-baker": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": [
+            {
+              "author": "David Baker",
+              "method": "rejected",
+              "affiliations": [],
+              "matched_affiliations": [],
+              "reason": "insufficient author-scoped affiliation evidence"
+            }
+          ]
+        },
+        "daniel-herschlag": {
+          "matched": false,
+          "reason": "identity not established",
+          "evidence": []
+        }
+      },
+      "deduplication": [],
+      "reason": "no strong identity evidence or link to an identified work"
+    },
     "pubmed:39206568": {
       "first_seen": "2026-11-24T23:52:47Z",
       "record": {

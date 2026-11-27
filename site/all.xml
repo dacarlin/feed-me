@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-11-27T01:43:27Z</updated>
+  <updated>2026-11-27T12:14:26Z</updated>
   <entry>
     <id>urn:uuid:7a38650e-4605-58b7-8107-a471c067f01c</id>
     <title>Atomic functional site scaffolding in biopolymers with RFdiffusion3.</title>
@@ -274,6 +274,62 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1021/jacs.6c15293"&gt;pubmed (published) — DOI: 10.1021/jacs.6c15293&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1021/jacs.6c15293"&gt;Published version — DOI: 10.1021/jacs.6c15293&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:0d437358-ffe9-54eb-80c4-1f56748d64ec</id>
+    <title>De Novo Design of C-H Hydroxylation Enzymes with Programmed Selectivities.</title>
+    <published>2026-11-16T00:00:00Z</published>
+    <updated>2026-11-27T12:14:26Z</updated>
+    <link href="https://doi.org/10.64898/2026.11.12.766315" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Indrek Kalvet</name>
+    </author>
+    <author>
+      <name>Jihun Jeung</name>
+    </author>
+    <author>
+      <name>Shilong Gao</name>
+    </author>
+    <author>
+      <name>Alessia C Andrews</name>
+    </author>
+    <author>
+      <name>Belinda B Wenke</name>
+    </author>
+    <author>
+      <name>Ross Smithson</name>
+    </author>
+    <author>
+      <name>Johnny Mendoza</name>
+    </author>
+    <author>
+      <name>Hannah Nguyen</name>
+    </author>
+    <author>
+      <name>Emily Joyce</name>
+    </author>
+    <author>
+      <name>Alex Kang</name>
+    </author>
+    <author>
+      <name>Asim K Bera</name>
+    </author>
+    <author>
+      <name>Anthony P Green</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Indrek Kalvet; Jihun Jeung; Shilong Gao; Alessia C Andrews; Belinda B Wenke; Ross Smithson; Johnny Mendoza; Hannah Nguyen; Emily Joyce; Alex Kang; Asim K Bera; Anthony P Green; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Preprint date: 2026-11-16&lt;/p&gt;
+&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
+&lt;p&gt;The ability to precisely functionalize individual C-H bonds in complex organic molecules would transform synthetic strategies to produce essential chemicals. In nature, C-H oxidations are commonly achieved using metalloenzymes such as cytochrome P450s, however adapting these systems to achieve selective conversions of complex substrates requires extensive enzyme discovery and engineering campaigns. Here we show that selective C-H oxidation biocatalysts can be programmed computationally from minimal structural inputs comprising a Cys-ligated heme cofactor, catalytic side chains required for H 2 O 2 activation and heterolysis, and the target substrate precisely positioned adjacent to the resulting ferryl intermediate (Compound I). We designed heme hydroxylases for increasingly complex substrates, progressing from aromatic and aliphatic oxidations of fluorogenic model compounds to regiodivergent oxidation of estradiol at either the benzylic C6 (93% d.e.) or unactivated C16 (99% d.e.) positions. Crystal structures across all campaigns confirm the accuracy of the design pipeline. Together, these results establish a general framework for constructing selective heme hydroxylases around predefined substrates and reaction geometries, providing a path toward custom biocatalysts for site-selective C-H functionalizations.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.11.12.766315"&gt;pubmed (preprint) — DOI: 10.64898/2026.11.12.766315&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
@@ -14366,57 +14422,6 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-019-1432-8"&gt;pubmed (published) — DOI: 10.1038/s41586-019-1432-8&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-019-1432-8"&gt;Published version — DOI: 10.1038/s41586-019-1432-8&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <id>urn:uuid:bcc7240e-3551-5c76-bb2b-b962b0cdb020</id>
-    <title>Modular and tunable biological feedback control using a de novo protein switch.</title>
-    <published>2019-07-24T00:00:00Z</published>
-    <updated>2026-10-11T12:47:23Z</updated>
-    <link href="https://doi.org/10.1038/s41586-019-1425-7" rel="alternate" />
-    <category term="published" />
-    <author>
-      <name>Andrew H Ng</name>
-    </author>
-    <author>
-      <name>Taylor H Nguyen</name>
-    </author>
-    <author>
-      <name>Mariana Gómez-Schiavon</name>
-    </author>
-    <author>
-      <name>Galen Dods</name>
-    </author>
-    <author>
-      <name>Robert A Langan</name>
-    </author>
-    <author>
-      <name>Scott E Boyken</name>
-    </author>
-    <author>
-      <name>Jennifer A Samson</name>
-    </author>
-    <author>
-      <name>Lucas M Waldburger</name>
-    </author>
-    <author>
-      <name>John E Dueber</name>
-    </author>
-    <author>
-      <name>David Baker</name>
-    </author>
-    <author>
-      <name>Hana El-Samad</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Authors: Andrew H Ng; Taylor H Nguyen; Mariana Gómez-Schiavon; Galen Dods; Robert A Langan; Scott E Boyken; Jennifer A Samson; Lucas M Waldburger; John E Dueber; David Baker; Hana El-Samad&lt;/p&gt;
-&lt;p&gt;Sources: pubmed&lt;/p&gt;
-&lt;p&gt;Publication date: 2019-07-24&lt;/p&gt;
-&lt;p&gt;Journal: Nature&lt;/p&gt;
-&lt;p&gt;De novo-designed proteins1-3 hold great promise as building blocks for synthetic circuits, and can complement the use of engineered variants of natural proteins4-7. One such designer protein-degronLOCKR, which is based on &amp;#x27;latching orthogonal cage-key proteins&amp;#x27; (LOCKR) technology8-is a switch that degrades a protein of interest in vivo upon induction by a genetically encoded small peptide. Here we leverage the plug-and-play nature of degronLOCKR to implement feedback control of endogenous signalling pathways and synthetic gene circuits. We first generate synthetic negative and positive feedback in the yeast mating pathway by fusing degronLOCKR to endogenous signalling molecules, illustrating the ease with which this strategy can be used to rewire complex endogenous pathways. We next evaluate feedback control mediated by degronLOCKR on a synthetic gene circuit9, to quantify the feedback capabilities and operational range of the feedback control circuit. The designed nature of degronLOCKR proteins enables simple and rational modifications to tune feedback behaviour in both the synthetic circuit and the mating pathway. The ability to engineer feedback control into living cells represents an important milestone in achieving the full potential of synthetic biology10,11,12. More broadly, this work demonstrates the large and untapped potential of de novo design of proteins for generating tools that implement complex synthetic functionalities in cells for biotechnological and therapeutic applications.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-019-1425-7"&gt;pubmed (published) — DOI: 10.1038/s41586-019-1425-7&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-019-1425-7"&gt;Published version — DOI: 10.1038/s41586-019-1425-7&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
 </feed>

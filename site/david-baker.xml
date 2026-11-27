@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-11-27T01:43:27Z</updated>
+  <updated>2026-11-27T12:14:26Z</updated>
   <entry>
     <id>urn:uuid:7a38650e-4605-58b7-8107-a471c067f01c</id>
     <title>Atomic functional site scaffolding in biopolymers with RFdiffusion3.</title>
@@ -274,6 +274,62 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1021/jacs.6c15293"&gt;pubmed (published) — DOI: 10.1021/jacs.6c15293&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1021/jacs.6c15293"&gt;Published version — DOI: 10.1021/jacs.6c15293&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>urn:uuid:0d437358-ffe9-54eb-80c4-1f56748d64ec</id>
+    <title>De Novo Design of C-H Hydroxylation Enzymes with Programmed Selectivities.</title>
+    <published>2026-11-16T00:00:00Z</published>
+    <updated>2026-11-27T12:14:26Z</updated>
+    <link href="https://doi.org/10.64898/2026.11.12.766315" rel="alternate" />
+    <category term="preprint" />
+    <author>
+      <name>Indrek Kalvet</name>
+    </author>
+    <author>
+      <name>Jihun Jeung</name>
+    </author>
+    <author>
+      <name>Shilong Gao</name>
+    </author>
+    <author>
+      <name>Alessia C Andrews</name>
+    </author>
+    <author>
+      <name>Belinda B Wenke</name>
+    </author>
+    <author>
+      <name>Ross Smithson</name>
+    </author>
+    <author>
+      <name>Johnny Mendoza</name>
+    </author>
+    <author>
+      <name>Hannah Nguyen</name>
+    </author>
+    <author>
+      <name>Emily Joyce</name>
+    </author>
+    <author>
+      <name>Alex Kang</name>
+    </author>
+    <author>
+      <name>Asim K Bera</name>
+    </author>
+    <author>
+      <name>Anthony P Green</name>
+    </author>
+    <author>
+      <name>David Baker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Authors: Indrek Kalvet; Jihun Jeung; Shilong Gao; Alessia C Andrews; Belinda B Wenke; Ross Smithson; Johnny Mendoza; Hannah Nguyen; Emily Joyce; Alex Kang; Asim K Bera; Anthony P Green; David Baker&lt;/p&gt;
+&lt;p&gt;Sources: pubmed&lt;/p&gt;
+&lt;p&gt;Preprint date: 2026-11-16&lt;/p&gt;
+&lt;p&gt;Journal: bioRxiv : the preprint server for biology&lt;/p&gt;
+&lt;p&gt;The ability to precisely functionalize individual C-H bonds in complex organic molecules would transform synthetic strategies to produce essential chemicals. In nature, C-H oxidations are commonly achieved using metalloenzymes such as cytochrome P450s, however adapting these systems to achieve selective conversions of complex substrates requires extensive enzyme discovery and engineering campaigns. Here we show that selective C-H oxidation biocatalysts can be programmed computationally from minimal structural inputs comprising a Cys-ligated heme cofactor, catalytic side chains required for H 2 O 2 activation and heterolysis, and the target substrate precisely positioned adjacent to the resulting ferryl intermediate (Compound I). We designed heme hydroxylases for increasingly complex substrates, progressing from aromatic and aliphatic oxidations of fluorogenic model compounds to regiodivergent oxidation of estradiol at either the benzylic C6 (93% d.e.) or unactivated C16 (99% d.e.) positions. Crystal structures across all campaigns confirm the accuracy of the design pipeline. Together, these results establish a general framework for constructing selective heme hydroxylases around predefined substrates and reaction geometries, providing a path toward custom biocatalysts for site-selective C-H functionalizations.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.11.12.766315"&gt;pubmed (preprint) — DOI: 10.64898/2026.11.12.766315&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
@@ -14534,60 +14590,6 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-018-0802-y"&gt;pubmed (published) — DOI: 10.1038/s41586-018-0802-y&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.1038/s41586-018-0802-y"&gt;Published version — DOI: 10.1038/s41586-018-0802-y&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <id>urn:uuid:855d3286-8008-52c4-bc40-ba2d59f600d8</id>
-    <title>De novo design of a non-local β-sheet protein with high stability and accuracy.</title>
-    <published>2018-10-29T00:00:00Z</published>
-    <updated>2026-11-02T21:41:53Z</updated>
-    <link href="https://doi.org/10.1038/s41594-018-0141-6" rel="alternate" />
-    <category term="published" />
-    <author>
-      <name>Enrique Marcos</name>
-    </author>
-    <author>
-      <name>Tamuka M Chidyausiku</name>
-    </author>
-    <author>
-      <name>Andrew C McShan</name>
-    </author>
-    <author>
-      <name>Thomas Evangelidis</name>
-    </author>
-    <author>
-      <name>Santrupti Nerli</name>
-    </author>
-    <author>
-      <name>Lauren Carter</name>
-    </author>
-    <author>
-      <name>Lucas G Nivón</name>
-    </author>
-    <author>
-      <name>Audrey Davis</name>
-    </author>
-    <author>
-      <name>Gustav Oberdorfer</name>
-    </author>
-    <author>
-      <name>Konstantinos Tripsianes</name>
-    </author>
-    <author>
-      <name>Nikolaos G Sgourakis</name>
-    </author>
-    <author>
-      <name>David Baker</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Authors: Enrique Marcos; Tamuka M Chidyausiku; Andrew C McShan; Thomas Evangelidis; Santrupti Nerli; Lauren Carter; Lucas G Nivón; Audrey Davis; Gustav Oberdorfer; Konstantinos Tripsianes; Nikolaos G Sgourakis; David Baker&lt;/p&gt;
-&lt;p&gt;Sources: pubmed&lt;/p&gt;
-&lt;p&gt;Publication date: 2018-10-29&lt;/p&gt;
-&lt;p&gt;Journal: Nature structural &amp;amp; molecular biology&lt;/p&gt;
-&lt;p&gt;β-sheet proteins carry out critical functions in biology, and hence are attractive scaffolds for computational protein design. Despite this potential, de novo design of all-β-sheet proteins from first principles lags far behind the design of all-α or mixed-αβ domains owing to their non-local nature and the tendency of exposed β-strand edges to aggregate. Through study of loops connecting unpaired β-strands (β-arches), we have identified a series of structural relationships between loop geometry, side chain directionality and β-strand length that arise from hydrogen bonding and packing constraints on regular β-sheet structures. We use these rules to de novo design jellyroll structures with double-stranded β-helices formed by eight antiparallel β-strands. The nuclear magnetic resonance structure of a hyperthermostable design closely matched the computational model, demonstrating accurate control over the β-sheet structure and loop geometry. Our results open the door to the design of a broad range of non-local β-sheet protein structures.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41594-018-0141-6"&gt;pubmed (published) — DOI: 10.1038/s41594-018-0141-6&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41594-018-0141-6"&gt;Published version — DOI: 10.1038/s41594-018-0141-6&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
 </feed>
