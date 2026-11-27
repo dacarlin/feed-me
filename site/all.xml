@@ -7,7 +7,7 @@
   <author>
     <name>pubtracker</name>
   </author>
-  <updated>2026-11-27T12:14:26Z</updated>
+  <updated>2026-11-27T21:18:33Z</updated>
   <entry>
     <id>urn:uuid:7a38650e-4605-58b7-8107-a471c067f01c</id>
     <title>Atomic functional site scaffolding in biopolymers with RFdiffusion3.</title>
@@ -198,7 +198,7 @@
     <id>urn:uuid:a2b00ede-fba9-563b-895c-d09849d5fb39</id>
     <title>Crystal structure of the first de novo designed phosphotriesterase ZAPP-1</title>
     <published>2026-11-19T00:00:00Z</published>
-    <updated>2026-11-19T11:36:31Z</updated>
+    <updated>2026-11-27T21:18:33Z</updated>
     <link href="https://doi.org/10.64898/2026.11.17.767279" rel="alternate" />
     <category term="preprint" />
     <author>
@@ -224,11 +224,12 @@
     </author>
     <content type="html">&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Authors: Woodbury, S. M.; Kim, D.; Mendoza, J.; Kang, A.; Nguyen, H.; Bera, A. K.; Baker, D.&lt;/p&gt;
-&lt;p&gt;Sources: biorxiv&lt;/p&gt;
+&lt;p&gt;Sources: biorxiv, pubmed&lt;/p&gt;
 &lt;p&gt;Preprint date: 2026-11-19&lt;/p&gt;
 &lt;p&gt;Designing a de novo phosphotriesterase requires scaffolding a dinuclear metal center bound by six catalytic residues, including a post-translationally carbamylated lysine, in a pocket that must also bind a small, flexible organophosphate and orient it for hydrolysis. We recently met this challenge using RFdiffusion3 to design the first de novo phosphotriesterases, and biochemically characterized our first hit, ZAPP-1 [1]. Here we report two crystal structures of ZAPP-1 at 1.42 and 2.28 [A] resolution. The crystal structures are nearly identical to the design model scaffold (C RMSD = 0.69, 0.71, and 0.99 [A] for three copies across two independent crystals), and the higher-resolution crystal assembles the dinuclear Zn(II) site in the designed pocket with carbamylated K16. The catalytic residues are near the designed geometry but demonstrate flexibility across the structures, albeit mostly rotameric (C{beta} RMSD [≤] 0.8 [A] for both copies in form 1). AlphaFold3 predicts the designed catalytic conformation with substrate bound and the observed crystallographic deviations without it, suggesting an induced-fit mechanism upon substrate binding. Together with prior biochemical characterization, there is strong evidence that ZAPP-1 functions as designed, validating the high precision achievable with our RFdiffusion3 design pipeline, but the structures suggest that future design should better preorganize the active site. The ability to design experimentally accurate and increasingly sophisticated enzymes directly from the computer should enable a new future of programmable catalysis and chemistry.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.11.17.767279"&gt;biorxiv (preprint) — DOI: 10.64898/2026.11.17.767279&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.64898/2026.11.17.767279"&gt;pubmed (preprint) — DOI: 10.64898/2026.11.17.767279&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
